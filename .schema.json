@@ -1,0 +1,254 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$comment": "This document is a JSON Schema for the structure of the JSON data that will be used to generate the content of the Macmillan Chapters. $comment is used to add comments to the schema. The comments are not used for validation purposes.",
+  "type": "object",
+  "properties": {
+    "book": {
+      "type": "string",
+      "$comment": "This document is a JSON Schema for the structure of the JSON data that will be used to generate the content of the Macmillan Chapters."
+    },
+    "CEFRLevel": {
+      "type": "string"
+    },
+    "dialect": {
+      "type": "string"
+    },
+    "chapter": {
+      "type": "object",
+      "properties": {
+        "chapterUnit": {
+          "type": "integer"
+        },
+        "chapterTitle": {
+          "type": "string"
+        },
+        "chapterQuote": {
+          "type": "string"
+        },
+        "chapterFrontImage": {
+          "type": "string"
+        },
+        "chapterObjectives": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "sectionNumber": {
+                "type": "number"
+              },
+              "sectionTitle": {
+                "type": "string"
+              },
+              "sectionObjective": {
+                "type": "string"
+              },
+              "sectionSkills": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "skillType": {
+                      "type": "string"
+                    },
+                    "skillName": {
+                      "type": "string"
+                    },
+                    "skillTitle": {
+                      "type": "string"
+                    }
+                  },
+                  "required": ["skillType", "skillName", "skillTitle"]
+                }
+              },
+              "hasReading": {
+                "type": "boolean",
+                "$comment": "POSSIBLE VALUES = true or false with no quotes."
+              },
+              "GKU": {
+                "type": "string"
+              },
+              "sectionPart": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "partTitle": {
+                      "type": "string"
+                    },
+                    "partImage": {
+                      "type": "string"
+                    },
+                    "partSubTitle": {
+                      "type": ["string", "null"]
+                    },
+                    "sets": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "setMarker": {
+                            "type": "string"
+                          },
+                          "setHeading": {
+                            "type": "string"
+                          },
+                          "textImage": {
+                            "type": "string"
+                          },
+                          "setAudioNumber": {
+                            "type": ["number", "null"]
+                          },
+                          "setIgnore": {
+                            "type": "boolean",
+                            "$comment": "POSSIBLE VALUES = true or false with no quotes."
+                          },
+                          "textMode": {
+                            "type": "string"
+                          },
+                          "textParts": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "textTitle": {
+                                  "type": "string"
+                                },
+                                "textSubtitles": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "string"
+                                  }
+                                },
+                                "textContent": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "textParagraphOrdinal": {
+                                        "type": "integer"
+                                      },
+                                      "paragraphTitle": {
+                                        "type": ["string", "null"]
+                                      },
+                                      "paragraphSubtitle": {
+                                        "type": ["array", "null"],
+                                        "items": {
+                                          "type": "string"
+                                        }
+                                      },
+                                      "paragraphContent": {
+                                        "type": "array",
+                                        "items": {
+                                          "type": "string"
+                                        }
+                                      }
+                                    },
+                                    "required": ["textParagraphOrdinal", "paragraphContent"]
+                                  }
+                                }
+                              },
+                              "required": ["textTitle", "textSubtitles", "textContent"]
+                            }
+                          },
+                          "exerciseType": {
+                            "type": "string"
+                          },
+                          "exerciseInstruction": {
+                            "type": ["string", "null"]
+                          },
+                          "exerciseQuestion": {
+                            "type": "string"
+                          },
+                          "exerciseMaxAnswer": {
+                            "type": "string"
+                          },
+                          "exerciseMinAnswer": {
+                            "type": "string"
+                          },
+                          "LKUs": {
+                            "type": "array",
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "exercises": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "sentenceOrdinal": {
+                                  "type": "integer"
+                                },
+                                "exerciseQuestion": {
+                                  "type": "string"
+                                },
+                                "exerciseAnswer": {
+                                  "type": "string"
+                                },
+                                "exerciseMaxAnswer": {
+                                  "type": "string"
+                                },
+                                "exerciseMinAnswer": {
+                                  "type": "string"
+                                },
+                                "LKUs": {
+                                  "type": ["array", "string"],
+                                  "items": {
+                                    "type": "string"
+                                  }
+                                },
+                                "sentenceAnswerOptions": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "string"
+                                  }
+                                },
+                                "context": {
+                                  "type": "string"
+                                }
+                              },
+                              "required": ["sentenceOrdinal", "exerciseQuestion", "exerciseAnswer", "LKUs"]
+                            }
+                          },
+                          "explanationBox": {
+                            "type": "array",
+                            "items": {
+                              "type": "object",
+                              "properties": {
+                                "explanationTitle": {
+                                  "type": "string"
+                                },
+                                "explanationContent": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "string"
+                                  }
+                                }
+                              },
+                              "required": ["explanationTitle", "explanationContent"]
+                            }
+                          }
+                        },
+                        "required": ["setMarker", "setHeading", "textParts", "exerciseType"]
+                      }
+                    }
+                  },
+                  "required": ["partTitle", "partImage", "sets"]
+                }
+              }
+            },
+            "required": ["sectionNumber", "sectionTitle", "sectionObjective", "sectionSkills", "hasReading"]
+          }
+        }
+      },
+      "required": ["chapterUnit", "chapterTitle", "chapterQuote", "chapterFrontImage", "chapterObjectives", "sections"]
+    }
+  },
+  "required": ["book", "CEFRLevel", "dialect", "chapter"]
+}

@@ -1,0 +1,398 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 1,
+		"chapterTitle": "Nice to meet you!",
+		"chapterQuote": "The language of friendship is not words but meanings. Henry David Thoreau",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about where you're from'",
+			"introduce a friend",
+			"greet people",
+			"fill in a form"
+		],
+		"sections": [
+			{
+				"sectionNumber": 1.1,
+				"sectionTitle": "Say hello",
+				"sectionObjective": "Talk about where you're from",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "countries"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "syllables and syllable stress"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "numbers 0-10"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present simple be: I, you"
+					}
+				],
+				"hasReading": false
+			},
+			{
+				"sectionNumber": 1.2,
+				"sectionTitle": "What’s your job?",
+				"sectionObjective": "Introduce a friend",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "jobs"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "identifying personal pronouns"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present be: he, she, it"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "contractions with be"
+					}
+				],
+				"hasReading": true,
+				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"textMode": "full article",
+								"textParts": [
+									{
+										"textTitle": "New job!",
+										"textSubtitle": [
+											"To: fashionista@mailhub.com",
+											"From: em173@design.nett"
+										],
+										"textContent": [
+											{
+												"textParagraphOrdinal": 1,
+												"paragraphTitle": null,
+												"paragraphSubtitle": null,
+												"paragraphContent": [
+													"Hi Emma,",
+													"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
+													"Keira"
+												]
+											},
+											{
+												"textParagraphOrdinal": 2,
+												"paragraphTitle": "RE: New job!",
+												"paragraphSubtitle": [
+													"To: em173@design.nett",
+													"From: fashionista@mailhub.com"
+												],
+												"paragraphContent": [
+													"Hi Keira,",
+													"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
+												]
+											},
+											{
+												"textParagraphOrdinal": 3,
+												"paragraphTitle": null,
+												"paragraphSubtitle": null,
+												"paragraphContent": [
+													"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
+													"How are you?",
+													"Emma",
+													"P.S. Here’s a photo of me in my new job as a designer."
+												]
+											}
+										]
+									}
+								],
+								"exerciseType": "highlight",
+								"exerciseInstruction": null,
+								"exerciseQuestion": "Read the emails. What is Emma’s job?",
+								"exerciseMaxAnswer": "Here’s a photo of me in my new job as a designer.",
+								"exerciseMinAnswer": "a designer.",
+								"LKUs": [
+									"job",
+									"designer"
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": "false",
+								"textMode": "full article",
+								"textParts": [
+									{
+										"textTitle": "New job!",
+										"textSubtitle": [
+											"To: fashionista@mailhub.com",
+											"From: em173@design.nett"
+										],
+										"textContent": [
+											{
+												"textParagraphOrdinal": 1,
+												"paragraphTitle": null,
+												"paragraphSubtitle": null,
+												"paragraphContent": [
+													"Hi Emma,",
+													"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
+													"Keira"
+												]
+											},
+											{
+												"textParagraphOrdinal": 2,
+												"paragraphTitle": "RE: New job!",
+												"paragraphSubtitle": [
+													"To: em173@design.nett",
+													"From: fashionista@mailhub.com"
+												],
+												"paragraphContent": [
+													"Hi Keira,",
+													"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
+												]
+											},
+											{
+												"textParagraphOrdinal": 3,
+												"paragraphTitle": null,
+												"paragraphSubtitle": null,
+												"paragraphContent": [
+													"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
+													"How are you?",
+													"Emma",
+													"P.S. Here’s a photo of me in my new job as a designer."
+												]
+											}
+										]
+									}
+								],
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the emails again. Choose the correct answer.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Who is in a new job?",
+										"exerciseAnswer": "Emma",
+										"LKUs": [
+											"job"
+										],
+										"sentenceAnswerOptions": [
+											"Keira",
+											"Emma"
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "Is she on a small or big team?",
+										"exerciseAnswer": "small",
+										"LKUs": [
+											"small",
+											"team"
+										],
+										"sentenceAnswerOptions": [
+											"small",
+											"big"
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "Is her manager friendly?",
+										"exerciseAnswer": "Her manager isn't very friendly.",
+										"LKUs": [
+											"manager",
+											"friendly"
+										],
+										"sentenceAnswerOptions": [
+											"Her manager isn't very friendly.",
+											"Her manager is very friendly."
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "Where is her manager from?",
+										"exerciseAnswer": "Brazil",
+										"LKUs": [
+											"manager",
+											"from"
+										],
+										"sentenceAnswerOptions": [
+											"Brazil",
+											"Canada"
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "Is Anton new?",
+										"exerciseAnswer": "Anton is new.",
+										"LKUs": "new",
+										"sentenceAnswerOptions": [
+											"Anton is new.",
+											"Anton isn't new."
+										],
+										"context": "textParts"
+									}
+								],
+								"explanationBox": [
+									{
+										"explanationTitle": "Identifying personal pronouns",
+										"explanationContent": [
+											"Pronouns talk about a noun.",
+											"My colleague Anton is nice. He’s newtoday too."
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAILED UNDERSTANDING",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": "false",
+								"textMode": "full article",
+								"textParts": [
+									{
+										"textTitle": "New job!",
+										"textSubtitles": [
+											"To: fashionista@mailhub.com",
+											"From: em173@design.nett"
+										],
+										"textContent": [
+											{
+												"textParagraphOrdinal": 1,
+												"paragraphTitle": null,
+												"paragraphSubtitle": null,
+												"paragraphContent": [
+													"Hi Emma,",
+													"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
+													"Keira"
+												]
+											},
+											{
+												"textParagraphOrdinal": 2,
+												"paragraphTitle": "RE: New job!",
+												"paragraphSubtitle": [
+													"To: em173@design.nett",
+													"From: fashionista@mailhub.com"
+												],
+												"paragraphContent": [
+													"Hi Keira,",
+													"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
+												]
+											},
+											{
+												"textParagraphOrdinal": 3,
+												"paragraphTitle": null,
+												"paragraphSubtitle": null,
+												"paragraphContent": [
+													"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
+													"How are you?",
+													"Emma",
+													"P.S. Here’s a photo of me in my new job as a designer."
+												]
+											}
+										]
+									}
+								],
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "What do the words in bold refer to?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "How’s your new job? Is it fun?",
+										"wordinBold": "it",
+										"exerciseAnswer": "job",
+										"LKUs": [
+											"job",
+											"it"
+										],
+										"sentenceAnswerOptions": [
+											"new",
+											"job",
+											"your",
+											"fun"
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "I’m on the design team. It’s a small team with five people.",
+										"wordinBold": "It",
+										"exerciseAnswer": "team",
+										"LKUs": [
+											"team",
+											"it"
+										],
+										"sentenceAnswerOptions": [
+											"team",
+											"design",
+											"small",
+											"people"
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "My manager isn’t very friendly, but she’s OK.",
+										"wordinBold": "she",
+										"exerciseAnswer": "manager",
+										"LKUs": [
+											"manager",
+											"she"
+										],
+										"sentenceAnswerOptions": [
+											"manager",
+											"friendly",
+											"very",
+											"my"
+										],
+										"context": "textParts"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "Her name is Amanda and she’s from Brazil.",
+										"wordinBold": "she",
+										"exerciseAnswer": "Amanda",
+										"LKUs": "she",
+										"sentenceAnswerOptions": [
+											"Amanda",
+											"name",
+											"her",
+											"Brazil"
+										],
+										"context": "textParts"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

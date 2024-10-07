@@ -1,0 +1,13 @@
+- "book"."unit"."chapter"."sections"."hasReading" should be boolean (true/false);
+
+- "setIgnore": "false", should be "setIgnore": false, boolean values should not be delimited with "";
+
+- "textSubtitle": [ should be "textSubtitles": [ let's use pluran when using and array to store multiple values.
+
+- "setMarker": "A", move the exercise related data into exercises array of objects
+
+-
+  "exerciseMaxAnswer": "Here’s a photo of me in my new job as a designer.",
+  "exerciseMinAnswer": "a designer.",
+  "exerciseAnswer": "a designer.", (we should always have an exerciseAnswer (the best answer?))
+
