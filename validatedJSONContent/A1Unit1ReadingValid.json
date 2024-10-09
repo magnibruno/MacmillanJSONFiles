@@ -18,6 +18,7 @@
 				"sectionNumber": 1.1,
 				"sectionTitle": "Say hello",
 				"sectionObjective": "Talk about where you're from",
+				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
 				"sectionSkills": [
 					{
 						"skillType": "V",
@@ -46,6 +47,7 @@
 				"sectionNumber": 1.2,
 				"sectionTitle": "What’s your job?",
 				"sectionObjective": "Introduce a friend",
+				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
 				"sectionSkills": [
 					{
 						"skillType": "V",
@@ -69,73 +71,67 @@
 					}
 				],
 				"hasReading": true,
-				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
 				"sectionPart": [
 					{
 						"partTitle": "READING",
 						"partImage": "",
 						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle":  "New job!",
+										"paragraphSubtitles": [
+											"To: fashionista@mailhub.com",
+											"From: em173@design.nett"
+										],
+										"paragraphContents": [
+											"Hi Emma,",
+											"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
+											"Keira"
+										]
+									},
+									{
+										"paragraphOrdinal": 2,
+										"paragraphTitle": "RE: New job!",
+										"paragraphSubtitles": [
+											"To: em173@design.nett",
+											"From: fashionista@mailhub.com"
+										],
+										"paragraphContents": [
+											"Hi Keira,",
+											"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
+										]
+									},
+									{
+										"paragraphOrdinal": 3,
+										"paragraphTitle": null,
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
+											"How are you?",
+											"Emma",
+											"P.S. Here’s a photo of me in my new job as a designer."
+										]
+									}
+						],
 						"sets": [
 							{
 								"setMarker": "A",
 								"setHeading": "READ FOR GIST",
 								"textImage": "",
 								"setAudioNumber": null,
-								"setIgnore": false,
-								"textMode": "full article",
-								"textParts": [
-									{
-										"textTitle": "New job!",
-										"textSubtitles": [
-											"To: fashionista@mailhub.com",
-											"From: em173@design.nett"
-										],
-										"textContent": [
-											{
-												"textParagraphOrdinal": 1,
-												"paragraphTitle": null,
-												"paragraphSubtitle": null,
-												"paragraphContent": [
-													"Hi Emma,",
-													"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
-													"Keira"
-												]
-											},
-											{
-												"textParagraphOrdinal": 2,
-												"paragraphTitle": "RE: New job!",
-												"paragraphSubtitle": [
-													"To: em173@design.nett",
-													"From: fashionista@mailhub.com"
-												],
-												"paragraphContent": [
-													"Hi Keira,",
-													"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
-												]
-											},
-											{
-												"textParagraphOrdinal": 3,
-												"paragraphTitle": null,
-												"paragraphSubtitle": null,
-												"paragraphContent": [
-													"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
-													"How are you?",
-													"Emma",
-													"P.S. Here’s a photo of me in my new job as a designer."
-												]
-											}
-										]
-									}
-								],
+								"setIgnore": false,							
 								"exerciseType": "highlight",
 								"exerciseInstruction": "Read the emails.",
 								"exercises": [
 									{
 										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "What is Emma’s new job?",
 										"exerciseMaxAnswer": "Here’s a photo of me in my new job as a designer.",
 										"exerciseMinAnswer": "a designer.",
-										"exerciseAnswer": "a designer.",
+										"exerciseAnswers": null,
 										"LKUs": [
 											"job",
 											"designer"
@@ -149,58 +145,16 @@
 								"textImage": "",
 								"setAudioNumber": null,
 								"setIgnore": false,
-								"textMode": "full article",
-								"textParts": [
-									{
-										"textTitle": "New job!",
-										"textSubtitles": [
-											"To: fashionista@mailhub.com",
-											"From: em173@design.nett"
-										],
-										"textContent": [
-											{
-												"textParagraphOrdinal": 1,
-												"paragraphTitle": null,
-												"paragraphSubtitle": null,
-												"paragraphContent": [
-													"Hi Emma,",
-													"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
-													"Keira"
-												]
-											},
-											{
-												"textParagraphOrdinal": 2,
-												"paragraphTitle": "RE: New job!",
-												"paragraphSubtitle": [
-													"To: em173@design.nett",
-													"From: fashionista@mailhub.com"
-												],
-												"paragraphContent": [
-													"Hi Keira,",
-													"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
-												]
-											},
-											{
-												"textParagraphOrdinal": 3,
-												"paragraphTitle": null,
-												"paragraphSubtitle": null,
-												"paragraphContent": [
-													"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
-													"How are you?",
-													"Emma",
-													"P.S. Here’s a photo of me in my new job as a designer."
-												]
-											}
-										]
-									}
-								],
 								"exerciseType": "multiple choice",
 								"exerciseInstruction": "Read the emails again. Choose the correct answer.",
 								"exercises": [
 									{
 										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "Who is in a new job?",
-										"exerciseAnswer": "Emma",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "Emma",
 										"LKUs": [
 											"job"
 										],
@@ -208,12 +162,15 @@
 											"Keira",
 											"Emma"
 										],
-										"context": "textParts"
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "Is she on a small or big team?",
-										"exerciseAnswer": "small",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "small",
 										"LKUs": [
 											"small",
 											"team"
@@ -222,12 +179,15 @@
 											"small",
 											"big"
 										],
-										"context": "textParts"
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "Is her manager friendly?",
-										"exerciseAnswer": "Her manager isn't very friendly.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "Her manager isn't very friendly.",
 										"LKUs": [
 											"manager",
 											"friendly"
@@ -236,12 +196,15 @@
 											"Her manager isn't very friendly.",
 											"Her manager is very friendly."
 										],
-										"context": "textParts"
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "Where is her manager from?",
-										"exerciseAnswer": "Brazil",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "Brazil",
 										"LKUs": [
 											"manager",
 											"from"
@@ -250,18 +213,21 @@
 											"Brazil",
 											"Canada"
 										],
-										"context": "textParts"
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "Is Anton new?",
-										"exerciseAnswer": "Anton is new.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "Anton is new.",
 										"LKUs": "new",
 										"sentenceAnswerOptions": [
 											"Anton is new.",
 											"Anton isn't new."
 										],
-										"context": "textParts"
+										"context": "textContents"
 									}
 								],
 								"explanationBox": [
@@ -279,52 +245,7 @@
 								"setHeading": "READ FOR DETAILED UNDERSTANDING",
 								"textImage": "",
 								"setAudioNumber": null,
-								"setIgnore": false,
-								"textMode": "full article",
-								"textParts": [
-									{
-										"textTitle": "New job!",
-										"textSubtitles": [
-											"To: fashionista@mailhub.com",
-											"From: em173@design.nett"
-										],
-										"textContent": [
-											{
-												"textParagraphOrdinal": 1,
-												"paragraphTitle": null,
-												"paragraphSubtitle": null,
-												"paragraphContent": [
-													"Hi Emma,",
-													"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
-													"Keira"
-												]
-											},
-											{
-												"textParagraphOrdinal": 2,
-												"paragraphTitle": "RE: New job!",
-												"paragraphSubtitle": [
-													"To: em173@design.nett",
-													"From: fashionista@mailhub.com"
-												],
-												"paragraphContent": [
-													"Hi Keira,",
-													"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
-												]
-											},
-											{
-												"textParagraphOrdinal": 3,
-												"paragraphTitle": null,
-												"paragraphSubtitle": null,
-												"paragraphContent": [
-													"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
-													"How are you?",
-													"Emma",
-													"P.S. Here’s a photo of me in my new job as a designer."
-												]
-											}
-										]
-									}
-								],
+								"setIgnore": false,								
 								"exerciseType": "multiple choice",
 								"exerciseInstruction": "What do the words in bold refer to?",
 								"exercises": [
@@ -332,7 +253,9 @@
 										"sentenceOrdinal": 1,
 										"exerciseQuestion": "How’s your new job? Is it fun?",
 										"wordinBold": "it",
-										"exerciseAnswer": "job",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "job",
 										"LKUs": [
 											"job",
 											"it"
@@ -343,13 +266,16 @@
 											"your",
 											"fun"
 										],
-										"context": "textParts"
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "I’m on the design team. It’s a small team with five people.",
 										"wordinBold": "It",
-										"exerciseAnswer": "team",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "team",
 										"LKUs": [
 											"team",
 											"it"
@@ -360,13 +286,16 @@
 											"small",
 											"people"
 										],
-										"context": "textParts"
+										"context": "textContet"
 									},
 									{
 										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "My manager isn’t very friendly, but she’s OK.",
 										"wordinBold": "she",
-										"exerciseAnswer": "manager",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "manager",
 										"LKUs": [
 											"manager",
 											"she"
@@ -377,13 +306,16 @@
 											"very",
 											"my"
 										],
-										"context": "textParts"
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
 										"exerciseQuestion": "Her name is Amanda and she’s from Brazil.",
 										"wordinBold": "she",
-										"exerciseAnswer": "Amanda",
+										"exerciseAnswers": "Amanda",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
 										"LKUs": "she",
 										"sentenceAnswerOptions": [
 											"Amanda",
@@ -391,7 +323,7 @@
 											"her",
 											"Brazil"
 										],
-										"context": "textParts"
+										"context": "textContents"
 									}
 								]
 							}
