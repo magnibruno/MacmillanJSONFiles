@@ -1,0 +1,17 @@
+# Magnilearn Macmillan JSON Files
+
+This project is designed to validate Macmillan JSON files to import into Magnilearn Database
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+- You have installed the latest version of NodeJS - LTS (long time support) (https://nodejs.org/en)
+- You have a basic understanding of JSON.
+
+## How to validate a JSON
+
+- Put the JSON file into the folder "toValidateJSONContent". ATTENTION, put one file per time.
+- Open a command prompt in the folder of the validator (CMD or powershell on windows, Command on Mac, Bash on Linux)
+- Execute the command: "node validate.js" (without quotes)
+- If the JSON is valid, a message "JSON is valid" will be displayed in the terminal window. The file will be moved from the foler "toValidateJSONContent" into the folder validatedJSONContent with the extension "filename.valid.json".
+- If the JSON is invalid, the validator will give the error to be checked.
