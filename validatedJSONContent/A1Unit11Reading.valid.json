@@ -1,0 +1,261 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 11,
+		"chapterTitle": "Having fun",
+		"chapterQuote": "Happiness depends upon ourselves. Aristotle",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about things you like doing",
+			"talk about favorite sports, music and movies",
+			"make and respond to suggestions",
+			"write a personal profile"
+		],
+		"sections": [
+			{
+				"sectionNumber": 11.1,
+				"sectionTitle": "In or out?",
+				"sectionObjective": "Talk about things you like doing",
+				"GKU": "Language_Hub_A1_Unit11_Lesson11_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "recreational activities"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "verb + -ing /ŋ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "like/love/hate/enjoy + verb + -ing"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "Is STAYING IN the new GOING OUT?",
+								"paragraphSubtitles": null,
+								"paragraphContents": ["There are a lot of things you can do to relax on the weekend. You can go to a restaurant or the movie theater. Or you can go to a concert or maybe a soccer game. Did you do any of these things last weekend? For a lot of people, the answer is no. They don’t like going out. They just want to stay at home. We talked to three people to find out why."]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "Why do you like staying in?",
+								"paragraphSubtitles": ["Agnes"],
+								"paragraphContents": ["I love movies. I watch them every weekend, but I don’t like going to the movie theater. I don’t like the food they sell there. I love getting takeout food, spending time with my family and watching TV and movies at home."]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["Lee"],
+								"paragraphContents": ["I’m a soccer fan, but I don’t go to games. You can watch games from all over the world on TV. My friends come to my house, and we chat and eat snacks, and we enjoy watching sports together. It’s a great way to spend time with friends."]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["Frieda"],
+								"paragraphContents": ["My favorite type of music is rock. I listen to it at home, and in my car. My husband loves going to concerts and he goes out all the time. But I hate going to concerts – they’re expensive and there are too many people! I like staying at home and listening to my favorite music really loud!"]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Ask your partner about last weekend.",
+								"exercises": null
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "PREPARE TO READ",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Read the headline of Is staying in the new going out? and look at the pictures. Match the underlined words with the pictures (a and b).",
+								"exercises": null
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the first paragraph of the article. Choose the correct options to complete the summary.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "There 1 are / aren’t a lot of things that people do to relax 2 in the week / on the weekend. The article says people these days mostly want to 3stay in / go out.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": [
+											"be",
+											"weekend",
+											"stay in"
+										],
+										"sentenceAnswerOptions": [
+											"are, at the weekend, stay in",
+											"aren't, in the week, go out"
+										],
+										"context": "textContents"
+									}														
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the rest of the article. Choose the correct phrase to fill in the blanks in the text.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": null,
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": [
+											"listen",
+											"watch",
+											"games"
+										],
+										"LKUs": [
+											"listen",
+											"watch",
+											"game"
+										],										
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "READ FOR SPECIFIC INFORMATION",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the article again and choose the correct options.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Agnes doesn’t go to the movie theater because …",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "she doesn’t like the food.",
+										"LKUs": [
+											"like",
+											"food"
+										],	
+										"sentenceAnswerOptions": [
+											"it’s expensive.",
+											"she doesn’t live near a movie theater.",
+											"she doesn’t like the food."
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Lee doesn’t go to games because …",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["he can watch a lot of sports at home."],
+										"LKUs": [
+											"watch",
+											"sports"
+										],	
+										"sentenceAnswerOptions": [
+											"he can watch a lot of sports at home.",
+											"they’re expensive.",
+											"he doesn’t like the snacks."
+										],										
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Frieda doesn’t go to concerts because …",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["it costs a lot of money."],
+										"LKUs": [
+											"cost",
+											"money"
+										],	
+										"sentenceAnswerOptions": [
+											"it costs a lot of money.",
+											"she doesn’t like music.",
+											"she doesn’t like loud music."
+										],										
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "F",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Are you similar to Agnes, Lee or Frieda? Give examples.",
+								"exercises": null
+							}	
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 11.2,
+				"sectionTitle": "Super fans",
+				"sectionObjective": "Talk about favorite sports, music and movies",
+				"GKU": "Language_Hub_A1_Unit11_Lesson11_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "entertainment"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ʊ/ and /u:/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "object pronouns"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "listening for opinions"
+					}
+				],
+				"hasReading": false
+			}	
+		]
+	}
+}

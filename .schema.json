@@ -82,7 +82,7 @@
                       "type": "string"
                     },
                     "partImage": {
-                      "type": "string"
+                      "type": ["string", "null"]
                     },
                     "partSubTitle": {
                       "type": ["string", "null"]
@@ -104,7 +104,7 @@
                           "paragraphSubtitles": {
                             "type": ["array", "null"],
                             "items": {
-                              "type": "string"
+                              "type": ["string", "null"]
                             }
                           },
                           "paragraphContents": {
@@ -129,7 +129,7 @@
                             "type": "string"
                           },
                           "textImage": {
-                            "type": "string"
+                            "type": ["string", "null"]
                           },
                           "setAudioNumber": {
                             "type": ["number", "null"]
@@ -139,7 +139,7 @@
                             "$comment": "POSSIBLE VALUES = true or false with no quotes."
                           },                          
                           "exerciseType": {
-                            "type": "string"
+                            "type": ["string", "null"]
                           },
                           "exerciseInstruction": {
                             "type": ["string", "null"]
@@ -154,13 +154,13 @@
                             "type": "string"
                           },
                           "LKUs": {
-                            "type": "array",
+                            "type": ["array", "string", "null"],
                             "items": {
                               "type": "string"
                             }
                           },
                           "exercises": {
-                            "type": "array",
+                            "type": ["array", "null"],
                             "items": {
                               "type": "object",
                               "properties": {
@@ -168,7 +168,7 @@
                                   "type": "integer"
                                 },
                                 "exerciseQuestion": {
-                                  "type": "string"
+                                  "type": ["string", "null"]
                                 },
                                 "exerciseAnswers": {
                                   "type": ["array", "string", "null"],
@@ -183,7 +183,7 @@
                                   "type": ["string", "null"]
                                 },
                                 "LKUs": {
-                                  "type": ["array", "string"],
+                                  "type": ["array", "string", "null"],
                                   "items": {
                                     "type": "string"
                                   }

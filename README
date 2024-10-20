@@ -6,7 +6,9 @@ This project is designed to validate Macmillan JSON files to import into Magnile
 
 Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of NodeJS - LTS (long time support) (https://nodejs.org/en)
+  - NodeJS on Mac (https://www.youtube.com/watch?v=Imj8PgG3bZU)
 - You have a basic understanding of JSON.
+- Basic understanding on how to navigate in Windows\Linux\Mac terminal(Bash or CMD).
 
 ## How to validate a JSON
 
@@ -15,3 +17,6 @@ Before you begin, ensure you have met the following requirements:
 - Execute the command: "node validate.js" (without quotes)
 - If the JSON is valid, a message "JSON is valid" will be displayed in the terminal window. The file will be moved from the foler "toValidateJSONContent" into the folder validatedJSONContent with the extension "filename.valid.json".
 - If the JSON is invalid, the validator will give the error to be checked.
+
+## Utils use filepastebin to share the zip file
+- www.filepastebin.com

@@ -1,0 +1,271 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 3,
+		"chapterTitle": "My life",
+		"chapterQuote": "Our life is what our thoughts make it. Marcus Aurelius",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe everyday objects",
+			"talk about your family",
+			"describe people",
+			"write a social media post"
+		],
+		"sections": [
+			{
+				"sectionNumber": 3.1,
+				"sectionTitle": "That’s my coat",
+				"sectionObjective": "Describe everyday objects",
+				"GKU": "Language_Hub_A1_Unit3_Lesson3_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "objects and colors"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/s/, /z/ and /ɪz/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "a/an and plural nouns; this, that, these, those"
+					}
+				],
+				"hasReading": false
+			},
+			{
+				"sectionNumber": 3.2,
+				"sectionTitle": "I have two sisters",
+				"sectionObjective": "Talk about your family",
+				"GKU": "Language_Hub_A1_Unit3_Lesson3_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "family"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "finding key information"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "have/has"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "schwa /ə/"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "100 YEARS YOUNG!",
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Local woman celebrates her 100th birthday with her family."]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Lilly Wenders is 100 years old this week, and there’s a family party to celebrate. ‘A lot of my family lives in the same town as me,’ says Lilly. 'I'm very lucky.'"]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Lilly is not the oldest person in her family. She has two sisters. Agatha is 103 and Hattie is 106."]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Lilly has two children, Sally and Emily, and three grandchildren: Katrina, Olivia and Clara. ‘I don’t have a son or a grandson,’ says Lilly. ‘My children and my grandchildren are all women.’ ‘Do you have any men in your family?’ I ask Lilly. ‘Yes, I do,’ says Lilly. ‘I have a husband, Arthur. It’s his birthday this week, too, but he’s only 84!’"]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "PREPARE TO READ",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the picture. Choose three words from the box to describe it.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": null,
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": [
+											"sisters",
+											"children",
+											"son",
+											"husband"
+										],
+										"LKUs": [
+											"sister",
+											"child",
+											"son",
+											"husband"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "SCAN FOR INFORMATION",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the article quickly. Match the people (1–4) with their ages (a–d).",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "How old is Lily?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "100",
+										"LKUs": ["how old"],
+										"sentenceAnswerOptions": [
+											"100",
+											"84",
+											"103",
+											"106"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "How old is Agatha?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "103",
+										"LKUs": ["how old"],
+										"sentenceAnswerOptions": [
+											"100",
+											"84",
+											"103",
+											"106"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "How old is Hattie?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "106",
+										"LKUs": ["how old"],
+										"sentenceAnswerOptions": [
+											"100",
+											"84",
+											"103",
+											"106"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "How old is Arthur?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "84",
+										"LKUs": ["how old"],
+										"sentenceAnswerOptions": [
+											"100",
+											"84",
+											"103",
+											"106"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the article again. Complete the statements with the underlined words in the article.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": null,
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": [
+											"birthday",
+											"town",
+											"women"
+										],
+										"LKUs": [
+											"birthday",
+											"town",
+											"woman"
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Do you know anyone who is 100 years old?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Do you live in the same town/city as your family?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

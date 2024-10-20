@@ -1,0 +1,276 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 10,
+		"chapterTitle": "It's History",
+		"chapterQuote": "The only thing we learn from history is that we learn nothing from history. Friedrich Hegel",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about past events",
+			"talk about past experiences",
+			"talk about what you did on the weekend",
+			"write a paragraph about a past event"
+		],
+		"sections": [
+			{
+				"sectionNumber": 10.1,
+				"sectionTitle": "Precious finds",
+				"sectionObjective": "Talk about past events",
+				"GKU": "Language_Hub_A1_Unit10_Lesson10_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "time phrases"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ɔ:/ and /oʊ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple past: irregular verbs"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "A HISTORY OF THE WORLD IN 100 OBJECTS",
+								"paragraphSubtitles": null,
+								"paragraphContents": ["The British Museum in London has a lot of important objects from the past. A few years ago, the museum director started an interesting project. He chose 100 objects from the museum to tell a history of the world. Here are just four of the objects. What do they tell us about the past?"]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "HAND AXE",
+								"paragraphSubtitles": ["1.2–1.4 million years old, Olduvai Gorge, Tanzania"],
+								"paragraphContents": ["Scientists found many of these hand axes in different regions of Africa. The first humans didn’t have metal. They made these axes from stone and used them to cut meat and wood."]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": "GOLD MODEL CHARIOT",
+								"paragraphSubtitles": ["5th–4th century BCE, Tajikistan"],
+								"paragraphContents": ["The Persians built many new roads across their country. The man in this model went from town to town in his chariot. He collected money for the king and carried important messages for people."]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "TWO-HEADED SNAKE",
+								"paragraphSubtitles": ["15th–16th century, Aztec Empire, Mexico"],
+								"paragraphContents": ["600 years ago, the Aztec people gave this bright blue snake to the Aztec Emperor. It took a lot of time and skill to make this beautiful object. We think the Emperor wore it to show how important he was."]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": "BANKNOTE",
+								"paragraphSubtitles": ["CE 135, China"],
+								"paragraphContents": ["In the 2nd century, Chinese people bought and sold things using these banknotes. They made banknotes from paper. Before this, people used coins. This banknote was the same as 1,000 coins. The Emperor’s name was on these notes to show that they were real."]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "PREDICT",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Look at the pictures above. Which object do you think is most interesting?",
+								"exercises": null
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the introduction to A history of the world in 100 objects. Choose the best option to complete the summary.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "The museum director chose these objects because …",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "3",
+										"LKUs": ["past"],
+										"sentenceAnswerOptions": [
+											"they show us what life was like in the past.",
+											"they tell us about important events.",
+											"they belonged to important people."
+										],
+										"context": "textImage"
+									}														
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR MAIN IDEA",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read the text and match each sentence with an object from the text.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "This was the first kind of paper money.",
+										"exerciseMinAnswer": "banknotes",
+										"exerciseMaxAnswer": "They made banknotes from paper.",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"paper",
+											"money"
+										],										
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "People used this to cut things.",
+										"exerciseMinAnswer": "axes",
+										"exerciseMaxAnswer": "They made these axes from stone and used them to cut meat and wood.",
+										"exerciseAnswers": null,
+										"LKUs": ["cut"],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "They made it for an important person.",
+										"exerciseMinAnswer": "snake",
+										"exerciseMaxAnswer": "600 years ago, the Aztec people gave this bright blue snake to the Aztec Emperor.",
+										"exerciseAnswers": null,
+										"LKUs": ["important"],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "This was a way to travel around the country.",
+										"exerciseMinAnswer": "chariot",
+										"exerciseMaxAnswer": "The man in this model went from town to town in his chariot.",
+										"exerciseAnswers": null,
+										"LKUs": ["travel"],
+										"context": "textContents"
+									}									
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Ask and answer questions about each object.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Where is it from?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "How old is it?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "What is it for?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Discuss the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Which objects are beautiful? Which are useful?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Which objects do you use today?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 10.2,
+				"sectionTitle": "Family treasures",
+				"sectionObjective": "Talk about past experiences",
+				"GKU": "Language_Hub_A1_Unit10_Lesson10_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "life events"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "final consonant /t/ and /d/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple past questions"
+					},
+					{
+						"skillType": "s",
+						"skillName": "Listening",
+						"skillTitle": "identifying reasons"
+					}
+				],
+				"hasReading": false
+			}	
+		]
+	}
+}

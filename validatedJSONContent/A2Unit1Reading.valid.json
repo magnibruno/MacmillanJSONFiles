@@ -1,0 +1,300 @@
+{
+	"book": "American Language Hub",
+	"CEFRLevel": "B2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 1,
+		"chapterTitle": "RELATIONSHIPS",
+		"chapterQuote": "My best friend is the one who brings out the best in me. Henry Ford",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"find out about someone new", 
+			"talk about different types of people", 
+			"greet people and give personal information,make introductions",
+			"write information about yourself"
+		],
+		"sections": [
+			{
+				"sectionNumber": 1.2,
+				"sectionTitle": "Blogs and bloggers",
+				"sectionObjective": "Talk about different types of people",
+				"GKU": "Language_Hub_A2_Unit1_Lesson1.2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "types of people",
+						"skillTitle": ""
+					},
+					{
+						"skillType": "P",
+						"skillName": "using a dictionary",
+						"skillTitle": ""
+					},
+					{
+						"skillType": "G",
+						"skillName": "frequency words and phrases",
+						"skillTitle": ""
+					}
+				],			
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle":"A Work in groups. Discuss the questions",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "null",
+								"paragraphSubtitles": [""],
+							    "paragraphContents": ["Which websites do you visit most often and why?"]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Which blogs, vlogs (video blogs) or video channels do you know or follow?"]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["What kind of topics do you enjoy reading about online?"]
+							}	
+						],
+						"sets": [						
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR MAIN IDEA",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Read Three of the best quickly. Which blog sounds most interesting to you and why?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": " Three of the best",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["Blogs by Calvin Norton"],
+										"LKUs": [],
+										"sentenceAnswerOptions": [
+											"With over 150 million blogs online, there is something for every type of person from the animal lover to the gamer to the sports fan.",
+											"But, if you are looking for something a little different, here are my top three blogs."]
+									}
+								]
+							},
+							{
+								"setMarker": "1",
+								"setHeading": "Brain Pickings",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "null",
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "null",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": [],
+										"sentenceAnswerOptions": [
+											"Maria Popova is a book lover, music fan and writer. Her blog Brain Pickings is a collection of articles about history, news, books and culture.",
+											"Maria is interested in reading and spends hundreds of hours each month doing research for her blog. It’s an extremely popular blog and many people enjoy Maria’s interesting mix of articles."]
+									}
+								]
+							},
+							{
+								"setMarker": "2",
+								"setHeading": "The Atlas of Beauty",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "null",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,	
+										"sentenceAnswerOptions":[
+										"The Atlas of Beauty is a picture blog showing beauty in different cultures.",
+										"Romanian photographer, blogger and traveler Michela Noroc takes pictures of women of all ages, races and nationalities living their everyday lives.",
+										"It’s a wonderful collection which shows that beauty can be found everywhere."],
+										"context": "null"
+									}
+								]
+							},
+							{
+								"setMarker": "3",
+								"setHeading": "Emma’s Bucket List.",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "null",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,	
+										"sentenceAnswerOptions":["After her father and step-father died, Emma Stewart Rigby decided to live a full and exciting life.",
+										"Emma, a mother of three, made a list of 246 things to do before she dies and in her blog she writes about her experiences.",
+										"Emma is a people person and gives a lot of friendly advice on life.",
+										"She’s also a foodie, and her bucket list includes unusual foods or interesting restaurants she plans to try.",
+										"A great blog for ideas on how to live life to the max!"],
+										"context": "null"
+									}
+								]
+							},
+							{
+								"setMarker": "4",
+								"setHeading": "Glossary.",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "null",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,	
+										"sentenceAnswerOptions":["blog (n) a website containing short articles called posts that are changed regularly",
+										"blog (v) to write short articles for a website on your opinions, interests and experiences",
+										"culture (n) activities which involve music, books and other arts",
+										"subscriber (n) someone who joins and follows a blog"],	
+										"context": "null"
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR MAIN IDEA Read Three of the best quickly. Which blog sounds most interesting to you and why? ",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": []
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAIL Read again. Complete each sentence with the name of a blogger, Emma, Maria or Michela. ",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "_____________is interested in visiting people around the world.",
+										"exerciseMinAnswer": "Michela",
+										"exerciseMaxAnswer": "Michela Noroc",
+										"exerciseAnswers": ["Michela Noroc"],
+										"LKUs": null,										
+										"context": ""
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "_____________has children.",
+									  "exerciseMinAnswer": "Emma",
+										"exerciseMaxAnswer": "Emma Stewart Rigby",
+										"exerciseAnswers": ["Emma Stewart Rigby"],
+										"LKUs": null,										
+										"context": ""
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "_____________writes about a variety of subjects.",
+										"exerciseMinAnswer": "Maria",
+										"exerciseMaxAnswer": "Maria Popova",
+										"exerciseAnswers": ["Maria Popova"],
+										"LKUs": null,										
+										"context": ""
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "_____________has a high number of readers.",
+										"exerciseMinAnswer": "Maria",
+										"exerciseMaxAnswer": "Maria Popova",
+										"exerciseAnswers": ["Maria Popova"],
+										"LKUs": null,										
+										"context": ""
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "_____________is interested in trying new things.",
+										"exerciseMinAnswer": "Emma",
+										"exerciseMaxAnswer": "Emma Stewart Rigby",
+										"exerciseAnswers": ["Emma Stewart Rigby"],
+										"LKUs": null,										
+										"context": ""
+									},
+									{
+										"sentenceOrdinal": 6,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "_____________wants people to understand that everyone is beautiful.",
+										"exerciseMinAnswer": "Michela",
+										"exerciseMaxAnswer": "Michela Noroc",
+										"exerciseAnswers": ["Michela Noroc"],
+										"LKUs": null,										
+										"context": ""
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Discuss the questions",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "null",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,	
+										"sentenceAnswerOptions":["1 Is running a blog a difficult job?",
+										"2 Why do these people spend so much time on their blogging activities?",
+										"3 What topic would you blog about?"],
+										"context":""
+									}
+								]
+							}							
+						]
+					}
+				]
+			}	
+		]
+	}
+}

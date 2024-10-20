@@ -1,0 +1,213 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 12,
+		"chapterTitle": "Going away",
+		"chapterQuote": "The journey of a thousand miles begins with one step. Lao Tzu",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe a trip",
+			"talk about vacation plans",
+			"ask for and give opinions",
+			"write a postcard"
+		],
+		"sections": [
+			{
+				"sectionNumber": 12.1,
+				"sectionTitle": "Trips",
+				"sectionObjective": "Describe a trip",
+				"GKU": "Language_Hub_A1_Unit12_Lesson12_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "travel"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "consonant clusters"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "countable and uncountable nouns"
+					}
+				],			
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "A BAD TRIP",
+								"paragraphSubtitles": ["A lot can go wrong when you travel. For example:"],
+								"paragraphContents": [
+									"Your train to the airport is late, so you miss your plane.",
+									"You take a taxi to the airport, but there is a lot of traffic, so you miss your plane.",
+									"You forget your passport.",
+									"Your luggage is too big to take on the plane.",
+									"You forget the bag with all of your money, your credit card and your ticket in it."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["These are all things that can happen, but I think the worst thing is what happened to Kate McCallister in the 1990 movie Home Alone. She went to Paris on vacation with her family. At first, she didn’t have any problems. She got to the airport on time, she didn’t forget her passport, her luggage wasn’t too big, and she had all her bags and all her money with her. She also had all of her credit cards and tickets. But she forgot one very important thing."]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["When she was on the plane from Chicago to Paris, Kate remembered: her 8-year-old son, Kevin! Kevin was not with them. He was at home … alone!"]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["When they got to Paris, there weren’t any planes back to Chicago, so she took a plane to Pennsylvania in the United States. Then, Kate tried to get a plane from Pennsylvania to Chicago but there weren’t any. So, she traveled home in a van with a traveling group of musicians. Did she get back to Kevin? Was he okay? Watch the movie to find out!"]
+							}							
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "PREPARE TO READ",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Make a list of the problems people sometimes have when they travel.",
+								"exercises": null
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read A bad trip. Choose the correct summary.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": " Choose the correct summary.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "Kate McCallister didn’t take her son when she went on vacation. She tried to get home, but she had a very bad trip.",
+										"LKUs": [
+											"take",
+											"holiday"
+										],
+										"sentenceAnswerOptions": [
+											"Kate McCallister didn’t take her son when she went on vacation. She tried to get home, but she had a very bad trip.",
+											"Kate McCallister didn’t take her passport when she went on vacation. She went home with her son."
+										],
+										"context": "textContents"
+									}							
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Put the events (a–e) in the order they happened (1–5). Read the article again to check your answers.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Which event happened first?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["Kate went to the airport in Chicago."],
+										"LKUs": [
+											"go",
+											"airport"
+										],
+										"sentenceAnswerOptions": [
+											"Kate went to the airport in Chicago.",
+											"Kate got on a plane to Paris.",
+											"Kate remembered Kevin was at home.",
+											"Kate went to Chicago in a van."
+										],
+										"context": "textContents"
+									}	
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Do you ever go on a plane or a train?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Do you sometimes forget things when you travel?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null,										
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 12.2,
+				"sectionTitle": "A prize vacation",
+				"sectionObjective": "Talk about vacation plans",
+				"GKU": "Language_Hub_A1_Unit12_Lesson12_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "types of vacations"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ɪ/, /i:/ and /aɪ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present progressive"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "listening for feelings"
+					}
+				],			
+				"hasReading": false
+			}	
+		]
+	}
+}
