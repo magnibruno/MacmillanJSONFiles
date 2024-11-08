@@ -17,7 +17,7 @@
       "type": "object",
       "properties": {
         "chapterUnit": {
-          "type": "integer"
+          "type": "string"
         },
         "chapterTitle": {
           "type": "string"
@@ -148,7 +148,7 @@
                             "type": "string"
                           },
                           "exerciseMaxAnswer": {
-                            "type": "string"
+                            "type": ["string", "null"]
                           },
                           "exerciseMinAnswer": {
                             "type": "string"
