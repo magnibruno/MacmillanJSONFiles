@@ -1,0 +1,444 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 11,
+		"chapterTitle": "Having fun",
+		"chapterQuote": "Happiness depends upon ourselves. Aristotle",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about things you like doing",
+			"talk about favorite sports, music and movies",
+			"make and respond to suggestions",
+			"write a personal profile"
+		],
+		"sections": [
+			{
+				"sectionNumber": 11.1,
+				"sectionTitle": "In or out?",
+				"sectionObjective": "Talk about things you like doing",
+				"GKU": "Language_Hub_A1_Unit11_Lesson11_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "recreational activities"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "verb + -ing /ŋ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "like/love/hate/enjoy + verb + -ing"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "like/love/hate/enjoy + verb + -ing",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "RC - multiple choice",
+								"textMode": "full article",
+								"exerciseInstruction": "Read the phrases in bold in Is staying in the new going out? Choose the correct option.",
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"They don't like going out.",
+											"I love getting takeout food.",
+											"We enjoy watching sports together.",
+											"My husband loves going to concerts.",
+											"I hate going to concerts.",
+											"I like staying at home."
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "In these phrases, the people are talking about their feelings about",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "activities",
+										"LKUs": [
+											"activity",
+											"object"
+										],
+										"sentenceAnswerOptions": [
+											"activities",
+											"objects"
+										]
+									}
+								],
+								"context": "textContents"
+							},
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "match/without audio",
+								"exerciseInstruction": "Match the words with the emojis.",
+								"exerciseExample": null,
+								"exerciseColumnA": [
+									"setImage"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"love"
+												],
+												"exerciseAnswers": 
+													""
+												
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"like"
+												],
+												"exerciseAnswers": 
+													""
+												
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"hate"
+												],
+												"exerciseAnswers": 
+													""											
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Choose the correct options to complete the rules. Use A history of the world in 100 objects to help you.",
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"1 In positive phrases, we use like/love/hate/enjoy + verb + -ing.",
+											"2 In negative phrases, we use do/does + not + like/love/hate/enjoy + verb + -ing.",
+											"In questions, we use do/does + subject + like/love/hate/enjoy + verb + -ing."
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"positive phrases",
+											"negative phrases",
+											"questions"
+										],
+										"LKUs": [
+											"simple past"
+										],
+										"context": "textContents"
+									}
+								]
+							},							
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 118.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 11.2,
+				"sectionTitle": "Super fans",
+				"sectionObjective": "Talk about favorite sports, music and movies",
+				"GKU": "Language_Hub_A1_Unit11_Lesson11_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "entertainment"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ʊ/ and /u:/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "object pronouns"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "listening for opinions"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Object pronouns",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Read these sentences from the radio programme. Answer the questions.",
+								"wordBank": [
+									"Mo Salah",
+									"him"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Wendy: i'm here to see Mo Salah."
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Interviewer: Why do you like him?"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"1 What or who is the object of Wendy's sentence? Mo Salah."
+												],
+												"blankedWords": [
+													"Mo",
+													"Salah"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"2 Which word does the interviewer use to replace the object of Wendy's sentence? Him."
+												],
+												"blankedWords": [
+													"Him"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Read more sentences from the listening. Choose the correct object pronouns to complete the sentences.",
+								"wordBank": [
+									"it",
+									"him",
+									"them"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"1 Kelly: My boyfriend loves soccer, but I hate ."
+												],
+												"blankedWords": [
+													"it"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"2 Interviewer: What do you think about Mo Salah?"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Kelly: My boyfriend likes him."
+												],
+												"blankedWords": [
+													"him"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"3 Interviewer: So, Ryan, what do you think about the other soccer players?"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"Ryan: I'm not interested in them."
+												],
+												"blankedWords": [
+													"them"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the table with the object pronouns in the box.",
+								"wordBank": [
+									"her",
+									"him",
+									"it",
+									"me",
+									"them",
+									"us",
+									"you",
+									"you"
+								],
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": [
+											"Subject pronouns/ Object pronouns"
+										],
+										"paragraphContents": [
+											"I play tennis with Luke. Luke plays tennis with me.",
+											"You watch TV with Harry. Harry watches TV with you.",
+											"He knows a lot of people. A lot of people know him.",
+											"She plays soccer. I play soccer with her.",
+											"It is a great movie. I love watching it.",
+											"We like staying in with Mike. Mike likes staying in with us.",
+											"You can all come to my house. I'm happy to see you all.",
+											"They are musicians. I like listening to them."
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"her",
+											"him",
+											"it",
+											"me",
+											"them",
+											"us",
+											"you",
+											"you"
+										],
+										"blankedWords": [
+											10,
+											20,
+											32,
+											40,
+											49,
+											61,
+											73,
+											82
+										],
+										"LKUs": [
+											"her",
+											"him",
+											"it",
+											"me",
+											"them",
+											"us",
+											"you"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 118.",
+								"exercises": null
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Complete the sentences with your own ideas. Then complete the questions with the correct object pronoun. Work in pairs and ask and answer the questions.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -129,7 +129,7 @@
 										"exerciseQuestion": "Which event happened first?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["Kate went to the airport in Chicago."],
+										"exerciseAnswers": "Kate went to the airport in Chicago.",
 										"LKUs": [
 											"go",
 											"airport"

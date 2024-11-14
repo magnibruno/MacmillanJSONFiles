@@ -1,0 +1,660 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": "8",
+		"chapterTitle": "Food and drink",
+		"chapterQuote": "One cannot think well, love well, sleep well, if one has not dined well. Virginia Woolf",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about the food you eat",
+			"talk about the food your family eats",
+			"talk about ingredients and recipes",
+			"order food in a restaurant",
+			"write an online restaurant review"
+		],
+		"sections": [
+			{
+				"sectionNumber": 8.1,
+				"sectionTitle": "I'm hungry!",
+				"sectionObjective": "Talk about the food you eat",
+				"GKU": "Language_Hub_A2_Unit8_Lesson8_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "food and drink"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "countable and uncountable nouns; some and any"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "plurals"
+					}
+				],
+				"hasReading": false
+			},
+			{
+				"sectionNumber": 8.2,
+				"sectionTitle": "What we eat",
+				"sectionObjective": "Talk about the food your family eats",
+				"GKU": "Language_Hub_A2_Unit8_Lesson8_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "vocabulary",
+						"skillTitle": "containers"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "short and long vowel sounds"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "much, many, a lot of"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle":  "Let’s eat",
+								"paragraphSubtitles": [ "Around the world"],
+								"paragraphContents": [
+									"How many people are there in your family? How much food do you eat in a typical week? Do you eat more packaged food or fresh food? What’s your favorite food? And how much do you spend on food each week? Here, we take a look at food habits in different countries."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "Ecuador",
+								"paragraphSubtitles":null, 
+								"paragraphContents": [
+									"In Ecuador, most families don’t eat any packaged food at all. People usually buy fresh food in local markets and they eat a lot of fruits and vegetables, as well as rice and potatoes. People usually buy food every day to cook at home. Lunch is an important meal and most children go home for lunch in the afternoon. Families usually eat together."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphImage": "",
+								"paragraphContents": [
+									"Average cost of food per week: $30",
+									"Popular food: rice, potatoes, chicken"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "The US",
+								"paragraphSubtitles": null,
+								"paragraphImage": "",
+								"paragraphContents": [
+									"Most people in the US eat a lot of packaged food. They don’t eat a lot of fresh fruit and they don’t eat many vegetables. Meat is very popular here, as well as dairy products, like milk and cheese. Most Americans go to a big grocery store once a week to buy food. There aren’t many markets, but some towns have a farmer’s market once a week. A lot of families regularly eat at restaurants or eat fast food in front of the TV or in the car."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphImage": "",
+								"paragraphContents": [
+									"Average cost of food per week: $400",
+									"Popular food: corn, chicken, hamburgers"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": "Italy",
+								"paragraphSubtitles": null,
+								"paragraphImage": "",
+								"paragraphContents": [
+									"Italy is famous for its food, and for most Italians, food is a very important part of their day! Markets are very popular, but most people buy their food at a grocery store. Most people buy fresh bread every day, and they use milk mainly with coffee. Italians don’t eat much packaged food, but people often buy cans of tomatoes and beans. The main meal of the day is usually lunch."
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphImage": "",
+								"paragraphContents": [
+									"Average cost of food per week: $200",
+									"Popular food: pasta, rice, fish, bread"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphTitle": "source",
+								"paragraphSubtitles": null,
+								"paragraphImage": "",
+								"paragraphContents": [
+									"https://www.dosomething.org/us/facts/11-facts-about-american-eating-habits"
+								]
+							}		
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "PREPARE",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,							
+								"exerciseType": null,
+								"exerciseInstruction": "Answer the questions. Use the places in the box to help you. Make notes."
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Look at the photos in Let’s eat - Around the world and answer the questions."
+								
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,								
+								"exerciseType": null,
+								"exerciseInstruction": "C READ FOR GIST Read Let’s eat - Around the world and check your answers to Exercise B."
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,								
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read again and answer the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Which meal is important in Ecuador?",
+										"exerciseMinAnswer": "lunch",
+										"exerciseMaxAnswer": "Lunch is an important meal",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"important",
+											"lunch"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "Where do children in Ecuador have their lunch?",
+										"exerciseMinAnswer": "home",
+										"exerciseMaxAnswer": "most children go home for lunch in the afternoon",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"home",
+											"afternoon"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "How often do most Italians buy bread?",
+										"exerciseMinAnswer": "every day",
+										"exerciseMaxAnswer": "Most people buy fresh bread every day",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"fresh",
+											"bread"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "In which country do people drink a lot of milk?",
+										"exerciseMinAnswer": "US",
+										"exerciseMaxAnswer": "the US",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"milk"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "In which country do people eat the most packaged food?",
+										"exerciseMinAnswer": "the us",
+										"exerciseMaxAnswer": "Most people in the US eat a lot of packaged food",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"packaged"
+										],
+										"context": "textContents"
+									}
+								]	
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,								
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions."
+							}
+						]
+					}
+				]	
+			},
+			{
+				"sectionNumber": 8.3,
+				"sectionTitle": "Yes, chef!",
+				"sectionObjective": "Talk about ingredients and recipes",
+				"GKU": "Language_Hub_A2_Unit8_Lesson8_3",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "a/an, the, no article"
+					},
+					{
+						"skillType": "V",
+						"skillName": "vocabulary",
+						"skillTitle": "food preparation"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "consonant clusters"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "decoding"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle":  "Thanks for trying Homecook",
+								"paragraphSubtitles": [
+									"Our promise"
+								],	
+								"paragraphContents": [
+									"With Homecook, you can cook quick, delicious meals at home with tasty ingredients."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle":  "Our offer",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We offer boxes of fresh ingredients for a main course for two, three or four people. You can also order appetizers and desserts. Each box comes with a recipe. Follow the recipe to create a delicious meal."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle":  "Our story",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Friends Carlo Vallone and Frankie Benn started Homecook in 2014 in Frankie’s home city of Melbourne, Australia. Carlo, from Naples, is a chef and Frankie’s speciality is business."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle":  null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We started Homecook because we wanted to offer fresh ingredients that are ready to cook. And we did it. Last year we delivered over a million boxes!"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle":  "How does Homecook work?",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"WE deliver thousands of boxes to homes around the country every week. YOU choose from 12 delicious, healthy recipes each week. WE deliver fresh ingredients and recipe cards for each meal you choose. YOU cook, serve and eat!"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle":  null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"'The ingredients are really good quality. We save money on our food shopping now. We’re really excited when the box arrives each week'. Leanne, Geelong"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Are the following sentences true for you?"
+							},	
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,							
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": null,
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Read Thanks for trying Homecook. Which sentence best describes it?",
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": "It’s an advertisement about a food business.",
+										"sentenceAnswerOptions": [
+											"It’s a survey about people’s cooking habits.",
+											"It’s an advertisement about a food business.",
+											"It’s a description of a cooking school."
+											
+										],
+										"LKUs": [
+											"advertisement",
+											"business"
+										]
+									}
+								]								
+							},	
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,							
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the advertisement again. Are these sentences true (T), false (F) or not given (NG)?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Homecook delivers ready cooked meals to your home.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"sentenceAnswerOptions": [
+											"F",
+											"T",
+											"NG"
+										],
+										"LKUs": [
+											"deliver"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "Customers can order a box for between two and four people.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"sentenceAnswerOptions": [
+											"F",
+											"T",
+											"NG"
+										],
+										"LKUs": [
+											"customer",
+											"order"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "Both Carlo and Frankie, who started the business, are Australian.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"sentenceAnswerOptions": [
+											"F",
+											"T",
+											"NG"
+										],
+										"LKUs": [
+											"start",
+											"business"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "The business gets bigger every year and now has over 100 staff.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "NG",
+										"sentenceAnswerOptions": [
+											"F",
+											"T",
+											"NG"
+										],
+										"LKUs": [
+											"staff"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "Customers can order a maximum of 12 meals a week.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "NG",
+										"sentenceAnswerOptions": [
+											"F",
+											"T",
+											"NG"
+										],
+										"LKUs": [
+											"maximum"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 6,
+										"exerciseQuestion": "According to one customer, they now spend less on food with Homecook.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"sentenceAnswerOptions": [
+											"F",
+											"T",
+											"NG"
+										],
+										"LKUs": [
+											"spend"
+										],
+										"context": "textContents"
+									}
+								]	
+							},	
+							{
+								"setMarker": "D",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,							
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Look at the words from the Homecook advertisement. What part of speech are they – nouns, adjectives or verbs?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "delicious",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "adjective",
+										"sentenceAnswerOptions": [
+											"noun",
+											"verb",
+											"adjective"
+										],
+										"LKUs": [
+											"delicious"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "ingredients",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "noun",
+										"sentenceAnswerOptions": [
+											"noun",
+											"verb",
+											"adjective"
+										],
+										"LKUs": [
+											"ingredient"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "desserts",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "noun",
+										"sentenceAnswerOptions": [
+											"noun",
+											"verb",
+											"adjective"
+										],
+										"LKUs": [
+											"dessert"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "delivered",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "verb",
+										"sentenceAnswerOptions": [
+											"noun",
+											"verb",
+											"adjective"
+										],
+										"LKUs": [
+											"deliver"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "recipe",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "noun",
+										"sentenceAnswerOptions": [
+											"noun",
+											"verb",
+											"adjective"
+										],
+										"LKUs": [
+											"recipe"
+										],
+										"context": "textContents"
+									}
+								]	
+							},	
+							{
+								"setMarker": "E",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,							
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Complete the definitions with the words in Exercise D. Use the information in the box to help you.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "sweet food after main meal",
+										"exerciseMinAnswer": "dessert",
+										"exerciseMaxAnswer": "desserts",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"dessert"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "cooking instructions",
+										"exerciseMinAnswer": "recipe",
+										"exerciseMaxAnswer": "recipe cards",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"recipe"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "one of the foods you use to make a particular meal",
+										"exerciseMinAnswer": "ingredient",
+										"exerciseMaxAnswer": "ingredients",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"ingredient"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "to take things like letters and goods to a place",
+										"exerciseMinAnswer": "deliver",
+										"exerciseMaxAnswer": "delivered",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"deliver"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "extremely tasty or enjoyable",
+										"exerciseMinAnswer": "delicious",
+										"exerciseMaxAnswer": "delicious meals",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"delicious"
+										],
+										"context": "textContents"
+									}
+								],
+								"explanationBox": [
+									{
+										"explanationTitle": "Decoding",
+										"explanationContent" : ["Noun, adjective, verb and adverb are all parts of speech. Thinking about parts of speech helps you work out the meaning of words."]
+									}
+								]
+							}	
+						]
+					}
+				]
+			}
+		]
+	}
+}

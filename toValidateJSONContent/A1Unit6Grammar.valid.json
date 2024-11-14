@@ -1,0 +1,672 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 6,
+		"chapterTitle": "A place to live",
+		"chapterQuote": "Be sure you put your feet in the right place, then stand firm. Abraham Lincoln",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe your town or city",
+			"describe your home",
+			"ask for and give directions",
+			"write a review of a café"
+		],
+		"sections": [
+			{
+				"sectionNumber": 6.1,
+				"sectionTitle": "Around town",
+				"sectionObjective": "Describe your town or city",
+				"GKU": "Language_Hub_A1_Unit6_Lesson6_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "places in a town"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "there is / there are"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "there is / there are; some and any"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "there is / there are; some and any",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Read the post again. Underline examples of there is, there are, some and any.",
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "What's special about your home town?",
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"I live in Venice, in Italy. It's famous all over the world and there are a lot of tourists. But it's an exciting place to live and work, too."
+										]
+									},
+									{
+										"paragraphOrdinal": 2,
+										"paragraphTitle": null,
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"Venice is a city with a lot of history – I love it! There are some buildings that are over 500 years old! Venice is great for art. There are museums and art galleries everywhere. There are over 400 bridges in Venice. Why? Because there are a lot of canals! There aren't any cars in this area, but there's a train station outside the city center. There aren't any buses in the center either – people go to work by water taxi! There isn't a really large grocery store, but there's a great market with a lot of fresh fruits and vegetables."
+										]
+									},
+									{
+										"paragraphOrdinal": 3,
+										"paragraphTitle": null,
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"I walk to work every morning and look at the buildings and the canals and the bridges. They're amazing! There's a really good café near my home. They make great coffee and fresh sandwiches and I eat breakfast there every morning when I go to work. I think Venice is a great place to live!"
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"there",
+											"are"
+										],
+										"blankedWords": [
+											14,
+											15
+										],
+										"LKUs": [
+											"there",
+											"be"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": 2,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"there",
+											"are"
+										],
+										"blankedWords": [
+											13,
+											14,
+											15,
+											28,
+											29,
+											35,
+											36,
+											41,
+											42,
+											48
+										],
+										"LKUs": [
+											"there",
+											"be",
+											"some"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": 3,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"there",
+											"are"
+										],
+										"blankedWords": [
+											20
+										],
+										"LKUs": [
+											"there",
+											"be"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the table using the examples in Exercise A to help you.",
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "there is / there are; some and any",
+										"paragraphSubtitles": [
+											"Positive +/Singular"
+										],
+										"paragraphContents": [
+											"There is a really good café."
+										]
+									},
+									{
+										"paragraphOrdinal": 2,
+										"paragraphTitle": null,
+										"paragraphSubtitles": [
+											"Positive +/Plural"
+										],
+										"paragraphContents": [
+											"There are over 400 bridges."
+										]
+									},
+									{
+										"paragraphOrdinal": 3,
+										"paragraphTitle": null,
+										"paragraphSubtitles": [
+											"Negative -/Singular"
+										],
+										"paragraphContents": [
+											"There isn't a really large grocery store."
+										]
+									},
+									{
+										"paragraphOrdinal": 4,
+										"paragraphTitle": null,
+										"paragraphSubtitles": [
+											"Negative -/Plural"
+										],
+										"paragraphContents": [
+											"There aren't cars."
+										]
+									},
+									{
+										"paragraphOrdinal": 5,
+										"paragraphTitle": null,
+										"paragraphSubtitles": [
+											"Some and a lot of"
+										],
+										"paragraphContents": [
+											"We use some and a lot of with plural nouns. Some means a small. A lot of means a big number. We usually use them in positive sentences."
+										]
+									},
+									{
+										"paragraphOrdinal": 6,
+										"paragraphTitle": null,
+										"paragraphSubtitles": [
+											"Any"
+										],
+										"paragraphContents": [
+											"We use any in negative sentences and in questions."
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": 
+											"is"
+										,
+										"blankedWords": [
+											2
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": 2,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": 
+											"are"
+										,
+										"blankedWords": [
+											2
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": 3,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": 
+											"isn't"
+										,
+										"blankedWords": [
+											2
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": 4,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": 
+											"aren't"
+										,
+										"blankedWords": [
+											2
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": 5,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"plural",
+											"small",
+											"positive"
+										],
+										"blankedWords": [
+											9,
+											14,
+											21
+										],
+										"LKUs": [
+											"some",
+											"a lot of"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 6,
+										"paragraphOrdinal": 6,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": 
+											"negative"
+										,
+										"blankedWords": [
+											5
+										],
+										"LKUs": [
+											"any"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Choose the correct options to complete the sentences.",
+								"wordBank": [
+									"any",
+									"a lot of",
+									"are",
+									"'s",
+									"some",
+									"some"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"There aren't any cars in Venice."
+												],
+												"blankedWords": [
+													"any"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"There are a lot of water taxis."
+												],
+												"blankedWords": [
+													"a",
+													"lot",
+													"of"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"There are 350 boats (called ‘gondolas') in Venice."
+												],
+												"blankedWords": [
+													"are"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"There are about 400 boatmen but there 's only one woman!"
+												],
+												"blankedWords": [
+													"'s"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"There are some narrow streets in Venice. One street is only 53 centimeters wide!"
+												],
+												"blankedWords": [
+													"some"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"There are some very old buildings in Venice – the Palazzo Grimani Museum is more than 500 years old!"
+												],
+												"blankedWords": [
+													"some"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Talk about places near where you are. Use there is or there are and the words in the box.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 6.2,
+				"sectionTitle": "Choosing a home",
+				"sectionObjective": "Describe your home",
+				"GKU": "Language_Hub_A1_Unit6_Lesson6_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "furniture and rooms; prepositions of place"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ʌ/ and /e/"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "predicting"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "is there / are there question forms"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "is there / are there question forms",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "grammar SB/without explanation",
+								"exerciseInstruction": "Complete the sentences with the correct form of be and the words in the box.",
+								"wordBank": [
+									"a bathroom (+)",
+									"buses (+)",
+									"chairs (-)",
+									"a kitechen (-)"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Is there a bathroom?"
+												],
+												"blankedWords": [
+													"a",
+													"bathroom"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Yes, there are."
+												],
+												"blankedWords": [
+													"are"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Are there any buses?"
+												],
+												"blankedWords": [
+													"buses"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Yes, there are."
+												],
+												"blankedWords": [
+													"are"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"Is there a kitchen?",
+													"No, there isn't."
+												],
+												"blankedWords": [
+													"a",
+													"kitchen"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Is there a kitchen?",
+													"No, there isn't."
+												],
+												"blankedWords": [
+													"isn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Are there any chairs?"
+												],
+												"blankedWords": [
+													"chairs"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Are there any chairs?",
+													"No, there aren't."
+												],
+												"blankedWords": [
+													"aren't"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Choose the correct options to complete the rules. Use the examples in Exercise A to help you.",
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": [
+											"is there / are there question forms"
+										],
+										"paragraphContents": [
+											"To make yes/no questions, we put is or are before there.",
+											"We use any in questions with plural nouns.",
+											"We don't use the contracted form of there is (there's) in short answers."
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"before",
+											"plural",
+											"don't use"
+										],
+										"LKUs": [
+											"there",
+											"be"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the questions with Is or Are.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Is there a bookcase in your bedroom?"
+												],
+												"blankedWords": [
+													"Is"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Is there a big window?"
+												],
+												"blankedWords": [
+													"Is"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Are there two beds in your bedroom?"
+												],
+												"blankedWords": [
+													"Are"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Are there a lot of cushions on your couch?"
+												],
+												"blankedWords": [
+													"Are"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Ask your partner about their room at home. Use the words in the box.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

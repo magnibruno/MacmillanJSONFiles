@@ -1,0 +1,670 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": "9",
+		"chapterTitle": "Shopping",
+		"chapterQuote": "If the shoe fits, buy it in every color. Anonymous",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about clothes and what people are doing",
+			"talk about what people do at different times",
+			"talk about shopping habits and tastes",
+			"shop for clothes",
+			"write a social media post"
+		],
+		"sections": [
+			{
+				"sectionNumber": 9.1,
+				"sectionTitle": "People watching",
+				"sectionObjective": "Talk about clothes and what people are doing",
+				"GKU": "Language_Hub_A2_Unit9_Lesson9_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "clothes"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present progressive"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/ɜːr/"
+					}
+				],
+				"hasReading": false
+			},
+			{
+				"sectionNumber": 9.2,
+				"sectionTitle": "Job swap",
+				"sectionObjective": "Talk about what people do at different times",
+				"GKU": "Language_Hub_A2_Unit9_Lesson9_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "vocabulary",
+						"skillTitle": "present time expressions"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/ŋ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present vs present progressive"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle":  "Job swap",
+								"paragraphSubtitles": [ 
+									"Greenfield Department Store",
+									"October 23, 8:57 am"
+								],
+								"paragraphContents": [
+									"It’s job swap day! We’ve asked the winners of our job swap competition (Bryony, Lee and Adal) to post updates here every hour to tell us how their new job is going."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "Bryony Williams",
+								"paragraphSubtitles":["October 23, 10:05 am"],
+								"paragraphImage": "",								
+								"paragraphContents": [
+									"I’m enjoying my job swap, but it’s completely different from what I usually do. I work as a doctor, but today I’m organizing a fashion show. It’s hard work and there’s a lot to do, but I’m having an interesting time. I love fashion and clothes, so I expected this to be easy, but it isn’t. Today, I’m booking models and planning the event. The other job swappers have experts to help them, but I don’t, so I’m feeling under pressure now!"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": "Lee Cartwright",
+								"paragraphSubtitles": ["October 23, 10:17 am"],
+								"paragraphImage": "",
+								"paragraphContents": [
+									"Yesterday, I was a mechanic, but today I’m working as a personal shopper! I usually test cars and fix them, but today I’m giving people advice on buying clothes. I love my job at the garage, but I’m not enjoying this job at the moment. I can only write this now because my expert, Katrina, is talking on the phone. When she finishes, it’s back to work for me. I don’t want to do this anymore. I’m not having fun. I want to go back to my workshop."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "Adal Khan",
+								"paragraphSubtitles": ["October 23, 10:21 am"],
+								"paragraphImage": "",
+								"paragraphContents": [
+									"I usually teach eight-year-old children, but right now I’m taking pictures of models. Currently, I’m working as a fashion photographer! I took over 200 pictures this morning and it isn’t even lunchtime yet. I’m learning so many things and I’m having the best time. As a teacher, I usually tell people what to do at school, but today Santos, my expert, is teaching me. Who knows, maybe I’m starting a new career … :)"
+								]
+							}
+						],
+						"glossaryBox": [
+							{
+								"glossaryTitle": "Glossary",
+								"glossaryContent": [
+									"career (n) a job that you want to do for a long period of your life",
+									"expert (n) someone with a particular skill or who knows a lot about a particular subject",
+									"swap (v) to give something to someone in exchange for something else"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,							
+								"exerciseType": null,
+								"exerciseInstruction": "Match jobs (1–6) with what the person does (a–f ).",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "doctor",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "help sick people",
+										"LKUs": [
+											"doctor",
+											"sick"
+										]
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "mechanic",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "fix engines",
+										"LKUs": [
+											"mechanic",
+											"fix"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "teacher",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "teach children",
+										"LKUs": [
+											"teacher",
+											"teach"
+										]
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "personal shopper",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "give advice, choose clothes for shoppers",
+										"LKUs": [
+											"shopper",
+											"clothes"
+										]
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "fashion show director",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "plan events, book models",
+										"LKUs": [
+											"fashion",
+											"plan"
+										]
+									},
+									{
+										"sentenceOrdinal": 6,
+										"exerciseQuestion": "photographer",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "take pictures",
+										"LKUs": [
+											"photographer",
+											"take"
+										]
+									}
+								]	
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read the social media posts. Are Bryony, Lee and Adal enjoying their job swap?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Is Bryony enjoying their job swap?",
+										"exerciseMinAnswer": "I’m enjoying",
+										"exerciseMaxAnswer": "I’m enjoying my job swap",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"enjoy",
+											"swap"
+										]
+									},
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Is Lee enjoying their job swap?",
+										"exerciseMinAnswer": "I’m not enjoying",
+										"exerciseMaxAnswer": "I’m not enjoying this job at the moment",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"enjoy",
+											"swap"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "Is Adal enjoying their job swap?",
+										"exerciseMinAnswer": "I’m having the best time",
+										"exerciseMaxAnswer": "I’m having the best time",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"enjoy",
+											"swap"
+										]
+									}
+								]	
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR SPECIFIC INFORMATION",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,								
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the posts again and answer the questions. Choose Bryony (B), Lee (L) or Adal (A).",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Who loves his job swap?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "A",
+										"LKUs": [
+											"love"
+										],
+										"sentenceAnswerOptions": [
+											"B",
+											"L",
+											"A"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Who doesn’t have a specialist to help her?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "B",
+										"LKUs": [
+											"help"
+										],
+										"sentenceAnswerOptions": [
+											"B",
+											"L",
+											"A"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Who wants to go back to his usual job?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "L",
+										"LKUs": [
+											"go back"
+										],
+										"sentenceAnswerOptions": [
+											"B",
+											"L",
+											"A"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Who usually repairs things?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "L",
+										"LKUs": [
+											"repair"
+										],
+										"sentenceAnswerOptions": [
+											"B",
+											"L",
+											"A"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Who usually helps sick people?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "B",
+										"LKUs": [
+											"help"
+										],
+										"sentenceAnswerOptions": [
+											"B",
+											"L",
+											"A"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 6,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Who is thinking about changing his job?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "A",
+										"LKUs": [
+											"job"
+										],
+										"sentenceAnswerOptions": [
+											"B",
+											"L",
+											"A"
+										],
+										"context": "textContents"
+									}
+								]	
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,								
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Do you think a job swap is a fun idea? Why/Why not?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": [
+											"job",
+											"swap"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "Which job in Job swap would you like to try? Why?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": [
+											"job",
+											"try"
+										],
+										"context": "textContents"
+									}
+								]	
+							}
+						]
+					}
+				]	
+			},
+			{
+				"sectionNumber": 9.3,
+				"sectionTitle": "Shop till you drop",
+				"sectionObjective": "Talk about shopping habits and tastes",
+				"GKU": "Language_Hub_A2_Unit9_Lesson9_3",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "object pronouns"
+					},
+					{
+						"skillType": "V",
+						"skillName": "vocabulary",
+						"skillTitle": "shops and services"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/ʧ/ and /ʃ/"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "reading for genre"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle":  "How to market your business",
+								"paragraphSubtitles": null,	
+								"paragraphContents": [
+									"Mike owns a small store. He spends all of his time working in it. It sells fruits and vegetables, cheese from a local farm, fresh homemade bread and delicious cakes. The store is on a busy road, full of cafés and restaurants. The local people have a lot of money and they know how to spend it. But Mike’s business is slow. He’s worried. He’s trying different things to sell more food, but nothing is working. So what’s he doing wrong? Maybe he isn’t selling to the right people. It’s the first rule of business: find out who your customers are, and listen to them. So, is business in your store slow? Read on to find out how to attract three kinds of shoppers."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle":  "Drop your prices",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Discount shoppers like saving money! They like spending time in stores because they want to find everything at a good price. These shoppers like big grocery store markets and cheap local stores. Department stores are usually too expensive for them. They aren’t interested in designer brands. They often shop online and travel to find the best price. They don’t like paying full price for anything, and often buy clothes or big items when there’s a sale."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle":  "Offer something special",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Luxury shoppers love shopping, fashion and expensive products. Shopping is a serious hobby for them. They don’t mind paying a lot for their favorite designer brands! Luxury shoppers hate cheap stores and prefer elegant department stores in the city center, where they can have a cup of coffee and meet their friends for lunch. Luxury shoppers buy what they want, when they want."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle":  "Offer quality",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Quality shoppers look for products that they can use for many years and they are happy to pay a little more for something special. They look for good quality things in shopping malls. They also like local stores because they want to support businesses in their area. They often shop at markets, or at traditional local bakeries and butchers’. They also like to touch the things they are buying and they often spend a long time looking at them.",
+									"Which kind of shopper do you think would be interested in your business?"
+								]
+							}
+						],
+						"glossaryBox": [
+							{
+								"glossaryTitle": "Glossary",
+								"glossaryContent": [
+									"brand (n) a product, or products, that has its own name and is made by a particular company",
+									"designer (adj) designer clothes are made by a famous designer and are usually expensive",
+									"local (adj ) in or close to the area that you live in, or to the area that you are talking about",
+									"luxury (n) something expensive that you enjoy, but do not really need",
+									"quality (n) how good or bad something is",
+									"sale (n) an event or period of time when a store reduces some of its prices"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions. Use the words in the box to help you.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "What kind of things do you usually buy online?",
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": null,
+										"wordBank": [
+											"designer brands",
+											"discount stores",
+											"expensive things",
+											"full price things",
+											"good quality products",
+											"local stores"
+										],
+										"LKUs": null
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "What do you like spending money on? Why?",
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": null,
+										"wordBank": [
+											"designer brands",
+											"discount stores",
+											"expensive things",
+											"full price things",
+											"good quality products",
+											"local stores"
+										],
+										"LKUs": null
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "What don’t you like spending money on? Why?",
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": null,
+										"wordBank": [
+											"designer brands",
+											"discount stores",
+											"expensive things",
+											"full price things",
+											"good quality products",
+											"local stores"
+										],
+										"LKUs": null
+									}
+								]	
+							},	
+							{
+								"setMarker": "B",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,							
+								"exerciseType": null,
+								"exerciseInstruction": "Read How to market your business quickly. Where is it from? Who is the author writing to? Use the information in the box to help you."
+							},	
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,							
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the article again. Are the sentences true (T) or false (F)? Correct the false sentences.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "Mike’s store sells designer clothes.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"LKUs": [
+											"clothes"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "Mike isn’t getting enough customers.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"LKUs": [
+											"customer",
+											"enough"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"exerciseQuestion": "Discount shoppers spend a lot of time in stores because they love shopping.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"LKUs": [
+											"love",
+											"shopping"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"exerciseQuestion": "Luxury shoppers don’t worry about the price of things.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"LKUs": [
+											"price"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"exerciseQuestion": "Quality shoppers go to local stores because they are cheap.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"LKUs": [
+											"cheap"
+										],
+										"context": "textContents"
+									}
+								]	
+							},	
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,							
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": "What kind of shopper would be interested in Mike’s business? Why?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null
+									},
+									{
+										"sentenceOrdinal": 2,
+										"exerciseQuestion": "What kind of shopper are you?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": null,
+										"LKUs": null
+									}
+								]	
+							}	
+						]
+					}
+				]
+			}
+		]
+	}
+}

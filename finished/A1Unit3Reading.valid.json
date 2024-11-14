@@ -83,7 +83,7 @@
 								"paragraphOrdinal": 2,
 								"paragraphTitle": null,
 								"paragraphSubtitles": null,
-								"paragraphContents": ["Lilly Wenders is 100 years old this week, and there’s a family party to celebrate. ‘A lot of my family lives in the same town as me,’ says Lilly. 'I'm very lucky.'"]
+								"paragraphContents": ["Lilly Wenders is 100 years old this week, and there's a family party to celebrate. \"A lot of my family lives in the same town as me,\" says Lilly. \"I'm very lucky.\""]
 							},
 							{
 								"paragraphOrdinal": 3,
@@ -95,7 +95,7 @@
 								"paragraphOrdinal": 4,
 								"paragraphTitle": null,
 								"paragraphSubtitles": null,
-								"paragraphContents": ["Lilly has two children, Sally and Emily, and three grandchildren: Katrina, Olivia and Clara. ‘I don’t have a son or a grandson,’ says Lilly. ‘My children and my grandchildren are all women.’ ‘Do you have any men in your family?’ I ask Lilly. ‘Yes, I do,’ says Lilly. ‘I have a husband, Arthur. It’s his birthday this week, too, but he’s only 84!’"]
+								"paragraphContents": ["Lilly has two children, Sally and Emily, and three grandchildren: Katrina, Olivia and Clara. \"I don't have a son or a grandson,\" says Lilly. \"My children and my grandchildren are all women.\" \"Do you have any men in your family?\" I ask Lilly. \"Yes, I do,\" says Lilly. \"I have a husband, Arthur. It's his birthday this week, too, but he's only 84!\""]
 							}
 						],
 						"sets": [
@@ -114,7 +114,7 @@
 										"exerciseQuestion": null,
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": [
+										"sentenceAnswerOptions": [
 											"sisters",
 											"children",
 											"son",
@@ -220,7 +220,7 @@
 										"exerciseQuestion": null,
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": [
+										"sentenceAnswerOptions": [
 											"birthday",
 											"town",
 											"women"

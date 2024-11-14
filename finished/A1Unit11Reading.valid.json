@@ -105,7 +105,7 @@
 										"exerciseQuestion": "There 1 are / aren’t a lot of things that people do to relax 2 in the week / on the weekend. The article says people these days mostly want to 3stay in / go out.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
+										"exerciseAnswers": "are, at the weekend, stay in",
 										"LKUs": [
 											"be",
 											"weekend",
@@ -134,7 +134,7 @@
 										"exerciseQuestion": null,
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": [
+										"sentenceAnswerOptions": [
 											"listen",
 											"watch",
 											"games"
@@ -181,7 +181,7 @@
 										"exerciseQuestion": "Lee doesn’t go to games because …",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["he can watch a lot of sports at home."],
+										"exerciseAnswers": "he can watch a lot of sports at home.",
 										"LKUs": [
 											"watch",
 											"sports"
@@ -199,7 +199,7 @@
 										"exerciseQuestion": "Frieda doesn’t go to concerts because …",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["it costs a lot of money."],
+										"exerciseAnswers": "it costs a lot of money.",
 										"LKUs": [
 											"cost",
 											"money"

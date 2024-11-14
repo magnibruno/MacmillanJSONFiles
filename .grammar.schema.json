@@ -1,11 +1,9 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$comment": "This document is a JSON Schema for the structure of the JSON data that will be used to generate the content of the Macmillan Chapters. $comment is used to add comments to the schema. The comments are not used for validation purposes.",
   "type": "object",
   "properties": {
     "book": {
-      "type": "string",
-      "$comment": "This document is a JSON Schema for the structure of the JSON data that will be used to generate the content of the Macmillan Chapters."
+      "type": "string"
     },
     "CEFRLevel": {
       "type": "string"
@@ -48,6 +46,9 @@
               "sectionObjective": {
                 "type": "string"
               },
+              "GKU": {
+                "type": "string"
+              },
               "sectionSkills": {
                 "type": "array",
                 "items": {
@@ -66,9 +67,6 @@
                   "required": ["skillType", "skillName", "skillTitle"]
                 }
               },
-              "GKU": {
-                "type": "string"
-              },
               "sectionPart": {
                 "type": "array",
                 "items": {
@@ -78,29 +76,26 @@
                       "type": "string"
                     },
                     "partImage": {
-                      "type": ["string", "null"]
+                      "type": "string"
                     },
                     "partSubTitle": {
-                      "type": ["string", "null"]
-                    },
-                    "textMode": {
                       "type": "string"
                     },
                     "textContents": {
                       "type": "array",
                       "items": {
                         "type": "object",
-                        "properties": {                          
+                        "properties": {
                           "paragraphOrdinal": {
-                            "type": "integer"
+                            "type": "number"
                           },
                           "paragraphTitle": {
-                            "type": ["string", "null"]
+                            "type": "string"
                           },
                           "paragraphSubtitles": {
-                            "type": ["array", "null"],
+                            "type": "array",
                             "items": {
-                              "type": ["string", "null"]
+                              "type": "string"
                             }
                           },
                           "paragraphContents": {
@@ -124,67 +119,66 @@
                           "setHeading": {
                             "type": "string"
                           },
-                          "textImage": {
+                          "setImage": {
                             "type": ["string", "null"]
                           },
                           "setAudioNumber": {
                             "type": ["number", "null"]
                           },
                           "setIgnore": {
-                            "type": "boolean",
-                            "$comment": "POSSIBLE VALUES = true or false with no quotes."
-                          },                          
+                            "type": "boolean"
+                          },
+                          "grammarHub": {
+                            "type": "boolean"
+                          },
                           "exerciseType": {
                             "type": ["string", "null"]
                           },
                           "exerciseInstruction": {
-                            "type": ["string", "null"]
-                          },
-                          "exerciseQuestion": {
                             "type": "string"
-                          },
-                          "exerciseMaxAnswer": {
-                            "type": ["string", "null"]
-                          },
-                          "exerciseMinAnswer": {
-                            "type": "string"
-                          },
-                          "LKUs": {
-                            "type": ["array", "string", "null"],
-                            "items": {
-                              "type": "string"
-                            }
                           },
                           "exercises": {
                             "type": ["array", "null"],
                             "items": {
                               "type": "object",
                               "properties": {
-                                "sentenceOrdinal": {
-                                  "type": "integer"
+                                "exerciseSentences": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "sentenceOrdinal": {
+                                        "type": "number"
+                                      },
+                                      "sentences": {
+                                        "type": "array",
+                                        "items": {
+                                          "type": "string"
+                                        }
+                                      },
+                                      "blankedWords": {
+                                        "type": "array",
+                                        "items": {
+                                          "type": ["string", "number"]
+                                        }
+                                      }
+                                    },
+                                    "required": ["sentenceOrdinal", "sentences", "blankedWords"]
+                                  }
                                 },
                                 "exerciseQuestion": {
                                   "type": ["string", "null"]
                                 },
-                                "exerciseAnswers": {
-                                  "type": ["array", "string", "null"],
-                                  "items": {
-                                    "type": "string"
-                                  }
-                                },
                                 "exerciseMaxAnswer": {
-                                  "type": ["string", "null"]
+                                  "type": ["number", "null"]
                                 },
                                 "exerciseMinAnswer": {
+                                  "type": ["number", "null"]
+                                },
+                                "exerciseAnswers": {
                                   "type": ["string", "null"]
                                 },
                                 "LKUs": {
-                                  "type": ["array", "string", "null"],
-                                  "items": {
-                                    "type": "string"
-                                  }
-                                },
-                                "sentenceAnswerOptions": {
                                   "type": "array",
                                   "items": {
                                     "type": "string"
@@ -194,37 +188,52 @@
                                   "type": "string"
                                 }
                               },
-                              "required": ["sentenceOrdinal", "exerciseQuestion", "exerciseAnswers", "exerciseMaxAnswer", "exerciseMinAnswer", "LKUs"]
+                              "required": ["exerciseSentences"]
                             }
                           },
-                          "explanationBox": {
-                            "type": "array",
+                          "wordBank": {
+                            "type": ["array", "null"],
+                            "items": {
+                              "type": "string"
+                            }
+                          },
+                          "textContents": {
+                            "type": ["array", "null"],
                             "items": {
                               "type": "object",
                               "properties": {
-                                "explanationTitle": {
+                                "paragraphOrdinal": {
+                                  "type": "number"
+                                },
+                                "paragraphTitle": {
                                   "type": "string"
                                 },
-                                "explanationContent": {
+                                "paragraphSubtitles": {
+                                  "type": "array",
+                                  "items": {
+                                    "type": "string"
+                                  }
+                                },
+                                "paragraphContents": {
                                   "type": "array",
                                   "items": {
                                     "type": "string"
                                   }
                                 }
                               },
-                              "required": ["explanationTitle", "explanationContent"]
+                              "required": ["paragraphOrdinal", "paragraphTitle", "paragraphSubtitles", "paragraphContents"]
                             }
                           }
                         },
-                        "required": ["setMarker", "setHeading","exerciseType"]
+                        "required": ["setMarker", "setIgnore", "exerciseInstruction"]
                       }
                     }
                   },
-                  "required": ["partTitle", "partImage", "textContents", "sets"]
+                  "required": ["partTitle", "partImage", "partSubTitle", "sets"]
                 }
               }
             },
-            "required": ["sectionNumber", "sectionTitle", "sectionObjective", "sectionSkills"]
+            "required": ["sectionNumber", "sectionTitle", "sectionObjective", "GKU", "sectionSkills", "sectionPart"]
           }
         }
       },

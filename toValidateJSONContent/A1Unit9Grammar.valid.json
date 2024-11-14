@@ -1,0 +1,608 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 9,
+		"chapterTitle": "Looking back",
+		"chapterQuote": "Study the past if you would define the future. Confucius",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about famous people from the past",
+			"talk about people's achievements",
+			"make recommendations",
+			"write a short biography"
+		],
+		"sections": [
+			{
+				"sectionNumber": 9.1,
+				"sectionTitle": "famous faces",
+				"sectionObjective": "Talk about famous people from the past",
+				"GKU": "Language_Hub_A1_Unit9_Lesson9_1",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple past: was/were"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "dates and years"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "was he / was she"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Simple past:was/ were",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Read the examples from A visit to Madame Tussauds. Underline examples of was and were.",
+								"wordBank": [
+									"were",
+									"were",
+									"was",
+									"were",
+									"was",
+									"was",
+									"wasn't",
+									"weren't"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Why were they famous?"
+												],
+												"blankedWords": [
+													"were"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Were they actors?"
+												],
+												"blankedWords": [
+													"Were"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Was she a model?"
+												],
+												"blankedWords": [
+													"Was"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Her movies were very popular."
+												],
+												"blankedWords": [
+													"were"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"Why was he famous?"
+												],
+												"blankedWords": [
+													"was"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"He was a famous writer."
+												],
+												"blankedWords": [
+													"was"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"He wasn't just a writer."
+												],
+												"blankedWords": [
+													"wasn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"Photographs weren't common."
+												],
+												"blankedWords": [
+													"weren't"
+												]
+											}
+											
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"textMode": null,
+								"exerciseInstruction": "Complete the table with the sentences from Exercise A.",
+								"exercises": null
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Look at Exercises A and B. Complete the rules with was, wasn't, were or weren't.",
+								"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": [
+											"Simple past: was/were"
+										],
+										"paragraphContents": [
+											"Was is the past form of is. Were is the past form of are.",
+											"Wasn't is the past form of isn't. Weren't is the past form of aren't.",
+											"We make yes/no questions with was or were + subject.",
+											"We make wh- questions with a question word + was or were."
+										]
+									}
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"was",
+											"were",
+											"wasn't",
+											"weren't",
+											"was",
+											"were",
+											"was",
+											"were"
+										],
+										"blankedWords": [
+											1, 
+											8,
+											15,
+											22,
+											35,
+											37,
+											49,
+											51
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "SORT TU",
+								"exerciseInstruction": "Put the words in the correct order to make questions.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"Who was Charles Dickens?"
+										],
+										"wordBank": [
+											"Charles",
+											"Dickens",
+											"was",
+											"who"
+										]
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"When was he born?"
+										],
+										"wordBank": [
+											"when",
+											"he",
+											"was",
+											"born"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"Was he from London?"
+										],
+										"wordBank": [
+											"he",
+											"from",
+											"London",
+											"was"
+										]
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"Where was he from?"
+										],
+										"wordBank": [
+											"from",
+											"where",
+											"he",
+											"was"
+										]
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"Were his parents rich?"
+										],
+										"wordBank": [
+											"rich",
+											"were",
+											"his",
+											"Parents"
+										]
+									},
+									{
+										"sentenceOrdinal": 6,
+										"sentences": [
+											"What was his best book?"
+										],
+										"wordBank": [
+											"his",
+											"best",
+											"book",
+											"what",
+											"was"
+										]
+									}									
+								]							
+							},
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 114.",
+								"exercises": null
+							},
+							{
+							"setMarker": "E",
+							"setHeading": "SPEAK",
+							"setImage": null,
+							"setAudioNumber": null,
+							"setIgnore": true,
+							"exerciseType": null,
+							"grammarHub": false,
+							"exerciseInstruction": "Work in pairs. Who was your favorite celebrity when you were young? Why were they famous?",
+							"exercises": []
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 9.2,
+				"sectionTitle": "Voices from the past",
+				"sectionObjective": "Talk about people's achievements",
+				"GKU": "Language_Hub_A1_Unit9_Lesson9_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "Everyday verbs"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "scanning"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple past: regular verbs"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "past tense endings: /d/, /t/ and /ɪd/"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Simple past: regular verbs",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Read the introduction to the article again. Write the simple past: form of the verbs.",
+								"exerciseExample": null,
+								"exercises": null
+							},
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"textMode": null,
+								"exerciseInstruction": "Read the section about Ada Lovelace again and underline the negative verb.",
+								"exercises": null
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "match",
+								"grammarHub": false,
+								"exerciseInstruction": "Match the two parts of each rule (1–4) with (a–d). Use the examples in Exercises A and B to help you.",
+								"exerciseColumnA": [
+									"We add -ed",
+									"We add -d",
+									"With verbs ending in -y",
+									"To form the negative"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"to most verbs"
+												],
+												"exerciseAnswers": 
+													"We add -ed"
+												
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"to verbs ending in -e"
+												],
+												"exerciseAnswers": 
+													"We add -d"
+												
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"we cut the -y and add -ied"
+												],
+												"exerciseAnswers": 
+													"With verbs ending in -y"
+												
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"we use did + not (didn't) before the verb"
+												],
+												"exerciseAnswers": 
+													"To form the negative"
+												
+											}
+											
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Go to the Grammar Hub on page 114.",
+								"exercises": null
+							},
+							{
+								"setMarker": "E",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Complete the sentences with the simple past form of the verbs in parentheses.",
+								"wordBank": [
+									"changed",
+									"tried",
+									"lived",
+									"decided",
+									"planted"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Picasso changed the way we look at art."
+												],
+												"blankedWords": [
+													"changed"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"We tried to find information about Frida Kahlo."
+												],
+												"blankedWords": [
+													"tried"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"William Shakespeare lived in a town called Stratford-upon-Avon."
+												],
+												"blankedWords": [
+													"lived"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Kim decided to write about Ada Lovelace for her project"
+												],
+												"blankedWords": [
+													"decided"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"The women planted trees in the park."
+												],
+												"blankedWords": [
+													"planted"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+							"setMarker": "F",
+							"setHeading": null,
+							"setImage": null,
+							"setAudioNumber": null,
+							"setIgnore": false,
+							"grammarHub": true,
+							"exerciseType": "Grammar SB/without explanation",
+							"exerciseInstruction": "Make the sentences negative.",
+							"wordBank": [
+								"didn't",
+								"study",
+								"art",
+								"didn't",
+								"talk",
+								"a", 
+								"lot",
+								"didn't",
+								"collect",
+								"clothes",
+								"didn't", 
+								"plant",
+								"flowers"
+								
+							],
+							"exercises": [
+								{
+									"exerciseSentences": [
+										{
+											"sentenceOrdinal": 1,
+											"sentences": [
+												"Ada Lovelace studied art.",
+												"Ada Lovelace didn't study art."
+											],
+											"blankedWords": [
+												"didn't",
+												"study",
+												"art"
+											]
+										},
+										{
+											"sentenceOrdinal": 2,
+											"sentences": [
+												"The female characters talked a lot in the book.",
+												"The female characters didn't talk a lot in the book."
+											],
+											"blankedWords": [
+												"didn't",
+												"talk",
+												"a",
+												"lot"
+											]
+										},
+										{
+											"sentenceOrdinal": 3,
+											"sentences": [
+												"Maria Sibylla Merian collected clothes.",
+												"Maria Sibylla Merian didn't collect clothes."
+											],
+											"blankedWords": [
+												"didn't",
+												"collect",
+												"clothes"
+											]
+										},
+										{
+											"sentenceOrdinal": 4,
+											"sentences": [
+												"Wangari Maathai planted flowers.",
+												"Wangari Maathai didn't plant flowers."
+											],
+											"blankedWords": [
+												"didn't",
+												"plant",
+												"flowers"
+											]
+										}
+									
+									]
+								}
+							]
+						}							
+						]
+					}
+				]
+			}
+		]
+	}
+}

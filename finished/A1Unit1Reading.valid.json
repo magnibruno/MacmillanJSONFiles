@@ -16,10 +16,10 @@
 		"sections": [
 			{
 				"sectionNumber": 1.1,
-				"sectionTitle": "Say hello",
-				"sectionObjective": "Talk about where you're from",
-				"GKU": "Language_Hub_A1_Unit1_Lesson1_1",
-				"sectionSkills": [
+				"sectionTitle": "Say hello", = title
+				"sectionObjective": "Talk about where you're from", = main objective 
+				"GKU": "Language_Hub_A1_Unit1_Lesson1_1", 
+				"sectionSkills": [ = bullets
 					{
 						"skillType": "V",
 						"skillName": "Vocabulary",

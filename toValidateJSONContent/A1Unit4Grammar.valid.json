@@ -1,0 +1,500 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 4,
+		"chapterTitle": "Time",
+		"chapterQuote": "Better three hours too soon than a minute too late. William Shakespeare",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about daily routines",
+			"talk about annual routines",
+			"order in a café",
+			"write an email about your routine"
+		],
+		"sections": [
+			{
+				"sectionNumber": 4.1,
+				"sectionTitle": "Every day",
+				"sectionObjective": "Talk about daily routines",
+				"GKU": "Language_Hub_A1_Unit4_Lesson4_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "daily activities; time"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present: I, you, we, they"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "sentence stress"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Simple present be: I, you, we, they",
+						"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": [
+											"Simple present: I, you, we, they"
+										],
+										"paragraphContents": [
+											"I / you / we / they go to work at eight o'clock in the morning.",
+											"I / you / we / they don't go to work at six o'clock in the morning."
+										]
+									},
+									{
+										"paragraphOrdinal": 2,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"I get up at five o'clock in the morning.",
+											"I don't work in the morning."
+										]
+									},
+									{
+										"paragraphOrdinal": 3,
+										"paragraphTitle": null,
+										"paragraphSubtitles": null,
+										"paragraphContents": [
+											"1 In positive sentences with I, you, we, and they we use verb.",
+											"2 In negative sentences with I, you, we, and they we use don't + verb."
+										]
+									}		
+								],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the sentences from the podcast. Are they positive (+) or negative (–)?",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I get up at five o'clock in the morning."
+												],
+												"exerciseAnswers": 
+													"+"
+												,
+												"sentenceAnswerOptions": [
+													"+",
+													"-"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"I don't work in the morning."
+												],
+												"exerciseAnswers": 
+													"-"
+												,
+												"sentenceAnswerOptions": [
+													"+",
+													"-"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the table with the words in the box.",								
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"go",
+											"don't"
+										],
+										"blankedWords": [
+											5,
+											18,
+											19
+										],
+										"LKUs": [
+											"go"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Read the sentences again. Choose the correct option to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"verb",
+											"don't", 
+											"verb"
+										],
+										"blankedWords": [
+											13,
+											26
+										],
+										"LKUs": [
+											"simple present"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 104.",
+								"exercises": null
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Complete the description with the correct positive or negative form of the verbs in the box.",
+								"wordBank": [
+									"don't",
+									"work",
+									"start",
+									"finish",
+									"don't",
+									"get up",
+									"get up",
+									"go"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I'm a doctor. For one week in each month, I don't work during the day."
+												],
+												"blankedWords": [
+													"don't",
+													"work"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"I start my job at ten o'clock in the evening and I finish at eight o'clock in the morning"
+												],
+												"blankedWords": [
+													"start",
+													"finish"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"I don't get up in the morning, like most people."
+												],
+												"blankedWords": [
+													"don't",
+													"get",
+													"up"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"I get up in the evening, and I go to bed in the morning."
+												],
+												"blankedWords": [
+													"get",
+													"up",
+													"go"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "F",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Work in pairs. What times do you think these people get up and go to bed",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 4.2,
+				"sectionTitle": "Every year",
+				"sectionObjective": "Talk about annual routines",
+				"GKU": "Language_Hub_A1_Unit4_Lesson4_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "months and seasons"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "using pictures before you read"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present questions: I, you, we, they"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "do you /ʤʊ/"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Simple present questions: I, you, we, they",
+						"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": [
+											"Simple present questions: I, you, we, they"
+										],
+										"paragraphContents": [
+											"In yes / no questions we use do before I, you, we, and they.",
+											"In wh- questions we use a question word (for example what, where, when …) before do.",
+											"To give short answers to yes/no questions we use do or don't."
+										]
+									}
+								],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "match",
+								"exerciseInstruction": "Read two of the questions from Nomads in Mongolia. Match the questions (a and b) with the correct question type (1 and 2).",
+								"exerciseExample": null,
+								"exerciseColumnA": [
+									"Where do they go?",
+									"Do they live in houses?"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"A yes/no question. The answer can be yes or no."
+												],
+												"exerciseAnswers": 
+													"Do they live in houses?"
+												
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"A wh- question. The answer depends on the question word."
+												],
+												"exerciseAnswers": 
+													"Where do they go?"
+												
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Read the questions again and find their answers in the text. Complete the rules.",								
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"before",
+											"before",
+											"do",
+											"don't"
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 104.",
+								"exercises": null
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "SORT TU",
+								"grammarHub": false,
+								"exerciseInstruction": "Reorder the words to make questions.Choose the correct question type.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"When do you go to work in the morning?"
+										],
+										"wordBank": [
+											"go",
+											"to",
+											"work",
+											"you",
+											"when",
+											"in",
+											"the",
+											"morning",
+											"do"
+										]
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"Do you go to another country in the summer?"
+										],
+										"wordBank": [
+											"you",
+											"go",
+											"to",
+											"another",
+											"country",
+											"in",
+											"the",
+											"summer",
+											"do"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"Who do you talk to in the evening?"
+										],
+										"wordBank": [
+											"talk",
+											"to",
+											"in",
+											"the",
+											"evening",
+											"you",
+											"do",
+											"who"
+										]
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"Do you live in the same place all year?"
+										],
+										"wordBank": [
+											"in",
+											"the",
+											"same",
+											"place",
+											"live",
+											"you",
+											"do",
+											"all",
+											"year"
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Ask and answer the question in Exercise D.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

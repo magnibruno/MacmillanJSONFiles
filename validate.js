@@ -4,6 +4,13 @@ const jsonlint = require('jsonlint');
 const path = require('path');
 
 try {
+  // Get the schema file path from command-line arguments
+  const schemaFilePath = process.argv[2];
+  if (!schemaFilePath) {
+    console.error('Please provide the schema file path as an argument.');
+    process.exit(1);
+  }
+
   // Define the directories
   const sourceDirectory = path.join(__dirname, 'toValidateJSONContent');
   const destinationDirectory = path.join(__dirname, 'validatedJSONContent');
@@ -30,7 +37,7 @@ try {
   jsonlint.parse(data); // This will throw an error if the JSON is invalid
 
   // Load the schema
-  const schema = JSON.parse(fs.readFileSync('.schema.json', 'utf8'));
+  const schema = JSON.parse(fs.readFileSync(schemaFilePath, 'utf8'));
 
   // Initialize Ajv
   const ajv = new Ajv();

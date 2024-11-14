@@ -1,0 +1,534 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": "1",
+		"chapterTitle": "Nice to meet you!",
+		"chapterQuote": "The language of friendship is not words but meanings. Henry David Thoreau",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about where you're from'",
+			"introduce a friend",
+			"greet people",
+			"fill in a form"
+		],
+		"sections": [
+			{
+				"sectionNumber": 1.1,
+				"sectionTitle": "Say hello",
+				"sectionObjective": "Talk about where you're from",
+				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "countries"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "syllables and syllable stress"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "numbers 0-10"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present simple be: I, you"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Simple present be: I, you",
+						"textContents": [
+								{
+									"paragraphOrdinal": 1,
+									"paragraphTitle": "WORK IT OUT",
+									"paragraphSubtitles": [
+										"am/are"
+									],
+									"paragraphContents": [
+										"I'm from Spain.",
+										"You're from Turkey.",
+										"I'm not from New York.",
+										"You're not from Toronto.",
+										"Are you from Brazil? No, I'm not."
+									]
+								}
+							],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": 1.6,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "TSS dictate",
+								"exerciseInstruction": "Listen to the examples. Underline the verbs.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I'm from Spain."
+												],
+												"blankedWords": [
+													1
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Are you from Madrid?"
+												],
+												"blankedWords": [
+													1
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"No, I'm not. I'm from Bilbao."
+												],
+												"blankedWords": [
+													2
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Circle the correct verb.",								
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": "",
+										"sentenceAnswerOptions": [
+											"I'm",
+											"You're",
+											"not",
+											"are"
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Complete the conversations with the words in the box.",
+								"wordBank": [
+									"am",
+									"are",
+									"I",
+									"I'm",
+									"no",
+									"not",
+									"yes",
+									"you"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"A: Are you from Italy?",
+													"B: Yes, I am."
+												],
+												"blankedWords": [
+													"Are"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"A: Hello. Are you from Brazil?",
+													"B: Yes, I am."
+												],
+												"blankedWords": [
+													"am"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"A: Are you from Australia?",
+													"B: Yes, I am."
+												],
+												"blankedWords": [
+													"you"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"A: Are you from Morocco?",
+													"B: Yes, I am."
+												],
+												"blankedWords": [
+													"Yes"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"A: Are you from Canada?",
+													"B: No, I'm not."
+												],
+												"blankedWords": [
+													"No"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"A: Good morning. Are you from Argentina?",
+													"B: Yes, I am."
+												],
+												"blankedWords": [
+													"I"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"A: Hello Lisa. Are you from China?",
+													"B: No, I'm not."
+												],
+												"blankedWords": [
+													"No"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"A: Are you from Mexico?",
+													"B: No, I'm not."
+												],
+												"blankedWords": [
+													"I'm"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 1.2,
+				"sectionTitle": "What's your job?",
+				"sectionObjective": "Introduce a friend",
+				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "jobs"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "identifying personal pronouns"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present be: he, she, it"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "contractions with be"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Simple present be: he, she, it",
+						"textContents": [
+									{
+										"paragraphOrdinal": 1,
+										"paragraphTitle": "WORK IT OUT",
+										"paragraphSubtitles": [
+											"Simple present be: he, she, it"
+										],
+										"paragraphContents": [
+											"Positive: He / She / It's nice.",
+											"Negative: He / She / It isn't nice.",
+											"Question: Is he / she / it fun?"
+										]
+									}
+								],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Read the examples from the emails. Underline the verbs.",
+								"exerciseExample": null,
+								"wordBank": [
+									"It's",
+									"isn't",
+									"is",
+									"How's"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"It's a small team with five people."
+												],
+												"blankedWords": [
+													"It's"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"My manager isn't very friendly, but she's OK."
+												],
+												"blankedWords": [
+													"isn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"My colleague Anton is nice."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"How's your new job? Is it fun?"
+												],
+												"blankedWords": [
+													"How's"
+												]
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the table with 's, is or isn't.",								
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"It's",
+											"isn't",
+											"Is"
+										],
+										"LKUs": [
+											"be"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the email with the words in the box.",
+								"wordBank": [
+									"he's",
+									"is",
+									"is",
+									"is",
+									"is",
+									"isn't",
+									"it's",
+									"she's"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Hi Tina!"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"I'm at work but I'm not very busy."
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"My manager isn't here today because she is in New York City."
+												],
+												"blankedWords": [
+													"isn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Her name is Sandra and she's very nice."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"The job is fun and I'm very happy here."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Henri is my colleague."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"He's very friendly."
+												],
+												"blankedWords": [
+													"He's"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"We're on the design team."
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 9,
+												"sentences": [
+													"It's a small team with four people."
+												],
+												"blankedWords": [
+													"it's"
+												]
+											},
+											{
+												"sentenceOrdinal": 10,
+												"sentences": [
+													"See you soon!"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 11,
+												"sentences": [
+													"Love,"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 12,
+												"sentences": [
+													"Annette"
+												],
+												"blankedWords": []
+											}
+										]
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Look at the verbs in the first two sentences in Exercise A. What are the full forms of these verbs?",
+								"exercises": null
+							},
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Ask questions about your classmates.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

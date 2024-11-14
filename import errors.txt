@@ -1,0 +1,8 @@
+Errors
+exerciseAnswers must be a string and not an array
+
+blankedWords => sentenceAnswerOptions
+
+All Exercises must bu inside sets > Exercises
+
+Typo errors, in word bank (like alsointeresting => also interesting )

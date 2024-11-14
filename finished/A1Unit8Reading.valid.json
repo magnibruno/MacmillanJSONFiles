@@ -185,7 +185,7 @@
 										"exerciseQuestion": "Can Imogen see Claus when she arrives at the station?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["No"],
+										"exerciseAnswers": "No",
 										"LKUs": [
 											"see",
 											"station"
@@ -202,7 +202,7 @@
 										"exerciseQuestion": "Can Claus see Imogen?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["No"],
+										"exerciseAnswers": "No",
 										"LKUs": ["see"],
 										"sentenceAnswerOptions": [
 											"Yes",
@@ -216,7 +216,7 @@
 										"exerciseQuestion": "Where is Imogen?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["Near the shop."],
+										"exerciseAnswers": "Near the shop.",
 										"LKUs": ["be"],
 										"sentenceAnswerOptions": [
 											"Near the shop.",
@@ -230,7 +230,7 @@
 										"exerciseQuestion": "Why are the police watching Claus?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["Gray coat and a bag."],
+										"exerciseAnswers": "Gray coat and a bag.",
 										"LKUs": ["watch"],
 										"sentenceAnswerOptions": [
 											"Gray coat and a bag.",
@@ -244,7 +244,7 @@
 										"exerciseQuestion": "Is Claus the man the police are looking for?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["No"],
+										"exerciseAnswers": "No",
 										"LKUs": ["look for"],
 										"sentenceAnswerOptions": [
 											"No",
@@ -258,7 +258,7 @@
 										"exerciseQuestion": "Is the bag Claus’s bag or Imogen’s bag?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["Imogen’s"],
+										"exerciseAnswers": "Imogen’s",
 										"LKUs": ["bag"],
 										"sentenceAnswerOptions": [
 											"Imogen’s",

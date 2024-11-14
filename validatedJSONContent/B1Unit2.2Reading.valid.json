@@ -1,0 +1,313 @@
+{
+	"book": "American Language Hub",
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": "2",
+		"chapterTitle": "LIVING",
+		"chapterQuote": "Home is not where you live, but where they understand you. Christian Morgenstern",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about your neighborhood", 
+			"talk about your life and routine", 
+			"talk about life events",
+			"ask for and give advice",
+			"write an email of complaint"
+		],
+		"sections": [
+			{
+				"sectionNumber": 2.3,
+				"sectionTitle": "Time flies",
+				"sectionObjective": "Talk about life events",
+				"GKU": "Language_Hub_B1_Unit1_Lesson2.3",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "simple past – regular and irregular verbs",
+						"skillTitle": ""
+					},
+					{
+						"skillType": "P",
+						"skillName": "Simple past irregular verbs /ɔː/, /e/ and /eɪ/",
+						"skillTitle": ""
+					},
+					{
+						"skillType": "V",
+						"skillName": "life events",
+						"skillTitle": ""
+					},
+					{
+						"skillType": "S",
+						"skillName": "skimming for key words",
+						"skillTitle": ""
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle":"A Work in pairs. Read the sentence from the article and discuss the questions.",
+						"textMode": "",
+						"textContents": [
+							{
+								"paragraphOrdinal": 0,
+								"paragraphTitle": "null",
+								"paragraphSubtitles": [],
+							    "paragraphContents": ["When I was young, … a year was such a long time. Now I’m an adult,time passes so quickly."]
+							},
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Do you agree with this sentence? Why/Why not?"]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": ["Can you think of an example when time passed quickly or slowly for you?"]
+							}
+						],
+						"sets":[
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR MAIN IDEA Read When did the years get shorter? quickly and match the headings (a–e) with each theory in the text (1–4). There is one heading you do not need. Use the information in the box to help you.",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": null
+							},							
+							{							
+								"setMarker": "",
+								"setHeading": "Skimming for key words",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "null",
+								"exerciseInstruction": "When you read an article for the first time, look for clues to help you understand the main idea of each paragraph.",
+								"exercises": [
+									{
+										"sentenceOrdinal":  1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "null",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["null"],
+										"LKUs": [
+										],
+										"sentenceAnswerOptions": [
+											"Look for key words. These could be numbers or the same words repeated.",
+											"Look for words connected to the main topic.",
+											"Look at the first sentence of each paragraph to help you understand the topic.",
+											"a The race against time",
+											"b From spring to winter",
+											"c New experiences slow down time",
+											"d It’s all about the numbers",
+											"e Counting the days"]
+									}	
+								]
+							},
+							{
+								"setMarker": "",
+								"setHeading": "When did the years get shorter?",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "By Stefan Nyberg January 10, 2019",
+								"exercises": [
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": null,
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["null"],
+										"LKUs": null,	 
+										"sentenceAnswerOptions":["When I was young, the school summer vacation was six weeks long – it felt like forever.",
+										"A year was such a long time! Now I’m an adult, time passes so quickly. Why does time seem to fly as we get older?",
+										"Psychologists have several theories about this. Here are the most popular ones:",
+										"Theory 1:___ The first theory is mathematical. When you were 5 years old, a year was 20 percent of your life, so it seemed like a long time.",
+										"When you are 50 years old, a year is only 2 percent of your life, so it seems much shorter. Time can feel very different if you are a child or an adult.",
+										"Theory 2:____As children, we didn’t have as much to worry about – we started school and studied, then we came home and played with our friends.",
+										"Adult life is fast, busy and stressful – it’s difficult to do everything we want to do. Days can be tiring. Many of us feel that there isn’t enough time in the day.",
+										"Time seems to pass very quickly because as adults we tend to rush to do something and then move on to the next job with no time to stop and think.",
+										"Theory 3:____ As children we knew exactly how many days it was until our next birthday or holiday. All that counting and waiting made the days seem to pass much more slowly.",
+										"Some psychologists suggest adults don’t notice time passing because they are focused on ‘boring adult stuff’, like shopping or housework.",
+										"The days, weeks and months pass quickly. Suddenly,another year is over and a new one is beginning.",
+										"Theory 4:____ The routines of work and family life mean that, for many adults, the days all feel the same. This is different from our early lives, which were full of exciting first-time experiences.",
+										"Back then, we started school and studied new things. Then we took exams, went on our first dates and learned to drive.",
+										"When we look back on all these first-time experiences, we feel that the years were much longer because so many new things happened.",
+										"All these theories have something in common: there is a clear difference between the way adults and children experience time.",
+										"Perhaps we need to learn from children and slow down a little more. Stop, look around, notice the blossom on the trees in the spring and the leaves changing color in the fall.",
+										"The earth will keep spinning, but we are only here for a short time. Let’s enjoy it!"]
+,										"context": "null"
+									}
+								]
+							},
+							{
+								"setMarker": "",
+								"setHeading": "Glossary",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": ["null"],
+										"LKUs": null,	
+										"sentenceAnswerOptions":["routine (n) your usual way of doing things",
+										"stressful (adj) involving or causing a lot of pressure or worry",
+										"theory (n) an idea that explains how or why something happens"],
+										"context": "null"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "READ FOR DETAIL Read again. Are the sentences true (T) or false (F)? Correct the false sentences.",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Time moved more quickly when the writer was a child.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": null,	
+										"sentenceAnswerOptions":["a long time."],
+										"context": "null"
+									}
+								]
+							},
+							{
+							"setMarker": "2",
+							"setHeading": "",
+							"textImage": "",
+							"setAudioNumber": null,
+							"setIgnore": true,
+							"exerciseType": null,
+							"exerciseInstruction": "",
+							"exercises": [
+								{
+									"sentenceOrdinal": 1,
+									"paragraphOrdinal": null,
+									"exerciseQuestion": "As we grow old, every year becomes a smaller percentage of our life.",
+									"exerciseMinAnswer": null,
+									"exerciseMaxAnswer": null,
+									"exerciseAnswers": "T",
+									"LKUs": null,	
+									"sentenceAnswerOptions":["a year is only 2 per cent of your life"],
+									"context": "null"
+								},
+								{
+									"sentenceOrdinal": 2,
+									"paragraphOrdinal": null,
+									"exerciseQuestion": "Many adults feel they have too much free time.",
+									"exerciseMinAnswer": null,
+									"exerciseMaxAnswer": null,
+									"exerciseAnswers": "F",
+									"LKUs": null,	
+									"sentenceAnswerOptions":["it’s difficult to do everything we want to do. Days can be tiring. Many of us feel that there isn’t enough time in the day."],
+									"context": "null"
+								},
+								{
+									"sentenceOrdinal": 3,
+									"paragraphOrdinal": null,
+									"exerciseQuestion": "Time slows down if we are looking forward to an event.",
+									"exerciseMinAnswer": null,
+									"exerciseMaxAnswer": null,
+									"exerciseAnswers": "T",
+									"LKUs": null,	
+									"sentenceAnswerOptions":["All that counting and waiting made the days seem to pass much more slowly."],
+									"context": "null"
+								}
+								]
+							},
+							{
+								"setMarker": "5",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "New experiences can help to slow down time.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"LKUs": null,
+                                        "sentenceAnswerOptions":["we feel that the years were much longer because so many new things happened."],
+										"context": "null"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "All the theories agree that adults and children experience time differently.",
+									    "exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"LKUs": null,
+                                        "sentenceAnswerOptions":["All these theories have something in common: there is a clear difference between the way adults and children experience time."],										
+										"context": ""
+									}
+								]
+							},
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK Work in pairs. Which theories in the article best explain why time seems to fly as we get older? Why? Give examples from your own life.",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "",
+								"exercises": [
+							       {
+									    "sentenceOrdinal": 1,
+											"paragraphOrdinal": null,
+											"exerciseQuestion": "A: I like the one about ...",
+											"exerciseMinAnswer": null,
+											"exerciseMaxAnswer": null,
+											"exerciseAnswers": "",
+											"LKUs": null,	
+											"sentenceAnswerOptions": [""],
+											"context":""
+									},
+									{
+									    "sentenceOrdinal": 2,
+											"paragraphOrdinal": null,
+											"exerciseQuestion": "B: I think Theory 3 is best because ...",
+											"exerciseMinAnswer": null,
+											"exerciseMaxAnswer": null,
+											"exerciseAnswers": "",
+											"LKUs": null,	
+											"sentenceAnswerOptions": [""],
+											"context":""
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

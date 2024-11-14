@@ -79,7 +79,7 @@
 										"exerciseQuestion": null,
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": [
+										"sentenceAnswerOptions": [
 											"canals",
 											"buildings",
 											"market",

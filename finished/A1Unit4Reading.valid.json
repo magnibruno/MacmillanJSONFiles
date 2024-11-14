@@ -3,7 +3,7 @@
 	"CEFRLevel": "A1",
 	"dialect": "American",
 	"chapter": {
-		"chapterUnit": 4,
+		"chapterUnit": "4",
 		"chapterTitle": "Time",
 		"chapterQuote": "Better three hours too soon than a minute too late. William Shakespeare",
 		"chapterFrontImage": "",
@@ -120,7 +120,7 @@
 								"setHeading": "PREPARE TO READ",
 								"textImage": "",
 								"setAudioNumber": null,
-								"setIgnore": false,
+								"setIgnore": true,
 								"exerciseType": "word bank",
 								"exerciseInstruction": "Match the words in the box with the pictures (a–d) in Nomads in Mongolia opposite.",
 								"exercises": [
@@ -130,7 +130,7 @@
 										"exerciseQuestion": null,
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": [
+										"sentenceAnswerOptions": [
 											"hills",
 											"horses",
 											"river",

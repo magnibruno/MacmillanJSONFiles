@@ -1,300 +1,485 @@
 {
-	"book": "American Language Hub",
-	"CEFRLevel": "B2",
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
 	"dialect": "American",
 	"chapter": {
-		"chapterUnit": 1,
-		"chapterTitle": "RELATIONSHIPS",
-		"chapterQuote": "My best friend is the one who brings out the best in me. Henry Ford",
+		"chapterUnit": "1",
+		"chapterTitle": "Arrivals",
+		"chapterQuote": "I am a citizen of the world. Socrates",
 		"chapterFrontImage": "",
 		"chapterObjectives": [
-			"find out about someone new", 
-			"talk about different types of people", 
-			"greet people and give personal information,make introductions",
-			"write information about yourself"
+			"talk about countries and nationalities",
+			"ask and answer questions about a place",
+			"talk about everyday items",
+			"greet people and make introductions",
+			"fill in a form with personal details"
 		],
 		"sections": [
 			{
-				"sectionNumber": 1.2,
-				"sectionTitle": "Blogs and bloggers",
-				"sectionObjective": "Talk about different types of people",
-				"GKU": "Language_Hub_A2_Unit1_Lesson1.2",
+				"sectionNumber": 1.1,
+				"sectionTitle": "People and places",
+				"sectionObjective": "Talk about countries and nationalities",
+				"GKU": "Language_Hub_A2_Unit1_Lesson1_1",
 				"sectionSkills": [
 					{
 						"skillType": "V",
-						"skillName": "types of people",
-						"skillTitle": ""
+						"skillName": "Vocabulary",
+						"skillTitle": "countries and nationalities"
 					},
 					{
 						"skillType": "P",
-						"skillName": "using a dictionary",
-						"skillTitle": ""
+						"skillName": "Pronunciation",
+						"skillTitle": "syllable stress"
 					},
 					{
 						"skillType": "G",
-						"skillName": "frequency words and phrases",
-						"skillTitle": ""
+						"skillName": "Grammar",
+						"skillTitle": "simple present be: positive and negative"
 					}
-				],			
+				],
+				"hasReading": false
+			},
+			{
+				"sectionNumber": 1.2,
+				"sectionTitle": "Where are you?",
+				"sectionObjective": "Ask and answer questions about a place",
+				"GKU": "Language_Hub_A2_Unit1_Lesson1_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "big numbers"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "similar numbers"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present be: questions"
+					}
+				],
 				"hasReading": true,
 				"sectionPart": [
 					{
 						"partTitle": "READING",
 						"partImage": "",
-						"partSubTitle":"A Work in groups. Discuss the questions",
+						"partSubTitle": null,
 						"textMode": "full article",
 						"textContents": [
 							{
 								"paragraphOrdinal": 1,
-								"paragraphTitle": "null",
-								"paragraphSubtitles": [""],
-							    "paragraphContents": ["Which websites do you visit most often and why?"]
+								"paragraphTitle": "Carlos",
+								"paragraphSubtitles": [
+									"Typing..."
+								],
+								"paragraphContents": [
+									"Hi Carlos! Where am I?"
+								]
 							},
 							{
 								"paragraphOrdinal": 2,
 								"paragraphTitle": null,
 								"paragraphSubtitles": null,
-								"paragraphContents": ["Which blogs, vlogs (video blogs) or video channels do you know or follow?"]
+								"paragraphContents": [
+									"Hi Lee. I don’t know. Where are you?"
+								]
 							},
 							{
 								"paragraphOrdinal": 3,
 								"paragraphTitle": null,
 								"paragraphSubtitles": null,
-								"paragraphContents": ["What kind of topics do you enjoy reading about online?"]
-							}	
-						],
-						"sets": [						
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR MAIN IDEA",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Read Three of the best quickly. Which blog sounds most interesting to you and why?",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": " Three of the best",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["Blogs by Calvin Norton"],
-										"LKUs": [],
-										"sentenceAnswerOptions": [
-											"With over 150 million blogs online, there is something for every type of person from the animal lover to the gamer to the sports fan.",
-											"But, if you are looking for something a little different, here are my top three blogs."]
-									}
+								"paragraphContents": [
+									"I’m 6,028 miles from home - that’s 13 hours by plane."
 								]
 							},
 							{
-								"setMarker": "1",
-								"setHeading": "Brain Pickings",
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									":/"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I’m in Japan! It’s amazing :). The picture is from my hotel window. There are thousands of people everywhere. It’s always busy."
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Wow! Where are you in Japan? Is the food good? Is it hot there? Tell me more!!!"
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I’m in Tokyo. Yes, the food is really good. There are hundreds of great restaurants. Is it hot here? It’s very HOT. It’s 30 degrees every day. How are you? Is work busy?"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I’m fine. Work isn’t busy – everyone is on vacation. Except me!"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"textMode": "full article",
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Work with a partner. Look at the picture in the text message below. Where is it?"
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR GIST",
 								"textImage": "",
 								"setAudioNumber": null,
 								"setIgnore": false,
-								"exerciseType": "null",
-								"exerciseInstruction": "",
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": null,
 								"exercises": [
 									{
 										"sentenceOrdinal": 1,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "null",
+										"exerciseQuestion": "Read the messages between Carlos and Lee. Where is Lee?",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": [],
+										"exerciseAnswers": "Tokyo, Japan",
+										"LKUs": [
+											"Japan"
+										],
 										"sentenceAnswerOptions": [
-											"Maria Popova is a book lover, music fan and writer. Her blog Brain Pickings is a collection of articles about history, news, books and culture.",
-											"Maria is interested in reading and spends hundreds of hours each month doing research for her blog. It’s an extremely popular blog and many people enjoy Maria’s interesting mix of articles."]
+											"work",
+											"Tokyo, Japan"
+										],
+										"context": "textContents"
 									}
 								]
-							},
-							{
-								"setMarker": "2",
-								"setHeading": "The Atlas of Beauty",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "null",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null,	
-										"sentenceAnswerOptions":[
-										"The Atlas of Beauty is a picture blog showing beauty in different cultures.",
-										"Romanian photographer, blogger and traveler Michela Noroc takes pictures of women of all ages, races and nationalities living their everyday lives.",
-										"It’s a wonderful collection which shows that beauty can be found everywhere."],
-										"context": "null"
-									}
-								]
-							},
-							{
-								"setMarker": "3",
-								"setHeading": "Emma’s Bucket List.",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "null",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null,	
-										"sentenceAnswerOptions":["After her father and step-father died, Emma Stewart Rigby decided to live a full and exciting life.",
-										"Emma, a mother of three, made a list of 246 things to do before she dies and in her blog she writes about her experiences.",
-										"Emma is a people person and gives a lot of friendly advice on life.",
-										"She’s also a foodie, and her bucket list includes unusual foods or interesting restaurants she plans to try.",
-										"A great blog for ideas on how to live life to the max!"],
-										"context": "null"
-									}
-								]
-							},
-							{
-								"setMarker": "4",
-								"setHeading": "Glossary.",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "null",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null,	
-										"sentenceAnswerOptions":["blog (n) a website containing short articles called posts that are changed regularly",
-										"blog (v) to write short articles for a website on your opinions, interests and experiences",
-										"culture (n) activities which involve music, books and other arts",
-										"subscriber (n) someone who joins and follows a blog"],	
-										"context": "null"
-									}
-								]
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR MAIN IDEA Read Three of the best quickly. Which blog sounds most interesting to you and why? ",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "",
-								"exercises": []
 							},
 							{
 								"setMarker": "C",
-								"setHeading": "READ FOR DETAIL Read again. Complete each sentence with the name of a blogger, Emma, Maria or Michela. ",
+								"setHeading": "READ FOR DETAIL",
 								"textImage": "",
 								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "",
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read again. Are the sentences true (T) or false (F)?",
 								"exercises": [
 									{
 										"sentenceOrdinal": 1,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "_____________is interested in visiting people around the world.",
-										"exerciseMinAnswer": "Michela",
-										"exerciseMaxAnswer": "Michela Noroc",
-										"exerciseAnswers": ["Michela Noroc"],
-										"LKUs": null,										
-										"context": ""
+										"exerciseQuestion": "Japan is far from where Carlos and Lee live.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"LKUs": [
+											"far",
+											"live"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 2,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "_____________has children.",
-									  "exerciseMinAnswer": "Emma",
-										"exerciseMaxAnswer": "Emma Stewart Rigby",
-										"exerciseAnswers": ["Emma Stewart Rigby"],
-										"LKUs": null,										
-										"context": ""
+										"exerciseQuestion": "The picture is from Carlos’s work.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": [
+											"picture",
+											"work"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 3,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "_____________writes about a variety of subjects.",
-										"exerciseMinAnswer": "Maria",
-										"exerciseMaxAnswer": "Maria Popova",
-										"exerciseAnswers": ["Maria Popova"],
-										"LKUs": null,										
-										"context": ""
+										"exerciseQuestion": "It isn’t hot where Lee is.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": [
+											"hot"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 4,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "_____________has a high number of readers.",
-										"exerciseMinAnswer": "Maria",
-										"exerciseMaxAnswer": "Maria Popova",
-										"exerciseAnswers": ["Maria Popova"],
-										"LKUs": null,										
-										"context": ""
+										"exerciseQuestion": "Lee likes Japanese food.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"LKUs": [
+											"Japanese"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
 									},
 									{
 										"sentenceOrdinal": 5,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "_____________is interested in trying new things.",
-										"exerciseMinAnswer": "Emma",
-										"exerciseMaxAnswer": "Emma Stewart Rigby",
-										"exerciseAnswers": ["Emma Stewart Rigby"],
-										"LKUs": null,										
-										"context": ""
-									},
-									{
-										"sentenceOrdinal": 6,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "_____________wants people to understand that everyone is beautiful.",
-										"exerciseMinAnswer": "Michela",
-										"exerciseMaxAnswer": "Michela Noroc",
-										"exerciseAnswers": ["Michela Noroc"],
-										"LKUs": null,										
-										"context": ""
+										"exerciseQuestion": "Carlos is very busy at work.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": [
+											"busy"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
 									}
+								]
+							}
+						]
+					}
+				]
+			},	
+			{
+				"sectionNumber": 1.3,
+				"sectionTitle": "What’s in your bag?",
+				"sectionObjective": "Talk about everyday items",
+				"GKU": "Language_Hub_A2_Unit1_Lesson1_3",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "everyday items"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "a/an and plural nouns; this, that, these, those"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ɪ/ /æ/ /iː/ /oʊ/"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "reading for gist"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "What’s in your carry-on bag?",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Three travel experts talk about the things in their carry-on bag when they go on a plane."
 								]
 							},
 							{
-								"setMarker": "D",
-								"setHeading": "SPEAK",
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "Bruce",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I don’t carry a lot of luggage when I go on a plane. My bag is very small. I have a bottle of water and tissues. That’s it. I buy the water at the airport once I am through security. I usually sleep on a plane."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": "Wei",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I never use a suitcase. I put everything in my carryon bag, so there’s no need to wait at baggage claim. My carry-on bag is very heavy, but that’s OK. I have two watches. I wear one and I put one in my bag, so I always know what time it is at home. I travel to lots of countries. I just want to get off the plane and leave the airport as soon as I can."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "Elif",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I always have a laptop and my phone in my carry-on bag when I go on a plane. I usually have an umbrella and my keys. Flying is a good time to do my work. I can relax at home."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "READ FOR GIST",
 								"textImage": "",
 								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Discuss the questions",
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": null,
 								"exercises": [
 									{
 										"sentenceOrdinal": 1,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "null",
+										"exerciseQuestion": "Read What’s in your carry-on bag? What is the text about? Things people …",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null,	
-										"sentenceAnswerOptions":["1 Is running a blog a difficult job?",
-										"2 Why do these people spend so much time on their blogging activities?",
-										"3 What topic would you blog about?"],
-										"context":""
+										"exerciseAnswers": "take on a plane.",
+										"LKUs": [
+											"plane",
+											"work",
+											"party"
+										],
+										"sentenceAnswerOptions": [
+											"take to work.",
+											"take to a party.",
+											"take on a plane."
+										],
+										"context": "textContents"
+									}
+								],
+								"explanationBox": [
+									{
+										"explanationTitle": "Reading for gist",
+										"explanationContent": [
+											"When you read a text for the first time, it is important to get a general idea of what it is about. Think about:",
+											"the title of the text and the pictures",
+											"the general topic",
+											"key words"
+										]
+									}
+								]									
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR DETAIL",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseInstruction": "Read the text again. Are the sentences true (T) or false (F)?",
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read the text again. Are the sentences true (T) or false (F)?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Bruce’s bag is very big.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": [
+											"bag",
+											"big"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Bruce takes a bottle of water and tissues on the plane.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"LKUs": [
+											"bottle",
+											"tissue"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Wei never uses a suitcase.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "T",
+										"LKUs": [
+											"suitcase"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Wei always has his watch and a wallet in his bag.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": [
+											"watch",
+											"wallet"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Elif likes to relax on the plane.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "F",
+										"LKUs": [
+											"relax"
+										],
+										"sentenceAnswerOptions": [
+											"F",
+											"T"
+										],
+										"context": "textContents"
 									}
 								]
-							}							
+							}
 						]
 					}
 				]
-			}	
+			}
 		]
 	}
 }

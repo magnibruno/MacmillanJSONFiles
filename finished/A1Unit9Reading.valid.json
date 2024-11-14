@@ -142,7 +142,7 @@
 										"exerciseQuestion": "Goodnight stories for rebel girls is about",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["real women"],
+										"exerciseAnswers": "real women",
 										"LKUs": [
 											"real",
 											"woman"
@@ -169,7 +169,7 @@
 										"exerciseQuestion": "There are female characters in all children’s books.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["F"],
+										"exerciseAnswers": "F",
 										"LKUs": [
 											"character",
 											"book"
@@ -185,7 +185,7 @@
 										"exerciseQuestion": "Some female characters in children’s books don’t say anything.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["T"],
+										"exerciseAnswers": "T",
 										"LKUs": [
 											"real",
 											"woman"
@@ -201,7 +201,7 @@
 										"exerciseQuestion": "The writers of Goodnight stories for rebel girls are men.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["F"],
+										"exerciseAnswers": "F",
 										"LKUs": [
 											"writer",
 											"girl"
@@ -217,7 +217,7 @@
 										"exerciseQuestion": "Maria Sibylla Merian was a mathematician.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["F"],
+										"exerciseAnswers": "F",
 										"LKUs": [
 											"be",
 											"mathematician"
@@ -233,7 +233,7 @@
 										"exerciseQuestion": "Ada Lovelace was a computer programmer.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["F"],
+										"exerciseAnswers": "F",
 										"LKUs": [
 											"computer programmer",
 											"be"
@@ -249,7 +249,7 @@
 										"exerciseQuestion": "Wangari Maathai was the winner of an important prize.",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
-										"exerciseAnswers": ["T"],
+										"exerciseAnswers": "T",
 										"LKUs": [
 											"winner",
 											"prize"

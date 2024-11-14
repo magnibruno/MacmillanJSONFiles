@@ -1,0 +1,509 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": "5",
+		"chapterTitle": "Places",
+		"chapterQuote": "It is good people who make good places. Anna Sewell",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe a home",
+			"describe a neighborhood",
+			"describe an interesting building",
+			"ask for and give directions",
+			"write a description of a place"
+		],
+		"sections": [
+			{
+				"sectionNumber": 5.1,
+				"sectionTitle": "There’s no place like home",
+				"sectionObjective": "Describe a home",
+				"GKU": "Language_Hub_A2_Unit5_Lesson5_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "rooms and furniture; prepositions of place"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/b/, /d/ and /g/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "there is/are"
+					}
+				],
+				"hasReading": false
+			},
+			{
+				"sectionNumber": 5.2,
+				"sectionTitle": "My neighborhood",
+				"sectionObjective": "Describe a neighborhood",
+				"GKU": "Language_Hub_A2_Unit5_Lesson5_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "places in a town or city"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "can"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "weak forms: can/can’t"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle":  "Chicago Expats",
+								"paragraphSubtitles": ["amazinggrace26"],
+								"paragraphContents": [
+									"Hi, people of Chicago! My name’s Grace. I’m 26 and I’m a nurse in the Philippines. I have a new job at the University Hospital in Hyde Park, and I’m a little nervous because this is my first time abroad. Can you tell me something about the neighborhood? What is there to do in Hyde Park? I like warm weather, and my hobbies are reading and keeping fit.",
+									"Yesterday, 08:39 Reply | Like"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"Marco" 
+								],
+								"paragraphContents": [
+									"Hi Grace. I work at the University Hospital, too. There are a lot of things you can do in Hyde Park. There are some good restaurants and cafés, and Jackson Park nearby is really nice. Can you play tennis? There are some very good tennis courts in Jackson Park. There’s even a science museum there, too!",
+									"Yesterday, 12:21 Reply | Like"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["amazinggrace26"],
+								"paragraphContents": [
+									"Thanks, Marco. It sounds great. I can’t play tennis, but I’d like to learn! And the museum sounds wonderful! Is there a gym at the hospital? I like to swim and keep fit.",
+									"Yesterday, 15:05 Reply | Like"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["Marco"],
+								"paragraphContents": [
+									"There isn’t a gym at the hospital, but there is one very close to it. And it’s cheap for people who work at the hospital :)",
+									"Yesterday, 17:12 Reply | Like"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["helen264"],
+								"paragraphContents": [
+									"Hi, Grace. Hyde Park is nice, but for me, it can be boring. I prefer the city center – it’s only 20 minutes away. You can go to the theater, stores and to see a movie. Sorry, but I can’t promise you good weather! Chicago is often cold!",
+									"Today, 09:45 Reply | Like"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["amazinggrace26"],
+								"paragraphContents": [
+									"Thanks for your advice, @Helen264. I feel really excited about Chicago now!"
+								]
+							}
+						],
+						"glossaryBox": [
+							{
+								"glossaryTitle": "Glossary",
+								"explanationContent": [
+									"expat (n) someone who lives in a country that is not their own"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,							
+								"exerciseType": "highlight",
+								"exerciseInstruction": null,
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Read the comments in the Chicago Expat Forum. Who is Grace?",
+										"exerciseMaxAnswer": "a nurse in the Philippines.",
+										"exerciseMinAnswer": "a nurse",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"nurse"
+								
+										]
+									}
+								]								
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR SPECIFIC INFORMATION",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read the comments again and answer the questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Where is Grace from?",
+										"exerciseMinAnswer": "the Philippines",
+										"exerciseMaxAnswer": "My name’s Grace.I’m 26 and I’m a nurse in the Philippines.",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"the Philippines",
+											"from"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Where is Grace's new job?",
+										"exerciseMinAnswer": "University Hospital in Hyde Park",
+										"exerciseMaxAnswer": "I have a new job at the University Hospital in Hyde Park",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"job",
+											"hospital"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "What does Grace like doing?",
+										"exerciseMinAnswer": "reading and keeping fit.",
+										"exerciseMaxAnswer": "I like warm weather, and my hobbies are reading and keeping fit.",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"read",
+											"keep",
+											"fit"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Where is the gym in relation to the hospital?",
+										"exerciseMinAnswer": "very close to it",
+										"exerciseMaxAnswer": "There isn’t a gym at the hospital, but there is one very close to it.",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"gym",
+											"close"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "How far is Hyde Park from the center of Chicago?",
+										"exerciseMinAnswer": "20 minutes",
+										"exerciseMaxAnswer": "it’s only 20 minutes away",
+										"exerciseAnswers": null,
+										"LKUs":[ 
+											"far",
+											"center"
+										],
+										"context": "textContents"
+									}
+								]	
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,								
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Do you think Hyde Park is a good place for Grace to live? Why/Why not?"
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 5.3,
+				"sectionTitle": "Amazing buildings",
+				"sectionObjective": "Describe an interesting building",
+				"GKU": "Language_Hub_A2_Unit5_Lesson5_3",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "imperatives"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "adjectives to describe the appearance of things"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "word stress: adjectives"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "reading for specific information"
+					}
+				],
+				"hasReading": true,
+				"sectionPart": [
+					{
+						"partTitle": "READING",
+						"partImage": "",
+						"partSubTitle": null,
+						"textMode": "full article",	
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle":  "The world’s most interesting buildings",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"What happens when you mix buildings and art? Read on and find out! This week’s topic in Architecture Online is the world’s most interesting and original buildings. These are our favorite buildings. Tell us which ones you like."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "a",
+								"paragraphSubtitles":null,
+								"paragraphContents": [
+									"This strange building isn’t falling down! It’s the Dancing House, in Prague, Czech Republic. It’s funny! There are offices in the building, and there’s a restaurant on the top floor. Look at how many windows there are! Some people don’t like the Dancing House because it’s next to a lot of old buildings in a historic part of the city on a busy road. They think it’s terrible."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": "b",
+								"paragraphSubtitles":null,
+								"paragraphContents": [
+									"These yellow and white buildings that look like trees are Piet Blom’s Cube Houses in Rotterdam, the Netherlands. They are tall and beautiful. The living rooms are downstairs and the bedrooms are on the top floor. Some houses have a yard on the roof."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "c",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"This amazing house looks very old, but it isn’t. In fact, it’s only 40 years old. It’s Casa do Penedo, or ‘Stone House’ in Portugal. The small house sits between four big rocks. There’s a swimming pool in one of the rocks. You can visit the house because it’s a local history museum."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": "d",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"This is the Niterói Contemporary Art Museum in Rio de Janeiro, Brazil. It’s an art gallery and a museum. The building is next to a beach and has views of Rio and the Sugarloaf Mountain. The museum is very popular with tourists. We think this modern building is cool."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,							
+								"exerciseType": null,
+								"exerciseInstruction": null
+							},
+							{
+								"setMarker": "B",
+								"setHeading": "READ FOR GIST",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read The world’s most interesting buildings. Match pictures (2–5) with paragraphs (a–d).",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Picture 2",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "c",
+										"LKUs": "",
+										"sentenceAnswerOptions": [
+											"a",
+											"b",
+											"c",
+											"d"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Picture 3",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "a",
+										"LKUs": "",
+										"sentenceAnswerOptions": [
+											"a",
+											"b",
+											"c",
+											"d"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Picture 4",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "b",
+										"LKUs": "",
+										"sentenceAnswerOptions": [
+											"a",
+											"b",
+											"c",
+											"d"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "Picture 5",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "d",
+										"LKUs": "",
+										"sentenceAnswerOptions": [
+											"a",
+											"b",
+											"c",
+											"d"
+										],
+										"context": "textContents"
+									}
+								]
+							},
+							{
+								"setMarker": "C",
+								"setHeading": "",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,								
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read the article again. In which building(s) can you do these things? Use the information in the box to help you.",
+								"explanationBox": [
+									{
+										"explanationTitle": "Reading for specific information",
+										"explanationContent": [
+											"Read the text quickly and look for keywords that help you find the information you’re looking for.",
+											"For example, if you want to know about prices or times, look for numbers. Then read around them to find the information."
+										]
+									}
+								],	
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "In which building(s) can you have lunch?",
+										"exerciseMinAnswer": "Dancing House",
+										"exerciseMaxAnswer": "the Dancing House, in Prague, Czech Republic.",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"lunch"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "In which building(s) can you see art?",
+										"exerciseMinAnswer": "Niteroi Contemporary Art Museum",
+										"exerciseMaxAnswer": "the Niterói Contemporary Art Museum in Rio de Janeiro, Brazil",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"art",
+											"museum"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "In which building(s) can you swim?",
+										"exerciseMinAnswer": "Casa do Penedo",
+										"exerciseMaxAnswer": "Casa do Penedo or ‘Stone House’ in Portugal",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"swim",
+											"stone"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "In which building(s) can you work?",
+										"exerciseMinAnswer": "Dancing House",
+										"exerciseMaxAnswer": "the Dancing House, in Prague, Czech Republic.",
+										"exerciseAnswers": null,
+										"LKUs": [
+											"work"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "In which building(s) can you live?",
+										"exerciseMinAnswer": "Piet Blom’s Cube Houses",
+										"exerciseMaxAnswer": "Piet Blom’s Cube Houses in Rotterdam, the Netherlands.",
+										"exerciseAnswers": null,
+										"LKUs": [ 
+											"cube",
+											"live"
+										],
+										"context": "textContents"
+									}
+								]
+							},	
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"textImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,								
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Do you think Hyde Park is a good place for Grace to live? Why/Why not?"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
