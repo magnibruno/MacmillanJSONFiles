@@ -1,275 +1,238 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A1",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": 5,
-		"chapterTitle": "Time for a break",
-		"chapterQuote": "Guard well your spare moments. Ralph Waldo Emerson",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"talk about free time",
-			"talk about food and meals",
-			"ask for information",
-			"write a blog about food"
-		],
-		"sections": [
-			{
-				"sectionNumber": 5.1,
-				"sectionTitle": "Relax and be happy",
-				"sectionObjective": "Talk about free time",
-				"GKU": "Language_Hub_A1_Unit5_Lesson5_1",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "free time activities"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "simple present: he, she, it"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "does he/does she"
-					}
-				],
-				"hasReading": false
-			},
-			{
-				"sectionNumber": 5.2,
-				"sectionTitle": "When's your lunch break?",
-				"sectionObjective": "Talk about food and meals",
-				"GKU": "Language_Hub_A1_Unit5_Lesson5_2",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "food and meals"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Reading",
-						"skillTitle": "skimming"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "adverbs of frequency"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "linking with /j/"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle": "LUNCH BREAKS AROUND THE WORLD",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["More and more people in the US don't take a lunch break. They eat lunch at their desk instead. Here we take a look at countries around the world and what workers do on their lunch breaks."]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "Sara, Japan",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["We always take our lunch break at the same time every day, from 12 to 1. Some people bring a lunchbox from home, but I always go to the office cafeteria to eat with my colleagues. The food is usually really good. I usually have rice with fish or chicken and some vegetables. After lunch, I have a cup of green tea. I drink a lot of green tea every day because it’s good for my health."]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "Davide, Italy",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["Our lunch break is from 1:30 to 2:30. Sometimes we go to a local restaurant for lunch, but I usually go home. My wife always comes home for lunch, and we eat together. We usually have a small dish of pasta. After that we have some freshly cooked meat or fish. My favorite is chicken in tomato sauce. For dessert, we always have some fruit and finally a cup of coffee."]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": "Natalia, Guatemala",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["Lunch is the main meal in Guatemala. I usually take a lunch break from 12 to 1:30 and have lunch with my friends or colleagues in a restaurant near the office. We usually have some soup and tortillas with rice and beans, some meat and a salad. I never have dessert, but later in the day, I frequently have some fruit or something sweet as a special treat."]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "PREPARE",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Look at the pictures. Which foods can you name? Where do you think they come from?",
-								"exercises": null
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "SKIM",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Read Lunch breaks around the world and match the correct people with the pictures in Exercise A."
-							},
-							{
-								"setMarker": "C",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the article. Which questions do all three people answer? Check (✓) the questions.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Which question do all three people answer?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "What do you eat for lunch?",
-										"LKUs": [
-											"question",
-											"answer"
-										],
-										"sentenceAnswerOptions": [
-											"What do you eat for lunch?",
-											"Is your lunch expensive?",
-											"Do you eat a big lunch?"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the article again. Write the correct names.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ eats soup for lunch.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Natalia",
-										"LKUs": [
-											"eat",
-											"lunch"
-										],
-										"sentenceAnswerOptions": [
-											"Natalia",
-											"Davide",
-											"Sara"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ doesn’t eat rice for lunch.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Davide",
-										"LKUs": [
-											"eat",
-											"lunch"
-										],
-										"sentenceAnswerOptions": [
-											"Natalia",
-											"Davide",
-											"Sara"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ eats lunch at work.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Sara",
-										"LKUs": [
-											"eat",
-											"lunch"
-										],
-										"sentenceAnswerOptions": [
-											"Natalia",
-											"Davide",
-											"Sara"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ doesn’t talk about a drink.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Natalia",
-										"LKUs": [
-											"talk",
-											"drink"
-										],
-										"sentenceAnswerOptions": [
-											"Natalia",
-											"Davide",
-											"Sara"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ has lunch with family.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Davide",
-										"LKUs": [
-											"lunch",
-											"family"
-										],
-										"sentenceAnswerOptions": [
-											"Natalia",
-											"Davide",
-											"Sara"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 6,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ has more than an hour for lunch.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Natalia",
-										"LKUs": [
-											"lunch",
-											"have"
-										],
-										"sentenceAnswerOptions": [
-											"Natalia",
-											"Davide",
-											"Sara"
-										],
-										"context": "textContents"
-									}
-								]
-							}
-						]
-					}
-				]
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A1",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": 5,
+    "chapterTitle": "Time for a break",
+    "chapterQuote": "Guard well your spare moments. Ralph Waldo Emerson",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "talk about free time",
+      "talk about food and meals",
+      "ask for information",
+      "write a blog about food"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 5.1,
+        "sectionTitle": "Relax and be happy",
+        "sectionObjective": "Talk about free time",
+        "GKU": "Language_Hub_A1_Unit5_Lesson5_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "free time activities"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "simple present: he, she, it"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "does he/does she"
+          }
+        ],
+        "hasReading": false
+      },
+      {
+        "sectionNumber": 5.2,
+        "sectionTitle": "When's your lunch break?",
+        "sectionObjective": "Talk about food and meals",
+        "GKU": "Language_Hub_A1_Unit5_Lesson5_2",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "food and meals"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "skimming"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "adverbs of frequency"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "linking with /j/"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "LUNCH BREAKS AROUND THE WORLD",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "More and more people in the US don't take a lunch break. They eat lunch at their desk instead. Here we take a look at countries around the world and what workers do on their lunch breaks."
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "Sara, Japan",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "We always take our lunch break at the same time every day, from 12 to 1. Some people bring a lunchbox from home, but I always go to the office cafeteria to eat with my colleagues. The food is usually really good. I usually have rice with fish or chicken and some vegetables. After lunch, I have a cup of green tea. I drink a lot of green tea every day because it's good for my health."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "Davide, Italy",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Our lunch break is from 1:30 to 2:30. Sometimes we go to a local restaurant for lunch, but I usually go home. My wife always comes home for lunch, and we eat together. We usually have a small dish of pasta. After that we have some freshly cooked meat or fish. My favorite is chicken in tomato sauce. For dessert, we always have some fruit and finally a cup of coffee."
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": "Natalia, Guatemala",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Lunch is the main meal in Guatemala. I usually take a lunch break from 12 to 1:30 and have lunch with my friends or colleagues in a restaurant near the office. We usually have some soup and tortillas with rice and beans, some meat and a salad. I never have dessert, but later in the day, I frequently have some fruit or something sweet as a special treat."
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "PREPARE",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Look at the pictures. Which foods can you name? Where do you think they come from?",
+                "exercises": null
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "SKIM",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Read Lunch breaks around the world and match the correct people with the pictures in Exercise A."
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the article. Which questions do all three people answer? Check (✓) the questions.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Which question do all three people answer?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "What do you eat for lunch?",
+                    "LKUs": ["question", "answer"],
+                    "sentenceAnswerOptions": [
+                      "What do you eat for lunch?",
+                      "Is your lunch expensive?",
+                      "Do you eat a big lunch?"
+                    ],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the article again. Write the correct names.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ eats soup for lunch.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Natalia",
+                    "LKUs": ["eat", "lunch"],
+                    "sentenceAnswerOptions": ["Natalia", "Davide", "Sara"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ doesn't eat rice for lunch.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Davide",
+                    "LKUs": ["eat", "lunch"],
+                    "sentenceAnswerOptions": ["Natalia", "Davide", "Sara"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ eats lunch at work.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Sara",
+                    "LKUs": ["eat", "lunch"],
+                    "sentenceAnswerOptions": ["Natalia", "Davide", "Sara"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ doesn't talk about a drink.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Natalia",
+                    "LKUs": ["talk", "drink"],
+                    "sentenceAnswerOptions": ["Natalia", "Davide", "Sara"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ has lunch with family.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Davide",
+                    "LKUs": ["lunch", "family"],
+                    "sentenceAnswerOptions": ["Natalia", "Davide", "Sara"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 6,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ has more than an hour for lunch.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Natalia",
+                    "LKUs": ["lunch", "have"],
+                    "sentenceAnswerOptions": ["Natalia", "Davide", "Sara"],
+                    "context": "textContents"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

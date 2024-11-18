@@ -1,373 +1,326 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A1",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": 7,
-		"chapterTitle": "Skills",
-		"chapterQuote": "If you think you can do it, you can. John Burroughs",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"talk about your abilities",
-			"talk about people’s talents",
-			"make polite requests",
-			"write a competition entry"
-		],
-		"sections": [
-			{
-				"sectionNumber": 7.1,
-				"sectionTitle": "What can you do?",
-				"sectionObjective": "Talk about your abilities",
-				"GKU": "Language_Hub_A1_Unit7_Lesson7_1",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "abilities"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "can/can’t: /æ/ and /ə/"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "can/can’t"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle": "ANIMALS vs HUMANS",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["As we all know, animals can do many things that humans can’t do. Birds can fly, fish can swim and breathe underwater, and monkeys can climb. Humans can’t. Or can we? This week we talk to three amazing humans about their abilities."]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "Interviewer: Luis, what exactly is a free climber?",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["A free climber doesn’t use ropes to help them climb, only to stop them from falling. Sometimes it’s a little bit dangerous. I can’t climb for very long because it’s difficult and I get tired. I can climb about 500 meters in four hours."]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "Interviewer: Seon-Yeong, can you really fly?",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["Yes, I can! I’m a wingsuit flyer in my free time. Birds take off from the ground, but I can’t. I jump from somewhere really high, like the top of a mountain or from a plane. I can fly for about four kilometers, and I’m usually in the air for two minutes."]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": "Interviewer: Ireen, you’re a free diver – how long can you stay underwater?",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["I can hold my breath for about six minutes. I don’t have an air tank, so I am very careful when I dive. I can dive about 80 meters down and then I need to come up again. I love it, it’s so quiet underwater!"]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "PREPARE TO READ",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Look at the pictures (a–c) in the article and discuss the questions.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "What can you see in the pictures?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "What sport do you think each picture shows?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null
-									}
-								]
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR MAIN IDEA",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the article quickly. Choose the correct options.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "This article is about what some …",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "people can do.",
-										"LKUs": [
-											"about.",
-											"can"
-										],
-										"sentenceAnswerOptions": [
-											"people can do.",
-											"animals can’t do."
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "This writer talks to three people about …",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "their abilities.",
-										"LKUs": [
-											"ability",
-											"talk"
-										],
-										"sentenceAnswerOptions": [
-											"their abilities.",
-											"their pets."
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "The people can do …",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "amazing things.",
-										"LKUs": [
-											"can",
-											"amazing"
-										],
-										"sentenceAnswerOptions": [
-											"amazing things.",
-											"useful things."
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "C",
-								"setHeading": "READ FOR KEY INFORMATION",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the article again. Choose the correct numbers to complete the sentences.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Luis can climb _____ meters up a mountain in _____ hours.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "500, 4",
-										"LKUs": [
-											"meter",
-											"hour"
-										],
-										"sentenceAnswerOptions": [
-											"500, 4",
-											"4, 2",
-											"80, 6"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Seon-Yeong can fly for ______ kilometers. She can be in the air for ____ minutes.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "4, 2",
-										"LKUs": [
-											"kilometer",
-											"minute"
-										],
-										"sentenceAnswerOptions": [
-											"500, 4",
-											"4, 2",
-											"80, 6"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Ireen can swim down ____ meters. She can be underwater for _____ minutes.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "80, 6",
-										"LKUs": [
-											"meter",
-											"minute"
-										],
-										"sentenceAnswerOptions": [
-											"500, 4",
-											"4, 2",
-											"80, 6"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the article again. Are the statements true (T) or false (F)?",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Animals and humans have some of the same skills.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"skill",
-											"animal",
-											"human"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Free climbing is very dangerous.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"dangerous",
-											"freeclimbing"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Wingsuit flyers need to take off from a high place.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"take off",
-											"flyer"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Free divers don’t take any extra air when they go underwater.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"underwater",
-											"freediver"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "E",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Work in groups. Answer the questions.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Which sport in the text do you want to try?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Are there other sports you want to try?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null
-									}
-								]
-							}
-						]
-					}
-				]
-			},
-			{
-				"sectionNumber": 7.2,
-				"sectionTitle": "He’s amazing!",
-				"sectionObjective": "Talk about people’s talents",
-				"GKU": "Language_Hub_A1_Unit7_Lesson7_2",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "adjectives"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "possessive ’s"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Listening",
-						"skillTitle": "listening for pronoun reference"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "possessive ’s"
-					}
-				],
-				"hasReading": false
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A1",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": 7,
+    "chapterTitle": "Skills",
+    "chapterQuote": "If you think you can do it, you can. John Burroughs",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "talk about your abilities",
+      "talk about people's talents",
+      "make polite requests",
+      "write a competition entry"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 7.1,
+        "sectionTitle": "What can you do?",
+        "sectionObjective": "Talk about your abilities",
+        "GKU": "Language_Hub_A1_Unit7_Lesson7_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "abilities"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "can/can't: /æ/ and /ə/"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "can/can't"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "ANIMALS vs HUMANS",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "As we all know, animals can do many things that humans can't do. Birds can fly, fish can swim and breathe underwater, and monkeys can climb. Humans can't. Or can we? This week we talk to three amazing humans about their abilities."
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "Interviewer: Luis, what exactly is a free climber?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "A free climber doesn't use ropes to help them climb, only to stop them from falling. Sometimes it's a little bit dangerous. I can't climb for very long because it's difficult and I get tired. I can climb about 500 meters in four hours."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "Interviewer: Seon-Yeong, can you really fly?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Yes, I can! I'm a wingsuit flyer in my free time. Birds take off from the ground, but I can't. I jump from somewhere really high, like the top of a mountain or from a plane. I can fly for about four kilometers, and I'm usually in the air for two minutes."
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": "Interviewer: Ireen, you're a free diver – how long can you stay underwater?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I can hold my breath for about six minutes. I don't have an air tank, so I am very careful when I dive. I can dive about 80 meters down and then I need to come up again. I love it, it's so quiet underwater!"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "PREPARE TO READ",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Look at the pictures (a–c) in the article and discuss the questions.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "What can you see in the pictures?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": null,
+                    "LKUs": null
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "What sport do you think each picture shows?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": null,
+                    "LKUs": null
+                  }
+                ]
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR MAIN IDEA",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the article quickly. Choose the correct options.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "This article is about what some …",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "people can do.",
+                    "LKUs": ["about.", "can"],
+                    "sentenceAnswerOptions": [
+                      "people can do.",
+                      "animals can't do."
+                    ],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "This writer talks to three people about …",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "their abilities.",
+                    "LKUs": ["ability", "talk"],
+                    "sentenceAnswerOptions": [
+                      "their abilities.",
+                      "their pets."
+                    ],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "The people can do …",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "amazing things.",
+                    "LKUs": ["can", "amazing"],
+                    "sentenceAnswerOptions": [
+                      "amazing things.",
+                      "useful things."
+                    ],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "READ FOR KEY INFORMATION",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the article again. Choose the correct numbers to complete the sentences.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Luis can climb _____ meters up a mountain in _____ hours.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "500, 4",
+                    "LKUs": ["meter", "hour"],
+                    "sentenceAnswerOptions": ["500, 4", "4, 2", "80, 6"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Seon-Yeong can fly for ______ kilometers. She can be in the air for ____ minutes.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "4, 2",
+                    "LKUs": ["kilometer", "minute"],
+                    "sentenceAnswerOptions": ["500, 4", "4, 2", "80, 6"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Ireen can swim down ____ meters. She can be underwater for _____ minutes.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "80, 6",
+                    "LKUs": ["meter", "minute"],
+                    "sentenceAnswerOptions": ["500, 4", "4, 2", "80, 6"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the article again. Are the statements true (T) or false (F)?",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Animals and humans have some of the same skills.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["skill", "animal", "human"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Free climbing is very dangerous.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["dangerous", "freeclimbing"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Wingsuit flyers need to take off from a high place.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["take off", "flyer"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Free divers don't take any extra air when they go underwater.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["underwater", "freediver"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "E",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in groups. Answer the questions.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Which sport in the text do you want to try?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": null,
+                    "LKUs": null
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Are there other sports you want to try?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": null,
+                    "LKUs": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 7.2,
+        "sectionTitle": "He's amazing!",
+        "sectionObjective": "Talk about people's talents",
+        "GKU": "Language_Hub_A1_Unit7_Lesson7_2",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "adjectives"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "possessive 's"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "listening for pronoun reference"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "possessive 's"
+          }
+        ],
+        "hasReading": false
+      }
+    ]
+  }
 }

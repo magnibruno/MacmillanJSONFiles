@@ -45,7 +45,7 @@
 			},
 			{
 				"sectionNumber": 1.2,
-				"sectionTitle": "What’s your job?",
+				"sectionTitle": "What's your job?",
 				"sectionObjective": "Introduce a friend",
 				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
 				"sectionSkills": [
@@ -87,7 +87,7 @@
 										],
 										"paragraphContents": [
 											"Hi Emma,",
-											"How’s your new job? Is it fun? Is your manager nice? Please tell me all about it!",
+											"How's your new job? Is it fun? Is your manager nice? Please tell me all about it!",
 											"Keira"
 										]
 									},
@@ -100,7 +100,7 @@
 										],
 										"paragraphContents": [
 											"Hi Keira,",
-											"Today is my first day in my new job! I’m on the design team. It’s a small team with five people. My manager isn’t very friendly, but she’s OK. Her name is Amanda and she’s from Brazil."
+											"Today is my first day in my new job! I'm on the design team. It's a small team with five people. My manager isn't very friendly, but she's OK. Her name is Amanda and she's from Brazil."
 										]
 									},
 									{
@@ -108,10 +108,10 @@
 										"paragraphTitle": null,
 										"paragraphSubtitles": null,
 										"paragraphContents": [
-											"My colleague Anton is nice. He’s new today, too. I’m not very busy because it’s my first day.",
+											"My colleague Anton is nice. He's new today, too. I'm not very busy because it's my first day.",
 											"How are you?",
 											"Emma",
-											"P.S. Here’s a photo of me in my new job as a designer."
+											"P.S. Here's a photo of me in my new job as a designer."
 										]
 									}
 						],
@@ -128,8 +128,8 @@
 									{
 										"sentenceOrdinal": 1,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "What is Emma’s new job?",
-										"exerciseMaxAnswer": "Here’s a photo of me in my new job as a designer.",
+										"exerciseQuestion": "What is Emma's new job?",
+										"exerciseMaxAnswer": "Here's a photo of me in my new job as a designer.",
 										"exerciseMinAnswer": "a designer.",
 										"exerciseAnswers": null,
 										"LKUs": [
@@ -235,7 +235,7 @@
 										"explanationTitle": "Identifying personal pronouns",
 										"explanationContent": [
 											"Pronouns talk about a noun.",
-											"My colleague Anton is nice. He’s newtoday too."
+											"My colleague Anton is nice. He's newtoday too."
 										]
 									}
 								]
@@ -251,7 +251,7 @@
 								"exercises": [
 									{
 										"sentenceOrdinal": 1,
-										"exerciseQuestion": "How’s your new job? Is it fun?",
+										"exerciseQuestion": "How's your new job? Is it fun?",
 										"wordinBold": "it",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
@@ -271,7 +271,7 @@
 									{
 										"sentenceOrdinal": 2,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "I’m on the design team. It’s a small team with five people.",
+										"exerciseQuestion": "I'm on the design team. It's a small team with five people.",
 										"wordinBold": "It",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
@@ -291,7 +291,7 @@
 									{
 										"sentenceOrdinal": 3,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "My manager isn’t very friendly, but she’s OK.",
+										"exerciseQuestion": "My manager isn't very friendly, but she's OK.",
 										"wordinBold": "she",
 										"exerciseMinAnswer": null,
 										"exerciseMaxAnswer": null,
@@ -311,7 +311,7 @@
 									{
 										"sentenceOrdinal": 4,
 										"paragraphOrdinal": null,
-										"exerciseQuestion": "Her name is Amanda and she’s from Brazil.",
+										"exerciseQuestion": "Her name is Amanda and she's from Brazil.",
 										"wordinBold": "she",
 										"exerciseAnswers": "Amanda",
 										"exerciseMinAnswer": null,

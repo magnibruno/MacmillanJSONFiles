@@ -1,525 +1,436 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A1",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": 8,
-		"chapterTitle": "The here and now",
-		"chapterQuote": "Be happy for this moment. This moment is your life. Omar Khayyam",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"describe what people are doing",
-			"talk about clothes",
-			"shop for clothes",
-			"write a short message"
-		],
-		"sections": [
-			{
-				"sectionNumber": 8.1,
-				"sectionTitle": "What’s he doing?",
-				"sectionObjective": "Describe what people are doing",
-				"GKU": "Language_Hub_A1_Unit1_Lesson1_2",
-				"sectionSkills": [
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "present progressive"
-					},
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "verb phrases"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "different ways to pronounce a"
-					}
-				],
-				"sectionPart": [
-					{
-						"partTitle": "GRAMMAR",
-						"partImage": "",
-						"partSubTitle": "Present progressive",
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": null,
-								"setImage": null,
-								"setAudioNumber": 8.2,
-								"setIgnore": false,
-								"grammarHub": false,
-								"exerciseType": "TSS dictate",
-								"exerciseInstruction": "Listen to a part of the conversation again. Complete the missing words.",
-								"exercises": [
-									{
-										"exerciseSentences": [
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"Officer A: Can you see the man?"
-													
-												],
-												"blankedWords": [
-													7
-												]
-											},
-											{
-												"sentenceOrdinal": 2,
-												"sentences": [
-													"Officer B: Yes. I’m watching him now."
-												],
-												"blankedWords": [
-													7
-												]
-											},
-											{
-												"sentenceOrdinal": 3,
-												"sentences": [
-													"Officer A: What’s he doing?",
-													"Officer B: He’s having lunch."
-												],
-												"blankedWords": [
-													10
-												]
-											},
-											{
-												"sentenceOrdinal": 4,
-												"sentences": [
-													"Officer A: Is he talking to anyone?",
-													"Officer B: No, he isn’t. He’s by himself."
-												],
-												"blankedWords": [
-													7
-												]
-											},
-											{
-												"sentenceOrdinal": 5,
-												"sentences": [
-													"Officer A: Is he in a café ?"
-												],
-												"blankedWords": [
-													7
-												]
-											},
-											{
-												"sentenceOrdinal": 6,
-												"sentences": [
-													"Officer A: Is he in a café ?"
-												],
-												"blankedWords": [
-													7
-												]
-											},
-											{
-												"sentenceOrdinal": 7,
-												"sentences": [
-													"Officer B: No, he’s sitting on a bench. He’s eating a sandwich and drinking coffee."
-												],
-												"blankedWords": [
-													8,
-													12,
-													15
-												]
-											}											
-										]
-									}
-								]
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "WORK IT OUT",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"textMode": null,
-								"exerciseInstruction": "Read the conversation in Exercise A. Underline the verbs that end with -ing. Choose the correct option to complete the rule",
-								"exercises": [
-									{
-										"exerciseSentences": [
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"We use present progressive (verb + -ing) to talk about right now / every day."
-												],
-												"exerciseAnswers": 
-													"right now"
-												,
-												"exerciseOptions": [ "right now" , "every day" ] 
-											}
-										]
-									}
-								]	
-							},	
-							{
-								"setMarker": "C",
-								"setHeading": "WORK IT OUT",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"grammarHub": true,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the examples of the present progressive in the conversation again. Choose the correct options.",
-								"textContents": [
-									{
-										"paragraphOrdinal": 1,
-										"paragraphTitle": "WORK IT OUT",
-										"paragraphSubtitles": [
-											"Present progressive"
-										],
-										"paragraphContents": [
-											"We make present progressive with subject + be + to + verb / subject + be + verb + -ing.",
-											"In questions, the subject (I, you, he, she, it …) goes before / after be.",
-											"In short answers, we use subject + be / subject + be + verb + -ing."
-										]
-									}
-								],
-								"exercises": [
-								{
-										"exerciseSentences": [
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"We make present progressive with subject + be + to + verb / subject + be + verb + -ing."
-												],
-												"exerciseAnswers": 
-													"subject + be + verb + -ing."
-												,
-												"sentenceAnswerOptions": [ "subject + be + to + verb " , "subject + be + verb + -ing." ] 
-											},
-											{
-												"sentenceOrdinal": 2,
-												"sentences": [
-													"In questions, the subject (I, you, he, she, it …) goes before / after be."
-												],
-												"exerciseAnswers": 
-													"after"
-												,
-												"sentenceAnswerOptions": [ "before" , "after" ] 
-											},
-											{
-												"sentenceOrdinal": 3,
-												"sentences": [
-													"In short answers, we use subject + be / subject + be + verb + -ing."
-												],
-												"exerciseAnswers": 
-													"subject + be"
-												,
-												"sentenceAnswerOptions": [ "subject + be" , "subject + be + verb + -ing" ] 
-											}
-											
-										]
-									}
-								]
-							
-							},
-							{
-							
-								"setMarker": "D",
-								"setHeading": "WORK IT OUT",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"grammarHub": false,
-								"exerciseType": "word bank",
-								"textMode": "full article",
-								"exerciseInstruction": "Complete the table with the positive and negative forms of the verb be.",
-								"textContents": [
-									{
-										"paragraphOrdinal": 1,
-										"paragraphTitle": "WORK IT OUT",
-										"paragraphSubtitles": [
-											"verb (base form)/ Spelling rule / verb + -ing"
-										],
-										"paragraphContents": [
-											"do, watch, eat / Verb +-ing / doing, watching, eating",
-											"live, have / Verb (without -e), +-ing / living, having",
-											"get, sit / Verb (add extra last consonant) +-ing / getting, sitting"
-										]
-									}
-								],
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": 1,
-										"exerciseQuestion": null,
-										"exerciseMaxAnswer": null,
-										"exerciseMinAnswer": null,
-										"sentenceAnswerOptions": [
-											"eat",
-											"eating",
-											"have",
-											"having",
-											"sit",
-											"sitting"
-										],
-										"blankedWords": [
-											3,
-											8,
-											10,
-											16,
-											18,
-											26
-											
-											
-										],
-										"LKUs": [
-											"eat",
-											"have",
-											"sit"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "E",
-								"setHeading": null,
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"grammarHub": true,
-								"exerciseInstruction": "Go to the Grammar Hub on page 112.",
-								"exercises": null
-							},
-							{
-								"setMarker": "F",
-								"setHeading": "SPEAK",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"grammarHub": false,
-								"exerciseInstruction": "Work in pairs. Choose a picture from the comic strip but don’t tell your partner which one. Describe it to your partner. Which picture is it?",
-								"exercises": null
-							}
-						]
-					}	
-				]
-			},
-			{
-				"sectionNumber": 8.2,
-				"sectionTitle": "The gray coat",
-				"sectionObjective": "Talk about clothes",
-				"GKU": "Language_Hub_A1_Unit8_Lesson8_2",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "clothes"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "vowel sounds: /i:/, /ɜ:/, /u:/ and /ɔ:/"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Reading",
-						"skillTitle": "identifying key words"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "adjective order"
-					}
-				],
-				"sectionPart": [
-					{
-						"partTitle": "GRAMMAR",
-						"partImage": "",
-						"partSubTitle": "Adjective order",
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": null,
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"grammarHub": false,
-								"exerciseType": null,
-								"exerciseInstruction": "Read the messages in Reading Exercise B again. Underline the adjectives of size or age. Circle the adjectives of color.",
-								"exercises": []
-									
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "WORK IT OUT",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"textMode": "full article",
-								"exerciseInstruction": "Read these sentences from the messages. Choose the correct option to complete the rules.",
-								"textContents": [
-									{
-										"paragraphOrdinal": 1,
-										"paragraphTitle": "WORK IT OUT",
-										"paragraphSubtitles": [
-											"Adjective order"
-										],
-										"paragraphContents": [
-											"I’m wearing an old blue sweatshirt and a yellow cap.",
-											"I’m wearing a long gray coat.",
-											"We can / can’t put more than one adjective before a noun.",
-											"The color adjective usually goes before / after the adjective for size or age."
-										]
-									}
-								],
-							"exercises": [
-								{
-										"exerciseSentences": [
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"We can / can’t put more than one adjective before a noun."
-												],
-												"exerciseAnswers": 
-													"can"
-												,
-												"sentenceAnswerOptions": [ "can" , "can't" ] 
-											},
-											{
-												"sentenceOrdinal": 2,
-												"sentences": [
-													"The color adjective usually goes before / after the adjective for size or age."
-												],
-												"exerciseAnswers": 
-													"after"
-												,
-												"sentenceAnswerOptions": [ "before" , "after" ] 
-											}
-											
-										]
-									}
-								]
-							
-							},
-							{
-								"setMarker": "C",
-								"setHeading": null,
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"grammarHub": true,
-								"exerciseInstruction": "Choose the correct options",
-								"exercises": [
-								{
-										"exerciseSentences": [
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"It's a ___ coat."
-												],
-												"exerciseAnswers": 
-													"new red"
-												,
-												"sentenceAnswerOptions": [ "new red" , "red new" ] 
-											},
-											{
-												"sentenceOrdinal": 2,
-												"sentences": [
-													"She has ___ shoes"
-												],
-												"exerciseAnswers": 
-													"old green"
-												,
-												"sentenceAnswerOptions": [ "green old" , "old green" ] 
-											},
-											{
-												"sentenceOrdinal": 3,
-												"sentences": [
-													"It’s a(n) ___ sweatshirt."
-												],
-												"exerciseAnswers": 
-													"old gray"
-												,
-												"sentenceAnswerOptions": [ "gray old" , "old gray" ] 
-											}
-											
-										]
-									}
-								]
-							
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "PRACTICE",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"grammarHub": false,
-								"exerciseType": "Grammar SB/without explanation",
-								"grammarHub": false,
-								"exerciseInstruction": "Rewrite the sentences and add the extra adjectives in parentheses.", 
-								"wordBank": [
-									"new",
-									"green",
-									"red",
-									"long"
-								],
-								"exercises": [
-									{
-										"exerciseSentences": [
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"It's a new blue shirt."
-												],
-												"blankedWords": [
-													"new"
-												]
-											},
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"She's wearing an old green dress."
-												],
-												"blankedWords": [
-													"green"
-												]
-											},
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"I have a new red hat."
-												],
-												"blankedWords": [
-													"red"
-												]
-											},
-											{
-												"sentenceOrdinal": 1,
-												"sentences": [
-													"That's a long blue skirt."
-												],
-												"blankedWords": [
-													"long"
-												]
-											}
-										]
-									}
-								]
-							},
-							{
-								"setMarker": "E",
-								"setHeading": "SPEAK",
-								"setImage": null,
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"grammarHub": false,
-								"exerciseType": null,
-								"grammarHub": false,
-								"exerciseInstruction": "Work in pairs. Describe the clothes in the pictures.",
-								"exercises": null
-							}
-						]
-					}
-				]
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A1",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": 8,
+    "chapterTitle": "The here and now",
+    "chapterQuote": "Be happy for this moment. This moment is your life. Omar Khayyam",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "describe what people are doing",
+      "talk about clothes",
+      "shop for clothes",
+      "write a short message"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 8.1,
+        "sectionTitle": "What's he doing?",
+        "sectionObjective": "Describe what people are doing",
+        "GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+        "sectionSkills": [
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "present progressive"
+          },
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "verb phrases"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "different ways to pronounce a"
+          }
+        ],
+        "sectionPart": [
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Present progressive",
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": 8.2,
+                "setIgnore": false,
+                "grammarHub": false,
+                "exerciseType": "TSS dictate",
+                "exerciseInstruction": "Listen to a part of the conversation again. Complete the missing words.",
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["Officer A: Can you see the man?"],
+                        "blankedWords": [7]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": ["Officer B: Yes. I'm watching him now."],
+                        "blankedWords": [7]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": [
+                          "Officer A: What's he doing?",
+                          "Officer B: He's having lunch."
+                        ],
+                        "blankedWords": [10]
+                      },
+                      {
+                        "sentenceOrdinal": 4,
+                        "sentences": [
+                          "Officer A: Is he talking to anyone?",
+                          "Officer B: No, he isn't. He's by himself."
+                        ],
+                        "blankedWords": [7]
+                      },
+                      {
+                        "sentenceOrdinal": 5,
+                        "sentences": ["Officer A: Is he in a café ?"],
+                        "blankedWords": [7]
+                      },
+                      {
+                        "sentenceOrdinal": 6,
+                        "sentences": ["Officer A: Is he in a café ?"],
+                        "blankedWords": [7]
+                      },
+                      {
+                        "sentenceOrdinal": 7,
+                        "sentences": [
+                          "Officer B: No, he's sitting on a bench. He's eating a sandwich and drinking coffee."
+                        ],
+                        "blankedWords": [8, 12, 15]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "textMode": null,
+                "exerciseInstruction": "Read the conversation in Exercise A. Underline the verbs that end with -ing. Choose the correct option to complete the rule",
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": [
+                          "We use present progressive (verb + -ing) to talk about right now / every day."
+                        ],
+                        "exerciseAnswers": "right now",
+                        "exerciseOptions": ["right now", "every day"]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "grammarHub": true,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the examples of the present progressive in the conversation again. Choose the correct options.",
+                "textContents": [
+                  {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "WORK IT OUT",
+                    "paragraphSubtitles": ["Present progressive"],
+                    "paragraphContents": [
+                      "We make present progressive with subject + be + to + verb / subject + be + verb + -ing.",
+                      "In questions, the subject (I, you, he, she, it …) goes before / after be.",
+                      "In short answers, we use subject + be / subject + be + verb + -ing."
+                    ]
+                  }
+                ],
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": [
+                          "We make present progressive with subject + be + to + verb / subject + be + verb + -ing."
+                        ],
+                        "exerciseAnswers": "subject + be + verb + -ing.",
+                        "sentenceAnswerOptions": [
+                          "subject + be + to + verb ",
+                          "subject + be + verb + -ing."
+                        ]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": [
+                          "In questions, the subject (I, you, he, she, it …) goes before / after be."
+                        ],
+                        "exerciseAnswers": "after",
+                        "sentenceAnswerOptions": ["before", "after"]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": [
+                          "In short answers, we use subject + be / subject + be + verb + -ing."
+                        ],
+                        "exerciseAnswers": "subject + be",
+                        "sentenceAnswerOptions": [
+                          "subject + be",
+                          "subject + be + verb + -ing"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "grammarHub": false,
+                "exerciseType": "word bank",
+                "textMode": "full article",
+                "exerciseInstruction": "Complete the table with the positive and negative forms of the verb be.",
+                "textContents": [
+                  {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "WORK IT OUT",
+                    "paragraphSubtitles": [
+                      "verb (base form)/ Spelling rule / verb + -ing"
+                    ],
+                    "paragraphContents": [
+                      "do, watch, eat / Verb +-ing / doing, watching, eating",
+                      "live, have / Verb (without -e), +-ing / living, having",
+                      "get, sit / Verb (add extra last consonant) +-ing / getting, sitting"
+                    ]
+                  }
+                ],
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": 1,
+                    "exerciseQuestion": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseMinAnswer": null,
+                    "sentenceAnswerOptions": [
+                      "eat",
+                      "eating",
+                      "have",
+                      "having",
+                      "sit",
+                      "sitting"
+                    ],
+                    "blankedWords": [3, 8, 10, 16, 18, 26],
+                    "LKUs": ["eat", "have", "sit"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "E",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "grammarHub": true,
+                "exerciseInstruction": "Go to the Grammar Hub on page 112.",
+                "exercises": null
+              },
+              {
+                "setMarker": "F",
+                "setHeading": "SPEAK",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "grammarHub": false,
+                "exerciseInstruction": "Work in pairs. Choose a picture from the comic strip but don't tell your partner which one. Describe it to your partner. Which picture is it?",
+                "exercises": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 8.2,
+        "sectionTitle": "The gray coat",
+        "sectionObjective": "Talk about clothes",
+        "GKU": "Language_Hub_A1_Unit8_Lesson8_2",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "clothes"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "vowel sounds: /i:/, /ɜ:/, /u:/ and /ɔ:/"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying key words"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "adjective order"
+          }
+        ],
+        "sectionPart": [
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adjective order",
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "grammarHub": false,
+                "exerciseType": null,
+                "exerciseInstruction": "Read the messages in Reading Exercise B again. Underline the adjectives of size or age. Circle the adjectives of color.",
+                "exercises": []
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "textMode": "full article",
+                "exerciseInstruction": "Read these sentences from the messages. Choose the correct option to complete the rules.",
+                "textContents": [
+                  {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "WORK IT OUT",
+                    "paragraphSubtitles": ["Adjective order"],
+                    "paragraphContents": [
+                      "I'm wearing an old blue sweatshirt and a yellow cap.",
+                      "I'm wearing a long gray coat.",
+                      "We can / can't put more than one adjective before a noun.",
+                      "The color adjective usually goes before / after the adjective for size or age."
+                    ]
+                  }
+                ],
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": [
+                          "We can / can't put more than one adjective before a noun."
+                        ],
+                        "exerciseAnswers": "can",
+                        "sentenceAnswerOptions": ["can", "can't"]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": [
+                          "The color adjective usually goes before / after the adjective for size or age."
+                        ],
+                        "exerciseAnswers": "after",
+                        "sentenceAnswerOptions": ["before", "after"]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "grammarHub": true,
+                "exerciseInstruction": "Choose the correct options",
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["It's a ___ coat."],
+                        "exerciseAnswers": "new red",
+                        "sentenceAnswerOptions": ["new red", "red new"]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": ["She has ___ shoes"],
+                        "exerciseAnswers": "old green",
+                        "sentenceAnswerOptions": ["green old", "old green"]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": ["It's a(n) ___ sweatshirt."],
+                        "exerciseAnswers": "old gray",
+                        "sentenceAnswerOptions": ["gray old", "old gray"]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "PRACTICE",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "grammarHub": false,
+                "exerciseType": "Grammar SB/without explanation",
+                "grammarHub": false,
+                "exerciseInstruction": "Rewrite the sentences and add the extra adjectives in parentheses.",
+                "wordBank": ["new", "green", "red", "long"],
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["It's a new blue shirt."],
+                        "blankedWords": ["new"]
+                      },
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["She's wearing an old green dress."],
+                        "blankedWords": ["green"]
+                      },
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["I have a new red hat."],
+                        "blankedWords": ["red"]
+                      },
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["That's a long blue skirt."],
+                        "blankedWords": ["long"]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "E",
+                "setHeading": "SPEAK",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "grammarHub": false,
+                "exerciseType": null,
+                "grammarHub": false,
+                "exerciseInstruction": "Work in pairs. Describe the clothes in the pictures.",
+                "exercises": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

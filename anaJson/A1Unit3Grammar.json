@@ -40,25 +40,46 @@
           {
             "partTitle": "GRAMMAR",
             "partImage": "",
-            "partSubTitle": "a / an and plural nouns",
+            "partSubTitle": "a/an and plural nouns",
+            "textMode": "full article",
             "textContents": [
               {
                 "paragraphOrdinal": 1,
                 "paragraphTitle": "WORK IT OUT",
                 "paragraphSubtitles": null,
-                "paragraphContents": [
-                  "In the picture, …",
-                  "letter j is a sweatshirt.",
-                  "letter i is an umbrella.",
-                  "letters k, l, m, and n are coats."
-                ]
+                "paragraphContents": ["In the picture, …"]
               },
               {
                 "paragraphOrdinal": 2,
                 "paragraphTitle": null,
-                "paragraphSubtitles": ["a / an and plural nouns"],
+                "paragraphSubtitles": null,
+                "paragraphContents": ["letter j is a sweatshirt."]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["letter i is an umbrella."]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["letters k, l, m, and n are coats."]
+              },
+              {
+                "paragraphOrdinal": 5,
+                "paragraphTitle": null,
+                "paragraphSubtitles": ["a/an and plural nouns"],
                 "paragraphContents": [
-                  "1 We use a / an when there is one object.",
+                  "1 We use a / an when there is one object."
+                ]
+              },
+              {
+                "paragraphOrdinal": 6,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
                   "2 We add s when there is more than one object."
                 ]
               }
@@ -71,7 +92,6 @@
                 "setAudioNumber": null,
                 "setIgnore": false,
                 "exerciseType": "word bank",
-                "textMode": "full article",
                 "exerciseInstruction": "Read the examples. Choose the correct options for the sentences in the box.",
                 "exercises": [
                   {
@@ -81,12 +101,18 @@
                     "exerciseMaxAnswer": null,
                     "exerciseMinAnswer": null,
                     "sentenceAnswerOptions": ["one", "more", "than", "one"],
-                    "blankedWords": [9, 18, 19, 20],
                     "LKUs": ["a", "an"],
                     "context": "textContents"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "a/an and plural nouns",
+            "sets": [
               {
                 "setMarker": "B",
                 "setHeading": null,
@@ -96,7 +122,7 @@
                 "grammarHub": true,
                 "exerciseType": "Grammar SB/without explanation",
                 "exerciseInstruction": "Choose a or an to complete the sentences and questions.",
-                "wordBank": ["a", "an", "a", "an"],
+                "wordBank": ["a(2x)", "an(2x)"],
                 "exercises": [
                   {
                     "exerciseSentences": [
@@ -123,7 +149,14 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "a/an and plural nouns",
+            "sets": [
               {
                 "setMarker": "C",
                 "setHeading": "SPEAK",
@@ -161,7 +194,7 @@
                       "Customer: No! My coat is blue.",
                       "That coat is green."
                     ],
-                    "blankedWords": [4, 13],
+                    "blankedWords": ["this", "that"],
                     "exerciseImage": "",
                     "exerciseHints": null
                   },
@@ -171,12 +204,19 @@
                       "Coatroom attendant: Are these your bags?",
                       "Customer: No! those bags are red and blue."
                     ],
-                    "blankedWords": [4, 9],
+                    "blankedWords": ["these", "those"],
                     "exerciseImage": "",
                     "exerciseHints": null
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "this, that, these, those",
+            "sets": [
               {
                 "setMarker": "B",
                 "setHeading": "WORK IT OUT",
@@ -218,7 +258,14 @@
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "this, that, these, those",
+            "sets": [
               {
                 "setMarker": "C",
                 "setHeading": null,
@@ -229,7 +276,14 @@
                 "grammarHub": true,
                 "exerciseInstruction": "Go the Grammar Hub on page 102.",
                 "exercises": null
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "this, that, these, those",
+            "sets": [
               {
                 "setMarker": "D",
                 "setHeading": "PRACTICE",
@@ -237,35 +291,35 @@
                 "setAudioNumber": null,
                 "setIgnore": false,
                 "grammarHub": false,
-                "exerciseType": "image TU",
+                "exerciseType": "ImageLKU",
                 "textType": null,
                 "exerciseInstruction": "Write this, that, these or those and the name of the object for each picture.",
                 "exercises": [
                   {
                     "sentenceOrdinal": 1,
                     "sentences": ["these coats"],
-                    "blankedWords": [1, 2],
+                    "blankedWords": ["these", "coats"],
                     "exerciseImage": "",
                     "exerciseHints": ["t", "c"]
                   },
                   {
                     "sentenceOrdinal": 2,
                     "sentences": ["that hat"],
-                    "blankedWords": [1, 2],
+                    "blankedWords": ["that", "hat"],
                     "exerciseImage": "",
                     "exerciseHints": ["t", "h"]
                   },
                   {
                     "sentenceOrdinal": 3,
                     "sentences": ["those bags"],
-                    "blankedWords": [1, 2],
+                    "blankedWords": ["those", "bags"],
                     "exerciseImage": "",
                     "exerciseHints": ["t", "b"]
                   },
                   {
                     "sentenceOrdinal": 4,
                     "sentences": ["this phone"],
-                    "blankedWords": [1, 2],
+                    "blankedWords": ["this", "phone"],
                     "exerciseImage": "",
                     "exerciseHints": ["t", "p"]
                   }
@@ -307,22 +361,36 @@
             "partTitle": "GRAMMAR",
             "partImage": "",
             "partSubTitle": "have/has",
+            "textMode": "full article",
             "textContents": [
               {
                 "paragraphOrdinal": 1,
                 "paragraphTitle": "WORK IT OUT",
                 "paragraphSubtitles": null,
-                "paragraphContents": [
-                  "Lilly has two children, …",
-                  "‘I don't have a son or a grandson, …'",
-                  "‘Do you have any men in your family?'",
-                  "‘Yes, I do, …' I have a husband, …'"
-                ]
+                "paragraphContents": ["Lilly has two children, …"]
               },
               {
                 "paragraphOrdinal": 2,
                 "paragraphTitle": null,
-                "paragraphSubtitles": ["have / has"],
+                "paragraphSubtitles": null,
+                "paragraphContents": ["'I don't have a son or a grandson, …'"]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["'Do you have any men in your family?'"]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["'Yes, I do, …' I have a husband, …'"]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": ["have/has"],
                 "paragraphContents": [
                   "We use have / has to talk about family members and things that we own."
                 ]
@@ -336,7 +404,6 @@
                 "setAudioNumber": null,
                 "setIgnore": false,
                 "exerciseType": "word bank",
-                "textMode": "full article",
                 "exerciseInstruction": "Read the phrases from 100 years young! Underline examples of have/has. Then choose the correct option to complete the rule.",
                 "exercises": [
                   {
@@ -345,78 +412,70 @@
                     "exerciseQuestion": null,
                     "exerciseMaxAnswer": null,
                     "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["have", "have", "has", "have"],
-                    "blankedWords": [2, 7, 15, 25],
-                    "LKUs": ["have"],
-                    "context": "textContents"
-                  },
-                  {
-                    "sentenceOrdinal": 2,
-                    "paragraphOrdinal": 2,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
                     "sentenceAnswerOptions": [
+                      "have",
+                      "have",
+                      "has",
+                      "have",
                       "members",
-                      "and",
-                      "things",
-                      "that",
-                      "we",
                       "own"
                     ],
-                    "blankedWords": [8, 9, 10, 11, 12, 13, 14],
                     "LKUs": ["have"],
                     "context": "textContents"
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "have/has",
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "have/has",
+                "paragraphSubtitles": ["positive (+)"],
+                "paragraphContents": ["I have a sister", "She has a brother."]
               },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": ["negative (–)"],
+                "paragraphContents": [
+                  "I don't have a brother.",
+                  "He doesn't have a granddaughter."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": ["question"],
+                "paragraphContents": [
+                  "Do you have a daughter?",
+                  "Does she have a daughter?"
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": null,
+                "paragraphSubtitles": ["answer"],
+                "paragraphContents": [
+                  "Yes, I do. / No, I don't.",
+                  "Yes, she does / No, he doesn't"
+                ]
+              }
+            ],
+            "sets": [
               {
                 "setMarker": "B",
                 "setHeading": "WORK IT OUT",
                 "setImage": null,
                 "setAudioNumber": null,
-                "setIgnore": true,
+                "setIgnore": false,
                 "exerciseType": "word bank",
-                "textMode": "full article",
                 "exerciseInstruction": "Complete the table with the words in the box.",
-                "textContents": [
-                  {
-                    "paragraphOrdinal": 1,
-                    "paragraphTitle": "have / has",
-                    "paragraphSubtitles": ["positive (+)"],
-                    "paragraphContents": [
-                      "I have a sister",
-                      "She has a brother."
-                    ]
-                  },
-                  {
-                    "paragraphOrdinal": 2,
-                    "paragraphTitle": null,
-                    "paragraphSubtitles": ["negative (–)"],
-                    "paragraphContents": [
-                      "I don't have a brother.",
-                      "He doesn't have a granddaughter."
-                    ]
-                  },
-                  {
-                    "paragraphOrdinal": 3,
-                    "paragraphTitle": null,
-                    "paragraphSubtitles": ["question"],
-                    "paragraphContents": [
-                      "Do you have a daughter?",
-                      "Does she have a daughter?"
-                    ]
-                  },
-                  {
-                    "paragraphOrdinal": 4,
-                    "paragraphTitle": null,
-                    "paragraphSubtitles": ["answer"],
-                    "paragraphContents": [
-                      "Yes, I do. / No, I don't.",
-                      "Yes, she does / No, he doesn't"
-                    ]
-                  }
-                ],
                 "exercises": [
                   {
                     "sentenceOrdinal": 1,
@@ -424,52 +483,34 @@
                     "exerciseQuestion": null,
                     "exerciseMaxAnswer": null,
                     "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["has", "have"],
-                    "blankedWords": [2, 6],
-                    "LKUs": ["have"],
-                    "context": "textContents"
-                  },
-                  {
-                    "sentenceOrdinal": 2,
-                    "paragraphOrdinal": 2,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["don't have", "doesn't have"],
-                    "blankedWords": [2, 3, 7, 8],
-                    "LKUs": ["have"],
-                    "context": "textContents"
-                  },
-                  {
-                    "sentenceOrdinal": 3,
-                    "paragraphOrdinal": 3,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["have", "have"],
-                    "blankedWords": [3, 8],
-                    "LKUs": ["have"],
-                    "context": "textContents"
-                  },
-                  {
-                    "sentenceOrdinal": 4,
-                    "paragraphOrdinal": 4,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["do", "doesn't"],
-                    "blankedWords": [3, 12],
+                    "sentenceAnswerOptions": [
+                      "has",
+                      "have",
+                      "don't",
+                      "doesn't",
+                      "do",
+                      "does",
+                      "yes",
+                      "no"
+                    ],
                     "LKUs": ["have"],
                     "context": "textContents"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "have/has",
+            "sets": [
               {
                 "setMarker": "C",
                 "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
-                "setIgnore": true,
+                "setIgnore": false,
                 "exerciseType": "Grammar SB/without explanation",
                 "grammarHub": true,
                 "exerciseInstruction": "Complete the sentences with the correct form of have.",

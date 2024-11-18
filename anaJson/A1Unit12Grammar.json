@@ -1,0 +1,443 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 12,
+		"chapterTitle": "Going away",
+		"chapterQuote": "The journey of a thousand miles begins with one step. Lao Tzu",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe a trip",
+			"talk about vacation plans",
+			"ask for and give opinions",
+			"write a postcard"
+		],
+		"sections": [
+			{
+				"sectionNumber": 12.1,
+				"sectionTitle": "Trips",
+				"sectionObjective": "Describe a trip",
+				"GKU": "Language_Hub_A1_Unit12_Lesson12_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "travel"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "consonant clusters"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "countable and uncountable nouns"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "match",
+								"exerciseInstruction": "Read the sentences from the article. Are they talking about one bag, or more than one?",
+								"exerciseExample": null,
+								"exerciseColumnA": [
+									"one bag",
+									"more than one bag"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"You forget the bag that has your money, your credit card and your ticket in it."
+												],
+												"exerciseAnswers": [
+													"one bag"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"… her luggage wasn't too big, and she had all her bags and all her money with her."
+												],
+												"exerciseAnswers": [
+													"more than one bag"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "What do you notice about the underlined words?",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Countable and uncountable nouns"
+								],
+								"paragraphContents": [
+									"Bag is a countable noun: it has a singular and a plural form."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Money is an uncountable noun: it doesn't have a plural form."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Choose the correct option to complete the sentences.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"money",
+											"bag"
+										],
+										"LKUs": [
+											"countable",
+											"uncountable"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Choose the correct options. Use examples from the article A bad trip to help you.",
+								"wordBank": [
+									"uncountable",
+									"countable"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"all of your money",
+													"Money is a(n) uncountable noun."
+												],
+												"blankedWords": [
+													8
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"all of her credit cards",
+													"Credit card is a(n) countable noun."
+												],
+												"blankedWords": [
+													10
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"her luggage",
+													"Luggage is a(n) uncountable noun."
+												],
+												"blankedWords": [
+													6
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"a lot of traffic",
+													"Traffic is a(n) uncountable noun."
+												],
+												"blankedWords": [
+													8
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 120.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 12.2,
+				"sectionTitle": "A prize vacation",
+				"sectionObjective": "Talk about vacation plans",
+				"GKU": "Language_Hub_A1_Unit12_Lesson12_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "types of vacations"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ɪ/, /i:/ and /aɪ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present progressive"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "listening for feelings"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present progressive",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Mikey: You're going … next Wednesday!"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Mikey: You're going to the countryside, and you're staying in a tent, next to some mountains."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"Present progressive"
+								],
+								"paragraphContents": [
+									"He is talking about an arrangement in the future."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"He is talking about something that is fixed."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the sentences from the radio show. Choose the correct option to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"future",
+											"is"
+										],
+										"LKUs": [
+											"present continuous"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present progressive",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read the audio script on page 137. Find six more sentences or questions when Mikey and Jo use present continuous.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present progressive",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Complete the sentences and questions with the correct present progressive form of the verbs in the word bank.",
+								"wordBank": [
+									"travel",
+									"go",
+									"camp",
+									"take",
+									"stay"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Are you traveling by train or by bus?"
+												],
+												"blankedWords": [
+													"Are",
+													"traveling"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Alexander is going skiing next week."
+												],
+												"blankedWords": [
+													"is going"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Where are you staying?"
+												],
+												"blankedWords": [
+													"are",
+													"staying"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"We are camping in the mountains for the summer."
+												],
+												"blankedWords": [
+													"are camping"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"What is Ali taking with him on vacation?"
+												],
+												"blankedWords": [
+													"is",
+													"taking"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

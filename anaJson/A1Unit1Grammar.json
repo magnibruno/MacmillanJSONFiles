@@ -3,7 +3,7 @@
   "CEFRLevel": "A1",
   "dialect": "American",
   "chapter": {
-    "chapterUnit": "1",
+    "chapterUnit": 1,
     "chapterTitle": "Nice to meet you!",
     "chapterQuote": "The language of friendship is not words but meanings. Henry David Thoreau",
     "chapterFrontImage": "",
@@ -46,14 +46,13 @@
             "partTitle": "GRAMMAR",
             "partImage": "",
             "partSubTitle": "Simple present be: I, you",
-            "textContents": [],
             "sets": [
               {
                 "setMarker": "A",
-                "setHeading": "",
+                "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": 1.6,
-                "setIgnore": true,
+                "setIgnore": false,
                 "grammarHub": false,
                 "exerciseType": "TSS dictate",
                 "exerciseInstruction": "Listen to the examples. Underline the verbs.",
@@ -63,61 +62,93 @@
                       {
                         "sentenceOrdinal": 1,
                         "sentences": ["I'm from Spain."],
-                        "blankedWords": [1]
+                        "blankedWords": ["I'm"]
                       },
                       {
                         "sentenceOrdinal": 2,
                         "sentences": ["Are you from Madrid?"],
-                        "blankedWords": [1]
+                        "blankedWords": ["Are"]
                       },
                       {
                         "sentenceOrdinal": 3,
                         "sentences": ["No, I'm not. I'm from Bilbao."],
-                        "blankedWords": [2]
+                        "blankedWords": ["I'm"]
                       }
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "WORK IT OUT",
+                "paragraphSubtitles": ["am/are"],
+                "paragraphContents": ["I'm from Spain."]
               },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["You're from Turkey."]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["I'm not from New York."]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["You're not from Toronto."]
+              },
+              {
+                "paragraphOrdinal": 5,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["Are you from Brazil? No, I'm not."]
+              }
+            ],
+            "sets": [
               {
                 "setMarker": "B",
                 "setHeading": "WORK IT OUT",
                 "setImage": null,
                 "setAudioNumber": null,
-                "setIgnore": true,
+                "setIgnore": false,
                 "exerciseType": "word bank",
-                "textMode": "full article",
                 "exerciseInstruction": "Circle the correct verb.",
-                "textContents": [
-                  {
-                    "paragraphOrdinal": 1,
-                    "paragraphTitle": "WORK IT OUT",
-                    "paragraphSubtitles": ["am/are"],
-                    "paragraphContents": [
-                      "I'm from Spain.",
-                      "You're from Turkey.",
-                      "I'm not from New York.",
-                      "You're not from Toronto.",
-                      "Are you from Brazil? No, I'm not."
-                    ]
-                  }
-                ],
-                "exercisesWordBank": [
+                "exercises": [
                   {
                     "sentenceOrdinal": 1,
+                    "paragraphOrdinal": 1,
                     "exerciseQuestion": null,
                     "exerciseMaxAnswer": null,
                     "exerciseMinAnswer": null,
-                    "exerciseAnswers": "",
-                    "blankedWords": [1, 12, 13, 16],
+                    "sentenceAnswerOptions": ["I'm", "You're", "not", "Are"],
                     "LKUs": ["be"],
                     "context": "textContents"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "sets": [
               {
                 "setMarker": "C",
-                "setHeading": "",
+                "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
                 "setIgnore": false,
@@ -139,66 +170,84 @@
                     "exerciseSentences": [
                       {
                         "sentenceOrdinal": 1,
-                        "sentences": [
-                          "A: Are you from Italy?",
-                          "B: Yes, I am."
-                        ],
+                        "sentences": ["A: Are you from Italy?"],
                         "blankedWords": ["Are"]
                       },
                       {
                         "sentenceOrdinal": 2,
-                        "sentences": [
-                          "A: Hello. Are you from Brazil?",
-                          "B: Yes, I am."
-                        ],
-                        "blankedWords": ["am"]
+                        "sentences": ["B: Yes, I am."],
+                        "blankedWords": []
                       },
                       {
                         "sentenceOrdinal": 3,
-                        "sentences": [
-                          "A: Are you from Australia?",
-                          "B: Yes, I am."
-                        ],
-                        "blankedWords": ["you"]
+                        "sentences": ["A: Hello. Are you from Brazil?"],
+                        "blankedWords": []
                       },
                       {
                         "sentenceOrdinal": 4,
-                        "sentences": [
-                          "A: Are you from Morocco?",
-                          "B: Yes, I am."
-                        ],
-                        "blankedWords": ["Yes"]
+                        "sentences": ["B: Yes, I am."],
+                        "blankedWords": ["am"]
                       },
                       {
                         "sentenceOrdinal": 5,
-                        "sentences": [
-                          "A: Are you from Canada?",
-                          "B: No, I'm not."
-                        ],
-                        "blankedWords": ["No"]
+                        "sentences": ["A: Are you from Australia?"],
+                        "blankedWords": ["you"]
                       },
                       {
                         "sentenceOrdinal": 6,
-                        "sentences": [
-                          "A: Good morning. Are you from Argentina?",
-                          "B: Yes, I am."
-                        ],
-                        "blankedWords": ["I"]
+                        "sentences": ["B: Yes, I am."],
+                        "blankedWords": []
                       },
                       {
                         "sentenceOrdinal": 7,
-                        "sentences": [
-                          "A: Hello Lisa. Are you from China?",
-                          "B: No, I'm not."
-                        ],
-                        "blankedWords": ["No"]
+                        "sentences": ["A: Are you from Morocco?"],
+                        "blankedWords": []
                       },
                       {
                         "sentenceOrdinal": 8,
+                        "sentences": ["B: Yes, I am."],
+                        "blankedWords": ["Yes"]
+                      },
+                      {
+                        "sentenceOrdinal": 9,
+                        "sentences": ["A: Are you from Canada?"],
+                        "blankedWords": []
+                      },
+                      {
+                        "sentenceOrdinal": 10,
+                        "sentences": ["B: No, I'm not."],
+                        "blankedWords": ["No"]
+                      },
+                      {
+                        "sentenceOrdinal": 11,
                         "sentences": [
-                          "A: Are you from Mexico?",
-                          "B: No, I'm not."
+                          "A: Good morning. Are you from Argentina?"
                         ],
+                        "blankedWords": []
+                      },
+                      {
+                        "sentenceOrdinal": 12,
+                        "sentences": ["B: Yes, I am."],
+                        "blankedWords": ["I"]
+                      },
+                      {
+                        "sentenceOrdinal": 13,
+                        "sentences": ["A: Hello Lisa. Are you from China?"],
+                        "blankedWords": []
+                      },
+                      {
+                        "sentenceOrdinal": 14,
+                        "sentences": ["B: No, I'm not."],
+                        "blankedWords": ["not"]
+                      },
+                      {
+                        "sentenceOrdinal": 15,
+                        "sentences": ["A: Are you from Mexico?"],
+                        "blankedWords": []
+                      },
+                      {
+                        "sentenceOrdinal": 16,
+                        "sentences": ["B: No, I'm not."],
                         "blankedWords": ["I'm"]
                       }
                     ]
@@ -244,7 +293,7 @@
             "sets": [
               {
                 "setMarker": "A",
-                "setHeading": "",
+                "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
                 "setIgnore": false,
@@ -281,7 +330,35 @@
                     ]
                   }
                 ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: he, she, it",
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "WORK IT OUT",
+                "paragraphSubtitles": ["Simple present be: he, she, it"],
+                "paragraphContents": ["Positive: He / She / It's nice."]
               },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["Negative: He / She / It isn't nice."]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["Question: Is he / she / it fun?"]
+              }
+            ],
+            "sets": [
               {
                 "setMarker": "B",
                 "setHeading": "WORK IT OUT",
@@ -289,128 +366,81 @@
                 "setAudioNumber": null,
                 "setIgnore": false,
                 "exerciseType": "word bank",
-                "textMode": "full article",
                 "exerciseInstruction": "Complete the table with 's, is or isn't.",
-                "textContents": [
-                  {
-                    "paragraphOrdinal": 1,
-                    "paragraphTitle": "WORK IT OUT",
-                    "paragraphSubtitles": ["Simple present be: he, she, it"],
-                    "paragraphContents": [
-                      "Positive: He/She/It's nice.",
-                      "Negative: He/She/It isn't nice.",
-                      "Question: Is he/she/it fun?"
-                    ]
-                  }
-                ],
-                "exercisesWordBank": [
+                "exercises": [
                   {
                     "sentenceOrdinal": 1,
                     "paragraphOrdinal": 1,
                     "exerciseQuestion": null,
                     "exerciseMaxAnswer": null,
                     "exerciseMinAnswer": null,
-                    "exerciseAnswers": null,
+                    "sentenceAnswerOptions": ["it's", "isn't", "Is"],
                     "LKUs": ["be"],
                     "context": "textContents"
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: he, she, it",
+            "sets": [
               {
                 "setMarker": "C",
-                "setHeading": "",
+                "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
                 "setIgnore": false,
                 "exerciseType": "Grammar SB/without explanation",
                 "grammarHub": true,
                 "exerciseInstruction": "Complete the email with the words in the box.",
-                "wordBank": [
-                  "he's",
-                  "is",
-                  "is",
-                  "is",
-                  "is",
-                  "isn't",
-                  "it's",
-                  "she's"
-                ],
+                "wordBank": ["he's", "is(4x)", "isn't", "it's", "she's"],
                 "exercises": [
                   {
                     "exerciseSentences": [
                       {
                         "sentenceOrdinal": 1,
-                        "sentences": ["Hi Tina!"],
-                        "blankedWords": []
-                      },
-                      {
-                        "sentenceOrdinal": 2,
-                        "sentences": ["I'm at work but I'm not very busy."],
-                        "blankedWords": []
-                      },
-                      {
-                        "sentenceOrdinal": 3,
                         "sentences": [
-                          "My manager isn't here today because she is in New York City."
+                          "Hi Tina!",
+                          "I'm at work but I'm not very busy.",
+                          "My manager isn't here today because she is in New York City.",
+                          "Her name is Sandra and she's very nice.",
+                          "The job is fun and I'm very happy here.",
+                          "Henri is my colleague.",
+                          "He's very friendly.",
+                          "We're on the design team",
+                          "It's a small team with four people.",
+                          "See you soon!",
+                          "Love,",
+                          "Annette"
                         ],
-                        "blankedWords": ["isn't"]
-                      },
-                      {
-                        "sentenceOrdinal": 4,
-                        "sentences": [
-                          "Her name is Sandra and she's very nice."
-                        ],
-                        "blankedWords": ["is"]
-                      },
-                      {
-                        "sentenceOrdinal": 5,
-                        "sentences": [
-                          "The job is fun and I'm very happy here."
-                        ],
-                        "blankedWords": ["is"]
-                      },
-                      {
-                        "sentenceOrdinal": 6,
-                        "sentences": ["Henri is my colleague."],
-                        "blankedWords": ["is"]
-                      },
-                      {
-                        "sentenceOrdinal": 7,
-                        "sentences": ["He's very friendly."],
-                        "blankedWords": ["He's"]
-                      },
-                      {
-                        "sentenceOrdinal": 8,
-                        "sentences": ["We're on the design team."],
-                        "blankedWords": []
-                      },
-                      {
-                        "sentenceOrdinal": 9,
-                        "sentences": ["It's a small team with four people."],
-                        "blankedWords": ["it's"]
-                      },
-                      {
-                        "sentenceOrdinal": 10,
-                        "sentences": ["See you soon!"],
-                        "blankedWords": []
-                      },
-                      {
-                        "sentenceOrdinal": 11,
-                        "sentences": ["Love,"],
-                        "blankedWords": []
-                      },
-                      {
-                        "sentenceOrdinal": 12,
-                        "sentences": ["Annette"],
-                        "blankedWords": []
+                        "blankedWords": [
+                          "isn't",
+                          "is",
+                          "is",
+                          "she's",
+                          "is",
+                          "is",
+                          "He's",
+                          "It's"
+                        ]
                       }
                     ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: he, she, it",
+            "sets": [
               {
                 "setMarker": "D",
-                "setHeading": "",
+                "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
                 "setIgnore": true,
@@ -419,7 +449,14 @@
                 "grammarHub": false,
                 "exerciseInstruction": "Look at the verbs in the first two sentences in Exercise A. What are the full forms of these verbs?",
                 "exercises": null
-              },
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: he, she, it",
+            "sets": [
               {
                 "setMarker": "E",
                 "setHeading": "SPEAK",

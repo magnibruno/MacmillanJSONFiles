@@ -1,0 +1,544 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "A1",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": 5,
+    "chapterTitle": "Time for a break",
+    "chapterQuote": "Guard well your spare moments. Ralph Waldo Emerson",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "talk about free time",
+      "talk about food and meals",
+      "ask for information",
+      "write a blog about food"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 5.1,
+        "sectionTitle": "Relax and be happy",
+        "sectionObjective": "Talk about free time",
+        "GKU": "Language_Hub_A1_Unit5_Lesson5_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "free-time activities"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "simple present: he, she, it"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "does he / does she"
+          }
+        ],
+        "sectionPart": [
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "grammarHub": false,
+                "exerciseType": "Grammar SB/without explanation",
+                "exerciseInstruction": "Listen to the examples. Underline the verbs.",
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": [
+                          "He works all the time! He doesn't even take coffee breaks."
+                        ],
+                        "blankedWords": ["works", "doesn't", "take"]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": ["Does she go to the gym every day?"],
+                        "blankedWords": ["Does", "go"]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": [
+                          "No, she doesn't. She goes about twice a week."
+                        ],
+                        "blankedWords": ["doesn't", "goes"]
+                      },
+                      {
+                        "sentenceOrdinal": 4,
+                        "sentences": ["She doesn't have time to relax!"],
+                        "blankedWords": ["doesn't", "have"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "WORK IT OUT",
+                "paragraphSubtitles": ["Simple present: he, she, it"],
+                "paragraphContents": [
+                  "In positive sentences, we use the main verb plus -s or -es."
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "In negative sentences, we use doesn't  plus the main verb without -s."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "In yes/no questions, we use Does followed by the subject and the main verb without -s"
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "In short answers, we use does or doesn't."
+                ]
+              },
+              {
+                "paragraphOrdinal": 5,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "In wh- questions, we use a question word and does plus the main verb without -s."
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "B",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "word bank",
+                "exerciseInstruction": "Complete the rules with words in the box.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": 1,
+                    "exerciseQuestion": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseMinAnswer": null,
+                    "sentenceAnswerOptions": [
+                      "main",
+                      "verb",
+                      "doesn't",
+                      "without",
+                      "does",
+                      "question",
+                      "word"
+                    ],
+                    "LKUs": ["be"],
+                    "context": "textContents"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "sets": [
+              {
+                "setMarker": "C",
+                "setHeading": "PRACTICE",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "grammarHub": true,
+                "exerciseType": "GrammarSB/ without explanation",
+                "exerciseInstruction": "Complete the sentences in the simple present.",
+                "wordBank": ["cooks", "doesn't", "play", "do", "take"],
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["Martin cooks dinner in the evening."],
+                        "blankedWords": ["cooks"]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": ["Anna doesn't go shopping after work."],
+                        "blankedWords": ["doesn't"]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": ["Does Paolo play chess?"],
+                        "blankedWords": ["play"]
+                      },
+                      {
+                        "sentenceOrdinal": 4,
+                        "sentences": ["What does Shyama do on the weekend?"],
+                        "blankedWords": ["do"]
+                      },
+                      {
+                        "sentenceOrdinal": 5,
+                        "sentences": ["Does Akira take a bath after work?"],
+                        "blankedWords": ["take"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "sets": [
+              {
+                "setMarker": "D",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "grammarHub": true,
+                "exerciseInstruction": "Go to the Grammar Hub on page 106.",
+                "exercises": null
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Simple present be: I, you",
+            "sets": [
+              {
+                "setMarker": "E",
+                "setHeading": "PRACTICE",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "Grammar SB/without explanation",
+                "grammarHub": false,
+                "exerciseInstruction": "Complete the conversation.",
+                "wordBank": [
+                  "do",
+                  "goes",
+                  "go",
+                  "go",
+                  "watches",
+                  "plays",
+                  "does",
+                  "plays"
+                ],
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": [
+                          "Anna: What do you do to relax on the weekend? Do you go shopping?"
+                        ],
+                        "blankedWords": ["do"]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": [
+                          "Bea: No, I don't. My husband goes shopping, and I go running. What about you?"
+                        ],
+                        "blankedWords": ["goes", "go"]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": [
+                          "Anna: I go to the gym and my husband watches TV and plays computer games."
+                        ],
+                        "blankedWords": ["go", "watches", "plays"]
+                      },
+                      {
+                        "sentenceOrdinal": 4,
+                        "sentences": [
+                          "Bea: That sounds good. What kind of games does he play?"
+                        ],
+                        "blankedWords": ["does"]
+                      },
+                      {
+                        "sentenceOrdinal": 5,
+                        "sentences": ["Anna: He plays action games.?"],
+                        "blankedWords": ["plays"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 5.2,
+        "sectionTitle": "When's your lunch break?",
+        "sectionObjective": "Talk about food and meals",
+        "GKU": "Language_Hub_A1_Unit5_Lesson5_2",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "food and meals"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "skimming"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "adverbs of frequency"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "linking with /j/"
+          }
+        ],
+        "sectionPart": [
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adverbs of frequency",
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "grammarHub": false,
+                "exerciseType": "Grammar SB/without explanation",
+                "exerciseInstruction": "Find and complete the sentences with adverbs from Lunch breaks around the world.",
+                "exerciseExample": null,
+                "wordBank": [
+                  "usually",
+                  "usually",
+                  "sometimes",
+                  "always",
+                  "never",
+                  "often"
+                ],
+                "exercises": [
+                  {
+                    "exerciseSentences": [
+                      {
+                        "sentenceOrdinal": 1,
+                        "sentences": ["The food is usually really good."],
+                        "blankedWords": ["usually"]
+                      },
+                      {
+                        "sentenceOrdinal": 2,
+                        "sentences": [
+                          "I usually have rice with fish or chicken and some vegetables."
+                        ],
+                        "blankedWords": ["usually"]
+                      },
+                      {
+                        "sentenceOrdinal": 3,
+                        "sentences": [
+                          "Sometimes we go to a local restaurant for lunch."
+                        ],
+                        "blankedWords": ["Sometimes"]
+                      },
+                      {
+                        "sentenceOrdinal": 4,
+                        "sentences": ["My wife always comes home for lunch."],
+                        "blankedWords": ["always"]
+                      },
+                      {
+                        "sentenceOrdinal": 5,
+                        "sentences": ["I never have dessert."],
+                        "blankedWords": ["never"]
+                      },
+                      {
+                        "sentenceOrdinal": 6,
+                        "sentences": [
+                          "I often have some fruit or something sweet as a special treat."
+                        ],
+                        "blankedWords": ["often"]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adverbs of frequency",
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphImage": "",
+                "paragraphTitle": "Complete the chart with sometimes, usually and never.",
+                "paragraphSubtitles": null,
+                "paragraphContents": ["1. never"]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["2. sometimes"]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["3. usually"]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "B",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "word bank",
+                "exerciseInstruction": "Complete the chart with sometimes, usually and never.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": 1,
+                    "exerciseQuestion": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseMinAnswer": null,
+                    "sentenceAnswerOptions": ["never", "sometimes", "usually"],
+                    "LKUs": ["never", "soemtimes", "usually"],
+                    "context": "textContents"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adverbs of frequency",
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "WORK IT OUT",
+                "paragraphSubtitles": ["Adverbs of frequency"],
+                "paragraphContents": [
+                  "We use adverbs of frequency to say how often we do things. We put them …"
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "after the verb be (in positive and negative sentences)."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "before other verbs (in positive sentences)."
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "C",
+                "setHeading": "WORK IT OUT",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "word bank",
+                "exerciseInstruction": "Read the sentences in Exercise A and choose the correct option to complete the rules.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": 1,
+                    "exerciseQuestion": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseMinAnswer": null,
+                    "sentenceAnswerOptions": ["after", "before"],
+                    "LKUs": ["adverbs"],
+                    "context": "textContents"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adverbs of frequency",
+            "sets": [
+              {
+                "setMarker": "D",
+                "setHeading": null,
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "grammarHub": true,
+                "exerciseType": null,
+                "grammarHub": false,
+                "exerciseInstruction": "Go to the Grammar Hub on page 106.",
+                "exercises": null
+              }
+            ]
+          },
+          {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adverbs of frequency",
+            "sets": [
+              {
+                "setMarker": "E",
+                "setHeading": "SPEAK",
+                "setImage": null,
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "grammarHub": false,
+                "exerciseType": null,
+                "grammarHub": false,
+                "exerciseInstruction": "Work in pairs. How often do you eat these kinds of food? When do you eat them? Tell your partner.",
+                "exercises": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

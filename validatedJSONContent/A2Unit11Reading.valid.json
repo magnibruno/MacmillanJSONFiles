@@ -1,655 +1,538 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A2",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": "11",
-		"chapterTitle": "The body",
-		"chapterQuote": "Health is the greatest possession. Lao Tzu",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"talk about the body and health",
-			"talk about your experiences",
-			"talk about sports and hobbies",
-			"ask for information",
-			"write a recommendation on a forum"
-		],
-		"sections": [
-			{
-				"sectionNumber": 11.1,
-				"sectionTitle": "Health tips",
-				"sectionObjective": "Talk about the body and health",
-				"GKU": "Language_Hub_A2_Unit11_Lesson11_1",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "the body"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "sentence stress"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "should and shouldn’t"
-					}
-				],
-				"hasReading": false
-			},	
-			{
-				"sectionNumber": 11.2,
-				"sectionTitle": "In it to win it",
-				"sectionObjective": "Talk about your experiences",
-				"GKU": "Language_Hub_A2_Unit11_Lesson_11_2",
-				"sectionSkills": [
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "present perfect"
-					},
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "irregular past participles"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "past participles"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",	
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle":  "NoFear",
-								"paragraphSubtitles": [
-									"Meet the players!"
-								],
-								"paragraphContents": [
-									"Every week on No Fear, 20 players climb, swim and jump as they race to the finish line. Only three people make it to the final each week. In the end, there can be only one winner! Let’s meet the three Meet the players! fastest people from last week …"   
-								]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "Sam McGunn, 32",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Sam is a firefighter. He works hard, but in his free time he’s really active. He’s jumped out of an airplane seven times, and he’s run 23 marathons! Sam is very fit, but he’s never won a competition. That’s why he wants to win this. His wife, Tara, and son, Ben, are here to support him. What do you think? Is Sam the strongest player on the show?"
-								]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "Hana Hansen, 28",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Hana hasn’t played any sports in her life. But she owns a large farm and works on it seven days a week, 364 days a year. She often rides horses on the farm. Her husband, Raoul, spends a lot of time working in other countries, so she often has to take care of the animals, the house and their three young children on her own. Hana doesn’t have any time for sports, but she’s strong and she’s a fighter. Can she beat Sam or Jude?"
-								]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": "Jude Wexler, 31",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Jude doesn’t work, but he’s traveled all over the world. He’s climbed mountains in Africa and raced cars in the Middle East. Jude doesn’t believe in hard work, he prefers to have fun. ‘I travel all the time.’ Have you ever flown an airplane? ‘I have. I loved it.’ Have you ever been to a gym? ‘I haven’t. I don’t like exercising,’ says Jude. ‘To prepare for this type of challenge, you should do what you love. And I love having fun. I believe I can win.’ Jude has won 14 competitions with this method. Can he make it 15?"
-								]
-							}
-						],		
-						"glossaryBox": [
-							{
-								"glossaryTitle": "Glossary",
-								"glossaryContent": [
-									"active (adj) someone who does a lot of different activities/sports and has a lot of energy and interests",
-									"challenge (n) something that needs a lot of skill and energy and determination to deal with or to achieve",
-									"firefighter (n) someone whose job is to put out fires and rescue people from dangerous situations"
-								]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,							
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. You’re going to read an article about a TV show called No Fear. Look at the pictures. What do you think happens in the show?"
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Read the article’s introduction. Check your ideas from Exercise A."
-							},	
-							{
-								"setMarker": "C",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,								
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the text again. Complete the summaries with Sam, Hana or Jude.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ doesn’t have a job and thinks the best way to win is by having fun.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Jude",
-										"LKUs": [
-											"fun"
-										],
-										"sentenceAnswerOptions": [
-											"Sam",
-											"Hana",
-											"Jude"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ is fit, hardworking and has the support of his family.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Sam",
-										"LKUs": [
-											"fit"
-										],
-										"sentenceAnswerOptions": [
-											"Sam",
-											"Hana",
-											"Jude"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "________ isn’t into sports, but is strong and works all year to manage a large farm.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Hana",
-										"LKUs": [
-											"strong"
-										],
-										"sentenceAnswerOptions": [
-											"Sam",
-											"Hana",
-											"Jude"
-										],
-										"context": "textContents"
-									}
-								]	
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,								
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read again. Are the sentences true (T) or false (F)? Correct the false sentences.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Sam won seven competitions.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"competition"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Sam is married with a child.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"married"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Hana is often home alone.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"alone"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Hana likes to ride around on her motorcycle.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"farm"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Jude likes going to the gym.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"gym"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 6,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Jude came in first in 14 competitions.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"first"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "E",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,								
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Which player do you want to win the competition? Why?"
-							}
-						]
-					}
-				]
-			},
-			{
-				"sectionNumber": 11.3,
-				"sectionTitle": "Move it",
-				"sectionObjective": "Talk about sports and hobbies",
-				"GKU": "Language_Hub_A2_Unit11_Lesson_11_3",
-				"sectionSkills": [
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "present perfect vs past simple"
-					},
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "sports"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "contractions"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Reading",
-						"skillTitle": "understanding the sequence of past events"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",	
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle":  "SPOTLIGHT",
-								"paragraphSubtitles": [
-									"Karina Welch, ultra-runner"
-								],
-								"paragraphContents": [
-									"Are you bored of running marathons? Do you want to try something new? Ultra-running is becoming more and more popular. Ultra-runs are longer than marathons. They are usually in remote and beautiful places, like the Gobi Desert or the Rocky Mountains, so you can run and enjoy nature at the same time!",   
-									"This week, we’re talking to Karina Welch, an ultra-runner, who is 66."
-								]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "So, Karina, when did you start running?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Twenty-five years ago, when I was in my late 40s. My children left home and I needed a way to spend my time, so I decided to start running. I began in my local park, then I ran a few marathons and finally I started ultra-running."
-								]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "How many ultra-runs have you done?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I’ve done around 20 races. My first run was in 2009 and it was really difficult. Ultra-runs are different from marathons, but they’re better for your body. You normally run in the countryside and not on hard roads."
-								]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": "Have you ever run a very difficult race? Where was it?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Yes, I have! Four years ago, I ran in the Marathon des Sables in the Sahara desert. I ran 250 km in six days, in very hot weather. I didn’t actually run the whole time. I sometimes walked for a few kilometers, but that’s normal in ultra-running. The important thing is to keep moving!"
-								]
-							},
-							{
-								"paragraphOrdinal": 5,
-								"paragraphTitle": "What do you do when you run for such a long time? Do you listen to music?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"No, I like the silence, especially when I’m running in a very quiet place. I like listening to the birds and the wind. I usually eat a lot when I run. You need food to keep your energy levels up."
-								]
-							},
-							{
-								"paragraphOrdinal": 6,
-								"paragraphTitle": "What are your tips for someone who is interested in ultra-running?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"It’s never too late to start! I didn’t run when I was young and now I love it. Start with jogging, and slowly increase the number of kilometers. And always warm up before you run!"
-								]
-							},
-							{
-								"paragraphOrdinal": 7,
-								"paragraphTitle": "Finally, what do you like most about ultra-running?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I feel free. When I am running, I don’t think about anything. It’s just me, my legs and the sky."
-								]
-							}
-						],		
-						"glossaryBox": [
-							{
-								"glossaryTitle": "Glossary",
-								"glossaryContent": [
-									"jogging (n) the activity or exercise of running at a slow steady speed",
-									"warm up (phr v) to prepare for a sport or activity by doing gentle exercises or practicing just before it starts"
-								]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,							
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. What do you think ‘ultra-running’ is?"
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read Spotlight. Choose the correct words to complete the sentences.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Ultra-running is / isn’t running farther than a marathon.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "is",
-										"LKUs": [
-											"be"
-										],
-										"sentenceAnswerOptions": [
-											"is",
-											"isn't"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Ultra-running is better / worse for you than running marathons.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "better",
-										"LKUs": [
-											"running"
-										],
-										"sentenceAnswerOptions": [
-											"better",
-											"worse"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "You can / can’t walk when you do an ultra-run.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "can",
-										"LKUs": [
-											"can"
-										],
-										"sentenceAnswerOptions": [
-											"can",
-											"can’t"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Karina listens / doesn’t listen to music when she’s running.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "doesn’t listen",
-										"LKUs": [
-											"listen"
-										],
-										"sentenceAnswerOptions": [
-											"listens",
-											"doesn’t listen"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "You should / shouldn’t eat a lot during an ultra-run.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "should",
-										"LKUs": [
-											"should"
-										],
-										"sentenceAnswerOptions": [
-											"should",
-											"shouldn't"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 6,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "You have to / don’t have to start training when you’re young.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "don't have to",
-										"LKUs": [
-											"have to"
-										],
-										"sentenceAnswerOptions": [
-											"have to",
-											"don't have to"
-										],
-										"context": "textContents"
-									}
-								]	
-							},	
-							{
-								"setMarker": "C",
-								"setHeading": "",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,								
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read again. Number the events (1–5) in the order Karina did them. Use the information in the box.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "She did her first ultra-run.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "4",
-										"LKUs": [
-											"run"
-										],
-										"sentenceAnswerOptions": [
-											"1",
-											"2",
-											"3",
-											"4"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Her children moved away.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "1",
-										"LKUs": [
-											"move"
-										],
-										"sentenceAnswerOptions": [
-											"1",
-											"2",
-											"3",
-											"4"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "She ran a marathon.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "3",
-										"LKUs": [
-											"marathon"
-										],
-										"sentenceAnswerOptions": [
-											"1",
-											"2",
-											"3",
-											"4"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "She ran in a competition in the desert.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "5",
-										"LKUs": [
-											"competition"
-										],
-										"sentenceAnswerOptions": [
-											"1",
-											"3",
-											"4",
-											"5"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "She started running.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "2",
-										"LKUs": [
-											"start"
-										],
-										"sentenceAnswerOptions": [
-											"1",
-											"2",
-											"3",
-											"4"
-										],
-										"context": "textContents"
-									}
-								]	
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,								
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Would you try ultra-running? Why/Why not?"
-							}		
-						]
-					}
-				]
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A2",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": "11",
+    "chapterTitle": "The body",
+    "chapterQuote": "Health is the greatest possession. Lao Tzu",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "talk about the body and health",
+      "talk about your experiences",
+      "talk about sports and hobbies",
+      "ask for information",
+      "write a recommendation on a forum"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 11.1,
+        "sectionTitle": "Health tips",
+        "sectionObjective": "Talk about the body and health",
+        "GKU": "Language_Hub_A2_Unit11_Lesson11_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "the body"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "sentence stress"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "should and shouldn't"
+          }
+        ],
+        "hasReading": false
+      },
+      {
+        "sectionNumber": 11.2,
+        "sectionTitle": "In it to win it",
+        "sectionObjective": "Talk about your experiences",
+        "GKU": "Language_Hub_A2_Unit11_Lesson_11_2",
+        "sectionSkills": [
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "present perfect"
+          },
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "irregular past participles"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "past participles"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "NoFear",
+                "paragraphSubtitles": ["Meet the players!"],
+                "paragraphContents": [
+                  "Every week on No Fear, 20 players climb, swim and jump as they race to the finish line. Only three people make it to the final each week. In the end, there can be only one winner! Let's meet the three Meet the players! fastest people from last week …"
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "Sam McGunn, 32",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Sam is a firefighter. He works hard, but in his free time he's really active. He's jumped out of an airplane seven times, and he's run 23 marathons! Sam is very fit, but he's never won a competition. That's why he wants to win this. His wife, Tara, and son, Ben, are here to support him. What do you think? Is Sam the strongest player on the show?"
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "Hana Hansen, 28",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Hana hasn't played any sports in her life. But she owns a large farm and works on it seven days a week, 364 days a year. She often rides horses on the farm. Her husband, Raoul, spends a lot of time working in other countries, so she often has to take care of the animals, the house and their three young children on her own. Hana doesn't have any time for sports, but she's strong and she's a fighter. Can she beat Sam or Jude?"
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": "Jude Wexler, 31",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Jude doesn't work, but he's traveled all over the world. He's climbed mountains in Africa and raced cars in the Middle East. Jude doesn't believe in hard work, he prefers to have fun. ‘I travel all the time.' Have you ever flown an airplane? ‘I have. I loved it.' Have you ever been to a gym? ‘I haven't. I don't like exercising,' says Jude. ‘To prepare for this type of challenge, you should do what you love. And I love having fun. I believe I can win.' Jude has won 14 competitions with this method. Can he make it 15?"
+                ]
+              }
+            ],
+            "glossaryBox": [
+              {
+                "glossaryTitle": "Glossary",
+                "glossaryContent": [
+                  "active (adj) someone who does a lot of different activities/sports and has a lot of energy and interests",
+                  "challenge (n) something that needs a lot of skill and energy and determination to deal with or to achieve",
+                  "firefighter (n) someone whose job is to put out fires and rescue people from dangerous situations"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. You're going to read an article about a TV show called No Fear. Look at the pictures. What do you think happens in the show?"
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Read the article's introduction. Check your ideas from Exercise A."
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the text again. Complete the summaries with Sam, Hana or Jude.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ doesn't have a job and thinks the best way to win is by having fun.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Jude",
+                    "LKUs": ["fun"],
+                    "sentenceAnswerOptions": ["Sam", "Hana", "Jude"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ is fit, hardworking and has the support of his family.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Sam",
+                    "LKUs": ["fit"],
+                    "sentenceAnswerOptions": ["Sam", "Hana", "Jude"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "________ isn't into sports, but is strong and works all year to manage a large farm.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Hana",
+                    "LKUs": ["strong"],
+                    "sentenceAnswerOptions": ["Sam", "Hana", "Jude"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read again. Are the sentences true (T) or false (F)? Correct the false sentences.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Sam won seven competitions.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["competition"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Sam is married with a child.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["married"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Hana is often home alone.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["alone"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Hana likes to ride around on her motorcycle.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["farm"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Jude likes going to the gym.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["gym"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 6,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Jude came in first in 14 competitions.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["first"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "E",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Which player do you want to win the competition? Why?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 11.3,
+        "sectionTitle": "Move it",
+        "sectionObjective": "Talk about sports and hobbies",
+        "GKU": "Language_Hub_A2_Unit11_Lesson_11_3",
+        "sectionSkills": [
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "present perfect vs past simple"
+          },
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "sports"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "contractions"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "understanding the sequence of past events"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "SPOTLIGHT",
+                "paragraphSubtitles": ["Karina Welch, ultra-runner"],
+                "paragraphContents": [
+                  "Are you bored of running marathons? Do you want to try something new? Ultra-running is becoming more and more popular. Ultra-runs are longer than marathons. They are usually in remote and beautiful places, like the Gobi Desert or the Rocky Mountains, so you can run and enjoy nature at the same time!",
+                  "This week, we're talking to Karina Welch, an ultra-runner, who is 66."
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "So, Karina, when did you start running?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Twenty-five years ago, when I was in my late 40s. My children left home and I needed a way to spend my time, so I decided to start running. I began in my local park, then I ran a few marathons and finally I started ultra-running."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "How many ultra-runs have you done?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I've done around 20 races. My first run was in 2009 and it was really difficult. Ultra-runs are different from marathons, but they're better for your body. You normally run in the countryside and not on hard roads."
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": "Have you ever run a very difficult race? Where was it?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Yes, I have! Four years ago, I ran in the Marathon des Sables in the Sahara desert. I ran 250 km in six days, in very hot weather. I didn't actually run the whole time. I sometimes walked for a few kilometers, but that's normal in ultra-running. The important thing is to keep moving!"
+                ]
+              },
+              {
+                "paragraphOrdinal": 5,
+                "paragraphTitle": "What do you do when you run for such a long time? Do you listen to music?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "No, I like the silence, especially when I'm running in a very quiet place. I like listening to the birds and the wind. I usually eat a lot when I run. You need food to keep your energy levels up."
+                ]
+              },
+              {
+                "paragraphOrdinal": 6,
+                "paragraphTitle": "What are your tips for someone who is interested in ultra-running?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "It's never too late to start! I didn't run when I was young and now I love it. Start with jogging, and slowly increase the number of kilometers. And always warm up before you run!"
+                ]
+              },
+              {
+                "paragraphOrdinal": 7,
+                "paragraphTitle": "Finally, what do you like most about ultra-running?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I feel free. When I am running, I don't think about anything. It's just me, my legs and the sky."
+                ]
+              }
+            ],
+            "glossaryBox": [
+              {
+                "glossaryTitle": "Glossary",
+                "glossaryContent": [
+                  "jogging (n) the activity or exercise of running at a slow steady speed",
+                  "warm up (phr v) to prepare for a sport or activity by doing gentle exercises or practicing just before it starts"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. What do you think ‘ultra-running' is?"
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read Spotlight. Choose the correct words to complete the sentences.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Ultra-running is / isn't running farther than a marathon.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "is",
+                    "LKUs": ["be"],
+                    "sentenceAnswerOptions": ["is", "isn't"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Ultra-running is better / worse for you than running marathons.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "better",
+                    "LKUs": ["running"],
+                    "sentenceAnswerOptions": ["better", "worse"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "You can / can't walk when you do an ultra-run.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "can",
+                    "LKUs": ["can"],
+                    "sentenceAnswerOptions": ["can", "can't"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Karina listens / doesn't listen to music when she's running.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "doesn't listen",
+                    "LKUs": ["listen"],
+                    "sentenceAnswerOptions": ["listens", "doesn't listen"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "You should / shouldn't eat a lot during an ultra-run.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "should",
+                    "LKUs": ["should"],
+                    "sentenceAnswerOptions": ["should", "shouldn't"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 6,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "You have to / don't have to start training when you're young.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "don't have to",
+                    "LKUs": ["have to"],
+                    "sentenceAnswerOptions": ["have to", "don't have to"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read again. Number the events (1–5) in the order Karina did them. Use the information in the box.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "She did her first ultra-run.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "4",
+                    "LKUs": ["run"],
+                    "sentenceAnswerOptions": ["1", "2", "3", "4"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Her children moved away.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "1",
+                    "LKUs": ["move"],
+                    "sentenceAnswerOptions": ["1", "2", "3", "4"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "She ran a marathon.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "3",
+                    "LKUs": ["marathon"],
+                    "sentenceAnswerOptions": ["1", "2", "3", "4"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "She ran in a competition in the desert.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "5",
+                    "LKUs": ["competition"],
+                    "sentenceAnswerOptions": ["1", "3", "4", "5"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "She started running.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "2",
+                    "LKUs": ["start"],
+                    "sentenceAnswerOptions": ["1", "2", "3", "4"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Would you try ultra-running? Why/Why not?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

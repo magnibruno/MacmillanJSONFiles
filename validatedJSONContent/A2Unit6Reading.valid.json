@@ -1,515 +1,491 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A2",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": "6",
-		"chapterTitle": "That't Entertainment",
-		"chapterQuote": "If music be the food of love, play on. William Shakespeare",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"talk about likes and dislikes",
-			"talk about entertainment in the present and the past",
-			"talk about your life",
-			"ask for and give opinions",
-			"review an event"
-		],
-		"sections": [
-			{
-				"sectionNumber": 6.1,
-				"sectionTitle": "Let’s go out",
-				"sectionObjective": "Talk about likes and dislikes",
-				"GKU": "Language_Hub_A2_Unit6_Lesson6_1",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "entertainment"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "word stress: noun patterns"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "likes and dislikes"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",	
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle":  "City Guide",
-								"paragraphSubtitles": [
-									"What's going on?",
-									"Today" , "This week", "This weekend"
-								],
-								"paragraphContents": [
-									"Things to do this week (August 10 – 16) No plans this week? Well, not anymore. We’re here to help! From movies to festivals, here’s your guide to the next seven days. Let’s go out!"
-								]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "Star Wars (5 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Watch the first three Star Wars movies, a different movie each evening over three nights. Saturday is a special family day when you can wear costumes.",
-									"Langley Outdoor Movie Theater, 6 pm, from Thursday, August 13"
-								]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "Cow (3 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Californian rock band, Cow, often play in strange locations. This Friday, their concert is in an old swimming pool. Enjoy some old favorites and songs from their new album.",
-									"The Old Baths, 9 pm, Friday, August 14"
-								]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": "Comedy Underground (4 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"For one night, comedians Lily O’Connor and Josh Peet take their new show underground. That’s right – two hours of free comedy as you travel on the subway!",
-									"City Line, 8 pm – 10 pm, Thursday, August 13"
-								]
-							},
-							{
-								"paragraphOrdinal": 5,
-								"paragraphTitle": "Kwame Abraham (5 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"This exhibit of Kwame Abraham’s photographs shows people from his country, Ghana, during the 1960s. His images tell amazing stories.",
-									"The Hayforth Gallery, 10 am – 9:30 pm, Wednesday, August 12 – Sunday, September 6"
-								]
-							},
-							{
-								"paragraphOrdinal": 6,
-								"paragraphTitle": "Silent disco (4 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"The silent disco craze continues! Put on your headphones, choose any kind of music and dance to your favorite tunes.",
-									"Nanette’s, 10 pm – 5 am, Saturday, August 15"
-								]
-							},
-							{
-								"paragraphOrdinal": 7,
-								"paragraphTitle": "Lost in the Forest Festival (4 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"A three-day music festival with great food and dancing under the tall, green trees of Coney Forest.",
-									"Coney Forest, Friday – Sunday, August 14 – 16"
-								]
-							},
-							{
-								"paragraphOrdinal": 8,
-								"paragraphTitle": "Shakespeare in the park (3 stars)",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Tonight’s play is Romeo and Juliet, Shakespeare’s famous love story. With James Cave as Romeo and Ameera Hussain as Juliet. Bring warm clothes and a picnic.",
-									"Linkside Park, 6 pm, Tuesday, August 11"
-								]
-							}
-						],	
-						"GlossaryBox": [
-							{
-								"explanationTitle": "Glossary",
-								"explanationContent": [
-									"comedian (n) someone who tells jokes and stories to make people laugh",
-									"free (adj) something that doesn’t cost anything",
-									"costume (n) clothes that performers wear in a play, movie, etc",
-									"location (n) where something is or where something happens",
-									"silent (adj) not making any noise"
-								]
-							}	
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,							
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": null,
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Read the City Guide. Tick (✓) the information you can get from it.",
-										"exerciseMaxAnswer": null,
-										"exerciseMinAnswer": null,
-										"exerciseAnswers": "the date of an event",
-										"LKUs": [
-											"date",
-											"event"
-										],
-										"sentenceAnswerOptions": [
-											"how much an event costs",
-											"the date of an event",
-											"how often the event happens",
-											"things to do in October"
-										],
-										"context": "textContents"
-									} 
-								]
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR SPECIFIC INFORMATION",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "highlight",
-								"exerciseInstruction": "Read the guide again. Complete the sentences with no more than three words from the text.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "The Kwame Abraham exhibit finishes on___",
-										"exerciseMaxAnswer": "Sunday, September 6",
-										"exerciseMinAnswer": "September 6",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"exhibit"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "The music festival lasts for ___days.",
-										"exerciseMaxAnswer": "three",
-										"exerciseMinAnswer": "three",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"festival"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "The Star Wars event starts at___on Thursday August 13.",
-										"exerciseMaxAnswer": "6 pm",
-										"exerciseMinAnswer": "6",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"event"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Cow’s performance is in a ___ in The Old Baths.",
-										"exerciseMaxAnswer": "swimming pool",
-										"exerciseMinAnswer": "pool",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"performance"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "James Cave is ___ in the performance of Romeo and Juliet.",
-										"exerciseMaxAnswer": "Romeo",
-										"exerciseMinAnswer": "Romeo",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"performance"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{							
-								"setMarker": "C",
-								"setHeading": "",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,								
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": null,
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "How do you know which events the What’s going on? guide recommends?",
-										"exerciseMaxAnswer": null,
-										"exerciseMinAnswer": null,
-										"exerciseAnswers": "The events have five-star ratings",
-										"LKUs": [
-											"recommend",
-											"rating"
-										],
-										"sentenceAnswerOptions": [
-											"The events have three-star ratings",
-											"The events have four-star ratings",
-											"The events have five-star ratings"
-											
-										],
-										"context": "textContents"
-									} 
-								]
-							},
-							{
-								"setMarker": "C",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,								
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. How do you find events?"								
-							}	
-						]								
-					}
-				]	
-			},
-			{
-				"sectionNumber": 6.2,
-				"sectionTitle": "It was fun",
-				"sectionObjective": "Talk about entertainment in the present and the past",
-				"GKU": "Language_Hub_A2_Unit6_Lesson6_2",
-				"sectionSkills": [
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "was/were"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "weak forms: was/were"
-					},
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "past time expressions"
-					}
-				],
-				"hasReading": false
-			},
-			{
-				
-				"sectionNumber": 6.3,
-				"sectionTitle": "Life stories",
-				"sectionObjective": "Talk about your life",
-				"GKU": "Language_Hub_A2_Unit6_Lesson6_3",
-				"sectionSkills": [
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "simple past regular and irregular verbs"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "simple past regular endings"
-					},
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "life events"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Reading",
-						"skillTitle": "scanning for names"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",	
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle":  "Entertainer Magazine",
-								"paragraphSubtitles": null,
-								"paragraphContents": [ "Inspiring stories"]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "Carlos Acosta",
-								"paragraphSubtitles": [
-									"by Helena Nowak"
-								],
-								"paragraphContents": [
-									"Carlos Acosta was born into a large, poor family in Havana, Cuba, in 1973. When he was nine years old, his father, Pedros Acosta, sent him to dance school. At first, he hated it – he just wanted to play soccer with his friends. But he worked hard and, eventually, became a talented dancer. He studied at the National Ballet School of Cuba. He won the gold medal at the Prix de Lausanne.",
-									"Between 1989 and 1991, he performed around the world. He was a principal dancer at the Houston Ballet from 1993 to 1998, and then he started a new job at London’s Royal Ballet. He met his wife, Charlotte Holland, in 2004. They got married eight years later. They have three children. He went back to Cuba in 2011 to start a foundation to help young dancers. Acosta is also an actor. He appeared in the movies New York, I Love You (2008) and Our Kind of Traitor (2016)."
-								]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "Venus Williams",
-								"paragraphSubtitles": ["by Nao Yamauchi"],
-								"paragraphContents": [
-									"Venus Williams was born in Lynwood, near Compton in Los Angeles, in 1980. There was a lot of crime in the local area and her father, Richard Williams, thought tennis was a chance for Venus and her younger sister Serena to be richand successful.",
-									"The Williams sisters played tennis on old courts. They practiced with tennis balls from nearby country clubs. Their father was their coach, and their mother, Oracene Price, gave them school lessons at home. When she was ten, Venus moved to Florida where she went to Rick Macci’s tennis academy. Before she was a teenager, she won 63 matches without losing one.",
-									"In February 2002, Venus Williams became the first African American to be the world’s number one tennis player. In July of the same year, Venus played Serena in the Wimbledon final, and Serena won and became world number one. These sisters, from a poor neighborhood in Los Angeles, are now recognized as two of the greatest female tennis players in the world."
-								]
-							}
-						],
-						"GlossaryBox": [
-							{
-								"explanationTitle": "Glossary",
-								"explanationContent": [
-									"inspiring (adj) making you feel excited about something"
-								]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,							
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Look at the pictures in the article. What do you know about these people?"
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Student A – read about Carlos Acosta. Student B – read about Venus Williams. Tell your partner about your person."
-							},
-							{
-								"setMarker": "C",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,								
-								"exerciseType": "highlight",
-								"exerciseInstruction": "Read the article again and complete the sentences with names from the text. Use the information in the box to help you.",
-								"explanationBox": [
-									{
-										"explanationTitle": "Scanning for names",
-										"explanationContent": [
-											"When scanning for names of people or places, look for CAPITAL LETTERS.",
-											"When scanning for names of movies, albums and books, look for italics."
-										]
-									}
-								],
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"exerciseQuestion": "____wanted Venus and Serena to learn tennis.",
-										"exerciseMinAnswer": "Richard",
-										"exerciseMaxAnswer": "Richard Williams",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"learn"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Carlos got married to____",
-										"exerciseMinAnswer": "Charlotte",
-										"exerciseMaxAnswer": "Charlotte Holland",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"get"
-										],
-										"context": "textContet"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "In 2008, Carlos was in a movie called_________",
-										"exerciseMinAnswer": "New York,I Love You",
-										"exerciseMaxAnswer": "New York,I Love You (2008)",
-										"exerciseAnswers": null,
-										"LKUs": [
-											"be"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Venus moved to ___ in 1990.",
-										"exerciseMinAnswer": "Florida",
-										"exerciseMaxAnswer": "Florida where she went to Rick Macci’s tennis academy",
-										"exerciseAnswers": null,
-										"LKUs": [ "move" ],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "___ sent Carlos to dance school for the first time.",
-										"exerciseMinAnswer": "Pedros Acosta",
-										"exerciseMaxAnswer": "When he was nine years old, his father, Pedros Acosta",
-										"exerciseAnswers": null,
-										"LKUs": [ "send" ],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 6,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "___ became world number one in July 2002.",
-										"exerciseMinAnswer": "Serena",
-										"exerciseMaxAnswer": "Serena Williams",
-										"exerciseAnswers": null,
-										"LKUs": [ "become" ],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 7,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Carlos got a gold medal from ___",
-										"exerciseMinAnswer": "the National Ballet School",
-										"exerciseMaxAnswer": "the National Ballet School of Cuba.",
-										"exerciseAnswers": null,
-										"LKUs": [ "get" ],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 7,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "____ helped Venus with school lessons at home.",
-										"exerciseMinAnswer": "Oracene Price",
-										"exerciseMaxAnswer": "Their father was their coach, and their mother, Oracene Price",
-										"exerciseAnswers": null,
-										"LKUs": [ "help" ],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,								
-								"exerciseType": null,
-								"exerciseInstruction": "Work in pairs. Which person inspires you? Why?"
-							}
-						]
-					}
-				]
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A2",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": "6",
+    "chapterTitle": "That't Entertainment",
+    "chapterQuote": "If music be the food of love, play on. William Shakespeare",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "talk about likes and dislikes",
+      "talk about entertainment in the present and the past",
+      "talk about your life",
+      "ask for and give opinions",
+      "review an event"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 6.1,
+        "sectionTitle": "Let's go out",
+        "sectionObjective": "Talk about likes and dislikes",
+        "GKU": "Language_Hub_A2_Unit6_Lesson6_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "entertainment"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "word stress: noun patterns"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "likes and dislikes"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "City Guide",
+                "paragraphSubtitles": [
+                  "What's going on?",
+                  "Today",
+                  "This week",
+                  "This weekend"
+                ],
+                "paragraphContents": [
+                  "Things to do this week (August 10 – 16) No plans this week? Well, not anymore. We're here to help! From movies to festivals, here's your guide to the next seven days. Let's go out!"
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "Star Wars (5 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Watch the first three Star Wars movies, a different movie each evening over three nights. Saturday is a special family day when you can wear costumes.",
+                  "Langley Outdoor Movie Theater, 6 pm, from Thursday, August 13"
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "Cow (3 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Californian rock band, Cow, often play in strange locations. This Friday, their concert is in an old swimming pool. Enjoy some old favorites and songs from their new album.",
+                  "The Old Baths, 9 pm, Friday, August 14"
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": "Comedy Underground (4 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "For one night, comedians Lily O'Connor and Josh Peet take their new show underground. That's right – two hours of free comedy as you travel on the subway!",
+                  "City Line, 8 pm – 10 pm, Thursday, August 13"
+                ]
+              },
+              {
+                "paragraphOrdinal": 5,
+                "paragraphTitle": "Kwame Abraham (5 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "This exhibit of Kwame Abraham's photographs shows people from his country, Ghana, during the 1960s. His images tell amazing stories.",
+                  "The Hayforth Gallery, 10 am – 9:30 pm, Wednesday, August 12 – Sunday, September 6"
+                ]
+              },
+              {
+                "paragraphOrdinal": 6,
+                "paragraphTitle": "Silent disco (4 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "The silent disco craze continues! Put on your headphones, choose any kind of music and dance to your favorite tunes.",
+                  "Nanette's, 10 pm – 5 am, Saturday, August 15"
+                ]
+              },
+              {
+                "paragraphOrdinal": 7,
+                "paragraphTitle": "Lost in the Forest Festival (4 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "A three-day music festival with great food and dancing under the tall, green trees of Coney Forest.",
+                  "Coney Forest, Friday – Sunday, August 14 – 16"
+                ]
+              },
+              {
+                "paragraphOrdinal": 8,
+                "paragraphTitle": "Shakespeare in the park (3 stars)",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Tonight's play is Romeo and Juliet, Shakespeare's famous love story. With James Cave as Romeo and Ameera Hussain as Juliet. Bring warm clothes and a picnic.",
+                  "Linkside Park, 6 pm, Tuesday, August 11"
+                ]
+              }
+            ],
+            "GlossaryBox": [
+              {
+                "explanationTitle": "Glossary",
+                "explanationContent": [
+                  "comedian (n) someone who tells jokes and stories to make people laugh",
+                  "free (adj) something that doesn't cost anything",
+                  "costume (n) clothes that performers wear in a play, movie, etc",
+                  "location (n) where something is or where something happens",
+                  "silent (adj) not making any noise"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": null,
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Read the City Guide. Tick (✓) the information you can get from it.",
+                    "exerciseMaxAnswer": null,
+                    "exerciseMinAnswer": null,
+                    "exerciseAnswers": "the date of an event",
+                    "LKUs": ["date", "event"],
+                    "sentenceAnswerOptions": [
+                      "how much an event costs",
+                      "the date of an event",
+                      "how often the event happens",
+                      "things to do in October"
+                    ],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR SPECIFIC INFORMATION",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "highlight",
+                "exerciseInstruction": "Read the guide again. Complete the sentences with no more than three words from the text.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "The Kwame Abraham exhibit finishes on___",
+                    "exerciseMaxAnswer": "Sunday, September 6",
+                    "exerciseMinAnswer": "September 6",
+                    "exerciseAnswers": null,
+                    "LKUs": ["exhibit"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "The music festival lasts for ___days.",
+                    "exerciseMaxAnswer": "three",
+                    "exerciseMinAnswer": "three",
+                    "exerciseAnswers": null,
+                    "LKUs": ["festival"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "The Star Wars event starts at___on Thursday August 13.",
+                    "exerciseMaxAnswer": "6 pm",
+                    "exerciseMinAnswer": "6",
+                    "exerciseAnswers": null,
+                    "LKUs": ["event"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Cow's performance is in a ___ in The Old Baths.",
+                    "exerciseMaxAnswer": "swimming pool",
+                    "exerciseMinAnswer": "pool",
+                    "exerciseAnswers": null,
+                    "LKUs": ["performance"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "James Cave is ___ in the performance of Romeo and Juliet.",
+                    "exerciseMaxAnswer": "Romeo",
+                    "exerciseMinAnswer": "Romeo",
+                    "exerciseAnswers": null,
+                    "LKUs": ["performance"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": null,
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "How do you know which events the What's going on? guide recommends?",
+                    "exerciseMaxAnswer": null,
+                    "exerciseMinAnswer": null,
+                    "exerciseAnswers": "The events have five-star ratings",
+                    "LKUs": ["recommend", "rating"],
+                    "sentenceAnswerOptions": [
+                      "The events have three-star ratings",
+                      "The events have four-star ratings",
+                      "The events have five-star ratings"
+                    ],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. How do you find events?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 6.2,
+        "sectionTitle": "It was fun",
+        "sectionObjective": "Talk about entertainment in the present and the past",
+        "GKU": "Language_Hub_A2_Unit6_Lesson6_2",
+        "sectionSkills": [
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "was/were"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "weak forms: was/were"
+          },
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "past time expressions"
+          }
+        ],
+        "hasReading": false
+      },
+      {
+        "sectionNumber": 6.3,
+        "sectionTitle": "Life stories",
+        "sectionObjective": "Talk about your life",
+        "GKU": "Language_Hub_A2_Unit6_Lesson6_3",
+        "sectionSkills": [
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "simple past regular and irregular verbs"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "simple past regular endings"
+          },
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "life events"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "scanning for names"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "Entertainer Magazine",
+                "paragraphSubtitles": null,
+                "paragraphContents": ["Inspiring stories"]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "Carlos Acosta",
+                "paragraphSubtitles": ["by Helena Nowak"],
+                "paragraphContents": [
+                  "Carlos Acosta was born into a large, poor family in Havana, Cuba, in 1973. When he was nine years old, his father, Pedros Acosta, sent him to dance school. At first, he hated it – he just wanted to play soccer with his friends. But he worked hard and, eventually, became a talented dancer. He studied at the National Ballet School of Cuba. He won the gold medal at the Prix de Lausanne.",
+                  "Between 1989 and 1991, he performed around the world. He was a principal dancer at the Houston Ballet from 1993 to 1998, and then he started a new job at London's Royal Ballet. He met his wife, Charlotte Holland, in 2004. They got married eight years later. They have three children. He went back to Cuba in 2011 to start a foundation to help young dancers. Acosta is also an actor. He appeared in the movies New York, I Love You (2008) and Our Kind of Traitor (2016)."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "Venus Williams",
+                "paragraphSubtitles": ["by Nao Yamauchi"],
+                "paragraphContents": [
+                  "Venus Williams was born in Lynwood, near Compton in Los Angeles, in 1980. There was a lot of crime in the local area and her father, Richard Williams, thought tennis was a chance for Venus and her younger sister Serena to be richand successful.",
+                  "The Williams sisters played tennis on old courts. They practiced with tennis balls from nearby country clubs. Their father was their coach, and their mother, Oracene Price, gave them school lessons at home. When she was ten, Venus moved to Florida where she went to Rick Macci's tennis academy. Before she was a teenager, she won 63 matches without losing one.",
+                  "In February 2002, Venus Williams became the first African American to be the world's number one tennis player. In July of the same year, Venus played Serena in the Wimbledon final, and Serena won and became world number one. These sisters, from a poor neighborhood in Los Angeles, are now recognized as two of the greatest female tennis players in the world."
+                ]
+              }
+            ],
+            "GlossaryBox": [
+              {
+                "explanationTitle": "Glossary",
+                "explanationContent": [
+                  "inspiring (adj) making you feel excited about something"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Look at the pictures in the article. What do you know about these people?"
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Student A – read about Carlos Acosta. Student B – read about Venus Williams. Tell your partner about your person."
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "highlight",
+                "exerciseInstruction": "Read the article again and complete the sentences with names from the text. Use the information in the box to help you.",
+                "explanationBox": [
+                  {
+                    "explanationTitle": "Scanning for names",
+                    "explanationContent": [
+                      "When scanning for names of people or places, look for CAPITAL LETTERS.",
+                      "When scanning for names of movies, albums and books, look for italics."
+                    ]
+                  }
+                ],
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "exerciseQuestion": "____wanted Venus and Serena to learn tennis.",
+                    "exerciseMinAnswer": "Richard",
+                    "exerciseMaxAnswer": "Richard Williams",
+                    "exerciseAnswers": null,
+                    "LKUs": ["learn"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Carlos got married to____",
+                    "exerciseMinAnswer": "Charlotte",
+                    "exerciseMaxAnswer": "Charlotte Holland",
+                    "exerciseAnswers": null,
+                    "LKUs": ["get"],
+                    "context": "textContet"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "In 2008, Carlos was in a movie called_________",
+                    "exerciseMinAnswer": "New York,I Love You",
+                    "exerciseMaxAnswer": "New York,I Love You (2008)",
+                    "exerciseAnswers": null,
+                    "LKUs": ["be"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Venus moved to ___ in 1990.",
+                    "exerciseMinAnswer": "Florida",
+                    "exerciseMaxAnswer": "Florida where she went to Rick Macci's tennis academy",
+                    "exerciseAnswers": null,
+                    "LKUs": ["move"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "___ sent Carlos to dance school for the first time.",
+                    "exerciseMinAnswer": "Pedros Acosta",
+                    "exerciseMaxAnswer": "When he was nine years old, his father, Pedros Acosta",
+                    "exerciseAnswers": null,
+                    "LKUs": ["send"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 6,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "___ became world number one in July 2002.",
+                    "exerciseMinAnswer": "Serena",
+                    "exerciseMaxAnswer": "Serena Williams",
+                    "exerciseAnswers": null,
+                    "LKUs": ["become"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 7,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Carlos got a gold medal from ___",
+                    "exerciseMinAnswer": "the National Ballet School",
+                    "exerciseMaxAnswer": "the National Ballet School of Cuba.",
+                    "exerciseAnswers": null,
+                    "LKUs": ["get"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 7,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "____ helped Venus with school lessons at home.",
+                    "exerciseMinAnswer": "Oracene Price",
+                    "exerciseMaxAnswer": "Their father was their coach, and their mother, Oracene Price",
+                    "exerciseAnswers": null,
+                    "LKUs": ["help"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in pairs. Which person inspires you? Why?"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

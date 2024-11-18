@@ -1,317 +1,280 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A1",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": 6,
-		"chapterTitle": "A place to live",
-		"chapterQuote": "Be sure you put your feet in the right place, then stand firm. Abraham Lincoln",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"describe your town or city",
-			"describe your home",
-			"ask for and give directions",
-			"write a review of a café"
-		],
-		"sections": [
-			{
-				"sectionNumber": 6.1,
-				"sectionTitle": "Around town",
-				"sectionObjective": "Describe your town or city",
-				"GKU": "Language_Hub_A1_Unit6_Lesson6_1",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "places in a town"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "there is / there are"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "there is / there are; some and any"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle": "What’s special about your home town?",
-								"paragraphSubtitles": null,
-								"paragraphContents": ["I live in Venice, in Italy. It’s famous all over the world and there are a lot of tourists. But it’s an exciting place to live and work, too."]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": ["Venice is a city with a lot of history – I love it! There are some buildings that are over 500 years old! Venice is great for art. There are museums and art galleries everywhere. There are over 400 bridges in Venice. Why? Because there are a lot of canals! There aren’t any cars in this area, but there’s a train station outside the city center. There aren’t any buses in the center either – people go to work by water taxi! There isn’t a really large grocery store, but there’s a great market with a lot of fresh fruits and vegetables."]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": ["I walk to work every morning and look at the buildings and the canals and the bridges. They’re amazing! There’s a really good café near my home. They make great coffee and fresh sandwiches and I eat breakfast there every morning when I go to work. I think Venice is a great place to live!"]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "PREPARE TO READ",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "word bank",
-								"exerciseInstruction": "Look at the pictures in What’s special about your home town? Find these things in the pictures.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": null,
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"sentenceAnswerOptions": [
-											"canals",
-											"buildings",
-											"market",
-											"bridges"
-										],
-										"LKUs": [
-											"canal",
-											"building",
-											"market",
-											"bridge"
-										]
-									}
-								]
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read What’s special about your home town? Choose the best summary of the main idea.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Read 'What’s special about your home town?' Choose the best summary of the main idea.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Life in Venice is interesting and fun.",
-										"LKUs": [
-											"interesting",
-											"fun"
-										],
-										"sentenceAnswerOptions": [
-											"Only tourists enjoy Venice.",
-											"Venice is a very difficult place to live.",
-											"Life in Venice is interesting and fun."
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "C",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Which topics are in the forum post? Check (✓) the answers.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Which topics are in the forum post?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "art, food, transport",
-										"LKUs": [
-											"art",
-											"food",
-											"transport"
-										],
-										"sentenceAnswerOptions": [
-											"art, food, transport",
-											"hotels, jobs, food",
-											"music, schools, art"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "D",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Are the sentence(s) true (T) or false (F)?",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Venice is a modern city.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"modern",
-											"city"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Venice is a good city to see art.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"art",
-											"city"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "There are hundreds of bridges in Venice.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"be",
-											"bridge"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "There are a lot of cars and buses in the city center.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"car",
-											"bus",
-											"city"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "The writer takes a water taxi to work.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"taxi",
-											"work"
-										],
-										"sentenceAnswerOptions": [
-											"T",
-											"F"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "E",
-								"setHeading": "SPEAK",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"exerciseType": null,
-								"exerciseInstruction": "Work in groups. Answer the questions.",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Is Venice a good place to live, in your opinion? Why/Why not?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Is Venice similar to or different from your home town or city?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": null,
-										"LKUs": null
-									}
-								]
-							}
-						]
-					}
-				]
-			},
-			{
-				"sectionNumber": 6.2,
-				"sectionTitle": "Choosing a home",
-				"sectionObjective": "Describe your home",
-				"GKU": "Language_Hub_A1_Unit6_Lesson6_2",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "furniture and rooms; prepositions of place"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "vowel sounds: /ʌ/ and /e/"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Listening",
-						"skillTitle": "predicting"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "is there / are there question forms"
-					}
-				],
-				"hasReading": false
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A1",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": 6,
+    "chapterTitle": "A place to live",
+    "chapterQuote": "Be sure you put your feet in the right place, then stand firm. Abraham Lincoln",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "describe your town or city",
+      "describe your home",
+      "ask for and give directions",
+      "write a review of a café"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 6.1,
+        "sectionTitle": "Around town",
+        "sectionObjective": "Describe your town or city",
+        "GKU": "Language_Hub_A1_Unit6_Lesson6_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "places in a town"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "there is / there are"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "there is / there are; some and any"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "What's special about your home town?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I live in Venice, in Italy. It's famous all over the world and there are a lot of tourists. But it's an exciting place to live and work, too."
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Venice is a city with a lot of history – I love it! There are some buildings that are over 500 years old! Venice is great for art. There are museums and art galleries everywhere. There are over 400 bridges in Venice. Why? Because there are a lot of canals! There aren't any cars in this area, but there's a train station outside the city center. There aren't any buses in the center either – people go to work by water taxi! There isn't a really large grocery store, but there's a great market with a lot of fresh fruits and vegetables."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I walk to work every morning and look at the buildings and the canals and the bridges. They're amazing! There's a really good café near my home. They make great coffee and fresh sandwiches and I eat breakfast there every morning when I go to work. I think Venice is a great place to live!"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "PREPARE TO READ",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "word bank",
+                "exerciseInstruction": "Look at the pictures in What's special about your home town? Find these things in the pictures.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": null,
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "sentenceAnswerOptions": [
+                      "canals",
+                      "buildings",
+                      "market",
+                      "bridges"
+                    ],
+                    "LKUs": ["canal", "building", "market", "bridge"]
+                  }
+                ]
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read What's special about your home town? Choose the best summary of the main idea.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Read 'What's special about your home town?' Choose the best summary of the main idea.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Life in Venice is interesting and fun.",
+                    "LKUs": ["interesting", "fun"],
+                    "sentenceAnswerOptions": [
+                      "Only tourists enjoy Venice.",
+                      "Venice is a very difficult place to live.",
+                      "Life in Venice is interesting and fun."
+                    ],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Which topics are in the forum post? Check (✓) the answers.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Which topics are in the forum post?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "art, food, transport",
+                    "LKUs": ["art", "food", "transport"],
+                    "sentenceAnswerOptions": [
+                      "art, food, transport",
+                      "hotels, jobs, food",
+                      "music, schools, art"
+                    ],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "D",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Are the sentence(s) true (T) or false (F)?",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Venice is a modern city.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["modern", "city"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Venice is a good city to see art.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["art", "city"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "There are hundreds of bridges in Venice.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["be", "bridge"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "There are a lot of cars and buses in the city center.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["car", "bus", "city"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "The writer takes a water taxi to work.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["taxi", "work"],
+                    "sentenceAnswerOptions": ["T", "F"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "E",
+                "setHeading": "SPEAK",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "exerciseType": null,
+                "exerciseInstruction": "Work in groups. Answer the questions.",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Is Venice a good place to live, in your opinion? Why/Why not?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": null,
+                    "LKUs": null
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Is Venice similar to or different from your home town or city?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": null,
+                    "LKUs": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 6.2,
+        "sectionTitle": "Choosing a home",
+        "sectionObjective": "Describe your home",
+        "GKU": "Language_Hub_A1_Unit6_Lesson6_2",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "furniture and rooms; prepositions of place"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "vowel sounds: /ʌ/ and /e/"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "predicting"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "is there / are there question forms"
+          }
+        ],
+        "hasReading": false
+      }
+    ]
+  }
 }

@@ -1,485 +1,413 @@
 {
-	"book": "Language Hub",
-	"CEFRLevel": "A2",
-	"dialect": "American",
-	"chapter": {
-		"chapterUnit": "1",
-		"chapterTitle": "Arrivals",
-		"chapterQuote": "I am a citizen of the world. Socrates",
-		"chapterFrontImage": "",
-		"chapterObjectives": [
-			"talk about countries and nationalities",
-			"ask and answer questions about a place",
-			"talk about everyday items",
-			"greet people and make introductions",
-			"fill in a form with personal details"
-		],
-		"sections": [
-			{
-				"sectionNumber": 1.1,
-				"sectionTitle": "People and places",
-				"sectionObjective": "Talk about countries and nationalities",
-				"GKU": "Language_Hub_A2_Unit1_Lesson1_1",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "countries and nationalities"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "syllable stress"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "simple present be: positive and negative"
-					}
-				],
-				"hasReading": false
-			},
-			{
-				"sectionNumber": 1.2,
-				"sectionTitle": "Where are you?",
-				"sectionObjective": "Ask and answer questions about a place",
-				"GKU": "Language_Hub_A2_Unit1_Lesson1_2",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "big numbers"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "similar numbers"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "simple present be: questions"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle": "Carlos",
-								"paragraphSubtitles": [
-									"Typing..."
-								],
-								"paragraphContents": [
-									"Hi Carlos! Where am I?"
-								]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Hi Lee. I don’t know. Where are you?"
-								]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I’m 6,028 miles from home - that’s 13 hours by plane."
-								]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									":/"
-								]
-							},
-							{
-								"paragraphOrdinal": 5,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I’m in Japan! It’s amazing :). The picture is from my hotel window. There are thousands of people everywhere. It’s always busy."
-								]
-							},
-							{
-								"paragraphOrdinal": 6,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Wow! Where are you in Japan? Is the food good? Is it hot there? Tell me more!!!"
-								]
-							},
-							{
-								"paragraphOrdinal": 7,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I’m in Tokyo. Yes, the food is really good. There are hundreds of great restaurants. Is it hot here? It’s very HOT. It’s 30 degrees every day. How are you? Is work busy?"
-								]
-							},
-							{
-								"paragraphOrdinal": 8,
-								"paragraphTitle": null,
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I’m fine. Work isn’t busy – everyone is on vacation. Except me!"
-								]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": true,
-								"textMode": "full article",
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Work with a partner. Look at the picture in the text message below. Where is it?"
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": null,
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Read the messages between Carlos and Lee. Where is Lee?",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "Tokyo, Japan",
-										"LKUs": [
-											"Japan"
-										],
-										"sentenceAnswerOptions": [
-											"work",
-											"Tokyo, Japan"
-										],
-										"context": "textContents"
-									}
-								]
-							},
-							{
-								"setMarker": "C",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read again. Are the sentences true (T) or false (F)?",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Japan is far from where Carlos and Lee live.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"far",
-											"live"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "The picture is from Carlos’s work.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"picture",
-											"work"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "It isn’t hot where Lee is.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"hot"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Lee likes Japanese food.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"Japanese"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Carlos is very busy at work.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"busy"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									}
-								]
-							}
-						]
-					}
-				]
-			},	
-			{
-				"sectionNumber": 1.3,
-				"sectionTitle": "What’s in your bag?",
-				"sectionObjective": "Talk about everyday items",
-				"GKU": "Language_Hub_A2_Unit1_Lesson1_3",
-				"sectionSkills": [
-					{
-						"skillType": "V",
-						"skillName": "Vocabulary",
-						"skillTitle": "everyday items"
-					},
-					{
-						"skillType": "G",
-						"skillName": "Grammar",
-						"skillTitle": "a/an and plural nouns; this, that, these, those"
-					},
-					{
-						"skillType": "P",
-						"skillName": "Pronunciation",
-						"skillTitle": "vowel sounds: /ɪ/ /æ/ /iː/ /oʊ/"
-					},
-					{
-						"skillType": "S",
-						"skillName": "Reading",
-						"skillTitle": "reading for gist"
-					}
-				],
-				"hasReading": true,
-				"sectionPart": [
-					{
-						"partTitle": "READING",
-						"partImage": "",
-						"partSubTitle": null,
-						"textMode": "full article",
-						"textContents": [
-							{
-								"paragraphOrdinal": 1,
-								"paragraphTitle": "What’s in your carry-on bag?",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"Three travel experts talk about the things in their carry-on bag when they go on a plane."
-								]
-							},
-							{
-								"paragraphOrdinal": 2,
-								"paragraphTitle": "Bruce",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I don’t carry a lot of luggage when I go on a plane. My bag is very small. I have a bottle of water and tissues. That’s it. I buy the water at the airport once I am through security. I usually sleep on a plane."
-								]
-							},
-							{
-								"paragraphOrdinal": 3,
-								"paragraphTitle": "Wei",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I never use a suitcase. I put everything in my carryon bag, so there’s no need to wait at baggage claim. My carry-on bag is very heavy, but that’s OK. I have two watches. I wear one and I put one in my bag, so I always know what time it is at home. I travel to lots of countries. I just want to get off the plane and leave the airport as soon as I can."
-								]
-							},
-							{
-								"paragraphOrdinal": 4,
-								"paragraphTitle": "Elif",
-								"paragraphSubtitles": null,
-								"paragraphContents": [
-									"I always have a laptop and my phone in my carry-on bag when I go on a plane. I usually have an umbrella and my keys. Flying is a good time to do my work. I can relax at home."
-								]
-							}
-						],
-						"sets": [
-							{
-								"setMarker": "A",
-								"setHeading": "READ FOR GIST",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": null,
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Read What’s in your carry-on bag? What is the text about? Things people …",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "take on a plane.",
-										"LKUs": [
-											"plane",
-											"work",
-											"party"
-										],
-										"sentenceAnswerOptions": [
-											"take to work.",
-											"take to a party.",
-											"take on a plane."
-										],
-										"context": "textContents"
-									}
-								],
-								"explanationBox": [
-									{
-										"explanationTitle": "Reading for gist",
-										"explanationContent": [
-											"When you read a text for the first time, it is important to get a general idea of what it is about. Think about:",
-											"the title of the text and the pictures",
-											"the general topic",
-											"key words"
-										]
-									}
-								]									
-							},
-							{
-								"setMarker": "B",
-								"setHeading": "READ FOR DETAIL",
-								"textImage": "",
-								"setAudioNumber": null,
-								"setIgnore": false,
-								"exerciseInstruction": "Read the text again. Are the sentences true (T) or false (F)?",
-								"exerciseType": "multiple choice",
-								"exerciseInstruction": "Read the text again. Are the sentences true (T) or false (F)?",
-								"exercises": [
-									{
-										"sentenceOrdinal": 1,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Bruce’s bag is very big.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"bag",
-											"big"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 2,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Bruce takes a bottle of water and tissues on the plane.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"bottle",
-											"tissue"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 3,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Wei never uses a suitcase.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "T",
-										"LKUs": [
-											"suitcase"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 4,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Wei always has his watch and a wallet in his bag.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"watch",
-											"wallet"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									},
-									{
-										"sentenceOrdinal": 5,
-										"paragraphOrdinal": null,
-										"exerciseQuestion": "Elif likes to relax on the plane.",
-										"exerciseMinAnswer": null,
-										"exerciseMaxAnswer": null,
-										"exerciseAnswers": "F",
-										"LKUs": [
-											"relax"
-										],
-										"sentenceAnswerOptions": [
-											"F",
-											"T"
-										],
-										"context": "textContents"
-									}
-								]
-							}
-						]
-					}
-				]
-			}
-		]
-	}
+  "book": "Language Hub",
+  "CEFRLevel": "A2",
+  "dialect": "American",
+  "chapter": {
+    "chapterUnit": "1",
+    "chapterTitle": "Arrivals",
+    "chapterQuote": "I am a citizen of the world. Socrates",
+    "chapterFrontImage": "",
+    "chapterObjectives": [
+      "talk about countries and nationalities",
+      "ask and answer questions about a place",
+      "talk about everyday items",
+      "greet people and make introductions",
+      "fill in a form with personal details"
+    ],
+    "sections": [
+      {
+        "sectionNumber": 1.1,
+        "sectionTitle": "People and places",
+        "sectionObjective": "Talk about countries and nationalities",
+        "GKU": "Language_Hub_A2_Unit1_Lesson1_1",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "countries and nationalities"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "syllable stress"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "simple present be: positive and negative"
+          }
+        ],
+        "hasReading": false
+      },
+      {
+        "sectionNumber": 1.2,
+        "sectionTitle": "Where are you?",
+        "sectionObjective": "Ask and answer questions about a place",
+        "GKU": "Language_Hub_A2_Unit1_Lesson1_2",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "big numbers"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "similar numbers"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "simple present be: questions"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "Carlos",
+                "paragraphSubtitles": ["Typing..."],
+                "paragraphContents": ["Hi Carlos! Where am I?"]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": ["Hi Lee. I don't know. Where are you?"]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I'm 6,028 miles from home - that's 13 hours by plane."
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [":/"]
+              },
+              {
+                "paragraphOrdinal": 5,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I'm in Japan! It's amazing :). The picture is from my hotel window. There are thousands of people everywhere. It's always busy."
+                ]
+              },
+              {
+                "paragraphOrdinal": 6,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Wow! Where are you in Japan? Is the food good? Is it hot there? Tell me more!!!"
+                ]
+              },
+              {
+                "paragraphOrdinal": 7,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I'm in Tokyo. Yes, the food is really good. There are hundreds of great restaurants. Is it hot here? It's very HOT. It's 30 degrees every day. How are you? Is work busy?"
+                ]
+              },
+              {
+                "paragraphOrdinal": 8,
+                "paragraphTitle": null,
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I'm fine. Work isn't busy – everyone is on vacation. Except me!"
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": true,
+                "textMode": "full article",
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Work with a partner. Look at the picture in the text message below. Where is it?"
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": null,
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Read the messages between Carlos and Lee. Where is Lee?",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "Tokyo, Japan",
+                    "LKUs": ["Japan"],
+                    "sentenceAnswerOptions": ["work", "Tokyo, Japan"],
+                    "context": "textContents"
+                  }
+                ]
+              },
+              {
+                "setMarker": "C",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read again. Are the sentences true (T) or false (F)?",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Japan is far from where Carlos and Lee live.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["far", "live"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "The picture is from Carlos's work.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["picture", "work"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "It isn't hot where Lee is.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["hot"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Lee likes Japanese food.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["Japanese"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Carlos is very busy at work.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["busy"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sectionNumber": 1.3,
+        "sectionTitle": "What's in your bag?",
+        "sectionObjective": "Talk about everyday items",
+        "GKU": "Language_Hub_A2_Unit1_Lesson1_3",
+        "sectionSkills": [
+          {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "everyday items"
+          },
+          {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "a/an and plural nouns; this, that, these, those"
+          },
+          {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "vowel sounds: /ɪ/ /æ/ /iː/ /oʊ/"
+          },
+          {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "reading for gist"
+          }
+        ],
+        "hasReading": true,
+        "sectionPart": [
+          {
+            "partTitle": "READING",
+            "partImage": "",
+            "partSubTitle": null,
+            "textMode": "full article",
+            "textContents": [
+              {
+                "paragraphOrdinal": 1,
+                "paragraphTitle": "What's in your carry-on bag?",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "Three travel experts talk about the things in their carry-on bag when they go on a plane."
+                ]
+              },
+              {
+                "paragraphOrdinal": 2,
+                "paragraphTitle": "Bruce",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I don't carry a lot of luggage when I go on a plane. My bag is very small. I have a bottle of water and tissues. That's it. I buy the water at the airport once I am through security. I usually sleep on a plane."
+                ]
+              },
+              {
+                "paragraphOrdinal": 3,
+                "paragraphTitle": "Wei",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I never use a suitcase. I put everything in my carryon bag, so there's no need to wait at baggage claim. My carry-on bag is very heavy, but that's OK. I have two watches. I wear one and I put one in my bag, so I always know what time it is at home. I travel to lots of countries. I just want to get off the plane and leave the airport as soon as I can."
+                ]
+              },
+              {
+                "paragraphOrdinal": 4,
+                "paragraphTitle": "Elif",
+                "paragraphSubtitles": null,
+                "paragraphContents": [
+                  "I always have a laptop and my phone in my carry-on bag when I go on a plane. I usually have an umbrella and my keys. Flying is a good time to do my work. I can relax at home."
+                ]
+              }
+            ],
+            "sets": [
+              {
+                "setMarker": "A",
+                "setHeading": "READ FOR GIST",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": null,
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Read What's in your carry-on bag? What is the text about? Things people …",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "take on a plane.",
+                    "LKUs": ["plane", "work", "party"],
+                    "sentenceAnswerOptions": [
+                      "take to work.",
+                      "take to a party.",
+                      "take on a plane."
+                    ],
+                    "context": "textContents"
+                  }
+                ],
+                "explanationBox": [
+                  {
+                    "explanationTitle": "Reading for gist",
+                    "explanationContent": [
+                      "When you read a text for the first time, it is important to get a general idea of what it is about. Think about:",
+                      "the title of the text and the pictures",
+                      "the general topic",
+                      "key words"
+                    ]
+                  }
+                ]
+              },
+              {
+                "setMarker": "B",
+                "setHeading": "READ FOR DETAIL",
+                "textImage": "",
+                "setAudioNumber": null,
+                "setIgnore": false,
+                "exerciseInstruction": "Read the text again. Are the sentences true (T) or false (F)?",
+                "exerciseType": "multiple choice",
+                "exerciseInstruction": "Read the text again. Are the sentences true (T) or false (F)?",
+                "exercises": [
+                  {
+                    "sentenceOrdinal": 1,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Bruce's bag is very big.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["bag", "big"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 2,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Bruce takes a bottle of water and tissues on the plane.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["bottle", "tissue"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 3,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Wei never uses a suitcase.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "T",
+                    "LKUs": ["suitcase"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 4,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Wei always has his watch and a wallet in his bag.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["watch", "wallet"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  },
+                  {
+                    "sentenceOrdinal": 5,
+                    "paragraphOrdinal": null,
+                    "exerciseQuestion": "Elif likes to relax on the plane.",
+                    "exerciseMinAnswer": null,
+                    "exerciseMaxAnswer": null,
+                    "exerciseAnswers": "F",
+                    "LKUs": ["relax"],
+                    "sentenceAnswerOptions": ["F", "T"],
+                    "context": "textContents"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
