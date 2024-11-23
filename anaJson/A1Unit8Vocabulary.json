@@ -1,0 +1,540 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 8,
+		"chapterTitle": "The here and now",
+		"chapterQuote": "Be happy for this moment. This moment is your life. Omar Khayyam",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe what people are doing",
+			"talk about clothes",
+			"shop for clothes",
+			"write a short message"
+		],
+		"sections": [
+			{
+				"sectionNumber": 8.1,
+				"sectionTitle": "What’s he doing?",
+				"sectionObjective": "Describe what people are doing",
+				"GKU": "Language_Hub_A1_Unit8_Lesson8_1",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present progressive"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "verb phrases"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "different ways to pronounce a"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "verb phrases",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_001",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"meet a friend"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_002",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"look at your phone"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_003",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"take a selfie"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_004",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"have a good time"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_005",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"read the newspaper"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_006",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"watch a movie"
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_007",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"go to the bank"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U8.1_008",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"talk to a friend"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Choose the correct verbs to complete the phrases. Use each verb only once.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"meet",
+											"look",
+											"take",
+											"have",
+											"read",
+											"watch",
+											"go",
+											"talk"
+										],
+										"LKUs": [
+											"meet",
+											"look",
+											"take",
+											"have",
+											"read",
+											"watch",
+											"go",
+											"talk"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Verb Phrases",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "match TU",
+								"textMode": "full article",
+								"exerciseInstruction": "Match the verbs from Exercise A with the words and phrases.",
+								"exerciseColumnA": [
+									"meet",
+									"look",
+									"take",
+									"have",
+									"read",
+									"watch",
+									"go",
+									"talk"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"lunch / a meeting / coffee"
+												],
+												"exerciseAnswers": [
+													"have"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"TV / a soccer game / someone do something"
+												],
+												"exerciseAnswers": [
+													"watch"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"a book / a message / a magazine"
+												],
+												"exerciseAnswers": [
+													"read"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"out / to the library / shopping"
+												],
+												"exerciseAnswers": [
+													"go"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"to a teacher / on the phone / about something"
+												],
+												"exerciseAnswers": [
+													"talk"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"a photo / a break / a taxi"
+												],
+												"exerciseAnswers": [
+													"take"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"at a picture / in the mirror / at someone"
+												],
+												"exerciseAnswers": [
+													"look"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"someone at a party / at nine o’clock / at the station"
+												],
+												"exerciseAnswers": [
+													"meet"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 8.2,
+				"sectionTitle": "The gray coat",
+				"sectionObjective": "Talk about clothes",
+				"GKU": "Language_Hub_A1_Unit8_Lesson8_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "clothes"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /i:/, /ɜ:/, /u:/ and /ɔ:/"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "identifying key words"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "adjective order"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Clothes",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U8.2_001",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"He’s wearing a white T-shirt and blue shorts. He’s wearing red sneakers and white socks. He also has a green backpack."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "null",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "word bank",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": [
+											"T-shirt",
+											"shorts",
+											"sneakers",
+											"socks"
+										],
+										"LKUs": [
+											"T-shirt",
+											"shorts",
+											"sneaker",
+											"sock"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "clothes",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "LH_TAT1_PH_U8.2_001",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"skirt"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "LH_TAT1_PH_U8.2_002",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"cap"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "LH_TAT1_PH_U8.2_003",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"coat"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphImage": "LH_TAT1_PH_U8.2_004",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"shoes"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphImage": "LH_TAT1_PH_U8.2_005",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"pants"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphImage": "LH_TAT1_PH_U8.2_006",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"dress"
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphImage": "LH_TAT1_PH_U8.2_007",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"jeans"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphImage": "LH_TAT1_PH_U8.2_008",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"shirt"
+								]
+							},
+							{
+								"paragraphOrdinal": 9,
+								"paragraphImage": "LH_TAT1_PH_U8.2_009",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"hat"
+								]
+							},
+							{
+								"paragraphOrdinal": 10,
+								"paragraphImage": "LH_TAT1_PH_U8.2_010",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"suit"
+								]
+							},
+							{
+								"paragraphOrdinal": 11,
+								"paragraphImage": "LH_TAT1_PH_U8.2_011",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"jacket"
+								]
+							},
+							{
+								"paragraphOrdinal": 12,
+								"paragraphImage": "LH_TAT1_PH_U8.2_012",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"sweater"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": true,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Match the words in the box with the pictures.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": [
+											"skirt",
+											"cap",
+											"coat",
+											"shoes",
+											"pants",
+											"dress",
+											"jeans",
+											"shirt",
+											"hat",
+											"suit",
+											"jacket",
+											"sweater"
+										],
+										"LKUs": [
+											"skirt",
+											"cap",
+											"coat",
+											"shoes",
+											"pants",
+											"dress",
+											"jeans",
+											"shirt",
+											"hat",
+											"suit",
+											"jacket",
+											"sweater"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "clothes",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"vocabularyHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Choose someone in the picture. Ask and answer questions. Who is your partner describing?",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

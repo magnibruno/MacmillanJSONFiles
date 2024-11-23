@@ -1,0 +1,584 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 4,
+		"chapterTitle": "Time",
+		"chapterQuote": "Better three hours too soon than a minute too late. William Shakespeare",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about daily routines",
+			"talk about annual routines",
+			"order in a café",
+			"write an email about your routine"
+		],
+		"sections": [
+			{
+				"sectionNumber": 4.1,
+				"sectionTitle": "Every day",
+				"sectionObjective": "Talk about daily routines",
+				"GKU": "Language_Hub_A1_Unit4_Lesson4_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "daily activities; time"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present: I, you, we, they"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "sentence stress"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Daily activities",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "Daily activities",
+								"paragraphImage": "LH_TAT1_PH_U4.1_001",
+								"paragraphSubtitles": [
+									"Match the sentences (1–4) with the pictures (a–d)."
+								],
+								"paragraphContents": [
+									"1. I finish work at six ten in the evening. (d)"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphImage": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. I get up at seven o'clock in the morning. (a)"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphImage": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"3. I go to work at eight thirty in the morning. (c)"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphImage": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"4. I get home at five o'clock in the afternoon. (b)"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Match the sentences (1–4) with the pictures (a–d).",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"d",
+											"a",
+											"c",
+											"b"
+										],
+										"LKUs": [
+											"get up",
+											"finish",
+											"go",
+											"get"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Daily activities",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.1_005",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"have breakfast"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.1_006",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"go home"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.1_007",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"go to bed"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.1_008",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"watch TV/a movie"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.1_009",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"talk to my friends/family"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.1_010",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"read a book"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "Daily activities",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the pictures and complete the phrases with the verbs in the box.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"have",
+											"go",
+											"go",
+											"watch",
+											"talk",
+											"read"
+										],
+										"LKUs": [
+											"have",
+											"go",
+											"go",
+											"watch",
+											"talk",
+											"read"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Daily activities",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U4.1_001",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"nine o'clock"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U4.1_002",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"twelve ten"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U4.1_003",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"twelve fifty"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U4.1_004",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"eleven thirty"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U4.1_005",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"eight fifteen"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_AW_U4.1_006",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"one forty-five"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "Time",
+								"setImage": null,
+								"setAudioNumber": 4.1,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Complete the times with the numbers in the box. Then listen and check.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"nine",
+											"twelve",
+											"fifty",
+											"eleven",
+											"eight",
+											"forty-five"
+										],
+										"LKUs": [
+											"nine",
+											"twelve",
+											"fifty",
+											"eleven",
+											"eight",
+											"forty-five"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 4.2,
+				"sectionTitle": "Every year",
+				"sectionObjective": "Talk about annual routines",
+				"GKU": "Language_Hub_A1_Unit4_Lesson4_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "months and seasons"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "using pictures before you read"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present questions: I, you, we, they"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "do you /ʤʊ/"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Months and seasons",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.2_001",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"fall"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.2_002",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"spring"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.2_003",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"summer"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphImage": "LH_TAT1_PH_U4.2_004",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"winter"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Match the pictures with the seasons.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": [
+											"fall",
+											"spring",
+											"summer",
+											"winter"
+										],
+										"LKUs": [
+											"fall",
+											"spring",
+											"summer",
+											"winter"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Months and seasons",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": 4.6,
+								"setIgnore": false,
+								"exerciseType": "TSS dictate",
+								"exerciseInstruction": "Listen and complete the calendar.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"January"
+												],
+												"blankedWords": [],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"February"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"March"
+												],
+												"blankedWords": [
+													"March"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"April"
+												],
+												"blankedWords": [
+													"April"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"May"
+												],
+												"blankedWords": [
+													"May"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"June"
+												],
+												"blankedWords": [
+													"June"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"July"
+												],
+												"blankedWords": [
+													"July"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"August"
+												],
+												"blankedWords": [
+													"August"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 9,
+												"sentences": [
+													"September"
+												],
+												"blankedWords": [
+													"September"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 10,
+												"sentences": [
+													"October"
+												],
+												"blankedWords": [
+													"October"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 11,
+												"sentences": [
+													"November"
+												],
+												"blankedWords": [
+													"November"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 12,
+												"sentences": [
+													"December"
+												],
+												"blankedWords": [
+													"December"
+												],
+												"context": "setAudioNumber"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Months and seasons",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Work in pairs. Answer the questions.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

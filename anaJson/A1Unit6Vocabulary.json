@@ -1,0 +1,640 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 6,
+		"chapterTitle": "A place to live",
+		"chapterQuote": "Be sure you put your feet in the right place, then stand firm. Abraham Lincoln",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"describe your town or city",
+			"describe your home",
+			"ask for and give directions",
+			"write a review of a café"
+		],
+		"sections": [
+			{
+				"sectionNumber": 6.1,
+				"sectionTitle": "Around town",
+				"sectionObjective": "Describe your town or city",
+				"GKU": "Language_Hub_A1_Unit6_Lesson6_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "places in a town"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "there is / there are"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "there is / there are; some and any"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Places in a town",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"art gallery"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"café"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"hotel"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"market"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"museum"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"park"
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"restaurant"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"store"
+								]
+							},
+							{
+								"paragraphOrdinal": 9,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"station"
+								]
+							},
+							{
+								"paragraphOrdinal": 10,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"theater"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": 6.1,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"vocabularyHub": false,
+								"exerciseInstruction": "Match the places (1–10) with the words in the box. Then listen and check your answers.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"art gallery",
+											"café",
+											"hotel",
+											"market",
+											"museum",
+											"park",
+											"restaurant",
+											"store",
+											"station",
+											"theater"
+										],
+										"LKUs": [
+											"art gallery",
+											"café",
+											"hotel",
+											"market",
+											"museum",
+											"park",
+											"restaurant",
+											"store",
+											"station",
+											"theater"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Places in a town",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": 6.1,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "TSS dictate",
+								"exerciseInstruction": "Listen and repeat.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"art gallery, café, hotel, market, museum, park, restaurant, store, station, theater"
+										],
+										"blankedWords": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Places in a town",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"vocabularyHub": true,
+								"exerciseInstruction": "Complete the sentences with the names of places in a town.",
+								"wordBank": [
+									"art gallery",
+									"café",
+									"hotel",
+									"market",
+									"museum",
+									"park",
+									"restaurant",
+									"store",
+									"station",
+									"theater"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I sometimes go to the theater on the weekend to see a play."
+												],
+												"blankedWords": [
+													"theater"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"We usually buy fresh fruits and vegetables at the market."
+												],
+												"blankedWords": [
+													"market"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Let’s visit the art gallery to see the paintings."
+												],
+												"blankedWords": [
+													"art gallery"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"We frequently visit the museum to learn about history."
+												],
+												"blankedWords": [
+													"museum"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"Let’s go out to a restaurant for dinner tonight!"
+												],
+												"blankedWords": [
+													"restaurant"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"We frequently stay in a hotel on vacation."
+												],
+												"blankedWords": [
+													"hotel"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"I usually take my children to the park to play soccer."
+												],
+												"blankedWords": [
+													"park"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"Let’s go to a café for some coffee and ice cream!"
+												],
+												"blankedWords": [
+													"café"
+												]
+											},
+											{
+												"sentenceOrdinal": 9,
+												"sentences": [
+													"Suzanna frequently goes to the store to buy clothes or shoes."
+												],
+												"blankedWords": [
+													"store"
+												]
+											},
+											{
+												"sentenceOrdinal": 10,
+												"sentences": [
+													"How far is it to the station? My train is at 3 pm."
+												],
+												"blankedWords": [
+													"station"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Places in a town",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Work in pairs. Which of these places do you go to in your town?",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 6.2,
+				"sectionTitle": "Choosing a home",
+				"sectionObjective": "Describe your home",
+				"GKU": "Language_Hub_A1_Unit6_Lesson6_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "furniture and rooms; prepositions of place"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "vowel sounds: /ʌ/ and /e/"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "predicting"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "is there / are there question forms"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Furniture and rooms",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"vocabularyHub": false,
+								"exerciseType": false,
+								"exerciseInstruction": "Look at the picture. What kind of person do you think lives here?",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Furniture and rooms",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Complete the description with the words in the box.",
+								"wordBank": [
+									"bed",
+									"bookshelf",
+									"chair",
+									"clock",
+									"closet",
+									"cushion",
+									"desk",
+									"lamp",
+									"wall",
+									"window"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"The chair and the desk are blue."
+												],
+												"blankedWords": [
+													"chair",
+													"desk"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"The lamp is green."
+												],
+												"blankedWords": [
+													"lamp"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"The clock is yellow."
+												],
+												"blankedWords": [
+													"clock"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"The bookshelf is red."
+												],
+												"blankedWords": [
+													"bookshelf"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"The window is big."
+												],
+												"blankedWords": [
+													"window"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"The closet is brown."
+												],
+												"blankedWords": [
+													"closet"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"The bed is gray."
+												],
+												"blankedWords": [
+													"bed"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"The cushion is orange."
+												],
+												"blankedWords": [
+													"cushion"
+												]
+											},
+											{
+												"sentenceOrdinal": 9,
+												"sentences": [
+													"The wall is light yellow."
+												],
+												"blankedWords": [
+													"wall"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Furniture and rooms",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": 6.3,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Listen and check your answers to Exercise B .",
+								"wordBank": null,
+								"exercises": null
+							},
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": true,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Look at the picture. Write the correct word next to each number.",
+								"wordBank": [
+									"coffee",
+									"table",
+									"couch",
+									"fridge",
+									"mirror",
+									"oven",
+									"rug",
+									"shower",
+									"toilet"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"1. shower"
+												],
+												"blankedWords": [
+													"shower"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"2. toilet"
+												],
+												"blankedWords": [
+													"toilet"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"3. mirror"
+												],
+												"blankedWords": [
+													"mirror"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"4. coffee table"
+												],
+												"blankedWords": [
+													"coffee",
+													"table"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"5. rug"
+												],
+												"blankedWords": [
+													"rug"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"6. couch"
+												],
+												"blankedWords": [
+													"couch"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"7. oven"
+												],
+												"blankedWords": [
+													"oven"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"8. fridge"
+												],
+												"blankedWords": [
+													"fridge"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

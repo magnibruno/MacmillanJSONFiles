@@ -1,0 +1,585 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 2,
+		"chapterTitle": "Our Music Our World",
+		"chapterQuote": "Music is the universal language of mankind. Henry Wadsworth Longfellow",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about nationalities",
+			"ask for and give personal information",
+			"ask for clarification",
+			"write an online introduction"
+		],
+		"sections": [
+			{
+				"sectionNumber": 2.1,
+				"sectionTitle": "Where are they from?",
+				"sectionObjective": "Talk about nationalities",
+				"GKU": "Language_Hub_A1_Unit2_Lesson2_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "languages and nationalities"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "syllable stress"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "simple present be: we, you, they; possessive adjectives"
+					}
+				],
+				"sectionParts": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": null,
+						"partSubTitle": "Languages and nationalities",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "textSB",
+								"exerciseInstruction": "Complete the languages and nationalities.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Country - Language/Nationality"
+												],
+												"blankedWords": [],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Spain - Spanish"
+												],
+												"blankedWords": [],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Portugal - Portuguese"
+												],
+												"blankedWords": [
+													"Portuguese"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"iceland - Icelandic"
+												],
+												"blankedWords": [
+													"Icelandic"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"Sweden - Swedish"
+												],
+												"blankedWords": [
+													"Swedish"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Norway - Norwegian"
+												],
+												"blankedWords": [
+													"Norwegian"
+												],
+												"hints": null
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": null,
+						"partSubTitle": "Languages and nationalities",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Write the nationalities of these musicians. Choose an ending from the box.",
+								"wordBank": [
+									"ese",
+									"ian",
+									"ish"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"1. Midori is from Japan. She’s Japanese."
+												],
+												"blankedWords": [
+													"Japanese"
+												],
+												"hints": [
+													"Japan"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"2. Marisa Monte is from Brazil. She’s Brazilian."
+												],
+												"blankedWords": [
+													"Brazilian"
+												],
+												"hints": [
+													"Brazil"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"3. Bono is from Ireland. He’s Irish."
+												],
+												"blankedWords": [
+													"Irish"
+												],
+												"hints": [
+													"Ir"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": null,
+						"partSubTitle": "Languages and nationalities",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "LH_TAT1_AW_U2.1_001",
+								"paragraphTitle": "Algeria",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Algerian"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "LH_TAT1_AW_U2.1_002",
+								"paragraphTitle": "Chile",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Chilean"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "LH_TAT1_AW_U2.1_003",
+								"paragraphTitle": "Denmark",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Danish"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphImage": "LH_TAT1_AW_U2.1_004",
+								"paragraphTitle": "Italy",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Italian"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphImage": "LH_TAT1_AW_U2.1_005",
+								"paragraphTitle": "Lebanon",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Lebanese"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphImage": "LH_TAT1_AW_U2.1_006",
+								"paragraphTitle": "Morocco",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Moroccan"
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphImage": "LH_TAT1_AW_U2.1_007",
+								"paragraphTitle": "Russia",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Russian"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphImage": "LH_TAT1_AW_U2.1_008",
+								"paragraphTitle": "Scotland",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Scottish"
+								]
+							},
+							{
+								"paragraphOrdinal": 9,
+								"paragraphImage": "LH_TAT1_AW_U2.1_009",
+								"paragraphTitle": "Venezuela",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Venezuelan"
+								]
+							},
+							{
+								"paragraphOrdinal": 10,
+								"paragraphImage": "LH_TAT1_AW_U2.1_010",
+								"paragraphTitle": "Vietnam",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Vietnamese"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"vocabularyHub": true,
+								"exerciseInstruction": "Look at the flags. Use -an, -ian, -ese or -ish to write the nationality for each country.",
+								"exercises": [
+									{
+										"sentenceOrdinal": null,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"exerciseAnswers": [
+											"Algerian",
+											"Chilean",
+											"Danish",
+											"Italian",
+											"Lebanese",
+											"Moroccan",
+											"Russian",
+											"Scottish",
+											"Venezuelan",
+											"Vietnamese"
+										],
+										"LKUs": [
+											"Algerian",
+											"Chilean",
+											"Danish",
+											"Italian",
+											"Lebanese",
+											"Moroccan",
+											"Russian",
+											"Scottish",
+											"Venezuelan",
+											"Vietnamese"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 2.2,
+				"sectionTitle": "When are you free?",
+				"sectionObjective": "Ask for and give personal information",
+				"GKU": "Language_Hub_A1_Unit2_Lesson2_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "days of the week; numbers 11–100"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "identifying context"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "wh- questions with be"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "contractions in questions"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Days of the week",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Read the flyer. Which class looks fun?",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Days of the week",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": 2.3,
+								"setIgnore": false,
+								"exerciseType": "Speak",
+								"exerciseInstruction": "Listen and repeat the days of the week.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"
+										],
+										"context": "setAudioNumber"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Days of the week",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Work in pairs. Ask your partner questions about the classes.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Numbers 11–100",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": 2.4,
+								"setIgnore": false,
+								"exerciseType": "textSpeak",
+								"vocabularyHub": false,
+								"exerciseInstruction": "Listen and repeat the numbers. Notice the stressed syllable.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"11 eleven, 12 twelve, 13 thirteen, 14 fourteen, 15 fifteen"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"16 sixteen, 17 seventeen, 18 eighteen, 19 nineteen, 20 twenty"
+												],
+												"context": "setAudioNumber"
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"30 thirty, 40 forty, 50 fifty, 60 sixty, 70 seventy, 80 eighty, 90 ninety, 100 one hundred"
+												],
+												"context": "setAudioNumber"
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Numbers 11–100",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": true,
+								"exerciseType": "textSB",
+								"exerciseInstruction": "Write these words in numbers.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"thirty-seven - 37"
+												],
+												"blankedWords": [],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"ninety-two - 92"
+												],
+												"blankedWords": [
+													"92"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"twenty-four - 24"
+												],
+												"blankedWords": [
+													"24"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"fifty-one - 51"
+												],
+												"blankedWords": [
+													"51"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"eighty-three - 83"
+												],
+												"blankedWords": [
+													"83"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"sixty-five - 65"
+												],
+												"blankedWords": [
+													"65"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"forty-six - 46"
+												],
+												"blankedWords": [
+													"46"
+												],
+												"hints": null
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"seventy-nine - 79"
+												],
+												"blankedWords": [
+													"79"
+												],
+												"hints": null
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Numbers 11–100",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": 2.5,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Work in pairs. Circle all the numbers in the flyer and say them with your partner. Then listen and check.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

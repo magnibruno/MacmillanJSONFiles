@@ -1,0 +1,683 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 7,
+		"chapterTitle": "Skills",
+		"chapterQuote": "If you think you can do it, you can. John Burroughs",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about your abilities",
+			"talk about people’s talents",
+			"make polite requests",
+			"write a competition entry"
+		],
+		"sections": [
+			{
+				"sectionNumber": 7.1,
+				"sectionTitle": "What can you do?",
+				"sectionObjective": "Talk about your abilities",
+				"GKU": "Language_Hub_A1_Unit7_Lesson7_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "abilities"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "can/can’t: /æ/ and /ə/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "can/can’t"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Abilities",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Helia can draw."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Gus can ski."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Gina can cook."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Pablo can dance."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Mira can sing."
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Alex can juggle"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"vocabularyHub": false,
+								"exerciseInstruction": "Complete the sentences with the verbs in the box.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"cook",
+											"dance",
+											"draw",
+											"juggle",
+											"sing",
+											"ski"
+										],
+										"LKUs": [
+											"cook",
+											"dance",
+											"draw",
+											"juggle",
+											"sing",
+											"ski"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Abilities",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "match",
+								"exerciseInstruction": "Match the verbs (1–6) to the nouns (a–f) to make phrases.",
+								"exerciseColumnA": [
+									"drive",
+									"play",
+									"do",
+									"paint",
+									"ride",
+									"speak"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"French"
+												],
+												"exerciseAnswers": [
+													"speak"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"yoga"
+												],
+												"exerciseAnswers": [
+													"do"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"the guitar"
+												],
+												"exerciseAnswers": [
+													"play"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"a picture"
+												],
+												"exerciseAnswers": [
+													"paint"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"a car"
+												],
+												"exerciseAnswers": [
+													"drive"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"a motorcycle"
+												],
+												"exerciseAnswers": [
+													"ride"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Abilities",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"drive a car"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"play the guitar"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"do yoga"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"paint a picture"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"ride a motorcycle"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"speak French"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"vocabularyHub": true,
+								"exerciseInstruction": "Write the correct phrases from Exercise B under each picture.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"drive",
+											"play",
+											"do",
+											"paint",
+											"ride",
+											"speak"
+										],
+										"LKUs": [
+											"drive",
+											"play",
+											"do",
+											"paint",
+											"ride",
+											"speak"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Abilities",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": true,
+								"exerciseInstruction": "Go to the Vocabulary Hub on page 125.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 7.2,
+				"sectionTitle": "He’s amazing!",
+				"sectionObjective": "Talk about people’s talents",
+				"GKU": "Language_Hub_A1_Unit7_Lesson7_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "adjectives"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "possessive ’s"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "listening for pronoun reference"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "possessive ’s"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Adjectives",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"1. Every day we talk about an interesting person."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. Today’s person is a young musician."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"3. It’s difficult to find the time to play an instrument …"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": false,
+								"exerciseType": "highlight",
+								"exerciseInstruction": "Read the sentences from the radio show. The underlined word in sentence 1 is an adjective. Underline the adjectives in sentences 2 and 3.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": "Highlight the adjectives in sentence 2.",
+										"exerciseMaxAnswer": "young musician",
+										"exerciseMinAnswer": "young",
+										"sentenceAnswerOptions": null,
+										"LKUs": [
+											"young"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": 2,
+										"exerciseQuestion": "Highlight the adjectives in sentence 3.",
+										"exerciseMaxAnswer": "It's difficult",
+										"exerciseMinAnswer": "difficult",
+										"sentenceAnswerOptions": null,
+										"LKUs": [
+											"difficult"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Adjectives",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Match the adjectives in Exercise A with their definitions.",
+								"wordBank": [
+									"interesting",
+									"young",
+									"difficult"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Someone who is young has lived for only a short time."
+												],
+												"blankedWords": [
+													"young"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Something that is difficult is not easy to do or understand."
+												],
+												"blankedWords": [
+													"difficult"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Something, or someone, that is interesting is exciting and unusual."
+												],
+												"blankedWords": [
+													"interesting"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Furniture and rooms",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"1. Every day we talk about an interesting person."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. Today’s person is a young musician."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphImage": "",
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"3. It’s difficult to find the time to play an instrument …"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Read the sentences in Exercise A again. Choose the correct option to complete the rules.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "We use adjectives _______ a noun.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "before",
+										"LKUs": null,
+										"sentenceAnswerOptions": [
+											"before",
+											"after"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": null,
+										"exerciseQuestion": "We use adjectives on their own ______ the verb be.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "after",
+										"LKUs": null,
+										"sentenceAnswerOptions": [
+											"before",
+											"after"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Adjectives",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"vocabularyHub": true,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Underline the adjectives in these sentences.",
+								"wordBank": [
+									"healthy",
+									"boring",
+									"talented",
+									"awful"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I eat a lot of healthy food."
+												],
+												"blankedWords": [
+													"healthy"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"This is a boring book."
+												],
+												"blankedWords": [
+													"boring"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Juan’s dad is awful at cooking."
+												],
+												"blankedWords": [
+													"awful"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Oliver’s a talented artist"
+												],
+												"blankedWords": [
+													"talented"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Adjectives",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Work in pairs. Complete the table with the adjectives in Exercise D. Are they positive (+) or negative (–)?",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "VOCABULARY",
+						"partImage": "",
+						"partSubTitle": "Adjectives",
+						"sets": [
+							{
+								"setMarker": "F",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"vocabularyHub": false,
+								"exerciseInstruction": "Use the adjectives in the box to complete the sentences so they are true for you. Tell your partner.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
