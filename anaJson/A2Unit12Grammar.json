@@ -1,0 +1,819 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 12,
+		"chapterTitle": "Modern lives",
+		"chapterQuote": "The best way to predict your future is to create it. Abraham Lincoln",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about future plans",
+			"make predictions",
+			"talk about social media habits",
+			"show interest in something",
+			"write a formal email"
+		],
+		"sections": [
+			{
+				"sectionNumber": 12.1,
+				"sectionTitle": "Life's too busy",
+				"sectionObjective": "Talk about future plans",
+				"GKU": "Language_Hub_A2_Unit12_Lesson_12_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "future time expressions"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "going to: weak and strong to"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "going to"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "going to",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I'm going to try that idea at work next week."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I'm definitely not going to finish it."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Are you going to finish your essay this weekend?"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"textMode": "full article",
+								"exerciseInstruction": "Read the sentences from the conversation. Underline the verbs. Does going to refer to the present or the future?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": "Does going to refer to the present or the future?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "Future",
+										"LKUs": [
+											"going to"
+										],
+										"sentenceAnswerOptions": [
+											"Future",
+											"Present"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "going to",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I'm going to try that idea at work next week."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I'm definitely not going to finish it."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Are you going to finish your essay this weekend?"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "going to for future intentions and plans",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We use be + going to + base form to talk about a future plan."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Complete the rules with be or base form.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"sentenceAnswerOptions": [
+											"be",
+											"base"
+										],
+										"LKUs": [
+											"going to"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "going to",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 144.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "going to",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/with explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Complete the sentences with the correct form of going to. Use the verbs in parentheses.",
+								"wordBank": [
+									"go",
+									"meet",
+									"relax",
+									"have",
+									"do",
+									"buy",
+									"travel"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I'm going to go to the movie theater on the weekend."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"go"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"I'm going to meet friends after class."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"meet"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"I'm going to relax at home tonight."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"relax"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"I'm going to have chicken for dinner."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"have"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"I'm going to do my homework this afternoon."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"do"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"I'm going to buy a new car next year."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"buy"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"I'm going to travel around Europe this summer."
+												],
+												"blankedWords": [
+													"going",
+													"to",
+													"travel"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "going to",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Make the sentences in Exercise D true for you.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 12.2,
+				"sectionTitle": "Everything will be shiny",
+				"sectionObjective": "Make predictions",
+				"GKU": "Language_Hub_A2_Unit12_Lesson12_2",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "will for predictions"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "collocations with get"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "contractions: ‘ll"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "will for predictions",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "will for predictions",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"1. Computers are tools for scientists. Nobody will want to buy one for their home.",
+									"– Henrik Andersson, head of the American Telegraph Association (1943)"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. People want to go out to dinner, see their friends … maybe go to the movie theater. They won't stay at home watching TV.",
+									"– Guy Chandler, movie producer (1946)"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"3. Bitcoin is the future. In five years' time, Bitcoin will be the only way to buy things online.",
+									"– Yoichi Katayama, author of The Eco Futurist (2009)"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"4. Will we ever put a man on the moon? Maybe, but not for another 100 years.",
+									"– Elliott Shaw, writer for The Boston Times (1965)"
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"5. Sadly, we won't have flying cars any time soon. They're just too expensive.",
+									"– Sarah Kalensky, writer for The Forecaster (2017)"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Read these predictions about the future. Which ones came true? What has happened?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": "Read these predictions about the future. Which ones came true?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "5",
+										"LKUs": [
+											"will"
+										],
+										"sentenceAnswerOptions": [
+											"1 and 2",
+											"4 and 5",
+											"3",
+											"5"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "will for predictions",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": ["will for predictions"],
+								"paragraphContents": [
+									"1. For positive sentences, we use subject + will + base form."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": ["will for predictions"],
+								"paragraphContents": [
+									"2. For negative sentences, we use subject + won't + base form."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": ["will for predictions"],
+								"paragraphContents": [
+									"3. For questions, we use will + subject + base form."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Choose the correct words to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"base",
+											"won't",
+											"will"
+										],
+										"LKUs": [
+											"will"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "will for predictions",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Go to the Grammar Hub on page 144.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "will for predictions",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the sentences with will or won't.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"In the future, …"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"there won't be cars. Everyone will have jetpacks."
+												],
+												"blankedWords": [
+													"won't"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"students won't go to school. They will study at home."
+												],
+												"blankedWords": [
+													"will"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"human teachers won't exist. All teachers will be robots."
+												],
+												"blankedWords": [
+													"won't"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"other languages won't exist. Everyone will speak English."
+												],
+												"blankedWords": [
+													"will"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"there won't be any books in schools. Every student will have a tablet."
+												],
+												"blankedWords": [
+													"won't"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "will for predictions",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Do you agree or disagree with the predictions in Exercise D?",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 12.3,
+				"sectionTitle": "Communication",
+				"sectionObjective": "Talk about social media habits",
+				"GKU": "Language_Hub_A2_Unit12_Lesson12_3",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "internet communication"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "diphthongs"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "might"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "predicting"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "might",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"A: I might sign up to Snapchat so I can keep up to date!"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"B: A lot of the people at work also use LinkedIn, so I might set up an account, too."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"A: I might try some other social media networks, but at the moment, I don't really know how to use them."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "might",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"1. We use might for possible plans or wishes."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": "might",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. We use might before the base form."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at these sentences about social media. Then choose the correct words to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"possible plans",
+											"before"
+										],
+										"LKUs": [
+											"might"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "might",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the sentences with the correct form of might and a verb in the box.",
+								"wordBank": [
+									"go",
+									"take",
+									"have",
+									"see",
+									"send",
+									"wait"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"OK, great. I might see you later then."
+												],
+												"blankedWords": [
+													"might",
+													"see"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"You're right. I might send her an email to check the flight time."
+												],
+												"blankedWords": [
+													"might",
+													"send"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"It's hot in here. I might wait outside."
+												],
+												"blankedWords": [
+													"might",
+													"wait"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"I might get the bus, because it's cheaper than a taxi."
+												],
+												"blankedWords": [
+													"might",
+													"get"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"She might not have time to finish everything."
+												],
+												"blankedWords": [
+													"might",
+													"not",
+													"have"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"I might not come tonight. I'm not feeling very well."
+												],
+												"blankedWords": [
+													"might",
+													"not",
+													"come"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "might",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Think about your own use of social media. Tell your partner what you are going to / might use more (or less) in the future.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

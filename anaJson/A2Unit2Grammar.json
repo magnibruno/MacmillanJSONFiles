@@ -1,0 +1,763 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 2,
+		"chapterTitle": "People",
+		"chapterQuote": "Without friends no one would choose to live. Aristotle",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about your family",
+			"talk about appearance",
+			"describe family members and friends",
+			"make and respond to requests",
+			"write an email to a friend"
+		],
+		"sections": [
+			{
+				"sectionNumber": 2.1,
+				"sectionTitle": "Family",
+				"sectionObjective": "Talk about nationalities",
+				"GKU": "Language_Hub_A1_Unit2_Lesson2_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "family"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/ə/ 'schwa'"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "possessive adjectives and apostrophes"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "possessive adjectives and apostrophes",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"grammarHub": false,
+								"setIgnore": true,
+								"exerciseType": "LC - multiple choice/no audio",
+								"exerciseInstruction": "Look at the sentences from Famous families. Which name matches the word in bold? Choose a, b or c.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Jason is Sofia's cousin. The actor Nicolas Cage is her cousin, too. In this sentence, 'her' refers to..."
+												],
+												"exerciseAnswers": [
+													"Sofia"
+												],
+												"exerciseOptions": [
+													"Sofia and Thomas",
+													"Sofia",
+													"Nicolas"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Sofia and Thomas live in New York City, and they have two daughters. Their daughters' names are Romy Mars and Cosima Mars. In this sentence, 'their' refers to..."
+												],
+												"exerciseAnswers": [
+													"Sofia and Thomas"
+												],
+												"exerciseOptions": [
+													"Sofia and Thomas",
+													"Sofia",
+													"Thomas"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "possessive adjectives and apostrophes",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "GrammarSB",
+								"exerciseInstruction": "Complete the table with the words in the box.",
+								"wordBank": [
+									"my",
+									"its",
+									"his",
+									"our",
+									"your"
+								],
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"Subject pronouns - Possessive adjectives"
+										],
+										"blankedWords": []
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"I - my"
+										],
+										"blankedWords": [
+											"my"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"you - your"
+										],
+										"blankedWords": [
+											"your"
+										]
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"we - our"
+										],
+										"blankedWords": [
+											"our"
+										]
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"they - their"
+										],
+										"blankedWords": []
+									},
+									{
+										"sentenceOrdinal": 6,
+										"sentences": [
+											"he - his"
+										],
+										"blankedWords": [
+											"his"
+										]
+									},
+									{
+										"sentenceOrdinal": 7,
+										"sentences": [
+											"she - her"
+										],
+										"blankedWords": []
+									},
+									{
+										"sentenceOrdinal": 8,
+										"sentences": [
+											"it - its"
+										],
+										"blankedWords": [
+											"its"
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "possessive adjectives and apostrophes",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Possessive apostrophe"
+								],
+								"paragraphContents": [
+									"We add 's to regular singular nouns."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We add ' to regular plural nouns."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We use the possessive apostrophe to show that something belongs to someone."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We add 's to show that something belongs to someone when their name ends with an s."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the underlined words in Exercise A. Then complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"'s",
+											"belongs",
+											"belongs"
+										],
+										"LKUs": [
+											"possessive"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "possessive adjectives and apostrophes",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Go to the Grammar Hub on page 124.",
+								"wordBank": null,
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 2.2,
+				"sectionTitle": "The same, but different",
+				"sectionObjective": "Talk about appearance",
+				"GKU": "Language_Hub_A2_Unit2_Lesson2_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "describing appearance"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "have/ has"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "have/ has"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "have/has",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Look at Two in a million again. Complete the sentences with no more than three words from the text.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "have/has",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Positive (+) / Negative (-)"
+								],
+								"paragraphContents": [
+									"I have / don't have blue eyes."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"He/ She / It has / doesn't have blue eyes"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"You / They / We have / don't have blue eyes."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the table with the words from the box.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"have",
+											"doesn't",
+											"have"
+										],
+										"LKUs": [
+											"have"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "have/has",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 124.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "have/has",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Look at the picture. Complete the conversation about the woman with the correct form of have/has and does/does not. Use contractions.",
+								"wordBank": [
+									"have",
+									"doesn't",
+									"has",
+									"does",
+									"have",
+									"does",
+									"does",
+									"has"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"A: Does your aunt have long hair?"
+												],
+												"blankedWords": [
+													"have"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"B: No, she doesn't. She has short, gray hair."
+												],
+												"blankedWords": [
+													"doesn't",
+													"has"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"A: Does she have glasses?"
+												],
+												"blankedWords": [
+													"does",
+													"have"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"B: Yes, she does."
+												],
+												"blankedWords": [
+													"does"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"A: What color eyes does she have?"
+												],
+												"blankedWords": [
+													"does"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"B: She has blue eyes. We also have the same nose."
+												],
+												"blankedWords": [
+													"has"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "have/has",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Find out who your partner looks like in their family.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 2.3,
+				"sectionTitle": "Friends",
+				"sectionObjective": "Describe family members and friends",
+				"GKU": "Language_Hub_A2_Unit2_Lesson2_3",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "personality adjectives"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "syllable stress: adjectives"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "using adjectives"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "reading for organization"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "Using adjectives",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"grammarHub": false,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Look at the sentences from the conversation. Underline the adjectives.",
+								"wordBank": [
+									"friendly",
+									"funny",
+									"quiet"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"They're all really friendly."
+												],
+												"blankedWords": [
+													"friendly"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"She's a very funny person."
+												],
+												"blankedWords": [
+													"funny"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"She's fairly quiet, but I like her."
+												],
+												"blankedWords": [
+													"quiet"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "Using adjectives",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Using adjectives"
+								],
+								"paragraphContents": [
+									"We put adjectives after the verb be."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We put adjectives before nouns."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Choose the correct words to complete the rules. Use the sentences in Exercise A to help you.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"before",
+											"after"
+										],
+										"LKUs": [],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "Using adjectives",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "SORT TU",
+								"exerciseInstruction": "Reorder the words to make sentences.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"It is busy in here."
+										],
+										"wordBank": [
+											"busy",
+											"is",
+											"it",
+											"here",
+											"in"
+										]
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"Tim is happy today."
+										],
+										"wordBank": [
+											"happy",
+											"today",
+											"Tim",
+											"is"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"Al's desk is really messy."
+										],
+										"wordBank": [
+											"is",
+											"Al's",
+											"desk",
+											"really",
+											"messy"
+										]
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"This house is really big."
+										],
+										"wordBank": [
+											"house",
+											"really",
+											"is",
+											"big",
+											"this"
+										]
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"He has a fast car."
+										],
+										"wordBank": [
+											"a",
+											"has",
+											"he",
+											"car",
+											"fast"
+										]
+									},
+									{
+										"sentenceOrdinal": 6,
+										"sentences": [
+											"Your sister's really funny."
+										],
+										"wordBank": [
+											"really",
+											"sister's",
+											"funny",
+											"your"
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "Using adjectives",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work with a partner. Tell them about someone you know. Use really, very or fairly in your descriptions.",
+								"wordBank": null,
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,712 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 11,
+		"chapterTitle": "The body",
+		"chapterQuote": "Health is the greatest possession. Lao Tzu",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about the body and health",
+			"talk about your experiences",
+			"talk about sports and hobbies",
+			"ask for information",
+			"write a recommendation on a forum"
+		],
+		"sections": [
+			{
+				"sectionNumber": 11.1,
+				"sectionTitle": "Health tips",
+				"sectionObjective": "Talk about the body and health",
+				"GKU": "Language_Hub_A2_Unit11_Lesson11_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "the body"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "sentence stress"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "should and shouldn't"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "should and shouldn't",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"You should listen to classical music every day."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"You shouldn't drink too much coffee."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A,B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "multiple choice",
+								"exerciseInstruction": "Look at the sentences from the conversation between Bianca and Ella. Do we use should to give orders or to give advice?",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": "Do we use should to give orders or to give advice?",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "To give advice",
+										"LKUs": [
+											"should"
+										],
+										"sentenceAnswerOptions": [
+											"To give advice",
+											"To give orders"
+										],
+										"context": "textContents"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"paragraphOrdinal": 2,
+										"exerciseQuestion": "Should / Shouldn't is followed by",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "base form",
+										"LKUs": [
+											"should"
+										],
+										"sentenceAnswerOptions": [
+											"base form.",
+											"infinitive."
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "should and shouldn't",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/with explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the sentences with should or shouldn't.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"That's a bad cough. You really should see a doctor."
+												],
+												"blankedWords": [
+													"should"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"You shouldn't smoke – it's really bad for your health."
+												],
+												"blankedWords": [
+													"shouldn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"If you want to lose weight, you should exercise more"
+												],
+												"blankedWords": [
+													"should"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"If you're sick, you shouldn't go to work today. You could make other people sick."
+												],
+												"blankedWords": [
+													"shouldn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"You look really tired. You should go to bed early."
+												],
+												"blankedWords": [
+													"should"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "should and shouldn't",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Student A – ask for advice about your health. Student B – give your partner advice. Take turns.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 11.2,
+				"sectionTitle": "In it to win it",
+				"sectionObjective": "Talk about your experiences",
+				"GKU": "Language_Hub_A2_Unit11_Lesson_11_2",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present perfect"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "irregular past participles"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "past participles"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present perfect",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Present perfect"
+								],
+								"paragraphContents": [
+									"1. We use the present perfect to talk about past experiences."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. We don't say when in the past the action happened."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"3. We make the present perfect with subject + have + past participle."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"4. We use ever in questions."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": ["Present perfect"],
+								"paragraphContents": [
+									"5. We use never in negative sentences."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the highlighted sentences from No Fear. Then choose the correct words to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"past",
+											"don't say",
+											"past participle",
+											"ever",
+											"never"
+										],
+										"LKUs": [
+											"present perfect"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present Perfect",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the sentences with the past participle form of the verbs in the box.",
+								"wordBank": [
+									"appear",
+									"climb",
+									"do",
+									"forget",
+									"been",
+									"visit"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I've appeared on a TV show twice."
+												],
+												"blankedWords": [
+													"appeared"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Have you ever climbed a mountain?"
+												],
+												"blankedWords": [
+													"climbed"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"She's never forgotten her first airplane jump."
+												],
+												"blankedWords": [
+													"forgotten"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"They haven't done any dangerous activities."
+												],
+												"blankedWords": [
+													"done"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"We have visited Korea three times."
+												],
+												"blankedWords": [
+													"visited"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Have you ever been to Greece?"
+												],
+												"blankedWords": [
+													"been"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present perfect",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Rewrite",
+								"grammarHub": true,
+								"exerciseInstruction": "Use the prompts to write present perfect sentences. Use contractions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"I haven't been on a TV show."
+										],
+										"prompt": "I / not be / on a TV show"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"I've never jumped out of a plane."
+										],
+										"prompt": "I / never / jump / out of a plane"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"She's climbed a mountain three times."
+										],
+										"prompt": "She / climb / a mountain / three times"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"He hasn't tried any dangerous activities."
+										],
+										"prompt": "He / not try / any dangerous activities"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"They've visited Africa twice."
+										],
+										"prompt": "They / visit / Africa / twice"
+									},
+									{
+										"sentenceOrdinal": 6,
+										"sentences": [
+											"I've never watched a game show."
+										],
+										"prompt": "I / never / watch / game show"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present perfect",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in groups. Write three present perfect sentences about yourself. Two true, and one lie. Read the sentences to the group. See if they can guess the lie.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 11.3,
+				"sectionTitle": "Move it",
+				"sectionObjective": "Talk about sports and hobbies",
+				"GKU": "Language_Hub_A2_Unit11_Lesson_11_3",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "present perfect vs past simple"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "sports"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "contractions"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "understanding the sequence of past events"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present perfect vs simple past",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"I've done around 20 races"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"My first run was in 2009."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Have you ever run a very difficult race? Where was it?"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": "Present perfect and simple past",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"1. We use the present perfect to talk about an action in the past. We don't say when it happened."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": "Present perfect and simple past",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"2. We use the simple past to talk about an action in the past. We know when it happened."
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": "Present perfect and simple past",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"3. We use time expressions, like ago, in 2010, last week with the simple past."
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphTitle": "Present perfect and simple past",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"4. We often ask a general question about past experiences using the present perfect."
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphTitle": "Present perfect and simple past",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"5. We then use the simple past to ask for more details or to give more details (such as where, when, how)."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the sentences from Spotlight. Choose the correct words to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"don't say",
+											"know",
+											"simple past",
+											"present perfect",
+											"simple past"
+										],
+										"LKUs": [
+											"simple past",
+											"present perfect"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present perfect vs simple past",
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Choose present perfect or somple past to complete the sentences.",
+								"wordBank": [
+									"go",
+									"travel",
+									"drive",
+									"bike",
+									"go",
+									"drive",
+									"try"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"She went to Denmark last year."
+												],
+												"blankedWords": [
+													"went"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"They traveled to Chile a long time ago."
+												],
+												"blankedWords": [
+													"traveled"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Did you bike to work yesterday?"
+												],
+												"blankedWords": [
+													"did",
+													"bike"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Have you ever been to Vietnam?"
+												],
+												"blankedWords": [
+													"have",
+													"been"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"We drove across Europe last summer"
+												],
+												"blankedWords": [
+													"drove"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Did you try snowboarding when you were in Switzerland?"
+												],
+												"blankedWords": [
+													"did",
+													"try"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Present perfect vs simple past",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Take turns asking and answering questions. Discuss where and when you did them.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

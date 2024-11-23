@@ -47,7 +47,7 @@
                 "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
-                "setIgnore": false,
+                "setIgnore": true,
                 "grammarHub": false,
                 "exerciseType": "LC - multiple choice/without audio",
                 "exerciseInstruction": "Read the sentences from the podcast. Are they positive (+) or negative (–)?",

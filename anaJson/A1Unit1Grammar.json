@@ -18,7 +18,7 @@
         "sectionNumber": 1.1,
         "sectionTitle": "Say hello",
         "sectionObjective": "Talk about where you're from",
-        "GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+        "GKU": "Language_Hub_A1_Unit1_Lesson1_1",
         "sectionSkills": [
           {
             "skillType": "V",
@@ -399,36 +399,105 @@
                 "wordBank": ["he's", "is(4x)", "isn't", "it's", "she's"],
                 "exercises": [
                   {
-                    "exerciseSentences": [
-                      {
-                        "sentenceOrdinal": 1,
-                        "sentences": [
-                          "Hi Tina!",
-                          "I'm at work but I'm not very busy.",
-                          "My manager isn't here today because she is in New York City.",
-                          "Her name is Sandra and she's very nice.",
-                          "The job is fun and I'm very happy here.",
-                          "Henri is my colleague.",
-                          "He's very friendly.",
-                          "We're on the design team",
-                          "It's a small team with four people.",
-                          "See you soon!",
-                          "Love,",
-                          "Annette"
-                        ],
-                        "blankedWords": [
-                          "isn't",
-                          "is",
-                          "is",
-                          "she's",
-                          "is",
-                          "is",
-                          "He's",
-                          "It's"
-                        ]
-                      }
-                    ]
-                  }
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Hi Tina!"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"I'm at work but I'm not very busy."
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"My manager isn't here today because she is in New York City."
+												],
+												"blankedWords": [
+													"isn't"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Her name is Sandra and she's very nice."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"The job is fun and I'm very happy here."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Henri is my colleague."
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"He's very friendly."
+												],
+												"blankedWords": [
+													"He's"
+												]
+											},
+											{
+												"sentenceOrdinal": 8,
+												"sentences": [
+													"We're on the design team."
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 9,
+												"sentences": [
+													"It's a small team with four people."
+												],
+												"blankedWords": [
+													"it's"
+												]
+											},
+											{
+												"sentenceOrdinal": 10,
+												"sentences": [
+													"See you soon!"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 11,
+												"sentences": [
+													"Love,"
+												],
+												"blankedWords": []
+											},
+											{
+												"sentenceOrdinal": 12,
+												"sentences": [
+													"Annette"
+												],
+												"blankedWords": []
+											}
+										]
+									}
                 ]
               }
             ]

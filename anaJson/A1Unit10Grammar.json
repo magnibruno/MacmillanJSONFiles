@@ -57,8 +57,8 @@
                     "exerciseSentences": [
                       {
                         "sentenceOrdinal": 1,
-                        "sentences": ["Irregular verb/Past form"],
-                        "blankedWords": null
+                        "sentences": ["Irregular verb / Past form"],
+                        "blankedWords": []
                       },
                       {
                         "sentenceOrdinal": 2,
@@ -182,9 +182,9 @@
                     "exerciseMaxAnswer": null,
                     "exerciseMinAnswer": null,
                     "sentenceAnswerOptions": [
-                      "don't have",
-                      "don't add",
-                      "didn't + verb"
+                      "don't", "have",
+                      "don't", "add",
+                      "didn't", "verb"
                     ],
                     "LKUs": ["simple past"],
                     "context": "textContents"

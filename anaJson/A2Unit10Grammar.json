@@ -1,0 +1,847 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 10,
+		"chapterTitle": "The great outdoors",
+		"chapterQuote": "Look deep into nature, and then you will understand everything better. Albert Einstein",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about and compare outdoor places",
+			"talk about places around the world",
+			"talk about living outdoors",
+			"make and respond to invitations",
+			"write a product review"
+		],
+		"sections": [
+			{
+				"sectionNumber": 10.1,
+				"sectionTitle": "The right location",
+				"sectionObjective": "Talk about and compare outdoor places",
+				"GKU": "Language_Hub_A2_Unit10_Lesson10_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "landscape features"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "comparatives"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "weak forms: /ə/ in than"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Comparatives",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": ["Adjective / Comparative / Rule"],
+								"paragraphContents": [
+									"One-syllable adjectives: cheap / cheaper / We add -er + than"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": ["Adjective / Comparative / Rule"],
+								"paragraphContents": [
+									"Adjectives with two or more syllables: expensive / more expensive / We add more + adjective + than"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"Adjective / Comparative / Rule"
+								],
+								"paragraphContents": [
+									"Irregular adjectives: good - better / bad - worse"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Look at these sentences from the TV interview with Clarice. Complete the table.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"cheaper",
+											"er",
+											"more",
+											"expensive",
+											"more"
+										],
+										"LKUs": [],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "Comparatives",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "PRACTICE",
+								"paragraphSubtitles": [
+									"Comparative spellings"
+								],
+								"paragraphContents": [
+									"For adjectives that end in -e, we add -r."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"large ➞ larger; close ➞ closer"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"For adjectives that end with a consonant, we double the consonant and add -er"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"hot ➞ hotter; big ➞ bigger"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the sentences with the comparative form of the adjectives in brackets. Use the information in the box to help you.",
+								"wordBank": [
+									"bigger",
+									"famous",
+									"crowded",
+									"colder",
+									"more",
+									"closer",
+									"more"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"The mountains are colder than the desert."
+												],
+												"blankedWords": [
+													"colder"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Mexico is closer to California than Morocco."
+												],
+												"blankedWords": [
+													"closer"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Hollywood is more famous for movies than nature."
+												],
+												"blankedWords": [
+													"more",
+													"famous"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Mexico is four times bigger than Morocco."
+												],
+												"blankedWords": [
+													"bigger"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"Californian beaches are more crowded than Mexican beaches."
+												],
+												"blankedWords": [
+													"more",
+													"crowded"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Comparatives",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Go to the Grammar Hub on page 140.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "comparatives",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": "rewrite",
+								"grammarHub": false,
+								"exerciseInstruction": "Use the prompts to write comparative sentences.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"New Zealand is more beautiful than Australia."
+										],
+										"prompt": "beautiful – New Zealand / Australia "
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"Rio de Janeiro is hotter than Buenos Aires."
+										],
+										"prompt": "hot – Buenos Aires / Rio de Janeiro"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"The Amazon is longer than the Nile."
+										],
+										"prompt": "long – the Amazon / the Nile"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"The Sahara is more dangerous than Everest."
+										],
+										"prompt": "dangerous – the Sahara / Everest"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"Moscow is colder than New York City."
+										],
+										"prompt": "cold – New York City / Moscow"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "comparatives",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Look at the sentences in Exercise D. Say whether you agree or disagree.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 10.2,
+				"sectionTitle": "Where on Earth?",
+				"sectionObjective": "Talk about places around the world",
+				"GKU": "Language_Hub_A2_Unit10_Lesson10_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "seasons and weather"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "/oʊ/ and /aʊ/"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "superlatives"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Superlatives",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "grammar SB/ without explanation",
+								"exerciseInstruction": "Look at Extreme places. Complete the sentences with words from the text.",
+								"wordBank": [
+									"the",
+									"most",
+									"driest",
+									"coldest",
+									"remote",
+									"nearest",
+									"hottest"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Welcome to the coldest city on Earth."
+												],
+												"blankedWords": [
+													"the",
+													"coldest"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"It’s a Saturday in Kuwait City – the hottest city in the world"
+												],
+												"blankedWords": [
+													"the",
+													"hottest"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"But this isn’t the driest place on Earth – that’s the Atacama Desert in Chile."
+												],
+												"blankedWords": [
+													"the",
+													"driest"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"It’s the world’s most remote inhabited island."
+												],
+												"blankedWords": [
+													"most",
+													"remote"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"There isn’t an airport, and the nearest mainland is South Africa, 2,430 km away."
+												],
+												"blankedWords": [
+													"the",
+													"nearest"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "comparatives",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "Superlatives",
+								"paragraphSubtitles": ["Adjective / Superlative / Rule"],
+								"paragraphContents": [
+									"One-syllable adjectives: cold / the coldest / We use the + adjective + -est"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Adjectives with two or more syllables: remote / the most remote / We use the + most + adjective"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Irregular adjectives: good - the best / bad - the worst"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "word bank",
+								"textMode": "full article",
+								"exerciseInstruction": "Complete the table. Use the examples in Exercise A to help you.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"the",
+											"coldest",
+											"est",
+											"remote",
+											"most",											
+											"most"
+										],
+										"LKUs": [],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "comparatives",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Go to the Grammar Hub on page 140.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "comparatives",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": "rewrite",
+								"grammarHub": false,
+								"exerciseInstruction": "Use the prompts to write superlative questions.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"What's the highest mountain in the world?"
+										],
+										"prompt": "What’s / high / mountain / in the world?"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"What's the biggest ocean in the world?"
+										],
+										"prompt": "What’s / big / ocean / in the world?"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"What's the most beautiful place in the world?"
+										],
+										"prompt": "What’s / beautiful / place / in the world?"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"What's the best movie ever made?"
+										],
+										"prompt": "What’s / good / movie / ever made?"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"Which is the best season to visit your country?"
+										],
+										"prompt": "Which / good / season to visit your country?"
+									},
+									{
+										"sentenceOrdinal": 6,
+										"sentences": [
+											"What's the worst thing about your city?"
+										],
+										"prompt": "What’s / bad / thing about your city?"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "comparatives",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Ask and answer the questions in Exercise D.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 10.3,
+				"sectionTitle": "Survival",
+				"sectionObjective": "Talk about living outdoors",
+				"GKU": "Language_Hub_A2_Unit10_Lesson10_3",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "phrasal verbs"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "verb + infinitive"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "weak forms: /tuː/ and /tə/"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "identifying fact and opinion"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Verb + infinitive",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "null",
+								"setImage": null,
+								"setAudioNumber": 10.5,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "TSS dictate",
+								"exerciseInstruction": "Listen to the interview again and complete the sentences.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Always plan to take a few important things with you, like a pocketknife, a lantern and a phone."
+												],
+												"blankedWords": [
+													"to",
+													"take"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"For example, if you want to stay dry, take a raincoat."
+												],
+												"blankedWords": [
+													"to",
+													"stay"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"You don’t need to build anything."
+												],
+												"blankedWords": [
+													"to",
+													"build"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"When you decide to go hiking, tell someone where you’re going."
+												],
+												"blankedWords": [
+													"to",
+													"go"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"And remember to keep warm."
+												],
+												"blankedWords": [
+													"to",
+													"keep"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "have to/don't have to",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Verb + infinitive"
+								],
+								"paragraphContents": [
+									"Lots of verbs in English are followed by infinitive / -ing."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Examples include: plan, want, need, decide, rememeber."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the sentences in Exercise A and complete the rule.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"infinitive"
+										],
+										"LKUs": [
+											"infinitive"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Verb + infinitive",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Complete the sentences with to and the verbs in the box.",
+								"wordBank": [
+									"to",
+									"bring",
+									"carry",
+									"go",
+									"make",
+									"read",
+									"travel",
+									"bring"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"I forgot to bring my raincoat with me."
+												],
+												"blankedWords": [
+													"to",
+													"bring"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"I’m trying to read the map, but it’s really dark."
+												],
+												"blankedWords": [
+													"to",
+													"read"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"They should get some wood. They need to make a fire to keep warm."
+												],
+												"blankedWords": [
+													"to",
+													"make"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Did you remember to bring a bottle of water with you?"
+												],
+												"blankedWords": [
+													"to",
+													"bring"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"She’s planning to go to Greece for a vacation next year."
+												],
+												"blankedWords": [
+													"to",
+													"go"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"We helped to carry the boxes into the house."
+												],
+												"blankedWords": [
+													"to",
+													"carry"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"I don’t like flying – I prefer to travel by train."
+												],
+												"blankedWords": [
+													"to",
+													"travel"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

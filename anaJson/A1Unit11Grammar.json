@@ -87,7 +87,7 @@
                 "setImage": null,
                 "setAudioNumber": null,
                 "setIgnore": false,
-                "exerciseType": "RC - multiple choice",
+                "exerciseType": "multiple choice",
                 "exerciseInstruction": "Read the phrases in bold in Is staying in the new going out? Choose the correct option.",
                 "exercises": [
                   {

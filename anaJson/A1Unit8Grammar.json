@@ -18,7 +18,7 @@
         "sectionNumber": 8.1,
         "sectionTitle": "What's he doing?",
         "sectionObjective": "Describe what people are doing",
-        "GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+        "GKU": "Language_Hub_A1_Unit8_Lesson8_1",
         "sectionSkills": [
           {
             "skillType": "G",
@@ -384,6 +384,7 @@
             "partTitle": "GRAMMAR",
             "partImage": "",
             "partSubTitle": "Adjective order",
+            "textContents":[],
             "sets": [
               {
                 "setMarker": "A",
@@ -470,7 +471,7 @@
                 "setHeading": null,
                 "setImage": null,
                 "setAudioNumber": null,
-                "setIgnore": false,
+                "setIgnore": true,
                 "exerciseType": "LC_multiple choice/no audio",
                 "grammarHub": true,
                 "exerciseInstruction": "Choose the correct options",

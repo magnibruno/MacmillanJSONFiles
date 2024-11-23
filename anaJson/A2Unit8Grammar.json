@@ -1,0 +1,1029 @@
+{
+	"book": "Language Hub",
+	"CEFRLevel": "A2",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 8,
+		"chapterTitle": "Food and drink",
+		"chapterQuote": "One cannot think well, love well, sleep well, if one has not dined well. Virginia Woolf ",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about the food you eat",
+			"talk about the food your family eats",
+			"talk about ingredients and recipes",
+			"order food in a restaurant",
+			"write an online restaurant review"
+		],
+		"sections": [
+			{
+				"sectionNumber": 8.1,
+				"sectionTitle": "I'm hungry!",
+				"sectionObjective": "Talk about the food you eat",
+				"GKU": "Language_Hub_A2_Unit8_Lesson8_1",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "food and drink"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "countable and uncountable nouns; some and any"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "plurals"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"textMode": "full article",
+						"textcontents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Waitress: Hi! What can I get you?"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Customer: Hey. I'd like two eggs, a tomato and some mushrooms, please."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Waitress: OK. Anything to drink?"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Customer: Uh … yes. Some coffee, please."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the conversation. Look at the nouns in bold. Which nouns are plural?.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"eggs",
+											"tomato",
+											"mushrooms",
+											"coffee"
+										],
+										"LKUs": [
+											"egg",
+											"tomato",
+											"mushroom",
+											"coffee"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "can",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We can count countable nouns (e.g. eggs, tomatoes)."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We can't count uncountable nouns (e.g. coffee, pasta)."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Complete the rules",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"can",
+											"can't"
+											
+										],
+										"LKUs": [
+											"can"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Complete the table with the words in the box.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": "LC - multiple choice/ no audio",
+								"exerciseInstruction": "Choose the correct options to complete the sentences.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Would you like some chip / chips?"
+												],
+												"exerciseAnswers": [
+													"chips"
+												],
+												"exerciseOptions": [
+													"chip",
+													"chips"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Can you buy some bread / breads on your way home?"
+												],
+												"exerciseAnswers": [
+													"bread"
+												],
+												"exerciseOptions": [
+													"bread",
+													"breads"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Is there an onion / onions in this recipe?"
+												],
+												"exerciseAnswers": [
+													"an onion"
+												],
+												"exerciseOptions": [
+													"an onion",
+													"onions"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Countable and uncountable nouns",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Work in pairs. Answer the questions.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "some and any",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": 8.4,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "TSS Dictate",
+								"exerciseInstruction": "Listen to part of the conversation between Marta and Stefan again. Then complete the sentences with some or any.",
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Is there any chicken?"
+												],
+												"blankedWords": [
+													"any"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"There isn't any chicken. I ate it yesterday."
+												],
+												"blankedWords": [
+													"any"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"We have some mushrooms and some broccoli."
+												],
+												"blankedWords": [
+													"some",
+													"some"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"We don't have any apples or bananas."
+												],
+												"blankedWords": [
+													"any"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "some and any",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Is there any chicken?"
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"There isn't any chicken. I ate it yesterday."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We have some mushrooms and some broccoli."
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We don't have any apples or bananas."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": "some and any",
+								"paragraphSubtitles": [
+									"countable and uncountable nouns"
+								],
+								"paragraphContents": [
+									"Positive+ some",
+									"Negative- any",
+									"Questions? any"
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"Questions with some"
+								],
+								"paragraphContents": [
+									"When we make an offer or a request, we use some and not any."
+								]
+							},
+							{
+								"paragraphOrdinal": 7,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"Questions with some"
+								],
+								"paragraphContents": [
+									"Do you want some bread?"
+								]
+							},
+							{
+								"paragraphOrdinal": 8,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"Questions with some"
+								],
+								"paragraphContents": [
+									"Would you like some water?"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the sentences in Exercise A. Complete the table with some and any.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 5,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"some",
+											"any",
+											"any"
+										],
+										"LKUs": [
+											"some",
+											"any"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "some and any",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "SPEAK Work in pairs. Student A – go to the Communication Hub on page 156. Student B – go to the Communication Hub on page 159.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "some and any",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": true,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Complete the sentences with some, any, a or an.",
+								"wordBank": [
+									"any",
+									"any",
+									"some",
+									"a"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Did you buy any carrots at the grocery store?"
+												],
+												"blankedWords": [
+													"any"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Are there any good restaurants near here?"
+												],
+												"blankedWords": [
+													"any"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Would you like some more tea?"
+												],
+												"blankedWords": [
+													"some"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"There's a bottle of water in the fridge."
+												],
+												"blankedWords": [
+													"a"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 8.2,
+				"sectionTitle": "What we eat",
+				"sectionObjective": "Talk about the food your family eats",
+				"GKU": "Language_Hub_A2_Unit8_Lesson8_2",
+				"sectionSkills": [
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "containers"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "short and long vowel sounds"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "much, many, a lot of"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "much, many, a lot of",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"exerciseInstruction": "Look at Let's eat - Around the world again. Find and underline the phrases with much, many and a lot of.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "much, many, a lot of",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "much, many and a lot of",
+								"paragraphSubtitles": [
+									"countable nouns"
+								],
+								"paragraphContents": [
+									"Positive: She eats a lot of bananas."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Negative: She doesn't eat many apples."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Questions: How many cookies are there?"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Positive: He eats a lot of pasta."
+								]
+							},
+							{
+								"paragraphOrdinal": 5,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Negative: He doesn't drink much coffee."
+								]
+							},
+							{
+								"paragraphOrdinal": 6,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Questions: How much rice is there?"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Look at the phrases you underlined in Exercise A. Complete the table with much, many and a lot of.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"a lot of",
+											"many",
+											"many",
+											"a lot of",
+											"much",
+											"much"
+										],
+										"LKUs": [
+											"a lot of",
+											"many",
+											"many",
+											"a lot of",
+											"much",
+											"much"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "much, many, a lot of",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the email with the words in the box.",
+								"wordBank": [
+									"much(4x)",
+									"many(3x)"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"How much money do you have?"
+												],
+												"blankedWords": [
+													"much"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"How many people are coming to dinner?"
+												],
+												"blankedWords": [
+													"many"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"How much water do you drink every day?"
+												],
+												"blankedWords": [
+													"much"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"How much do you spend on food every month?"
+												],
+												"blankedWords": [
+													"much"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"How much sugar do you want in your coffee?"
+												],
+												"blankedWords": [
+													"much"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"How many bottles of water do we need?"
+												],
+												"blankedWords": [
+													"many"
+												]
+											},
+											{
+												"sentenceOrdinal": 7,
+												"sentences": [
+													"How many packages of cookies do you have?"
+												],
+												"blankedWords": [
+													"many"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "much, many, a lot of",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "rewrite",
+								"grammarHub": true,
+								"exerciseInstruction": "Use the prompts to write questions with How much and How many.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"How much bread do you eat?"
+										],
+										"prompt": "bread / you / eat?"
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"How much tea do you drink?"
+										],
+										"prompt": "tea / you / drink?"
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"How many chips do you eat?"
+										],
+										"prompt": "chips / you / eat?"
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"How much meat do you eat?"
+										],
+										"prompt": "meat / you / eat?"
+									},
+									{
+										"sentenceOrdinal": 5,
+										"sentences": [
+											"How much rice do you eat?"
+										],
+										"prompt": "rice / you / eat?"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "much, many, a lot of",
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": false,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Answer the questions in Exercise D.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 8.3,
+				"sectionTitle": "Yes, chef!",
+				"sectionObjective": "Talk about ingredients and recipes",
+				"GKU": "Language_Hub_A2_Unit8_Lesson8_3",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "a/an, the, no article"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "food preparation"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "consonant clusters"
+					},
+					{
+						"skillType": "S",
+						"skillName": "Reading",
+						"skillTitle": "decoding"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "a/an, the, no article",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "match",
+								"exerciseInstruction": "Read the sentences from the Homecook advertisement. Match sentences (1–3) to rules (a–c).",
+								"exerciseColumnA": [
+									"Friends Carlo Vallone and Frankie Benn started Homecook in 2014 in Frankie's home city of Melbourne, Australia.",
+									"Each box comes with a recipe. Follow the recipe to create a delicious meal.",
+									"We deliver thousands of boxes to homes around the country every week."
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"We use a/an the first time we talk about something. Then we use the to talk about it again."
+												],
+												"exerciseAnswers": [
+													"Each box comes with a recipe. Follow the recipe to create a delicious meal."
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"We usually use no article in front of names, places, companies and cities."
+												],
+												"exerciseAnswers": [
+													"Friends Carlo Vallone and Frankie Benn started Homecook in 2014 in Frankie's home city of Melbourne, Australia."
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"We use the when there is only one or it is clear what is being talked about."
+												],
+												"exerciseAnswers": [
+													"We deliver thousands of boxes to homes around the country every week."
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "a/an, the, no article",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Levain Bakery is a company that makes _ chocolate cookies.",
+									"The company is in _ New York, but it sells cookies all across the US."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": null,
+								"setImage": "",
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"vocabularyHub": false,
+								"exerciseInstruction": "Choose the correct options to complete the paragraph.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"a",
+											"_",
+											"the",
+											"_",
+											"the"
+										],
+										"LKUs": [
+											"apples"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "a/an, the, no article",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									" _ Jamie Oliver is an English chef who is famous in the UK and across the world."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"He has a lot of restaurants and a popular TV show."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"_ People love cooking and eating his Italian recipes."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"grammarHub": true,
+								"exerciseInstruction": "Complete the paragraphs with the, a, an or _.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"_",
+											"an",
+											"the",
+											"the",
+											"a",
+											"_"
+										],
+										"LKUs": [
+											"a",
+											"an",
+											"the",
+											"a"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

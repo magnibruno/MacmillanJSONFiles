@@ -1,594 +1,705 @@
 {
-  "book": "Language Hub",
-  "CEFRLevel": "A1",
-  "dialect": "American",
-  "chapter": {
-    "chapterUnit": 7,
-    "chapterTitle": "Skills",
-    "chapterQuote": "If you think you can do it, you can. John Burroughs",
-    "chapterFrontImage": "",
-    "chapterObjectives": [
-      "talk about your abilities",
-      "talk about people's talents",
-      "make polite requests",
-      "write a competition entry"
-    ],
-    "sections": [
-      {
-        "sectionNumber": 7.1,
-        "sectionTitle": "What can you do?",
-        "sectionObjective": "Talk about your abilities",
-        "GKU": "Language_Hub_A1_Unit7_Lesson7_1",
-        "sectionSkills": [
-          {
-            "skillType": "G",
-            "skillName": "Grammar",
-            "skillTitle": "can/can't"
-          },
-          {
-            "skillType": "P",
-            "skillName": "Pronunciation",
-            "skillTitle": "can/can't: /æ/ and /ə/"
-          },
-          {
-            "skillType": "V",
-            "skillName": "Vocabulary",
-            "skillTitle": "abilities"
-          }
-        ],
-        "sectionPart": [
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": null,
-            "partSubTitle": "can/ can't",
-            "textMode": "full article",
-            "textContents": [
-              {
-                "paragraphOrdinal": 1,
-                "paragraphTitle": "WORK IT OUT",
-                "paragraphSubtitles": null,
-                "paragraphContents": [
-                  "Animals can do many things that humans can't do."
-                ]
-              },
-              {
-                "paragraphOrdinal": 2,
-                "paragraphTitle": null,
-                "paragraphSubtitles": null,
-                "paragraphContents": ["A: Can you really fly?"]
-              },
-              {
-                "paragraphOrdinal": 3,
-                "paragraphTitle": null,
-                "paragraphSubtitles": null,
-                "paragraphContents": ["B: Yes, I can!"]
-              },
-              {
-                "paragraphOrdinal": 4,
-                "paragraphTitle": null,
-                "paragraphSubtitles": ["can/ can't"],
-                "paragraphContents": [
-                  "We use can / can't to talk about abilities."
-                ]
-              }
-            ],
-            "sets": [
-              {
-                "setMarker": "A",
-                "setHeading": "WORK IT OUT",
-                "setImage": null,
-                "setAudioNumber": null,
-                "grammarHub": false,
-                "setIgnore": false,
-                "exerciseType": "word bank",
-                "exerciseInstruction": "Read the examples from the article. Choose the correct option to complete the rule.",
-                "exercises": [
-                  {
-                    "sentenceOrdinal": 1,
-                    "paragraphOrdinal": 1,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["abilities", "can", "can't"],
-                    "LKUs": ["can"],
-                    "context": "textContents"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": null,
-            "partSubTitle": "can/ can't",
-            "textMode": "full article",
-            "textContents": [
-              {
-                "paragraphOrdinal": 1,
-                "paragraphTitle": "WORK IT OUT",
-                "paragraphSubtitles": ["can/ can't"],
-                "paragraphContents": [
-                  "After can and can't we use a verb without to. We always use the same form of the verb with all subjects."
-                ]
-              },
-              {
-                "paragraphOrdinal": 2,
-                "paragraphTitle": null,
-                "paragraphSubtitles": null,
-                "paragraphContents": [
-                  "We don't use do and don't in questions and negative sentences with can/can't."
-                ]
-              }
-            ],
-            "sets": [
-              {
-                "setMarker": "B",
-                "setHeading": "WORK IT OUT",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "grammarHub": false,
-                "exerciseType": "word bank",
-                "exerciseInstruction": "Read the examples again. Choose the correct options to complete the rules.",
-                "exercises": [
-                  {
-                    "sentenceOrdinal": 1,
-                    "paragraphOrdinal": 1,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["without", "don't"],
-                    "LKUs": ["can"],
-                    "context": "textContents"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": null,
-            "partSubTitle": "can/ can't",
-            "sets": [
-              {
-                "setMarker": "C",
-                "setHeading": null,
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": true,
-                "grammarHub": true,
-                "exerciseType": null,
-                "exerciseInstruction": "Go to the Grammar Hub on page 110.",
-                "wordBank": null,
-                "exercises": null
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": null,
-            "partSubTitle": "can/ can't",
-            "sets": [
-              {
-                "setMarker": "D",
-                "setHeading": "PRACTICE",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "grammarHub": false,
-                "exerciseType": "SORT TU",
-                "exerciseInstruction": "Order the words to make questions and answers.",
-                "wordBank": null,
-                "exercises": [
-                  {
-                    "sentenceOrdinal": 1,
-                    "sentences": ["A: Can you swim? B: Yes, I can."],
-                    "wordBank": ["you", "swim", "can", "can", "yes", "I"]
-                  },
-                  {
-                    "sentenceOrdinal": 2,
-                    "sentences": ["A: Can a monkey fly? B: No, it can't."],
-                    "wordBank": [
-                      "a",
-                      "monkey",
-                      "fly",
-                      "can",
-                      "no",
-                      "can't",
-                      "it"
-                    ]
-                  },
-                  {
-                    "sentenceOrdinal": 3,
-                    "sentences": [
-                      "A: What can you do? B: I can climb a mountain."
-                    ],
-                    "wordBank": [
-                      "you",
-                      "can",
-                      "what",
-                      "do",
-                      "can",
-                      "a",
-                      "mountain",
-                      "I",
-                      "climb"
-                    ]
-                  },
-                  {
-                    "sentenceOrdinal": 4,
-                    "sentences": [
-                      "A: Which animal can live underwater? B: A fish can live underwater."
-                    ],
-                    "wordBank": [
-                      "which",
-                      "can",
-                      "live",
-                      "animal",
-                      "underwater",
-                      "live",
-                      "can",
-                      "underwater",
-                      "a",
-                      "fish"
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "sectionNumber": 7.2,
-        "sectionTitle": "He's amazing!",
-        "sectionObjective": "Talk about people's talents",
-        "GKU": "Language_Hub_A1_Unit7_Lesson7_2",
-        "sectionSkills": [
-          {
-            "skillType": "S",
-            "skillName": "Listening",
-            "skillTitle": "listening for pronoun reference"
-          },
-          {
-            "skillType": "V",
-            "skillName": "Vocabulary",
-            "skillTitle": "adjectives"
-          },
-          {
-            "skillType": "G",
-            "skillName": "Grammar",
-            "skillTitle": "possessive 's"
-          },
-          {
-            "skillType": "P",
-            "skillName": "Pronunciation",
-            "skillTitle": "possessive 's"
-          }
-        ],
-        "sectionPart": [
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "A",
-                "setHeading": null,
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "exerciseType": "Grammar SB/without explanation",
-                "exerciseInstruction": "Read the sentences from the radio show. Underline the words with the possessive 's.",
-                "wordBank": ["Sheku", "parents"],
-                "exercises": [
-                  {
-                    "exerciseSentences": [
-                      {
-                        "sentenceOrdinal": 1,
-                        "sentences": ["Braimah is Sheku's brother."],
-                        "blankedWords": ["Sheku"]
-                      },
-                      {
-                        "sentenceOrdinal": 2,
-                        "sentences": [
-                          "Sheku's parents' names are Kadiatu and Stuart."
-                        ],
-                        "blankedWords": ["parents"]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "B",
-                "setHeading": "WORK IT OUT",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "exerciseType": "Grammar SB/without explanation",
-                "exerciseInstruction": "Choose the correct option to complete the rule.",
-                "wordBank": ["belongs to", "happens to"],
-                "exercises": [
-                  {
-                    "exerciseSentences": [
-                      {
-                        "sentenceOrdinal": 1,
-                        "sentences": [
-                          "We use 's and ' to say that someone or something belongs to someone or something."
-                        ],
-                        "blankedWords": ["belongs", "to"]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "textMode": "full article",
-            "textContents": [
-              {
-                "paragraphOrdinal": 1,
-                "paragraphTitle": "WORK IT OUT",
-                "paragraphSubtitles": ["Possessive 's"],
-                "paragraphContents": [
-                  "We use 's after singular nouns: Sheku is Braimah's brother."
-                ]
-              },
-              {
-                "paragraphOrdinal": 2,
-                "paragraphTitle": null,
-                "paragraphSubtitles": null,
-                "paragraphContents": [
-                  "We use ' after plural nouns ending in -s: His sisters ' names are Isata, Konya, Jeneba, Aminatu and Mariatu."
-                ]
-              }
-            ],
-            "sets": [
-              {
-                "setMarker": "C",
-                "setHeading": "WORK IT OUT",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "exerciseType": "word bank",
-                "exerciseInstruction": "Read the sentences again. Add 's or ' to complete the rules and examples",
-                "exercises": [
-                  {
-                    "sentenceOrdinal": 1,
-                    "paragraphOrdinal": 1,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["'s", "'s", "'", ","],
-                    "LKUs": ["'s"],
-                    "context": "textContents"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "D",
-                "setHeading": "PRACTICE",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "exerciseType": "Grammar SB/without explanation",
-                "grammarHub": false,
-                "exerciseInstruction": "Add 's or ' in the correct place to complete the sentences.",
-                "wordBank": ["'s", "'s", "'", "'", "'", "'s"],
-                "exercises": [
-                  {
-                    "exerciseSentences": [
-                      {
-                        "sentenceOrdinal": 1,
-                        "sentences": ["My mother's name is Kali."],
-                        "blankedWords": ["'s"]
-                      },
-                      {
-                        "sentenceOrdinal": 2,
-                        "sentences": [
-                          "Luke's favorite instrument is the violin."
-                        ],
-                        "blankedWords": ["'s"]
-                      },
-                      {
-                        "sentenceOrdinal": 3,
-                        "sentences": ["My two cousins' house is in the city."],
-                        "blankedWords": ["'"]
-                      },
-                      {
-                        "sentenceOrdinal": 4,
-                        "sentences": [
-                          "Alice's parents' names are Olive and Oscar."
-                        ],
-                        "blankedWords": ["'s"]
-                      },
-                      {
-                        "sentenceOrdinal": 5,
-                        "sentences": [
-                          "All of the musicians' instruments are in the next room."
-                        ],
-                        "blankedWords": ["'"]
-                      },
-                      {
-                        "sentenceOrdinal": 6,
-                        "sentences": ["Alberto is Carlos's brother."],
-                        "blankedWords": ["'s"]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "textMode": "full article",
-            "textContents": [
-              {
-                "paragraphOrdinal": 1,
-                "paragraphTitle": "WORK IT OUT",
-                "paragraphSubtitles": ["Possessive 's, is and has"],
-                "paragraphContents": [
-                  "We also use 's as a short form of is or has."
-                ]
-              },
-              {
-                "paragraphOrdinal": 2,
-                "paragraphTitle": null,
-                "paragraphSubtitles": null,
-                "paragraphContents": [
-                  "His name's Sheku Kanneh-Mason. ( = his name is )."
-                ]
-              },
-              {
-                "paragraphOrdinal": 3,
-                "paragraphTitle": null,
-                "paragraphSubtitles": null,
-                "paragraphContents": ["He's done his homework. ( = he has )"]
-              }
-            ],
-            "sets": [
-              {
-                "setMarker": "E",
-                "setHeading": "WORK IT OUT",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "exerciseType": "word bank",
-                "exerciseInstruction": "Read the information and choose the correct options.",
-                "exercises": [
-                  {
-                    "sentenceOrdinal": 1,
-                    "paragraphOrdinal": 1,
-                    "exerciseQuestion": null,
-                    "exerciseMaxAnswer": null,
-                    "exerciseMinAnswer": null,
-                    "sentenceAnswerOptions": ["is", "has"],
-                    "LKUs": ["'s"],
-                    "context": "textContents"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "F",
-                "setHeading": "PRACTICE",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": false,
-                "exerciseType": "Grammar SB/without explanation",
-                "grammarHub": false,
-                "exerciseInstruction": "Choose the correct meaning of of 's in these sentences.",
-                "wordBank": ["possessive 's", "has", "is"],
-                "exercises": [
-                  {
-                    "exerciseSentences": [
-                      {
-                        "sentenceOrdinal": 1,
-                        "sentences": ["Mark's my father. - is"],
-                        "blankedWords": ["is"]
-                      },
-                      {
-                        "sentenceOrdinal": 2,
-                        "sentences": [
-                          "My father's name is Mark. - possessive 's"
-                        ],
-                        "blankedWords": ["possessive 's"]
-                      },
-                      {
-                        "sentenceOrdinal": 3,
-                        "sentences": ["Mark's gone to the store. - has"],
-                        "blankedWords": ["has"]
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "G",
-                "setHeading": null,
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": true,
-                "exerciseType": null,
-                "grammarHub": true,
-                "exerciseInstruction": "Go to the Grammar Hub on page 110.",
-                "exercises": null
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "H",
-                "setHeading": "SPEAK",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": true,
-                "exerciseType": null,
-                "grammarHub": false,
-                "exerciseInstruction": "Work in pairs. Tell your partner about the following things …",
-                "exercises": null
-              }
-            ]
-          },
-          {
-            "partTitle": "GRAMMAR",
-            "partImage": "",
-            "partSubTitle": "Possessive 's",
-            "sets": [
-              {
-                "setMarker": "I",
-                "setHeading": "SPEAK",
-                "setImage": null,
-                "setAudioNumber": null,
-                "setIgnore": true,
-                "exerciseType": null,
-                "grammarHub": false,
-                "exerciseInstruction": "Work in groups. Tell them about your partner. Use possessive 's.",
-                "exercises": null
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+	"book": "Language Hub",
+	"CEFRLevel": "A1",
+	"dialect": "American",
+	"chapter": {
+		"chapterUnit": 7,
+		"chapterTitle": "Skills",
+		"chapterQuote": "If you think you can do it, you can. John Burroughs",
+		"chapterFrontImage": "",
+		"chapterObjectives": [
+			"talk about your abilities",
+			"talk about people's talents",
+			"make polite requests",
+			"write a competition entry"
+		],
+		"sections": [
+			{
+				"sectionNumber": 7.1,
+				"sectionTitle": "What can you do?",
+				"sectionObjective": "Talk about your abilities",
+				"GKU": "Language_Hub_A1_Unit7_Lesson7_1",
+				"sectionSkills": [
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "can/can't"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "can/can't: /æ/ and /ə/"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "abilities"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "can/ can't",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"Animals can do many things that humans can't do."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"A: Can you really fly?"
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"B: Yes, I can!"
+								]
+							},
+							{
+								"paragraphOrdinal": 4,
+								"paragraphTitle": null,
+								"paragraphSubtitles": [
+									"can/ can't"
+								],
+								"paragraphContents": [
+									"We use can / can't to talk about abilities."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"grammarHub": false,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the examples from the article. Choose the correct option to complete the rule.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"abilities",
+											"can",
+											"can't"
+										],
+										"LKUs": [
+											"can"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "can/ can't",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"can/ can't"
+								],
+								"paragraphContents": [
+									"After can and can't we use a verb without to. We always use the same form of the verb with all subjects."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We don't use do and don't in questions and negative sentences with can/can't."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the examples again. Choose the correct options to complete the rules.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"without",
+											"don't"
+										],
+										"LKUs": [
+											"can"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "can/ can't",
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"grammarHub": true,
+								"exerciseType": null,
+								"exerciseInstruction": "Go to the Grammar Hub on page 110.",
+								"wordBank": null,
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": null,
+						"partSubTitle": "can/ can't",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"grammarHub": false,
+								"exerciseType": "SORT TU",
+								"exerciseInstruction": "Order the words to make questions and answers.",
+								"wordBank": null,
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"sentences": [
+											"A: Can you swim? B: Yes, I can."
+										],
+										"wordBank": [
+											"you",
+											"swim",
+											"can",
+											"can",
+											"yes",
+											"I"
+										]
+									},
+									{
+										"sentenceOrdinal": 2,
+										"sentences": [
+											"A: Can a monkey fly? B: No, it can't."
+										],
+										"wordBank": [
+											"a",
+											"monkey",
+											"fly",
+											"can",
+											"no",
+											"can't",
+											"it"
+										]
+									},
+									{
+										"sentenceOrdinal": 3,
+										"sentences": [
+											"A: What can you do? B: I can climb a mountain."
+										],
+										"wordBank": [
+											"you",
+											"can",
+											"what",
+											"do",
+											"can",
+											"a",
+											"mountain",
+											"I",
+											"climb"
+										]
+									},
+									{
+										"sentenceOrdinal": 4,
+										"sentences": [
+											"A: Which animal can live underwater? B: A fish can live underwater."
+										],
+										"wordBank": [
+											"which",
+											"can",
+											"live",
+											"animal",
+											"underwater",
+											"live",
+											"can",
+											"underwater",
+											"a",
+											"fish"
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"sectionNumber": 7.2,
+				"sectionTitle": "He's amazing!",
+				"sectionObjective": "Talk about people's talents",
+				"GKU": "Language_Hub_A1_Unit7_Lesson7_2",
+				"sectionSkills": [
+					{
+						"skillType": "S",
+						"skillName": "Listening",
+						"skillTitle": "listening for pronoun reference"
+					},
+					{
+						"skillType": "V",
+						"skillName": "Vocabulary",
+						"skillTitle": "adjectives"
+					},
+					{
+						"skillType": "G",
+						"skillName": "Grammar",
+						"skillTitle": "possessive 's"
+					},
+					{
+						"skillType": "P",
+						"skillName": "Pronunciation",
+						"skillTitle": "possessive 's"
+					}
+				],
+				"sectionPart": [
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"sets": [
+							{
+								"setMarker": "A",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"exerciseInstruction": "Read the sentences from the radio show. Underline the words with the possessive 's.",
+								"wordBank": [
+									"Sheku",
+									"parents"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Braimah is Sheku's brother."
+												],
+												"blankedWords": [
+													"Sheku"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Sheku's parents' names are Kadiatu and Stuart."
+												],
+												"blankedWords": [
+													"parents"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We use 's and ' to say that someone or something __________ someone or something."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "B",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "RC - multiple choice",
+								"exerciseInstruction": "Choose the correct option to complete the rule.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": "Choose the correct option to complete the rule.",
+										"exerciseMinAnswer": null,
+										"exerciseMaxAnswer": null,
+										"exerciseAnswers": "belongs to",
+										"LKUs": [
+											"possessive"
+										],
+										"sentenceAnswerOptions": [
+											"belongs to",
+											"happens to"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Possessive 's"
+								],
+								"paragraphContents": [
+									"We use 's after singular nouns: Sheku is Braimah 's brother."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"We use ' after plural nouns ending in -s: His sisters ' names are Isata, Konya, Jeneba, Aminatu and Mariatu."
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "C",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the sentences again. Add 's or ' to complete the rules and examples",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"'s",
+											"'s",
+											"'",
+											","
+										],
+										"LKUs": [
+											"'s"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"sets": [
+							{
+								"setMarker": "D",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Add 's or ' in the correct place to complete the sentences.",
+								"wordBank": [
+									"'s",
+									"'s",
+									"'",
+									"'",
+									"'",
+									"'s"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"My mother's name is Kali."
+												],
+												"blankedWords": [
+													"'s"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"Luke's favorite instrument is the violin."
+												],
+												"blankedWords": [
+													"'s"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"My two cousins' house is in the city."
+												],
+												"blankedWords": [
+													"'"
+												]
+											},
+											{
+												"sentenceOrdinal": 4,
+												"sentences": [
+													"Alice's parents' names are Olive and Oscar."
+												],
+												"blankedWords": [
+													"'s"
+												]
+											},
+											{
+												"sentenceOrdinal": 5,
+												"sentences": [
+													"All of the musicians' instruments are in the next room."
+												],
+												"blankedWords": [
+													"'"
+												]
+											},
+											{
+												"sentenceOrdinal": 6,
+												"sentences": [
+													"Alberto is Carlos's brother."
+												],
+												"blankedWords": [
+													"'s"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"textMode": "full article",
+						"textContents": [
+							{
+								"paragraphOrdinal": 1,
+								"paragraphTitle": "WORK IT OUT",
+								"paragraphSubtitles": [
+									"Possessive 's, is and has"
+								],
+								"paragraphContents": [
+									"We also use 's as a short form of is or has."
+								]
+							},
+							{
+								"paragraphOrdinal": 2,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"His name's Sheku Kanneh-Mason. ( = his name is )."
+								]
+							},
+							{
+								"paragraphOrdinal": 3,
+								"paragraphTitle": null,
+								"paragraphSubtitles": null,
+								"paragraphContents": [
+									"He's done his homework. ( = he has )"
+								]
+							}
+						],
+						"sets": [
+							{
+								"setMarker": "E",
+								"setHeading": "WORK IT OUT",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "word bank",
+								"exerciseInstruction": "Read the information and choose the correct options.",
+								"exercises": [
+									{
+										"sentenceOrdinal": 1,
+										"paragraphOrdinal": 1,
+										"exerciseQuestion": null,
+										"exerciseMaxAnswer": null,
+										"exerciseMinAnswer": null,
+										"sentenceAnswerOptions": [
+											"is",
+											"has"
+										],
+										"LKUs": [
+											"'s"
+										],
+										"context": "textContents"
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"sets": [
+							{
+								"setMarker": "F",
+								"setHeading": "PRACTICE",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": false,
+								"exerciseType": "Grammar SB/without explanation",
+								"grammarHub": false,
+								"exerciseInstruction": "Choose the correct meaning of of 's in these sentences.",
+								"wordBank": [
+									"possessive ’s",
+									"has",
+									"is"
+								],
+								"exercises": [
+									{
+										"exerciseSentences": [
+											{
+												"sentenceOrdinal": 1,
+												"sentences": [
+													"Mark's my father. - is"
+												],
+												"blankedWords": [
+													"is"
+												]
+											},
+											{
+												"sentenceOrdinal": 2,
+												"sentences": [
+													"My father's name is Mark. - possessive 's"
+												],
+												"blankedWords": [
+													"possessive 's"
+												]
+											},
+											{
+												"sentenceOrdinal": 3,
+												"sentences": [
+													"Mark's gone to the store. - has"
+												],
+												"blankedWords": [
+													"has"
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"sets": [
+							{
+								"setMarker": "G",
+								"setHeading": null,
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": true,
+								"exerciseInstruction": "Go to the Grammar Hub on page 110.",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"sets": [
+							{
+								"setMarker": "H",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in pairs. Tell your partner about the following things …",
+								"exercises": null
+							}
+						]
+					},
+					{
+						"partTitle": "GRAMMAR",
+						"partImage": "",
+						"partSubTitle": "Possessive 's",
+						"sets": [
+							{
+								"setMarker": "I",
+								"setHeading": "SPEAK",
+								"setImage": null,
+								"setAudioNumber": null,
+								"setIgnore": true,
+								"exerciseType": null,
+								"grammarHub": false,
+								"exerciseInstruction": "Work in groups. Tell them about your partner. Use possessive 's.",
+								"exercises": null
+							}
+						]
+					}
+				]
+			}
+		]
+	}
 }
