@@ -1,0 +1,211 @@
+{
+	"sectionNumber": 10.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Wish lists",
+	"sectionObjective": "Talk about your wishes and regrets/Plan a to-do list.",
+	"GKU": "Language_Hub_B1plus_Unit10_Lesson10_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "reflexive verbs; staying organized"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "hopes and wishes"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "emphasis and reflexive pronouns"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "bridge sentences"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "The psychology of to-do lists",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"One day in the 1920s, a large group of psychologists were having a meal at their favorite restaurant. They were discussing the waiter's amazing memory: he always remembered everybody's orders perfectly, but he never wrote anything down. One of the psychologists, Bluma Zeigarnik, decided to try an experiment. She told everyone to cover their plates. Then she asked the waiter to come back to the table, and to try to remember what was on each plate. Amazingly, he couldn't remember anything, although he himself had put the plates on the table only a few minutes earlier.How was it possible that a man with such an amazing memory had forgotten everything a few minutes later?"
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Zeigarnik realized that there was in fact nothing special about the waiter. In fact, we're all good at remembering current tasks - things that we still need to do. But as soon as they're finished, we forget all about them. The Zeigarnik effect, as it's now called, is our brains' way of cleaning up and sorting information. If we had to remember everything forever, our brains would soon run out of space."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Is there anything we can do about this problem? Recent research suggests that we can reduce our stress levels by keeping a record of all our current tasks in a to-do list. This simple action tells our brains to stop worrying about the task, which means we can give our full attention to other tasks."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"To-do lists have three additional benefits. First, they help us to stay organized. Second, they are a useful record of what we've achieved and when. It can be highly motivating to look back at our past achievements - especially because the Zeigarnik effect usually makes us forget them. However, the best thing about to-do lists is the satisfying feeling you get when you cross each item off the list."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The key to successful to-do lists is to break large objectives into smaller action points. Instead of writing 'Learn to drive' on your list, focus on small and practical jobs that you can achieve very quickly, such as 'Find a list of driving schools in my city' and 'Read a website with reviews of different schools.' The smaller the tasks, the better. Dave Allen, a time-management expert, also recommends an archive to store all the things you might need and a system of 43 folders to schedule when to do each task."
+					]
+				},
+				{
+					"paragraphOrdinal": 9,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"If that sounds like too much hard work, think again. With a good system, life is much easier. You can relax and enjoy the rest of the day, happy in the knowledge that everything is under control."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"textImage": null,
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read The psychology of to-do lists. Match the headings (a–g) with the paragraphs (1–7).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for paragraph 1?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "An experiment over dinner",
+							"LKUs": [
+								"experiment"
+							],
+							"sentenceAnswerOptions": [
+								"Organization, motivation and satisfaction",
+								"The benefits of forgetting",
+								"Not as difficult as it sounds",
+								"An experiment over dinner"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for paragraph 2?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "The benefits of forgetting",
+							"LKUs": [
+								"forget"
+							],
+							"sentenceAnswerOptions": [
+								"Organization, motivation and satisfaction",
+								"The benefits of forgetting",
+								"Not as difficult as it sounds",
+								"An experiment over dinner"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for paragraph 4?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Using to-do lists to cut stress",
+							"LKUs": [
+								"to-do"
+							],
+							"sentenceAnswerOptions": [
+								"Organization, motivation and satisfaction",
+								"The benefits of forgetting",
+								"Using to-do lists to cut stress",
+								"An experiment over dinner"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for paragraph 6?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Keeping tasks small and simple",
+							"LKUs": [
+								"task"
+							],
+							"sentenceAnswerOptions": [
+								"Organization, motivation and satisfaction",
+								"Keeping tasks small and simple",
+								"Using to-do lists to cut stress",
+								"An experiment over dinner"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read the box about bridge sentences. What is the connection between bridge sentences and topic sentences (see Unit 8)? What’s the difference between them?"
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR KEY INFORMATION",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "highlight",
+					"exerciseInstruction": "Read the first sentence in each paragraph again. Which five are bridge sentences? Underline the words and phrases in the sentences that refer back to the previous paragraph. What exactly do they refer to?",
+					"exercises": []
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions."
+				}
+			]
+		}
+	]
+}

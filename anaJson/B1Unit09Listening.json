@@ -1,0 +1,449 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 9,
+      "chapterTitle": "MONEY",
+      "chapterQuote": "Money often costs too much. Ralph Waldo Emerson",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about attitudes toward money and about spending money",
+        "talk about philanthropy and charities",
+        "discuss your skills and how they could help others",
+        "go shopping for clothes and ask for a refund",
+        "write a ‘for sale’ advertisement"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 9.1,
+          "sectionTitle": "Spending Money",
+          "sectionObjectives": [
+            "Talk about attitudes toward money and about spending money"
+          ],
+          "GKU": "Language_Hub_B1_Unit9_Lesson9_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "prepositions in money phrases"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɑː/, /ʌ/ and /æ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "second conditional"
+            }
+          ],
+          "sectionPart": [],
+          "hasListening": false
+        },
+        {
+          "sectionNumber": 9.2,
+          "sectionTitle": "Getting and giving",
+          "sectionObjectives": [
+            "Talk about philanthropy and charities"
+          ],
+          "GKU": "Language_Hub_B1_Unit9_Lesson9_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "essential adjective clauses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/s/ and /z/"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "verbs connected with money"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Discuss the questions.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR KEY WORDS",
+                  "setImage": "",
+                  "setAudioNumber": 9.3,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U9.2_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Match the name of the philanthropist with the numbers from the recording.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "John D Rokefeller",
+                        "Andrew Carnegie",
+                        "Oprah Winfrey",
+                        "Bill and Melinds Gates and Warren Buffet"
+                      ],
+                      "columnB": [
+                        "$540 m, 1937",
+                        "$350m, 90 percent",
+                        "half a billion dollars",
+                        "tens of billions of dollars, 2010"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR KEY INFORMATION",
+                  "setImage": "",
+                  "setAudioNumber": 9.3,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U9.2_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Match the name of the philanthropist with what they did.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "John D Rokefeller",
+                        "Andrew Carnegie",
+                        "Oprah Winfrey",
+                        "Bill and Melinds Gates and Warren Buffet"
+                      ],
+                      "columnB": [
+                        "Gave away about $540 million. He died in 1937.",
+                        "Gave away $350m - 90% of his wealth.",
+                        "Money they have given away so far.",
+                        "Money given away. Giving Pledge set up in 2010."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "LISTEN FOR GIST",
+                  "setImage": "",
+                  "setAudioNumber": 9.4,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT2_AUD_U9.2_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the recording and choose the best explanation of the Giving Pledge.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The Giving Pledge asks people to give at least 50 per cent of their wealth to charity ..."
+                          ],
+                          "exerciseAnswers": "before they die",
+                          "exerciseOptions": [
+                            "when they die",
+                            "before they die",
+                            "in the next ten years"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "LISTEN FOR MAIN IDEA",
+                  "setImage": "",
+                  "setAudioNumber": 9.4,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT2_AUD_U9.2_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - true or false",
+                  "exerciseInstruction": "Listen again. Mark 'true' for all philanthropists who have joined the Giving Pledge. Mark 'false' for the ones who have not.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Mark Zuckerberg"
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Richard Branson"
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Ann Gloag"
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Carlos Slim"
+                          ],
+                          "exerciseAnswers": "false",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Sara Blakely"
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Li Ka-shing"
+                          ],
+                          "exerciseAnswers": "false",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "Meg Whitman"
+                          ],
+                          "exerciseAnswers": "false",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "Azim Premji"
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "F",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 9.4,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT2_AUD_U9.2_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again. Choose the philanthropist for whom each statement is true.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Has started a university"
+                          ],
+                          "exerciseAnswers": "Azim Premji",
+                          "exerciseOptions": [
+                            "Azim Premji",
+                            "Meg Whitman",
+                            "Sara Blakely",
+                            "Carlos Slim",
+                            "Li Ka-shing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Has given away a quarter of his or her wealth"
+                          ],
+                          "exerciseAnswers": "Azim Premji",
+                          "exerciseOptions": [
+                            "Azim Premji",
+                            "Meg Whitman",
+                            "Sara Blakely",
+                            "Carlos Slim",
+                            "Li Ka-shing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Would refuse to join the Giving Pledge if he or she was invited"
+                          ],
+                          "exerciseAnswers": "Meg Whitman",
+                          "exerciseOptions": [
+                            "Azim Premji",
+                            "Meg Whitman",
+                            "Sara Blakely",
+                            "Carlos Slim",
+                            "Li Ka-shing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Believes that there should be more women in powerful positions"
+                          ],
+                          "exerciseAnswers": "Sara Blakely",
+                          "exerciseOptions": [
+                            "Azim Premji",
+                            "Meg Whitman",
+                            "Sara Blakely",
+                            "Carlos Slim",
+                            "Li Ka-shing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Believes the best way to end poverty is through education and jobs"
+                          ],
+                          "exerciseAnswers": "Carlos Slim",
+                          "exerciseOptions": [
+                            "Azim Premji",
+                            "Meg Whitman",
+                            "Sara Blakely",
+                            "Carlos Slim",
+                            "Li Ka-shing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Is mostly concerned with education and health in his or her own country"
+                          ],
+                          "exerciseAnswers": "Li Ka-shing",
+                          "exerciseOptions": [
+                            "Azim Premji",
+                            "Meg Whitman",
+                            "Sara Blakely",
+                            "Carlos Slim",
+                            "Li Ka-shing"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 9.3,
+          "sectionTitle": "Who needs money?",
+          "sectionObjectives": [
+            "Discuss your skills and how they could help others"
+          ],
+          "GKU": "Language_Hub_B1_Unit9_Lesson9_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "make and do expressions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʒ/ and /dʒ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "gerunds"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "using context to guess unknown words"
+            }
+          ],
+          "sectionPart": [],
+          "hasListening": false
+        }
+      ]
+    }
+  ]
+}

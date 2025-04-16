@@ -1,0 +1,915 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 7,
+      "chapterTitle": "Mind",
+      "chapterQuote": "The greatest thing in life is to keep your mind young. Henry Ford ",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "discuss what makes you happy",
+        "write an online comment about the effects of the internet",
+        "talk about intelligence and achievements",
+        "describe an object and say what you use it for",
+        "write a survey report"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 7.1,
+          "sectionTitle": "Smile",
+          "sectionObjectives": [
+            "Discuss what makes you happy"
+          ],
+          "GKU": "Language_Hub_B1_Unit7_Lesson7_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "articles"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ə/ (schwa) in a / an"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "feelings"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Articles",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Articles",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from A smile a day … Then complete the rules with a/an, the or no article."
+                  ],
+                  "paragraphContents": [
+                    "The research also suggests that people who are happy are likely to live longer.",
+                    "Laughter is a short sound which is repeated, on average, five times a second.",
+                    "Smiling and laughing are also important for social relationships."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "Articles: Rules"
+                  ],
+                  "paragraphContents": [
+                    "We use a / an to refer to something indefinite when it is one of many. We usually use it when we refer to something for the first time."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use the to refer to something definite and which we know. This is usually because it has already been mentioned."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use no article to refer to a plural or uncountable noun or something in a general sense."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the sentences from A smile a day … Then complete the rules with a/an, the or no article.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "a",
+                        "an",
+                        "the",
+                        "no",
+                        "article"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Articles",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Articles",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "PRACTICE",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "There are two mistakes in each question. Rewrite the questions correctly.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "The smiley face is a famous image all over world. Why do you think an image is so successful and popular?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "The smiley face is a famous image all over the world. Why do you think the image is so successful and popular?"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "Do you own or have you ever owned anything with smiley face on it, such as the T-shirt? Where else do we see it?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Do you own or have you ever owned anything with a smiley face on it, such as a T-shirt? Where else do we see it?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "Do you use an emojis or icons in your online messaging? Do you have a favorite emoji? Are there the emojis for your country or culture?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Do you use emojis or icons in your online messaging? Do you have a favorite emoji? Are there emojis for your country or culture?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Articles",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Ask and answer the questions in Exercise C.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Articles",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct option.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The / A / – way you feel about life can affect your health."
+                          ],
+                          "exerciseAnswers": "The",
+                          "exerciseOptions": [
+                            "The",
+                            "A",
+                            "-"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I heard a great saying. The / A / – saying goes: ‘Smile and the world smiles with you’."
+                          ],
+                          "exerciseAnswers": "The",
+                          "exerciseOptions": [
+                            "The",
+                            "A",
+                            "-"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "George wasn’t in the / a / – very good mood this morning."
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "the",
+                            "a",
+                            "-"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "What did you have for the / a / – lunch today?"
+                          ],
+                          "exerciseAnswers": "-",
+                          "exerciseOptions": [
+                            "the",
+                            "a",
+                            "-"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "The / A / – research they did into the effects of laughter was very interesting."
+                          ],
+                          "exerciseAnswers": "The",
+                          "exerciseOptions": [
+                            "The",
+                            "A",
+                            "-"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Sarah put the / an / – angry face at the end of her text message."
+                          ],
+                          "exerciseAnswers": "an",
+                          "exerciseOptions": [
+                            "the",
+                            "an",
+                            "-"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "We usually have a lot of the / a / – fun at parties."
+                          ],
+                          "exerciseAnswers": "-",
+                          "exerciseOptions": [
+                            "the",
+                            "a",
+                            "-"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.2,
+          "sectionTitle": "The internet and the brain",
+          "sectionObjectives": [
+            "Write an online comment about the effects of the internet"
+          ],
+          "GKU": "Language_Hub_B1_Unit7_Lesson7_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "used to"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "used to"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "shortened words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "used to ",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "used to",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "I can spend hours online, and I suddenly realize it’s dark outside! I didn't use to be like that.",
+                    "However, they used to say the same thing about the radio and TV when they became popular.",
+                    "I used to know all my friends’ numbers. Now, I don’t know any."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Did you see …?",
+                  "paragraphSubtitles": [
+                    "The TV blog for the TV lover",
+                    "by Anna Frese"
+                  ],
+                  "paragraphContents": [
+                    "Show: Is the internet killing our brains?"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Did anyone see that TV show last night, Is the internet killing our brains? It was really interesting! First, it looked at the human memory in the 21st century and at how the internet is destroying our memory. This is because today most information is instantly available online and we don’t need to remember things. And it said that over time, this could have a negative effect on the brain’s memory system – a case of use it or lose it. The show then focused on how the human attention span is decreasing. It said that the brain is naturally easily distracted, and on the internet there is a lot of opportunity for this distraction. Evidence suggests that this is negatively affecting our attention spans and our ability to concentrate."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Finally, the show examined how the ‘likes’ and other positive comments and approval we receive on social media can be addictive. As a result, people are constantly trying to impress, and social network addiction is becoming a serious issue."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "What do you think? Add your comments below:",
+                  "paragraphSubtitles": [
+                    "Tom6"
+                  ],
+                  "paragraphContents": [
+                    "I don’t agree with all the points. But, as soon as I start using the net, I find myself looking at site after site. It’s very addictive. I can spend hours online and I suddenly realize it’s dark outside! I didn’t use to be like that. I really do think my attention span is decreasing because of the net. However, they used to say the same thing about the radio and TV when they became popular."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "JennyH"
+                  ],
+                  "paragraphContents": [
+                    "The Greek philosopher Socrates said that writing would destroy memory because we would not have to remember things. However, Einstein believed that remembering facts was not a good use of our brains or our time. He said we had books to do that for us. What’s different about the internet? Humans will adapt to it as they have in the past. I don’t see a problem."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "Sue123"
+                  ],
+                  "paragraphContents": [
+                    "I disagree with JennyH. I read somewhere that more than 70 percent of people don’t know important phone numbers. I used to know all my friends’ numbers. Now, I don’t know any. We rely on our devices and the internet too much. So I do think it’s killing our brains, and in a lot of ways, not just our memories."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the sentences from 'Did you see …?' Find the missing words and complete the sentences.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "didn't",
+                        "use",
+                        "to",
+                        "used",
+                        "to",
+                        "used",
+                        "to"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "used to",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "used to",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Complete the rule for 'used to'."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "We use used to to talk about past situations that do not exist now. The negative form is didn’t use to."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "• I used to work in a phone store.",
+                    "• She used to have long hair.",
+                    "• I didn’t use to like chatting online."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the rule for 'used to'",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "do",
+                        "not",
+                        "exist",
+                        "now"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "used to",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "used to",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "PRACTICE",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Write five sentences that are true for you with used to or didn’t use to. Use the verbs in the box or your own ideas.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "used to",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Discuss your answers to Exercise C.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "used to",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the sentences so that they are correct.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "I used working in a restaurant."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I used to work in a restaurant."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "Did you used to live here?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Did you use to live here?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "They didn’t used to be friends."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "They didn’t use to be friends."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "She use to study all the time."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "She used to study all the time."
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "We used live in Germany."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "We used to live in Germany."
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "He used surfing the internet for hours every day."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "He used to surf the internet for hours every day."
+                    },
+                    {
+                      "sentenceOrdinal": 7,
+                      "sentences": [
+                        "You used to being good at remembering names."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "You used to be good at remembering names."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.3,
+          "sectionTitle": "Intelligence",
+          "sectionObjectives": [
+            "Talk about intelligence and achievements"
+          ],
+          "GKU": "Language_Hub_B1_Unit7_Lesson7_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "phrasal verbs"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "no article (school, the school)"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "practicing the: /ðiː/ or /ðə/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for the order of events"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "No article (school, the school)",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "No article (school, the school)",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from the podcast. Then choose the correct words to complete the rules."
+                  ],
+                  "paragraphContents": [
+                    "Sometimes we use an article (a, the) with the words school, college, and prison. But sometimes we use no article."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "• He didn’t go to school.",
+                    "• News reporters followed him everywhere at the college.",
+                    "• At 11, he went to college to study math.",
+                    "• He didn’t go to prison and instead he spent a year in a hospital."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "When we are referring to the activity associated with the place (studying / being a student, being a prisoner) we use no article."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "When we are referring to the physical place, we use an article."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the sentences from the podcast. Then choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "no",
+                        "article",
+                        "an",
+                        "article"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "No article (school, the school)",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "No article (school, the school)",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "No article (school, the school)",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "Most people go to college at age 18 or 19. However, in 1981, at the age of just 12, Ruth Lawrence became the University of Oxford’s youngest ever student. She didn’t go to school and her father gave up his job to teach her at home. He also accompanied her everywhere at the college."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "Nelson Mandela was president of South Africa from 1994 to 1999. Before that, he spent 27 years in prison for crimes against the government. Eighteen years of this was in the prison on Robben Island, which is seven kilometers out in the ocean from Cape Town."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Choose the correct words to complete the texts. ",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "college",
+                        "school",
+                        "the college",
+                        "prison",
+                        "the prison"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "No article (school, the school)",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Close your books. Tell your partner a story from Exercise C.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "No article (school, the school)",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the words in the box. Use the definite article the if necessary.",
+                  "wordBank": [
+                    "college",
+                    "college",
+                    "prison",
+                    "school",
+                    "school"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I started studying math in college but I soon dropped out."
+                          ],
+                          "blankedWords": [
+                            "college"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "They brought the child up badly and he ended up in prison for robbery."
+                          ],
+                          "blankedWords": [
+                            "prison"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "The school next to my house is called Gregory’s. It’s for talented children."
+                          ],
+                          "blankedWords": [
+                            "school"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "It’s easy to make friends at school. I had lots as a kid."
+                          ],
+                          "blankedWords": [
+                            "school"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Anna also went to the college where I studied Law."
+                          ],
+                          "blankedWords": [
+                            "the",
+                            "college"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

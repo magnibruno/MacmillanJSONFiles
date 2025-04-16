@@ -1,0 +1,215 @@
+{
+	"sectionNumber": 7.2,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "The internet and the brain",
+	"sectionObjective": "Write an online comment about the effects of the internet",
+	"GKU": "Language_Hub_B1_Unit7_Lesson7_2",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "used to"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "used to"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "shortened words"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "one page sequence - match",
+					"exerciseInstruction": "Match definitions (1–4) with the words in the box.",
+					"exercises": [
+						{
+							"columnA": [
+								"addicted",
+								"attention span",
+								"distracted",
+								"memory"
+							],
+							"columnB": [
+								"enjoying a particular activity very much and spending as much time as you can doing it",
+								"the length of time that you can pay attention to one thing without becoming bored or thinking about something else",
+								"not able to concentrate on something",
+								"the ability to remember things"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Did you see...?",
+					"paragraphSubtitles": [
+						"The TV blog for the TV lover by Anna Frese"
+					],
+					"paragraphContents": [
+						"Show: Is the internet killing our brains?",
+						"Did anyone see that TV show last night? Is the internet killing our brains? It was really interesting. First, it looked at the human memory in the 21st century and at how the internet is destroying our memory. This is because today most information is instantly available online and we don't need to remember things. And it said that over time, this could have a negative effect on the brain's memory system - a case of use it or lose it. The show then focused on how the human attention span is decreasing. It said that the brain is naturally easily distracted, and on the internet there is a lot of opportunity for this distraction. Evidence suggests that this is negatively affecting our attention spans and our ability to concentrate."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Finally, the show examined how the likes' and other positive comments and approval we receive on social media can be addictive. As a result, people are constantly trying to impress, and social network addiction is becoming a serious issue."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "Work in pairs. Discuss the questions",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the questions.",
+					"exercises": null
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "highlight",
+					"exerciseInstruction": "Work in pairs. Look at the title of the show and think of three ways the internet could be killing or damaging our brains. Then read the blog and check your answers.",
+					"exercises": null
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read the comments. Match the comments with the person.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Who doesn’t think the internet is a negative thing?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "JennyH",
+							"LKUs": [
+								"internet",
+								"negative"
+							],
+							"sentenceAnswerOptions": [
+								"Tom6",
+								"JennyH",
+								"Sue123"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Who is losing the ability to concentrate on something for long periods?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Tom6",
+							"LKUs": [
+								"concentrate",
+								"ability"
+							],
+							"sentenceAnswerOptions": [
+								"Tom6",
+								"JennyH",
+								"Sue123"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "Who thinks the internet has many negative effects on people?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Sue123",
+							"LKUs": [
+								"effect",
+								"negative"
+							],
+							"sentenceAnswerOptions": [
+								"Tom6",
+								"JennyH",
+								"Sue123"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "Who can’t remember some things as well as in the past?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Sue123",
+							"LKUs": [
+								"past",
+								"remember"
+							],
+							"sentenceAnswerOptions": [
+								"Tom6",
+								"JennyH",
+								"Sue123"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "Who thinks it’s normal to change the way we use our memory?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "JennyH",
+							"LKUs": [
+								"way",
+								"memory"
+							],
+							"sentenceAnswerOptions": [
+								"Tom6",
+								"JennyH",
+								"Sue123"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. What does ‘use it or lose it’ mean? What other skills could ‘use it or lose it’ apply to?",
+					"exercises": null
+				}
+			]
+		}
+	]
+}

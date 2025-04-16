@@ -1,0 +1,871 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 6,
+      "chapterTitle": "Health",
+      "chapterQuote": "Health is not valued until sickness comes. Thomas Fuller ",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "give a presentation on health dos and don’ts",
+        "plan an exercise event for your local community",
+        "encourage people to make a lifestyle change",
+        "talk about your symptoms at a pharmacy",
+        "write a product review"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 6.1,
+          "sectionTitle": "Health myths",
+          "sectionObjectives": [
+            "Give a presentation on health dos and don’ts"
+          ],
+          "GKU": "Language_Hub_B1_Unit6_Lesson6_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "quantifiers too and enough"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "minor illnesses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʌ/, /ɔː/, /uː/, /eɪ/ and /ɜː/"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Quantifiers too and enough",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the correct words.",
+                  "wordBank": [
+                    "enough (x2)",
+                    "many",
+                    "too",
+                    "much"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "You drink too much coffee."
+                          ],
+                          "blankedWords": [
+                            "much"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "You don’t sleep enough."
+                          ],
+                          "blankedWords": [
+                            "enough"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "It’s because you go to bed too early."
+                          ],
+                          "blankedWords": [
+                            "too"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Make sure you are getting enough vitamins."
+                          ],
+                          "blankedWords": [
+                            "enough"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Too many eggs are bad for your heart."
+                          ],
+                          "blankedWords": [
+                            "give"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Quantifiers too and enough",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the sentences with the rules.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "You drink too much coffee",
+                        "Make sure you are getting enough vitamins.",
+                        "You don't sleep enough"
+                      ],
+                      "columnB": [
+                        "We use too + adjective or adverb, too much and too many to mean more than the right amount.",
+                        "We use enough to mean the right amount.",
+                        "We use not enough to mean less than the right amount."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Quantifiers too and enough",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Quantifiers too and enough",
+                  "paragraphSubtitles": [
+                    "Look at the sentences and complete the rules."
+                  ],
+                  "paragraphContents": [
+                    "You drink too much coffee.",
+                    "You don't sleep enough.",
+                    "It's because you go to bed too early.",
+                    "Make sure you are getting enough vitamins.",
+                    "Too many eggs are bad for your heart."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "too much and too many"
+                  ],
+                  "paragraphContents": [
+                    "We use too many with countable nouns.",
+                    "We use too much with uncountable nouns."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the pictures of Tom’s morning routine. Complete the phrases with the verbs in the box.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "too",
+                        "much",
+                        "too",
+                        "many"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Quantifiers too and enough",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Quantifiers too and enough",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "PRACTICE",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Complete the sentences so they are true for you.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Quantifiers too and enough",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Discuss your answers to Exercise D.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6.2,
+          "sectionTitle": "Keep fit",
+          "sectionObjectives": [
+            "Plan an exercise event for your local community"
+          ],
+          "GKU": "Language_Hub_B1_Unit6_Lesson6_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "exercise"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ŋ /, /n/ and /m/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "-ing forms"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "-ing forms",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "-ing forms",
+                  "paragraphSubtitles": [
+                    "Look at the examples of different -ing forms used in the texts. Then complete the rules with the correct words."
+                  ],
+                  "paragraphContents": [
+                    "Did you know that laughing for 15 minutes can burn up to 40 calories? (gerund)",
+                    "Are you looking for an easy way to stay in shape and lose weight? (present participle)",
+                    "What do you think it takes to become a running master? (adjective)"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "-ing forms: Rules"
+                  ],
+                  "paragraphContents": [
+                    "We use the present participle -ing form with the verb to be to talk about things that are happening now or around now.",
+                    "We use -ing form as adjectives to describe nouns.",
+                    "We use -ing form as gerunds to make nouns."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the examples of different -ing forms used in the texts. Then complete the rules with the correct words.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "present",
+                        "participle",
+                        "adjectives",
+                        "gerunds"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "-ing forms",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "-ing forms",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "-ing forms",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the sentences so that they are correct.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "We both enjoy go for walks."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "We both enjoy going for walks."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "To jog is my favorite form of exercise."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Jogging is my favorite form of exercise."
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "I’m watch a good TV show about superfoods."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I’m watching a good TV show about superfoods."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "She doesn’t like swim in the ocean."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "She doesn’t like swimming in the ocean."
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "Recently, there has been an increase number of accidents in the home."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Recently, there has been an increasing number of accidents in the home."
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "My nextdoor neighbor isn’t to do very well right now."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "My nextdoor neighbor isn’t doing very well right now."
+                    },
+                    {
+                      "sentenceOrdinal": 7,
+                      "sentences": [
+                        "A rise number of people can’t afford to buy medicine."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "A rising number of people can’t afford to buy medicine."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "-ing forms",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "SORT TU",
+                  "exerciseInstruction": "Put the words in order to make sentences.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "She doesn’t like being on her own."
+                      ],
+                      "wordBank": [
+                        "doesn't",
+                        "being",
+                        "her",
+                        "on",
+                        "like",
+                        "she",
+                        "own"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "We love visiting our family doctor."
+                      ],
+                      "wordBank": [
+                        "love",
+                        "doctor",
+                        "visiting",
+                        "we",
+                        "family",
+                        "our"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "There is now a growing interest in pilates."
+                      ],
+                      "wordBank": [
+                        "now",
+                        "growing",
+                        "in",
+                        "there",
+                        "is",
+                        "interest",
+                        "a",
+                        "pilates"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "We're studying food groups in health class."
+                      ],
+                      "wordBank": [
+                        "studying",
+                        "food",
+                        "we're",
+                        "health",
+                        "in",
+                        "class",
+                        "groups"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "My favorite free-time activity is cooking."
+                      ],
+                      "wordBank": [
+                        "my",
+                        "cooking",
+                        "free-time",
+                        "activity",
+                        "favorite",
+                        "is"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "People are now taking vitamins in increasing numbers."
+                      ],
+                      "wordBank": [
+                        "now",
+                        "people",
+                        "vitamins",
+                        "of",
+                        "taking",
+                        "increasing",
+                        "are",
+                        "numbers"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6.3,
+          "sectionTitle": "We may never ‘meat’ again",
+          "sectionObjectives": [
+            "Encourage people to make a lifestyle change"
+          ],
+          "GKU": "Language_Hub_B1_Unit6_Lesson6_3",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present perfect with just, already and yet"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "food groups"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/s/ and /ʃ/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "scanning for key words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect with just, already and yet",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Present perfect with just, already and yet",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from the comments section of 'A frest start'. Then complete the rules with just, already or yet."
+                  ],
+                  "paragraphContents": [
+                    "I’ve just changed to a vegetarian diet after years of eating meat.",
+                    "I’ve already eaten two sausages and a chicken sandwich today, and it's only lunchtime!",
+                    "I’ve been vegetarian for a while, but I haven’t managed to go vegan yet.",
+                    "Have you tried kale chips yet?"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "Present perfect with just, already and yet: Rules"
+                  ],
+                  "paragraphContents": [
+                    "We use the present perfect with just in positive statements to say something happened very recently."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use the present perfect with already in positive statements to say that something happened before now or earlier than expected."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use the present perfect with yet:",
+                    "• in negative statements to say that something hasn’t happened, but it still might.",
+                    "• in questions to ask if something has happened."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the sentences from the comments section of 'A frest start'. Then complete the rules with just, already or yet.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "just",
+                        "already",
+                        "yet"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect with just, already and yet",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Present perfect with just, already and yet",
+                  "paragraphSubtitles": [
+                    "Look again at the sentences from the comments section of 'A frest start'. Then choose the correct words to complete the rules."
+                  ],
+                  "paragraphContents": [
+                    "I’ve just changed to a vegetarian diet after years of eating meat.",
+                    "I’ve already eaten two sausages and a chicken sandwich today, and it's only lunchtime!",
+                    "I’ve been vegetarian for a while, but I haven’t managed to go vegan yet.",
+                    "Have you tried kale chips yet?"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Just comes before / after the past participle in a sentence.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "before",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "before",
+                        "after"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Already usually comes before / after the past participle in a sentence.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "before",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "before",
+                        "after"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Yet comes at the beginning / end of a sentence or question.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "end",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "beginning",
+                        "end"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect with just, already and yet",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect with just, already and yet",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Have you done any exercise today? Make true sentences with present perfect and just, already or yet.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect with just, already and yet",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Write just, already or yet.",
+                  "wordBank": [
+                    ""
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Have you had anything to eat yet?"
+                          ],
+                          "blankedWords": [
+                            "yet"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "He hasn’t asked her to work out with him yet."
+                          ],
+                          "blankedWords": [
+                            "yet"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I’ve run two marathons this year already."
+                          ],
+                          "blankedWords": [
+                            "already"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "She’s just finished her workout – she’s showering now."
+                          ],
+                          "blankedWords": [
+                            "just"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "It’s only 11 a.m., but Jack’s eaten his lunch already."
+                          ],
+                          "blankedWords": [
+                            "already"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

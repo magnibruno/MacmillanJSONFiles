@@ -1,0 +1,772 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 6,
+      "chapterTitle": "Sports and hobbies",
+      "chapterQuote": "You can discover more about a person in an hour of play than in a year of conversation. Richard Lingard",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "describe a sport or game",
+        "give a short, persuasive talk",
+        "talk about hobbies and free time activities",
+        "discuss trying new things",
+        "express your opinion",
+        "write an article for a magazine"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 6.1,
+          "sectionTitle": "Take part!",
+          "sectionObjectives": [
+            "Describe a sport or game",
+            "Give a short, persuasive talk"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit6_Lesson6_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "modals of obligation"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "adjectives ending in -ive; sports"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "rhythm: pausing"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for main and supporting points"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of obligation",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "vocabularyHub": false,
+                  "exerciseInstruction": "Look at the sentences from Competitive snowball fighting hits Scotland! Write nc (you have no choice, this is 100 percent necessary) or c (you have a choice, this is not necessary) next to each sentence.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "All players have to wear a protective helmet."
+                          ],
+                          "exerciseAnswers": "nc",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "You don’t have to be super athletic."
+                          ],
+                          "exerciseAnswers": "c",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "You should bring some warm gloves."
+                          ],
+                          "exerciseAnswers": "c",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "You shouldn’t just run for the flag."
+                          ],
+                          "exerciseAnswers": "c",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Each team must include male and female members."
+                          ],
+                          "exerciseAnswers": "nc",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "You must not make any more during the game."
+                          ],
+                          "exerciseAnswers": "nc",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "You shouldn’t feel nervous."
+                          ],
+                          "exerciseAnswers": "c",
+                          "exerciseOptions": [
+                            "nc",
+                            "c"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of obligation",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the beginnings of the rules with the endings.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "We use must / have to / need to",
+                        "We use must not when",
+                        "We use don’t have to when",
+                        "We use should / shouldn’t"
+                      ],
+                      "columnB": [
+                        "for rules and situations that are necessary (strong obligation).",
+                        "we describe something that is not allowed.",
+                        "we describe things that are not necessary, but you may still do them.",
+                        "to talk about what is or is not a good idea."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of obligation",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of obligation",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Compare the pairs of sports below. How are they similar and different? Think about their basic rules and the qualities of good players and successful teams.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of obligation",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "vocabularyHub": false,
+                  "exerciseInstruction": "Choose the correct option.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We don’t have to / must not be competitive to have fun playing sports."
+                          ],
+                          "exerciseAnswers": "don't have to",
+                          "exerciseOptions": [
+                            "don't have to",
+                            "must not"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "He must / doesn’t have to wear a helmet. It’s required."
+                          ],
+                          "exerciseAnswers": "must",
+                          "exerciseOptions": [
+                            "must",
+                            "doesn't have to"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I must / must not eat a massive meal before playing a sport."
+                          ],
+                          "exerciseAnswers": "must not",
+                          "exerciseOptions": [
+                            "must",
+                            "must not"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "They shouldn’t / don’t have to practice today because the coach isn’t going to be here."
+                          ],
+                          "exerciseAnswers": "don't have to",
+                          "exerciseOptions": [
+                            "shouldn't",
+                            "don't have to"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Do you have to / Must you train every day?"
+                          ],
+                          "exerciseAnswers": "Do you have to",
+                          "exerciseOptions": [
+                            "Do you have to",
+                            "Must you"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6.2,
+          "sectionTitle": "Hobbies",
+          "sectionObjectives": [
+            "Talk about hobbies and free time activities",
+            "Discuss trying new things"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit6_Lesson6_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "hobbies and free time activities"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present perfect progressive; had to / needed to"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "been: unstressed"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "identifying tone"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect progressive",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the sentences from the radio show and choose the correct answers.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which sentence describes a single action that continues up to now?"
+                          ],
+                          "exerciseAnswers": "We’ve been waiting here all day.",
+                          "exerciseOptions": [
+                            "He’s been doing it since his teens.",
+                            "We’ve been waiting here all day.",
+                            "For the last six months, I’ve been going to pottery classes."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "'He’s been doing it since his teens.' Is the main verb in this sentence a state or an action verb?"
+                          ],
+                          "exerciseAnswers": "action verb",
+                          "exerciseOptions": [
+                            "state verb",
+                            "action verb"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "'I’ve had this interest since I was a child.' Is the main verb in this sentence a state or an action verb? "
+                          ],
+                          "exerciseAnswers": "state verb",
+                          "exerciseOptions": [
+                            "state verb",
+                            "action verb"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "'I’ve been a member of his fan club for a long time.' Is the main verb in this sentence a state or an action verb?"
+                          ],
+                          "exerciseAnswers": "state verb",
+                          "exerciseOptions": [
+                            "state verb",
+                            "action verb"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Which sentence focuses on the fact that the action is completed?"
+                          ],
+                          "exerciseAnswers": "I’ve just bought an old Mini, so I’ll start working on that tomorrow.",
+                          "exerciseOptions": [
+                            "I’ve been working in the studio this afternoon – that’s why my hands are so dirty.",
+                            "I’ve just bought an old Mini, so I’ll start working on that tomorrow."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Which sentence focuses on the duration of the action?"
+                          ],
+                          "exerciseAnswers": "I’ve been working in the studio this afternoon – that’s why my hands are so dirty.",
+                          "exerciseOptions": [
+                            "I’ve been working in the studio this afternoon – that’s why my hands are so dirty.",
+                            "I’ve just bought an old Mini, so I’ll start working on that tomorrow."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect progressive",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the rules with the words in the word bank.",
+                  "wordBank": [
+                    "continuous",
+                    "long",
+                    "now",
+                    "past",
+                    "present",
+                    "repeated",
+                    "state"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We usually use the present perfect progressive to talk about an action that started in the past and is continuing now. The emphasis is on the unfinished activity."
+                          ],
+                          "blankedWords": [
+                            "past",
+                            "now"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "We also use it to talk about a past action that has just finished, but which has a present result."
+                          ],
+                          "blankedWords": [
+                            "present"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "We can use it to talk about continuous or frequently repeated actions."
+                          ],
+                          "blankedWords": [
+                            "continuous",
+                            "repeated"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "We do not use the present perfect progressive with state verbs."
+                          ],
+                          "blankedWords": [
+                            "state"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "We use the present perfect progressive to talk about how long something has been happening."
+                          ],
+                          "blankedWords": [
+                            "long"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect progressive",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect progressive",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "SPEAK Work in pairs. Student A – go to the Communication Hub on page 150. Student B – go to the Communication Hub on page 155.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "had to / needed to",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "had to / needed to",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from 'My six months of trying new things'. Then choose the correct words to complete the rules."
+                  ],
+                  "paragraphContents": [
+                    "I needed to take up a hobby.",
+                    "All I had to do was keep some flying insects in a box.",
+                    "I didn’t have to be in great shape.",
+                    "I didn’t need to spend a lot of time practicing before I started winning games."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "had to / needed to"
+                  ],
+                  "paragraphContents": [
+                    "We use had to and needed to when we talk about things that were necessary in the past."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use didn’t have to and didn’t need to when we talk about things that were not necessary but possible in the past."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the sentences from 'My six months of trying new things'. Then choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "past",
+                        "not",
+                        "necessary",
+                        "but",
+                        "possible"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "had to / needed to",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "had to / needed to",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Tell your partner:",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect and present perfect progressive",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I’ve never played / been playing racquetball before. Is it fun?"
+                          ],
+                          "exerciseAnswers": "played",
+                          "exerciseOptions": [
+                            "played",
+                            "been playing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Have you been watching / watched sports on TV all day?"
+                          ],
+                          "exerciseAnswers": "been watching",
+                          "exerciseOptions": [
+                            "been watching",
+                            "watched"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I’ve just finished / been finishing a really difficult exercise class."
+                          ],
+                          "exerciseAnswers": "finished",
+                          "exerciseOptions": [
+                            "finished",
+                            "been finishing"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Sorry about my appearance. I’ve run / been running."
+                          ],
+                          "exerciseAnswers": "been running",
+                          "exerciseOptions": [
+                            "run",
+                            "been running"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Do you think he’s understood / been understanding the rules yet?"
+                          ],
+                          "exerciseAnswers": "understood",
+                          "exerciseOptions": [
+                            "understood",
+                            "been understanding"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "had to / needed to",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the sentences correctly.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "He had to left the game because he broke his leg."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "He had to leave the game because he broke his leg."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "I must yell so the other players could hear me."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I had to yell so the other players could hear me."
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "You didn't need to yell. I couldn’t hear you on the field."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "You didn't need to yell. I could hear you on the field."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "I didn’t needed to tell my friend about the game."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I didn’t need to tell my friend about the game."
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "A: Why they didn’t have to buy a paddle? B: Because they already had one. "
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "A: Why didn’t they have to buy a paddle? B: Because they already had one."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

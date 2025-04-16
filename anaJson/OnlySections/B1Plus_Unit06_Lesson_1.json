@@ -1,0 +1,165 @@
+{
+	"sectionNumber": 6.1,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Take part!",
+	"sectionObjective": "Describe a sport or game",
+	"GKU": "Language_Hub_B1plus_Unit6_Lesson6_1",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "modals of obligation"
+		},
+		{
+			"skillType": "V",
+			"skillName": "vocabulary",
+			"skillTitle": "adjectives ending in -ive; sports"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "rhythm: pausing"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "main and supporting points"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "COMPETITIVE SNOWBALL FIGHTING HITS SCOTLAND!",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"If you think snowball fights are just for school kids, think again. Competitive snowball fighting (Yukigassen) is a sport for grown-ups that has just arrived in Scotland."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"It began as an official sport in Japan in 1987 and since then it has spread to countries such as Canada, Australia, Norway and Sweden. And this weekend sees the first ever matches in Scotland."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Angus Campbell, the captain of the Glasgow Ice Warriors, says, 'I think Yukigassen is going to be massive here. We have the snow and it's a fun and inexpensive sport that's attractive to everyone. Each match only lasts nine minutes, so you don't have to be super athletic to take part in a game.'"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The snowball fights take place on a small court (40 m x 10 m) between two teams of seven players - each team must include male and female members. To win a game, a team has to capture the other team's flag or take out all their opponents with direct snowball hits. If a player is hit, he or she has to leave the game."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The rules are fairly simple, but Angus insists that having an as a team, be decisive and keep calm when under pressure from your opponents. You shouldn't just run for the flag - you'll soon get hit and be out. You need to be more creative than that. Your team only has 90 snowballs, which the referee gives you before the game. You must not make any more during the game."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Six teams are taking part in the event this weekend, and there will be trial sessions for anyone who wants to try it out. It looks a little aggressive at first, but you shouldn't feel nervous. It's only snow, and all players have to wear a helmet, which we'll provide. However, you should bring some warm gloves!"
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"If you're interested in trying something active on these cold winter days, you simply must go. The games are impressive to watch, and great to play. After all, what's more fun than playing in the snow?"
+					]
+				},
+				{
+					"paragraphOrdinal": 8,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The first game starts at 2 pm, on Saturday, in the city park. Entrance is free. Families are welcome."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Write down the names of the different sports you know in pictures 1–4. Then check with another student. What do you know about these sports? Tell your partner."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": null,
+					"exerciseInstruction": "Read Competitive snowball fighting hits Scotland! Where do you think the article comes from?",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Read Competitive snowball fighting hits Scotland! Where do you think the article comes from?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "a local news and information website",
+							"LKUs": [
+								"local",
+								"news"
+							],
+							"sentenceAnswerOptions": [
+								"a national newspaper",
+								"a sports science academic journal",
+								"a local news and information website",
+								"a travel blog"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": null,
+					"exercises": []
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. What is your opinion of Yukigassen? Would you like to play it?"
+				}
+			]
+		}
+	]
+}

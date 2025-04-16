@@ -1,0 +1,516 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 3,
+      "chapterTitle": "TRAVEL",
+      "chapterQuote": "To travel is to live. Hans Christian Andersen",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about journeys and transportation",
+        "tell a story about a journey",
+        "talk about the kind of vacations you like",
+        "ask for travel information and check understanding",
+        "write an email about a travel experience"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 3.1,
+          "sectionTitle": "The four-year journey",
+          "sectionObjectives": [
+            "Talk about journeys and transportation"
+          ],
+          "GKU": "Language_Hub_B1_Unit3_Lesson3_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "types of transportation"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/p/, /b/, /v/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "all / some / most / no / none"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/p/, /b/, /v/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 3.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U3.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "plane, boat, visa"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/p/, /b/, /v/",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 3.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U3.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Choose the correct answer for each question.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which words belong in the /p/ category?"
+                          ],
+                          "exerciseAnswers": "pay, park, passenger, passport",
+                          "exerciseOptions": [
+                            "pay, park, passenger, passport",
+                            "bus, bank, bike",
+                            "van, visit, very"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which words belong in the /b/ category?"
+                          ],
+                          "exerciseAnswers": "bus, bank, bike",
+                          "exerciseOptions": [
+                            "pay, park, passenger, passport",
+                            "bus, bank, bike",
+                            "van, visit, very"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Which words belong in the /v/ category?"
+                          ],
+                          "exerciseAnswers": "van, visit, very",
+                          "exerciseOptions": [
+                            "pay, park, passenger, passport",
+                            "bus, bank, bike",
+                            "van, visit, very"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/p/, /b/, /v/",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "pay, park, passenger, passport"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "bus, bank, bike"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "van, visit, very"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3.2,
+          "sectionTitle": "Lost at sea",
+          "sectionObjectives": [
+            "Tell a story about a journey"
+          ],
+          "GKU": "Language_Hub_B1_Unit3_Lesson3_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "past progressive and simple past"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "was and were with past progressive"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "prefixes"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "was and were with past progressive",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 3.5,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U3.2_002",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the sentences.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "We were biking to the beach when I fell off my bike."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "I was swimming in the ocean when I lost my car keys."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "was and were with past progressive",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 3.5,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U3.2_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen and write what you notice about the use of 'was' and 'were.'",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which of the following is used with singular subjects?"
+                          ],
+                          "exerciseAnswers": "was",
+                          "exerciseOptions": [
+                            "was",
+                            "were"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which of the following is used with plural subjects?"
+                          ],
+                          "exerciseAnswers": "were",
+                          "exerciseOptions": [
+                            "was",
+                            "were"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "was and were with past progressive",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct word to complete the rules.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We usually use weak / strong pronunciation of was and were in positive sentences."
+                          ],
+                          "exerciseAnswers": "weak",
+                          "exerciseOptions": [
+                            "weak",
+                            "strong"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "We do this because we stress / don’t stress the main verb."
+                          ],
+                          "exerciseAnswers": "stress",
+                          "exerciseOptions": [
+                            "stress",
+                            "don't stress"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "was and were with past progressive",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Find out what your partner was doing at these times.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3.3,
+          "sectionTitle": "Too good to be true",
+          "sectionObjectives": [
+            "Talk about the kind of vacations you like"
+          ],
+          "GKU": "Language_Hub_B1_Unit3_Lesson3_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "accommodations and amenities"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʃ/, /tʃ/ and /dʒ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "verb + -ing and to + base form"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "identifying tone"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ʃ/, /tʃ/ and /dʒ/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 3.6,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U3.3_001",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "chalet, choose, budget"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ʃ/, /tʃ/ and /dʒ/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 3.6,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U3.3_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen and choose the correct word to complete the sentence.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Listen to the sounds. Are they the same or different?"
+                          ],
+                          "exerciseAnswers": "different",
+                          "exerciseOptions": [
+                            "same",
+                            "different"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ʃ/, /tʃ/ and /dʒ/",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 3.7,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U3.3_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Choose which words belong in each category.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which of the following words contain the 'sh' sound as in 'shoe'?"
+                          ],
+                          "exerciseAnswers": "ship, shout, show",
+                          "exerciseOptions": [
+                            "ship, shout, show",
+                            "beach, picture",
+                            "adjective, language, geuine, manage"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which of the following words have the same 'tch' sound as in 'teacher'?"
+                          ],
+                          "exerciseAnswers": "beach, picture",
+                          "exerciseOptions": [
+                            "ship, shout, show",
+                            "beach, picture",
+                            "adjective, language, geuine, manage"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Which of the following words contain the 'j' sound, as in 'jump' or 'bridge'?"
+                          ],
+                          "exerciseAnswers": "adjective, language, genuine, manage",
+                          "exerciseOptions": [
+                            "ship, shout, show",
+                            "beach, picture",
+                            "adjective, language, geuine, manage"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ʃ/, /tʃ/ and /dʒ/",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practice saying the words. Listen and check your partner’s pronunciation.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+	"sectionNumber": 10.1,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Making up your mind",
+	"sectionObjective": "Talk about different versions of past events/Talk about past mistakes",
+	"GKU": "Language_Hub_B1plus_Unit10_Lesson10_1",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "psychology verbs; expressions with mind"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "third conditional; should have + past participle"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "third conditional"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "listening for phrases that support an argument"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "DO YOU THINK YOU THINK RATIONALLY? THINK AGAIN!",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"For centuries, psychologists assumed that people think rationally and make decisions based on facts. But we're actually much less rational than we think."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "HOOK NUMBERS",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Look again at the quiz. Question 1a is clearly nonsense: of course we have more than 70 thoughts per day! So it shouldn't affect our answers to question 1b. But for most people, the number 70 acts as a hook. It encourages us to think of a number that isn't too far from 70. But if the hook number had been much higher, say 70 million, it would have made us think of a number in the millions. And if we hadn't seen a hook at all, we might have chosen a more likely answer: around 70,000 thoughts per day."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Sales people use hook numbers to persuade us to spend much more than we should, for example, by tricking us into believing a watch must be worth thousands of dollars."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "BURIED COSTS",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"A buried cost is time, money or effort that we've already spent and can't get back. It would be rational to ignore buried costs when making decisions; they're gone, so we should forget about them. But for most of us, waste feels like physical pain, and we usually spend even more time, money and effort trying to avoid that pain."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Look back at question 2 in the quiz. The money you’ve spent is gone. Instead of regretting the past, we should forget it and focus on the future. When you’re sick, you should stay home and get better."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "FILTERING",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"In question 3 from the quiz, were you tempted by School A? That 75 percent pass rate sounds great, doesn't it? What about School B, with all those failures? No, thanks! Of course, your rational side knows that School B is better - a 20 percent failure rate means there's an 80 percent pass rate. But we can't help being influenced by words like pass and fail."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"We're strongly attracted to positive words like success, save and free. But negative words are even more powerful. We hate losing, wasting or missing things. So if you see an ad that warns, 'Don't miss your last chance to save,' remember that someone is trying to trick our irrational minds."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Go the Communication Hub on page 150."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read Do you think you think rationally? Think again! What is the connection between the three sub-headings and pictures 1–3 above?"
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "",
+					"exerciseInstruction": "Read again. Are the sentences true (T) or false (F)? Correct the false sentences.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "New research has shown that we're good at making rational decisions.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "False",
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"LKUs": [
+								"rational",
+								"decision"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "After we've thought about a hook number, it's easy to think of a number that's a long way from that hook.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "False",
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"LKUs": [
+								"hook",
+								"think"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "We would probably make better decisions if we ignored hook numbers.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "True",
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"LKUs": [
+								"hook",
+								"decision"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "If we were more rational, we would worry more about buried costs.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "False",
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"LKUs": [
+								"rational",
+								"cost"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "In the example about the weekend break, the money you've spent on the hotel and travel is a buried cost.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "True",
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"LKUs": [
+								"cost"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"exerciseQuestion": "Filtering involves presenting a situation in a way that makes it sound better (or worse) than it really is.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "True",
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"LKUs": [
+								"filter"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Can you think of any examples of hook numbers, buried costs or filtering from your own life? Tell your partner."
+				}
+			]
+		}
+	]
+}

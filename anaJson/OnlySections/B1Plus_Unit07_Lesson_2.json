@@ -1,0 +1,344 @@
+{
+	"sectionNumber": 7.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Food fads",
+	"sectionObjective": "Compare different types of food",
+	"GKU": "Language_Hub_B1plus_Unit7_Lesson7_2",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "comparatives and superlatives; the …, the …"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "waste"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "vowel + w"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "identifying people's opinions"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "FOOD FADS",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Hi again! This week, I've decided to look at one of the biggest food fads of the 21st century: superfoods. Let's try to sort the facts from the fiction!"
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Goji berries are another great source of plant-based protein. These sweet berries have been used in China for centuries as a way to protect against illness. They contain less sugar than other fruits, so they're one of the healthiest snacks around. Unfortunately, they can be dangerous for some people, so always check with your doctor before eating them."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Quinoa has a long history as a superfood: it was known to the ancient Incas as 'the mother of all grains' because it was so healthy. Even today it's recommended by NASA as the perfect food for long space flights. Like all whole grains, it can help your body fight a variety of diseases, and it contains lots of vitamins, minerals and fiber. It's also one of the best sources of protein, so it's perfect for vegetarians and vegans, too. Amazing!"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Acai berries are perhaps the most successful superfoods of all: not long ago, they were unknown outside of Brazil. Now, acai products are big business. Why are they so popular? Well, some people believe these berries will help them to grow old more slowly... or even to live longer. Like goji berries, they're full of chemicals which seem to protect our hearts and our brains. Sounds good, right?"
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Chia seeds are known as the healthiest food on the planet. The name 'chia' comes from the ancient Mayan word for strength. Out of all the foods in the world, chia seeds contain some of the most nutrients for the fewest calories. They're also one of the best sources of fiber, which is great for your digestive system. Even better, they make you feel full... so you'll eat fewer snacks!"
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"But before you all rush out to buy superfoods from your local health food store, remember that superfoods are usually super expensive, too! And do you know what? Strawberries are probably just as good for you as goji berries and acai berries. Similarly, quinoa and chia seeds are great because they're whole grains. But you can get all that fiber far more cheaply by eating plenty of brown bread, brown rice and whole grain pasta. And what's the best superfood of all? Broccoli! It's cheap, tasty and incredibly good for you. It isn't as exciting as quinoa, but it's a lot less expensive!"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read the definition of fad. Then work in pairs and discuss the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Can you think of any current food fads?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": [
+								"food fad"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Which foods are fashionable now?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": [
+								"fashionable"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "Which older food fads have gone out of fashion?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": [
+								"fashionable"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read Food fads quickly. What is the writer’s opinion about superfoods?",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "What is the writer’s opinion about superfoods?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "You don’t need to spend a lot of money to buy some superfoods.",
+							"sentenceAnswerOptions": [
+								"They’re just a fad – they aren’t really very good for you.",
+								"Expensive superfoods are much healthier than cheaper food.",
+								"You don’t need to spend a lot of money to buy some superfoods.",
+								"Most superfoods are actually bad for your health."
+							],
+							"LKUs": [
+								"superfood"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR SPECIFIC INFORMATION",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Write A (acai berries), B (broccoli), C (chia seeds), G (goji berries) or Q (quinoa).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood isn't only eaten on our planet?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "quinoa",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"quinoa"
+							],
+							"LKUs": [
+								"quinoa"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood is much cheaper than other superfoods?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "broccoli",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"quinoa"
+							],
+							"LKUs": [
+								"broccoli"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood might help you stay younger for longer?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "açaí berries",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"quinoa"
+							],
+							"LKUs": [
+								"açaí"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood can help you digest your food more effectively?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "chia seeds",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"quinoa"
+							],
+							"LKUs": [
+								"chia"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood might not be safe for everybody?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "goji berries",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"goji berries"
+							],
+							"LKUs": [
+								"berry"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood has become popular very quickly?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "açaí berries",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"goji berries"
+							],
+							"LKUs": [
+								"açaí"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 7,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which superfood helps you to eat less food between meals?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "chia seeds",
+							"sentenceAnswerOptions": [
+								"açaí berries",
+								"broccoli",
+								"chia seeds",
+								"goji berries"
+							],
+							"LKUs": [
+								"seed"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. Discuss the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Do you think it's worth paying more money for superfoods? Why/Why not?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": [
+								"superfood"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Do you think it is more important for you to eat healthy food or tasty food? Why?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": [
+								"healthy"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "What are some simple ways that we can eat more healthily?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": [
+								"healthy"
+							],
+							"context": "textContents"
+						}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,296 @@
+{
+	"sectionNumber": 5.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "In business",
+	"sectionObjective": "Describe and evaluate a small business",
+	"GKU": "Language_Hub_B1plus_Unit5_Lesson5_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "business collocations"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "silent consonants"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "the passive voice"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "environmental business ideas"
+		},
+		{
+			"skillType": "L",
+			"skillName": "Listening",
+			"skillTitle": "listening for examples"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "The new bottled water?",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"At Business Business, we are always looking for the next bottled water, and we think we have found it - bottled air."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Businessman Leo de Watts is selling jars of fresh air from the British countryside to the residents of polluted cities around the world. He claims Britain has 'designer quality fresh air, and he sells Aethaer as a luxury product. Each jar costs a breathtaking $95."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The business was launched two months ago. Orders can be made online only, and already 200 jars have been delivered to China. Not many small businesses achieve sales of $16,000 in their first months, and none have a product that is so cheap to produce. With plans to start marketing Aethaer in India, Watts could be made a millionaire by selling almost nothing, nothing but air."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Air-farming' is incredibly easy. The air is collected from different places in the countryside, from the seaside to the mountains, from the green hills to the forests. The glass jars are held high in the air, and are closed after a few minutes. That's it - the simplest production process ever. Next, a label saying where the air comes from is put on the jar. Then, after they have been packed for delivery, they are sent overseas. Job done."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"There are currently 15 different 'airs' in the product range. Watts claims that each one has different qualities depending on where they were collected. While some customers do buy the air to inhale, many people buy the jars as gifts that will be kept and won't be opened. Aethaer air is sold as a luxury item for wealthy people, but other new businesses have started selling cans of compressed air for everyday or sports use. Each can contains 200 breaths of air, and they come with a face mask for efficient and easy use."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"People laughed when bottled water was first sold in convenience stores, but now everyone buys it. With urban air pollution increasing, it may not be long until you buy a can of clean air as well as a bottle of water every day."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "How much extra do you think you pay when you buy these products? Match the products (1–3) with the percentages in the box. There are two extra percentages. Then work in pairs and compare your answers."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions."
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "PREDICT",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "You are going to read an article about a new company, Aethaer. Before you read, answer the questions below. Then work in pairs and compare your answers."
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "You are going to read an article about a new company, Aethaer. Before you read, answer the questions below. Then work in pairs and compare your answers."
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Complete each sentence with a word or phrase from the article.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Aethaer’s customers usually live in",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "polluted cities",
+							"LKUs": [
+								"polluted"
+							],
+							"sentenceAnswerOptions": [
+								"two months ago",
+								"luxury product",
+								"polluted cities",
+								"online"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Aethaer air costs £95 per jar because it is a",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "luxury product",
+							"LKUs": [
+								"luxury"
+							],
+							"sentenceAnswerOptions": [
+								"two months ago",
+								"luxury product",
+								"polluted cities",
+								"online"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Leo de Watts started the business",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "two months ago",
+							"LKUs": [
+								"month"
+							],
+							"sentenceAnswerOptions": [
+								"two months ago",
+								"luxury product",
+								"polluted cities",
+								"online"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "If you want some Aethaer air, you must buy it",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "online",
+							"LKUs": [
+								"online"
+							],
+							"sentenceAnswerOptions": [
+								"two months ago",
+								"luxury product",
+								"polluted cities",
+								"online"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "There aren’t any other businesses with such _____ production costs.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "cheap",
+							"LKUs": [
+								"cheap"
+							],
+							"sentenceAnswerOptions": [
+								"incredibly easy",
+								"a millionaire",
+								"cheap",
+								"a label"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "He may become _____ in the future.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "a millionaire",
+							"LKUs": [
+								"millionaire"
+							],
+							"sentenceAnswerOptions": [
+								"incredibly easy",
+								"a millionaire",
+								"cheap",
+								"a label"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 7,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Collecting the air is _____ to do.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "incredibly easy",
+							"LKUs": [
+								"easy"
+							],
+							"sentenceAnswerOptions": [
+								"incredibly easy",
+								"a millionaire",
+								"cheap",
+								"a label"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 8,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Before he puts the jars in boxes, Leo adds _____ to each jar.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "a label",
+							"LKUs": [
+								"label"
+							],
+							"sentenceAnswerOptions": [
+								"incredibly easy",
+								"a millionaire",
+								"cheap",
+								"a label"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "F",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions."
+				}
+			]
+		}
+	]
+}

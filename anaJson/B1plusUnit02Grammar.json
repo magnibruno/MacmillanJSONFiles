@@ -1,0 +1,622 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 2,
+      "chapterTitle": "Experiences",
+      "chapterQuote": "Nothing is a waste of time if you use the experience wisely. Auguste Rodin",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about past experiences and things you want to do",
+        "talk about a life-changing decision",
+        "talk about an inspirational person",
+        "talk about solving a problem",
+        "ask for, give and refuse permission",
+        "write an informal email"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 2.1,
+          "sectionTitle": "Important decisions",
+          "sectionObjectives": [
+            "Talk about past experiences and things you want to do",
+            "Talk about a life-changing decision"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit2_Lesson2_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present perfect and simple past"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "’s and ’ve"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "collocations: making big decisions"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for the main idea"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect and simple past",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the sentences from 'Not yet? No More!'. Which sentences are written in the simple past? Which sentences are written in the present perfect?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I wrote mine on New Year’s Day five years ago."
+                          ],
+                          "exerciseAnswers": "simple past",
+                          "exerciseOptions": [
+                            "simple past",
+                            "present perfect"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I’ve only done one thing on that list."
+                          ],
+                          "exerciseAnswers": "present perfect",
+                          "exerciseOptions": [
+                            "simple past",
+                            "present perfect"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "This year, I’ve seen lions in the wild."
+                          ],
+                          "exerciseAnswers": "present perfect",
+                          "exerciseOptions": [
+                            "simple past",
+                            "present perfect"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Last year, I watched the sun rise and set on the same day."
+                          ],
+                          "exerciseAnswers": "simple past",
+                          "exerciseOptions": [
+                            "simple past",
+                            "present perfect"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "mm_LH_B1_plus_U2_1_GR",
+              "partSubTitle": "Present perfect and simple past",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match each sentence with the correct diagram (a,b,c or d).",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "I wrote mine on New Year’s Day five years ago.",
+                        "I’ve only done one thing on that list.",
+                        "This year, I’ve seen lions in the wild.",
+                        "Last year, I watched the sun rise and set on the same day."
+                      ],
+                      "columnB": [
+                        "b",
+                        "a",
+                        "d",
+                        "c"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect and simple past",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the adverbs of time with the definitions.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "already",
+                        "just",
+                        "never",
+                        "not yet",
+                        "still"
+                      ],
+                      "columnB": [
+                        "happened before a point in time, perhaps sooner than expected",
+                        "a short time ago",
+                        "at no time in the past",
+                        "not happened before now, but will probably happen",
+                        "a situation has not changed or not completely ended"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect and simple past",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Complete the rules with present perfect or simple past.",
+                  "paragraphSubtitles": [
+                    "Present perfect and simple past."
+                  ],
+                  "paragraphContents": [
+                    "For actions we completed:"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "during a finished period of time, we use the simple past."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "during a period of time that continues to now, we use the present perfect."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "at a specific time in the past, we use the simple past."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "before now, but we do not say exactly when, we use the present perfect."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We frequently use adverbs of time with these tenses, but we do not use yet and already with actions in the simple past."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the rules with present perfect or simple past.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "simple",
+                        "past",
+                        "present",
+                        "perfect"
+                      ],
+                      "LKUs": [
+                        "simple past",
+                        "present perfect"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present perfect and simple past",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 124.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2.2,
+          "sectionTitle": "You can do it!",
+          "sectionObjectives": [
+            "Talk about an inspirational person",
+            "Talk about solving a problem"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit2_Lesson2_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "dependent prepositions; problems and solutions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress: verbs with two syllables"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present and past ability"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "deducing the meaning of unknown words from context"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present and past ability",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the sentences. Write a if they are about having (or not having) a general ability or skill in the past. Write b if they are about doing something (or not doing something) on a particular occasion in the past.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I was able to speak very basic Chinese."
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I managed to cook them a very tasty meal."
+                          ],
+                          "exerciseAnswers": "b",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I was able to complete the speech."
+                          ],
+                          "exerciseAnswers": "b",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I couldn’t boil an egg."
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "I could make a salad."
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "The first time, I didn’t manage to make anything."
+                          ],
+                          "exerciseAnswers": "b",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "I wasn’t able to swim."
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "I wasn’t able to stop my hands shaking."
+                          ],
+                          "exerciseAnswers": "b",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "I couldn’t say no to him."
+                          ],
+                          "exerciseAnswers": "b",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present and past ability",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "When we talk about ability or skills in general in the present, we use / do not use can/can’t or (not) be able to."
+                          ],
+                          "exerciseAnswers": "use",
+                          "exerciseOptions": [
+                            "use",
+                            "do not use"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "When we talk about ability or skills in general in the past, we use / do not use could, couldn’t or (not) be able to."
+                          ],
+                          "exerciseAnswers": "use",
+                          "exerciseOptions": [
+                            "use",
+                            "do not use"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "When we talk about ability to do a specific task on a particular occasion in the past, we use / do not use (not)manage to, (not) be able to or couldn’t. We do not usually use could."
+                          ],
+                          "exerciseAnswers": "use",
+                          "exerciseOptions": [
+                            "use",
+                            "do not use"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present and past ability",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 124.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present and past ability",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Play True or false? Follow the instructions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Present and past ability",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the words in the word bank.",
+                  "wordBank": [
+                    "can",
+                    "could",
+                    "couldn't",
+                    "manage",
+                    "managed",
+                    "wasn't"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "She didn’t manage to make it to the interview on time."
+                          ],
+                          "blankedWords": [
+                            "manage"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Amazingly, Diego could read when he was two and a half years old."
+                          ],
+                          "blankedWords": [
+                            "could"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "They managed to find a solution to the complicated problem."
+                          ],
+                          "blankedWords": [
+                            "managed"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "We were discussing something important, so I wasn't able to answer my phone."
+                          ],
+                          "blankedWords": [
+                            "wasn't"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Francisco couldn't stop his hands from shaking because he was so nervous."
+                          ],
+                          "blankedWords": [
+                            "couldn't"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Michela is amazing because she can work three jobs and not be tired."
+                          ],
+                          "blankedWords": [
+                            "can"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

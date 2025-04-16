@@ -1,0 +1,565 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 1,
+      "chapterTitle": "Communication",
+      "chapterQuote": "Wise men speak because they have something to say; fools because they have to say something. Plato",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "update your status on social media",
+        "make a short podcast",
+        "plan and conduct an interview",
+        "use rhetorical questions in a presentation",
+        "ask for, offer and respond to help",
+        "write a report about trends"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 1.1,
+          "sectionTitle": "Communication today",
+          "sectionObjectives": [
+            "Update your status on social media",
+            "Make a short podcast"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit1_Lesson1_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "simple present and present progressive"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "seeing and hearing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "schwa /ə/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening to check predictions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Seeing and hearing",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 1.6,
+                  "audioNumberOrdinal": "006",
+                  "setAudio": "ALH_TAT3_AUD_U1.1_006",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Choose the correct verbs to complete the sentences from 'A week without phones!'",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "In this week’s podcast, we’re ___ phones."
+                          ],
+                          "exerciseAnswers": "looking at",
+                          "exerciseOptions": [
+                            "looking at",
+                            "seeing",
+                            "watching"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "It ___ like he isn’t coming, and I’m not sure what to do."
+                          ],
+                          "exerciseAnswers": "looks",
+                          "exerciseOptions": [
+                            "looks",
+                            "sees",
+                            "watches"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Yeah, that ___ like a great idea. Thanks a lot"
+                          ],
+                          "exerciseAnswers": "sounds",
+                          "exerciseOptions": [
+                            "hears",
+                            "listens",
+                            "sounds"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Maybe you can ___ the music in the background."
+                          ],
+                          "exerciseAnswers": "hear",
+                          "exerciseOptions": [
+                            "hear",
+                            "listen to",
+                            "sound"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "He plays the guitar in the band, and he ___ really good."
+                          ],
+                          "exerciseAnswers": "sounds",
+                          "exerciseOptions": [
+                            "hears",
+                            "listens",
+                            "sounds"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "It doesn’t ___ great, but it’s good for telling the time!"
+                          ],
+                          "exerciseAnswers": "look",
+                          "exerciseOptions": [
+                            "look",
+                            "see",
+                            "watch"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Seeing and hearing",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the rules with the correct form of hear, listen, look, see, sound or watch.",
+                  "wordBank": [
+                    "hear",
+                    "listen",
+                    "look",
+                    "see",
+                    "sound",
+                    "watch"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "When you see or hear something, it just happens, not because you’re trying to do it."
+                          ],
+                          "blankedWords": [
+                            "see",
+                            "hear"
+                          ],
+                          "hints": [
+                            "s",
+                            "h"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "When you look at or listen to something, you do it because you decide to do it."
+                          ],
+                          "blankedWords": [
+                            "look",
+                            "listen"
+                          ],
+                          "hints": [
+                            "lo",
+                            "li"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "When you watch something, you look at it for a period of time, perhaps because it’s moving."
+                          ],
+                          "blankedWords": [
+                            "watch"
+                          ],
+                          "hints": [
+                            "w"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "When something looks good or sounds good, it probably is good, but you aren’t sure."
+                          ],
+                          "blankedWords": [
+                            "looks",
+                            "sounds"
+                          ],
+                          "hints": [
+                            "l",
+                            "s"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "When it looks like or sounds like something is happening, it probably is happening, but you aren’t sure."
+                          ],
+                          "blankedWords": [
+                            "looks",
+                            "sounds"
+                          ],
+                          "hints": [
+                            "l",
+                            "s"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Seeing and hearing",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 142.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Seeing and hearing",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the questions with the verbs in the box. There are two extra verbs.",
+                  "wordBank": [
+                    "notice",
+                    "observe",
+                    "recognize",
+                    "spot",
+                    "stare"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Do you ever sit in a café and observe the people through the window? Why do people enjoy doing this?"
+                          ],
+                          "blankedWords": [
+                            "observe"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Are you good at remembering people’s faces? Do you always recognize people when you meet them the second time?"
+                          ],
+                          "blankedWords": [
+                            "recognize"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "When you’re traveling around (e.g. by bus), do you usually notice the buildings around you?"
+                          ],
+                          "blankedWords": [
+                            "notice"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Seeing and hearing",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in groups. Ask and answer the questions in Exercise D.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 1.2,
+          "sectionTitle": "Who owns English?",
+          "sectionObjectives": [
+            "Plan and conduct an interview",
+            "Use rhetorical questions in a presentation"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit1_Lesson1_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "pronouncing questions"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "languages"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "rhetorical questions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Languages",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Languages",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from the interview between Mona and Juan and from Use it or lose it? Then use the correct words to complete the definitions (1–5)."
+                  ],
+                  "paragraphContents": [
+                    "They used really strange words and phrases – lots of idioms that I’ve never heard before."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Plus, the people had very strong accents, so I couldn’t understand very much at all!"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "By the end of that year, I spoke Spanish fluently (but not very accurately)."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "It turns out that bilingual people are much better at activities like this than monolingual people."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Definitions",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    " 1. If you’re monolingual , you only speak one language; if you’re bilingual , you speak two languages."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "2. A(n) phrase is a group of two or more words that go together as a unit (e.g. heavy old doors)."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "3. Your accent is the way you pronounce words. It sometimes shows which part of a country you are from."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "4. A(n) idiom has its own meaning (e.g. ‘Use it or lose it’). It’s usually hard to figure out the meaning just by looking at the words."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 9,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "5. If you speak fluently, you don’t pause to think in the middle of sentences. If you speak accurately, you don’t make mistakes."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "vocabularyHub": false,
+                  "exerciseInstruction": "Look at the sentences from the interview between Mona and Juan and from 'Use it or lose it?' Then choose the correct words to complete the definitions (1-5).",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "bilingual",
+                        "monolingual",
+                        "phrase",
+                        "accent",
+                        "idiom",
+                        "fluently",
+                        "accurately"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Languages",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 142.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Languages",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Put the scrambled letters in the correct order to make words about language learning.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "Which is more important when you’re speaking English? Speaking uelcartyac or tnulylfe? Why?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Which is more important when you’re speaking English? Speaking accurately or fluently? Why?"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "Do you know any midosi in English? What’s your favorite?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Do you know any idioms in English? What’s your favorite?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "Are most people in your country nanoliomlgu or ialinglub? What about in your family?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Are most people in your country monolingual or bilingual? What about in your family?"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "Can you tell where somebody is from just by listening to their cectna? In your language? In English?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Can you tell where somebody is from just by listening to their accent? In your language? In English?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

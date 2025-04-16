@@ -1,0 +1,255 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 12,
+      "chapterTitle": "MEIDA",
+      "chapterQuote": "I do not take a single newspaper, nor read one a month, and I feel happier for it. Thomas Jefferson",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about the pros and cons of online news",
+        "talk and debate about different TV viewing habits",
+        "talk about advertising and what makes a good advertisement",
+        "give and respond to opinions",
+        "write a story"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 12.1,
+          "sectionTitle": "The news",
+          "sectionObjectives": [
+            "Talk about the pros and cons of online news"
+          ],
+          "GKU": "Language_Hub_B1_Unit12_Lesson12_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "news expressions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɒ /, /ɔː/ and /oʊ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "reported speech"
+            }
+          ],
+          "sectionPart": [],
+          "hasListeninig": false
+        },
+        {
+          "sectionNumber": 12.2,
+          "sectionTitle": "On the box",
+          "sectionObjectives": [
+            "Talk and debate about different TV viewing habits"
+          ],
+          "GKU": "Language_Hub_B1_Unit12_Lesson12_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "past perfect"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in past perfect sentences"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "television"
+            }
+          ],
+          "sectionPart": [],
+          "hasListeninig": false
+        },
+        {
+          "sectionNumber": 12.3,
+          "sectionTitle": "Advertising",
+          "sectionObjectives": [
+            "Talk about advertising and what makes a good advertisement"
+          ],
+          "GKU": "Language_Hub_B1_Unit12_Lesson12_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "advertising"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/æ/ and /e/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "should"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "identifying opinion and attitudes of speakers"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. What do you think makes a successful advert?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Look at the pictures of two different advertising campaigns. What is the product? How do you think each campaign works?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 12.4,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U12.3_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the recording. Choose whether each sentence relates to Kerry, Alex, or both.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Who thinks that the Reebok ad campaign is smart?"
+                          ],
+                          "exerciseAnswers": "Both",
+                          "exerciseOptions": [
+                            "Alex",
+                            "Kerry",
+                            "Both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Who thinks that Alex is a fast runner?"
+                          ],
+                          "exerciseAnswers": "Kerry",
+                          "exerciseOptions": [
+                            "Alex",
+                            "Kerry",
+                            "Both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Who thinks that the vacuum ad was a real billboard?"
+                          ],
+                          "exerciseAnswers": "Alex",
+                          "exerciseOptions": [
+                            "Alex",
+                            "Kerry",
+                            "Both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Who thinks that the best ads are simple and original?"
+                          ],
+                          "exerciseAnswers": "Both",
+                          "exerciseOptions": [
+                            "Alex",
+                            "Kerry",
+                            "Both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Who thinks that an advertisement needs a clear message that you can connect with?"
+                          ],
+                          "exerciseAnswers": "Alex",
+                          "exerciseOptions": [
+                            "Alex",
+                            "Kerry",
+                            "Both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Who thinks that the most important thing about an advertisement is that you notice it?"
+                          ],
+                          "exerciseAnswers": "Kerry",
+                          "exerciseOptions": [
+                            "Alex",
+                            "Kerry",
+                            "Both"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Discuss your opinion of the two ads. Which do you think is the more creative, smart or original ad? Why?",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

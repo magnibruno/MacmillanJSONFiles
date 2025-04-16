@@ -1,0 +1,319 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 8,
+      "chapterTitle": "Innovation",
+      "chapterQuote": "To invent, you need a good imagination and a pile of junk. Thomas Edison",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "explain how an invention works",
+        "suggest and evaluate creative ideas",
+        "use positive language to promote a new product",
+        "give a friend advice about choosing a gadget",
+        "give and follow instructions",
+        "write a biography"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 8.1,
+          "sectionTitle": "Making a difference",
+          "sectionObjectives": [
+            "Explain how an invention works",
+            "Suggest and evaluate creative ideas"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit8_Lesson8_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "word families; creative thinking"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "adjective clauses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "adjective clauses"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for problems and solutions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U8.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the sentences and answer the questions.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "What do you notice about the pronunciation of essential adjective clauses and non-essential adjective clauses?"
+                          ],
+                          "exerciseAnswers": "We pause before and after a non-essential adjective clause.",
+                          "exerciseOptions": [
+                            "We pause before and after a non-essential adjective clause.",
+                            "We pause before and after an essential adjective clause."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the sentences.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "Solar panels, which turn sunlight into electricity, are becoming cheaper all the time."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "I’ve hidden my plans in a place where they’ll be safe."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "My favorite inventor is Mária Telkes, who created the first 100 percent solarpowered house in 1947."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practice saying the sentences in Exercise B. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.2,
+          "sectionTitle": "Must-have gadgets",
+          "sectionObjectives": [
+            "Use positive language to promote a new product",
+            "Give a friend advice about choosing a gadget"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit8_Lesson8_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "positive adjectives"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "’ll and won’t"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "zero and first conditionals; conditionals with modals and imperatives"
+            },
+            {
+              "skillType": "S",
+              "skillName": "reading",
+              "skillTitle": "topic sentences"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "’ll and won’t",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.6,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U8.2_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen and select the words that you hear.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "If you want to go / won’t go to the grocery store, you / you’ll need to bring a bag."
+                          ],
+                          "exerciseAnswers": "want to go / you'll need",
+                          "exerciseOptions": [
+                            "want to go / you'll need",
+                            "won't go / you need"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I lend / I’ll lend you my raincoat if you want to borrow / won’t borrow it."
+                          ],
+                          "exerciseAnswers": "I'll lend / want to borrow",
+                          "exerciseOptions": [
+                            "I lend / won't borrow",
+                            "I'll lend / want to borrow"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "If you / you’ll like gadgets, you / you’ll love this."
+                          ],
+                          "exerciseAnswers": "you / you'll",
+                          "exerciseOptions": [
+                            "you'll / you",
+                            "you / you'll"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "You learn / You’ll earn a lot more if you / you’ll listen carefully."
+                          ],
+                          "exerciseAnswers": "You learn / you",
+                          "exerciseOptions": [
+                            "You learn / you",
+                            "You'll learn / you'll"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "’ll and won’t",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen again and repeat the sentences.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "If you want to go the grocery store, you’ll need to bring a bag."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "I’ll lend you my raincoat if you want to borrow it."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "If you like gadgets, you’ll love this."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "You learn a lot more if you listen carefully."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "’ll and won’t",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Imagine you are going to lend your partner a gadget tonight. Follow the instructions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

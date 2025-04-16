@@ -166,7 +166,7 @@
                                     "required": ["sentenceOrdinal", "sentences", "blankedWords"]
                                   }
                                 },
-                                "exerciseQuestion": {
+                                "sentences": {
                                   "type": ["string", "null"]
                                 },
                                 "exerciseMaxAnswer": {

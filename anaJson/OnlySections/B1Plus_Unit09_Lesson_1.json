@@ -1,0 +1,331 @@
+{
+	"sectionNumber": 9.1,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Art for everybody",
+	"sectionObjective": "Suggest improvements to a proposal/Plan an arts event",
+	"GKU": "Language_Hub_B1plus_Unit9_Lesson9_1",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "the arts; verbal idioms"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "second conditional"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/ʧ/, /ʃ/ and /k/"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "using linking words to understand the writer's opinion"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "The best (and the worst) of immersive theater",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"For most people, going to the theater is a chance to relax and let the actors do all the work. But in recent years, a new type of theater has appeared where the audience takes part in the play! When it works well, immersive theater can be breathtaking. But when it goes wrong, it can be awful. Here are my six recommendations based on my favorite (and least favorite!) immersive plays."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "1",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Sometimes the building itself is part of the experience. A good example is Hotel Impossible, which took place in a real hotel building. Similarly, The Dark Tunnels took place inside real tunnels, which created a very scary atmosphere. However, a great location isn’t everything. Dangerous Heart was in a beautiful palace, but the play didn’t really take advantage of the space."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "2",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"In Step by Step, the audience was limited to 15, so we could interact one-on-one with the characters. During the play, the audience had to solve a crime, so we really had to pay attention to what we saw and heard. By the end, I was terrified and exhausted, but it was an unforgettable experience."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "3",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Some immersive plays feel far too complicated, with too many characters and storylines. For example, Yellow and Blue had amazing special effects, but I couldn’t keep track of who was who. In The Quiet Visitors, however, there were only six characters in a large empty room. We had to use our imaginations, and the effect was incredibly powerful."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": "4",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The worst thing about immersive theater? Other members of the audience! The play Life with the Lions got rid of this problem by making the audience wear animal costumes. I felt silly in my zebra costume, but at least we couldn’t tell the difference between actors and spectators. In The Dark Tunnels, we all wore black clothes and masks so the members of the audience were almost invisible to each other."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": "5",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Without a strong story, immersive theater can easily fall flat – it feels like something’s missing. In Hotel Impossible, for example, lots of interesting things happened, but the whole play didn’t really go anywhere. In The Quiet Visitors, however, there was a clear beginning, a middle … and a shocking surprise at the end."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": "6",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"It isn’t just about what the audience sees and hears. The best immersive plays make use of the senses of taste, smell and touch, too. In Dangerous Heart, we enjoyed a delicious meal as part of the experience. Similarly, in The Dark Tunnels, the unpleasant underground smell added to the sense of danger. And in The Quiet Visitors, when the room suddenly went as cold as ice, the effect was terrifying."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Imagine you are watching a traditional play. What would you do if a character on the stage spoke to you? Would you be happy or would you feel uncomfortable?"
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - highlight",
+					"exerciseInstruction": "Read the first paragraph of The best (and the worst) of immersive theater. Why has the writer written the article?",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Read the first paragraph of The best (and the worst) of immersive theater. Why has the writer written the article?",
+							"exerciseMaxAnswer": "But in recent years, a new type of theater has appeared where the audience takes part in the play!",
+							"exerciseMinAnswer": "a new type of theater has appeared",
+							"exerciseAnswers": null,
+							"LKUs": [
+								"theater",
+								"audience"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR GIST",
+					"textImage": null,
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read the rest of the article. Match the recommendations (a–g) with the sections (1–6). There is one extra recommendation.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for chapter 1?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Make good use of the space.",
+							"LKUs": [
+								"space"
+							],
+							"sentenceAnswerOptions": [
+								"Keep it simple.",
+								"Make good use of the space.",
+								"Make the audience feel special.",
+								"Make it an experience for all the senses."
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for chapter 2?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Make the audience feel special.",
+							"LKUs": [
+								"audience"
+							],
+							"sentenceAnswerOptions": [
+								"Keep it simple.",
+								"Make good use of the space.",
+								"Make the audience feel special.",
+								"Make it an experience for all the senses."
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for chapter 3?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Keep it simple.",
+							"LKUs": [
+								"simple"
+							],
+							"sentenceAnswerOptions": [
+								"Keep it simple.",
+								"Make good use of the space.",
+								"Make the audience feel special.",
+								"Make it an experience for all the senses."
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What's the best heading for chapter 4?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Keep the rest of the audience out of sight.",
+							"LKUs": [
+								"audience"
+							],
+							"sentenceAnswerOptions": [
+								"Keep the rest of the audience out of sight.",
+								"Make good use of the space.",
+								"Make the audience feel special.",
+								"Make it an experience for all the senses."
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "",
+					"textImage": null,
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Look at the highlighted words in the article. What is the writer’s opinion? Use the strategies in the box to help you. Choose + (positive) or – (negative).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What is the writer’s opinion about the location for The Dark Tunnels?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "positive",
+							"LKUs": [
+								"location"
+							],
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What is the writer’s opinion about the characters and story in Yellow and Blue?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "negative",
+							"LKUs": [
+								"character"
+							],
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What is the writer’s opinion about the characters and story in The Quiet Visitors?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "positive",
+							"LKUs": [
+								"character"
+							],
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What is the writer’s opinion about the story in Hotel Impossible?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "negative",
+							"LKUs": [
+								"story"
+							],
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What is the writer’s opinion about the experience for the senses in The Dark Tunnels?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "positive",
+							"LKUs": [
+								"experience"
+							],
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What is the writer’s opinion about the experience for the senses in The Quiet Visitors?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "positive",
+							"LKUs": [
+								"experience"
+							],
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Which of the plays from the article would you most like to see? Which would you least like to see? Why? Tell your partner."
+				}
+			]
+		}
+	]
+}

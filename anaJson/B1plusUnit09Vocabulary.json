@@ -1,0 +1,691 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 9,
+      "chapterTitle": "The arts ",
+      "chapterQuote": "Art is unquestionably one of the purest and highest elements in human happiness. John Lubbock",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "suggest improvements to a proposal",
+        "plan an arts event",
+        "report a conversation",
+        "create a collaborative story",
+        "talk about movies and books",
+        "write a review"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 9.1,
+          "sectionTitle": "Art for everybody",
+          "sectionObjectives": [
+            "Suggest improvements to a proposal",
+            "Plan an arts event"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit9_Lesson9_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "the arts; verbal idioms"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "second conditional"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʧ/, /ʃ/ and /k/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "using linking words to understand the writer’s opinion"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "The arts",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "The arts",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Sort the words into the correct categories."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Theater"
+                  ],
+                  "paragraphContents": [
+                    "a scene",
+                    "a spectator",
+                    "a stage"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Arts (e.g. paintings)"
+                  ],
+                  "paragraphContents": [
+                    "a display",
+                    "an exhibit",
+                    "a gallery"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Music"
+                  ],
+                  "paragraphContents": [
+                    "an orchestra",
+                    "a musician",
+                    "an instrument"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Sort the words into the correct categories.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "scene",
+                        "spectator",
+                        "exhibit",
+                        "gallery",
+                        "orchestra",
+                        "musician"
+                      ],
+                      "LKUs": [
+                        "scene",
+                        "spectator",
+                        "exhibit",
+                        "gallery",
+                        "orchestra",
+                        "musician",
+                        "instrument",
+                        "display",
+                        "stage"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "The arts",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "What other words can you add to each group? Think about people and places connected with each topic.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "The arts",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs and ask and answer the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Verbal idioms",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 146.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Verbal idioms",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Complete the sentences so they are true for you. Then work in pairs and tell your partner what happened.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Verbal idioms",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the correct form of the verbal idioms in the word bank.",
+                  "wordBank": [
+                    "take part in",
+                    "go wrong",
+                    "take place",
+                    "take advantage",
+                    "pay attention",
+                    "keep track",
+                    "get rid of",
+                    "tell the difference between",
+                    "fall flat",
+                    "make use of"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I can’t really tell the difference between immersive theater and interactive theater. Aren't they the same?"
+                          ],
+                          "blankedWords": [
+                            "the",
+                            "difference",
+                            "between"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I tried to tell a joke, but it fell flat. Nobody understood it."
+                          ],
+                          "blankedWords": [
+                            "flat"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "If you agree to help people all the time, they might take advantage of your kindness.You need to say ‘no’ more often."
+                          ],
+                          "blankedWords": [
+                            "advantage",
+                            "of"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Do you still have your old guitar, or did you get rid of it?"
+                          ],
+                          "blankedWords": [
+                            "rid",
+                            "of"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Immersive plays usually take place in unusual locations."
+                          ],
+                          "blankedWords": [
+                            "place"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "They have a nice big yard, but they don’t really make us of it."
+                          ],
+                          "blankedWords": [
+                            "use",
+                            "of"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "Six actors took part in the play: four adults and two children."
+                          ],
+                          "blankedWords": [
+                            "part",
+                            "in"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "I always write down the money I spend to help me keep track of my finances."
+                          ],
+                          "blankedWords": [
+                            "track",
+                            "of"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "Everything is going wrong today! My computer stopped working and my car broke down!"
+                          ],
+                          "blankedWords": [
+                            "wrong"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 10,
+                          "sentences": [
+                            "If you don’t pay attention to your teacher, you won’t learn very much."
+                          ],
+                          "blankedWords": [
+                            "attention",
+                            "to"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Verbal idioms",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the verbal idioms with the words in the word bank.",
+                  "wordBank": [
+                    "attention",
+                    "friends",
+                    "fun",
+                    "note",
+                    "sure",
+                    "true"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I’ve always dreamed of being a chef, but I’m not sure my dream will ever come true."
+                          ],
+                          "blankedWords": [
+                            "true"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "You shouldn’t make fun of other people’s mistakes. They aren’t funny at all."
+                          ],
+                          "blankedWords": [
+                            "fun"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "When someone gives you good advice, always take note of what they say."
+                          ],
+                          "blankedWords": [
+                            "note"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I made friends with Alissa when we were at school, and we’ve liked each other ever since."
+                          ],
+                          "blankedWords": [
+                            "friends"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "didn’t notice the sculpture in the corner. They should put it in the middle of the room to draw attention to it!"
+                          ],
+                          "blankedWords": [
+                            "attention"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "I think I know the answer, but I need to check the internet to make sure."
+                          ],
+                          "blankedWords": [
+                            "sure"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 9.2,
+          "sectionTitle": "Tell me a story",
+          "sectionObjectives": [
+            "Report a conversation",
+            "Create a collaborative story"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit9_Lesson9_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "reported speech"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "reporting verbs"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "using your voice to make a story more interesting"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for definitions of new words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Reporting verbs",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Reporting verbs",
+                  "paragraphSubtitles": [
+                    "@edean"
+                  ],
+                  "paragraphContents": [
+                    "It was him! She sat in embarrassed silence. She wondered if he even knew she existed. He sat beside her, wondering the same. Nobody spoke."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "@hsmith"
+                  ],
+                  "paragraphContents": [
+                    "Alone, he ran nervously into the dark forest. A shadow. ‘Who’s there?’ he yelled. ‘Don’t worry,’ whispered a cold voice. ‘You aren’t alone.’"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "textImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - highlight",
+                  "exerciseInstruction": "Look at the examples of micro-stories in the text.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which verb is used instead of 'said loudly'.",
+                      "exerciseMaxAnswer": "he yelled",
+                      "exerciseMinAnswer": "yelled",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "yell"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which verb is used instead of 'said quietly'.",
+                      "exerciseMaxAnswer": "whispered a cold voice",
+                      "exerciseMinAnswer": "whispered",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "whisper"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which verb is used instead of 'thought'.",
+                      "exerciseMaxAnswer": "She wondered",
+                      "exerciseMinAnswer": "wondered",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "wonder"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Reporting verbs",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Look at the information in the box. Use a dictionary to check any new verbs.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Reporting verbs",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the best reporting verbs to complete the sentences from the conversation between Zoe and Jacob.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Zoe asked how Jacob’s creative writing class was going, and he added / reminded / replied that it was going really well."
+                          ],
+                          "exerciseAnswers": "replied",
+                          "exerciseOptions": [
+                            "added",
+                            "reminded",
+                            "replied"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Zoe agreed / mentioned / wondered whether Jacob was joking about micro-stories."
+                          ],
+                          "exerciseAnswers": "wondered",
+                          "exerciseOptions": [
+                            "agreed",
+                            "mentioned",
+                            "wondered"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Jacob persuaded / warned / whispered Zoe that it’s usually better if the writer provides less information."
+                          ],
+                          "exerciseAnswers": "persuaded",
+                          "exerciseOptions": [
+                            "persuaded",
+                            "warned",
+                            "whispered"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Zoe agreed / insisted / predicted that the second story was really powerful."
+                          ],
+                          "exerciseAnswers": "agreed",
+                          "exerciseOptions": [
+                            "agreed",
+                            "insisted",
+                            "predicted"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Zoe added / explained / persuaded how ‘Pass the paper’ works."
+                          ],
+                          "exerciseAnswers": "explained",
+                          "exerciseOptions": [
+                            "added",
+                            "explained",
+                            "persuaded"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Jacob admitted / predicted / yelled that most of the stories are trash."
+                          ],
+                          "exerciseAnswers": "admitted",
+                          "exerciseOptions": [
+                            "admitted",
+                            "predicted",
+                            "yelled"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "Zoe argued / explained / mentioned that she had been a student in California."
+                          ],
+                          "exerciseAnswers": "mentioned",
+                          "exerciseOptions": [
+                            "argued",
+                            "explained",
+                            "mentioned"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "Jacob argued / predicted / reminded Zoe that the story could have up to 1,000 words."
+                          ],
+                          "exerciseAnswers": "reminded",
+                          "exerciseOptions": [
+                            "argued",
+                            "predicted",
+                            "reminded"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "Jacob insisted / warned / whispered Zoe that it wouldn’t be easy to write the story."
+                          ],
+                          "exerciseAnswers": "warned",
+                          "exerciseOptions": [
+                            "insisted",
+                            "warned",
+                            "whispered"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

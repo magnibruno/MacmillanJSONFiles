@@ -1,0 +1,438 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 2,
+      "chapterTitle": "LIVING",
+      "chapterQuote": "Home is not where you live, but where they understand you. Christian Morgenstern",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about your neighborhood",
+        "talk about your life and routine",
+        "talk about life events",
+        "ask for and give advice",
+        "write an email of complaint"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 2.1,
+          "sectionTitle": "Love where you live",
+          "sectionObjectives": [
+            "Talk about your neighborhood"
+          ],
+          "GKU": "Language_Hub_B1_Unit2_Lesson2_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "describing places"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "stress in two-syllable adjectives"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "adverbs of degree"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Stress in two-syllable adjectives",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 2.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U2.1_001",
+                  "setIgnore": true,
+                  "exerciseType": "TSS dictate",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Listen and underline the stressed syllable in each adjective.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "dirty"
+                          ],
+                          "blankedWords": [
+                            "dirty"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "quiet"
+                          ],
+                          "blankedwords": [
+                            "quiet"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "modern"
+                          ],
+                          "blankedWords": [
+                            "modern"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "peaceful"
+                          ],
+                          "blankedWords": [
+                            "peaceful"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "noisy"
+                          ],
+                          "blankedWords": [
+                            "noisy"
+                          ],
+                          "context": "setAudioNumber"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Stress in two-syllable adjectives",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 2.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U2.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "textSpeak",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Listen and repeat the words.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "dirty"
+                          ],
+                          "blankedWords": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "quiet"
+                          ],
+                          "blankedWords": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "modern"
+                          ],
+                          "blankedWords": []
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "peaceful"
+                          ],
+                          "blankedWords": []
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "noisy"
+                          ],
+                          "blankedWords": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Stress in two-syllable adjectives",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Underline the stressed syllable in all the two-syllable adjectives.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2.2,
+          "sectionTitle": "The boomerang generation",
+          "sectionObjectives": [
+            "Talk about your life and routine"
+          ],
+          "GKU": "Language_Hub_B1_Unit2_Lesson2_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "simple present and present progressive"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "consonant pairs at the beginning of words"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "verb + preposition"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Consonant pairs at the beginning of words",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 2.5,
+                  "audioNumberOrdinal": "004",
+                  "setAudio": "ALH_TAT2_AUD_U2.2_004",
+                  "setIgnore": false,
+                  "exerciseType": "TSS dictate",
+                  "exerciseInstruction": "Listen and put the words in the correct consonant group.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The word that begins with 'sl' is sleep."
+                          ],
+                          "blankedWords": [
+                            "sleep"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "The word that begins with 'sm' is small."
+                          ],
+                          "blankedWords": [
+                            "small"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "The word that begins with 'sn' is snack."
+                          ],
+                          "blankedWords": [
+                            "snack"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "The word that begins with 'sp' is speak."
+                          ],
+                          "blankedWords": [
+                            "speak"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "The word that begins with 'st' is start."
+                          ],
+                          "blankedWords": [
+                            "start"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "The word that begins with 'sw' is swim."
+                          ],
+                          "blankedWords": [
+                            "swim"
+                          ],
+                          "context": "setAudioNumber"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Consonant pairs at the beginning of words",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practise saying these words. Can you add one more example to each group?",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2.3,
+          "sectionTitle": "Time flies",
+          "sectionObjectives": [
+            "Talk about life events"
+          ],
+          "GKU": "Language_Hub_B1_Unit2_Lesson2_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "life events"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "Simple past irregular verbs /ɔː/, /e/ and /eɪ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "simple past – regular and irregular verbs"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "skimming for key words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Past simple irregular verbs /ɔː/, /e/ and /eɪ/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Choose the correct answer for each question. Then listen to check your answers.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which words have the same vowel sound as \"bought\"?"
+                          ],
+                          "exerciseAnswers": "bought, fought, taught",
+                          "exerciseOptions": [
+                            "bought, fought, taught",
+                            "said, sent, slept",
+                            "ate, made, paid"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which words belong in the /e/ category?"
+                          ],
+                          "exerciseAnswers": "said, sent, slept",
+                          "exerciseOptions": [
+                            "bought, fought, taught",
+                            "said, sent, slept",
+                            "ate, made, paid"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Which words belong in the /ei/ category?"
+                          ],
+                          "exerciseAnswers": "ate, made, paid",
+                          "exerciseOptions": [
+                            "bought, fought, taught",
+                            "said, sent, slept",
+                            "ate, made, paid"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": null,
+              "partSubTitle": "Past simple irregular verbs /ɔː/, /e/ and /eɪ/",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Make questions about your childhood using the prompts. Ask and answer them with a partner.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

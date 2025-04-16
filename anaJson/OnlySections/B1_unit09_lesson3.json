@@ -1,0 +1,265 @@
+{
+	"sectionNumber": 9.3,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Who needs money?",
+	"sectionObjective": "Discuss your skills and how they could help others",
+	"GKU": "Language_Hub_B1_Unit9_Lesson9_3",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "gerunds"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "make and do expressions"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/ʒ/ and /dʒ/"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "BARTERING IS BACK",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Back in 2005, Canadian Kyle MacDonald was making a living delivering pizzas, but he dreamed of owning his own house. So, one day he set up a website and offered a red paper clip in exchange for 'something bigger and better'. One year later and after 14 exchanges, he had swapped the paper clip for a house! First, he swapped the paper clip for a pen. After that, the trades included a snowmobile, a van, an afternoon with rock star Alice Cooper and a role in a Hollywood movie. Finally, he swapped the movie role for a house."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"But trading or bartering one item for another is nothing new. It was how people 'shopped' before the invention of money. And today, bartering is back. The number of people who use websites such as Craigslist.org, where you can exchange one item or service for another, is increasing. Some websites, such as babysitterexchange.com, provide just one service, while other sites cover a range of items and services. People have exchanged yoga lessons and language lessons for decorating services, offered dog-walking and rides to the airport in exchange for theater and concert tickets, and some people will offer to do your shopping, cleaning or ironing in exchange for items they need. People also offer to trade professional services such as legal advice and accountancy. Antonio Puri, an artist based in Philadelphia in the US, was in his dentist's chair when he noticed there were no paintings on the walls. He told his dentist 'You need art. How about doing a trade?' Puri made him an offer and swapped a $1200 painting for his dental treatment."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Time banks are another recent development. You register at your local Time Bank’s website and list the services you have to offer or like doing. For each hour of work you provide to another member, you earn a certain number of ‘time credits’. You can then spend your ‘time credits’ on another service on the site that someone else enjoys doing."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Doing your research and suggesting realistic prices are the basic rules with both barter sites and time banks. It’s important not to try to make a profit. At the same time, if someone does you a favor, don’t give them something below its value. If you do this, the system will break down and stop working. If you are bartering, it is important to agree with the other person what is a fair exchange. So, for example, you might agree that a driving lesson is equal to two haircuts or that fixing someone’s washing machine is equal to a half-hour guitar lesson."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"So, next time you need something, don’t reach for your wallet or bankcard. Who needs money when you can trade?"
+					]
+				}
+			],
+			"glossaryBox": [
+				{
+					"glossaryTitle": "Glossary",
+					"glossaryContent": [
+						"barter (v) to exchange goods or services for other goods or services instead of using money"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Did you exchange anything with other people when you were younger, for example, toys, books or soccer cards? What about later in life?"
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "PREDICT",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Look at the title of the article and at the glossary. What do you think the article is about?"
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "SCAN",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read Bartering is back and complete the notes.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Kyle McDonald started a website, and after one year exchanged a ______ for a ______.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "red paperclip, house",
+							"sentenceAnswerOptions": [
+								"dental treatment, house",
+								"red paperclip, house",
+								"$1200, house",
+								"$1200, dental treatment"
+							],
+							"LKUs": [
+								"paperclip",
+								"house"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Websites such as Craigslist.org: People can exchange ______ with each other.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "items or services",
+							"sentenceAnswerOptions": [
+								"houses",
+								"money",
+								"items or services",
+								"$1200"
+							],
+							"LKUs": [
+								"exchange"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Antonio Puri exchanged a ______ for ______.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "painting, dental treatment",
+							"sentenceAnswerOptions": [
+								"painting, dental treatment",
+								"painting, house",
+								"$1200, house",
+								"$1200, dental treatment"
+							],
+							"LKUs": [
+								"painting",
+								"treatment"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Time banks: For every ______ you work, you earn ______.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "hour, time credits",
+							"sentenceAnswerOptions": [
+								"week, house",
+								"year, time credits",
+								"hour, dental treatment",
+								"hour, time credits"
+							],
+							"LKUs": [
+								"credit",
+								"hour"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Basic rule: Ask a ______ for what you are offering. Need to agree what is ______.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "realistic price, a fair exchange",
+							"sentenceAnswerOptions": [
+								"realistic price, a service",
+								"realistic price, a fair exchange",
+								"estimate, item",
+								"quote, item"
+							],
+							"LKUs": [
+								"price",
+								"exchange"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Do you know the meaning of the words and phrases in the box? Find them in the text and use the information in the box to work out or check their meaning."
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "E",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "one page sequence - match",
+					"exerciseInstruction": "Guess the meaning of the words in bold (1–3). Then match them with their definitions (a–c).",
+					"exercises": [
+						{
+							"columnA": [
+								"fosters",
+								"tangible,",
+								"tricky."
+							],
+							"columnB": [
+								"helps something to develop over a period of time",
+								"something that you can touch",
+								"difficult to do"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "F",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Work in groups. Do you think bartering items and services is a good idea? What are the pros and the cons?",
+					"exercises": null
+				}
+			]
+		}
+	]
+}

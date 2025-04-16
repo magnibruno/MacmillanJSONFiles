@@ -1,0 +1,219 @@
+{
+	"sectionNumber": 11.3,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Throw-away world",
+	"sectionObjective": "Talk about the causes and effects of plastic pollution",
+	"GKU": "Language_Hub_B1_Unit11_Lesson11_3",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "even"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "somewhere, nowhere, everywhere, anywhere"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/l/ pronounced and silent"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "looking for ways of expressing cause and effec"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "The nightmare of PLASTIC ISLAND",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Plastic is everywhere. It is at the bottom of the oceans, on tropical beaches and at the top of Mount Everest. It is even on the surface of Mars. This is because each year, over 300 million metric tons of plastic is produced, used and then, most of it is thrown away."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Plastic was invented over 100 years ago. When it first appeared, it was an instant success. It was cheap, convenient, had many uses and was long-lasting. And that is the problem. Plastic will not go away. It may break into smaller and smaller pieces, but every piece of plastic ever made still exists somewhere in the world."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Up to 12 million metric tons of plastic enters the world's oceans every year. This means there are around five trillion pieces of plastic currently in our oceans. Once there, it can be carried by the currents for many years and travel thousands of kilometers. Some of it is eaten by marine wildlife and enters the food chain. As a result, thousands of pieces of marine plastic are consumed by humans each year when they eat fish and other seafood. However, most of the plastic in the seas and oceans eventually washes up on beaches. Nowhere on Earth has as much plastic as the beaches of Henderson Island in the South Pacific. The remote island is the most polluted anywhere in the world, and 99.8 percent of this pollution is plastic. The island's beaches contain around 38 million pieces of plastic; most of this is from everyday consumer goods."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Henderson Island is a UNESCO World Heritage site and it is an important habitat for wildlife. Jennifer Lavers, of the University of Tasmania, says that the situation on Henderson Island shows that 'nowhere is safe from plastic pollution'. She even believes that marine plastic pollution is 'as important as climate change'. Other experts describe the situation as 'a major ecological disaster' and 'an environmental emergency'."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Because of this, there is a global effort to reduce the amount of plastic pollution. For example, Indonesia has promised to spend up to $1 billion on reducing plastic and other waste products which pollute its waters. This has led to other governments making similar pledges. However, the best way to prevent trash from washing up on beaches would be for us as individuals to use less plastic, especially things that we don't even need. These are single-use and 'disposable' items, such as cutlery and even toothbrushes. We should also buy products with less packaging and recycle more. If we do this, we will reduce the amount of plastic that ends up in our oceans and on our beaches. We will also be less likely to find plastic returning to us on our dinner plates."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Do you recycle? What kind of things do you recycle? Is it easy to recycle things where you live? What happens to things you throw away that are not recycled?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": null
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Look at the picture. What can you see on the beach? How do you think it got there?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": null
+						}
+					]
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read The nightmare of Plastic Island and decide which is the best summary.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Read The nightmare of Plastic Island and decide which is the best summary.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Plastic is carried around the world by ocean currents and reaches the most remote beaches and other places. The pictures of Henderson Island show how serious the problem is.",
+							"LKUs": [
+								"plastic"
+							],
+							"sentenceAnswerOptions": [
+								"Plastic is usually blown into the ocean and is carried around the world by ocean currents. The pictures of Henderson Island show how we should clean the beaches before the plastic enters the ocean.",
+								"Plastic is carried to certain parts of the world by ocean currents, but it does not reach other parts of the world. The pictures of Henderson Island suggest that the situation is worse than it actually is.",
+								"Plastic is carried around the world by ocean currents and reaches the most remote beaches and other places. The pictures of Henderson Island show how serious the problem is."
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - highlight",
+					"exerciseInstruction": "Answer the questions. Use the information in the box to help you. Then read again and check your answers.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Why is there plastic everywhere?",
+							"exerciseMinAnswer": "over 300 million metric tons of plastic is produced",
+							"exerciseMaxAnswer": "This is because each year, over 300 million metric tons of plastic is produced, used and then most of it is thrown away.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"plastic",
+								"produce",
+								"ton"
+							]
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Why was plastic successful when it first appeared?",
+							"exerciseMinAnswer": "It was cheap, convenient",
+							"exerciseMaxAnswer": "It was cheap, convenient, had many uses and was long-lasting.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"cheap",
+								"convenient",
+								"long-lasting"
+							]
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "Scientists believe that there are five trillion pieces of plastic in the oceans. What is this number based on?",
+							"exerciseMinAnswer": "12 million metric tons of plastic enters the world’s oceans",
+							"exerciseMaxAnswer": "Up to 12 million metric tons of plastic enters the world’s oceans every year.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"trillion",
+								"ocean",
+								"piece"
+							]
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "Some marine animals eat plastic. How can this affect humans?",
+							"exerciseMinAnswer": "thousands of pieces of marine plastic are consumed by humans",
+							"exerciseMaxAnswer": "As a result, thousands of pieces of marine plastic are consumed by humans each year when they eat fish and other seafood.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"eat",
+								"consume"
+							]
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "Experts believe plastic pollution in the oceans is a serious problem. How have some governments responded to this?",
+							"exerciseMinAnswer": "promised to spend up to $1 billion on reducing plastic",
+							"exerciseMaxAnswer": "For example, Indonesia has promised to spend up to $1 billion on reducing plastic and other waste products which pollute its waters.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"respond",
+								"effort",
+								"reduce"
+							]
+						},
+						{
+							"sentenceOrdinal": 6,
+							"exerciseQuestion": "What can individuals do to help reduce the amount of plastic pollution?",
+							"exerciseMinAnswer": "use less plastic,",
+							"exerciseMaxAnswer": "However, the best way to prevent trash from washing up on beaches would be for us as individuals to use less plastic, especially things that we don’t even need.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"reduce",
+								"ocean"
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

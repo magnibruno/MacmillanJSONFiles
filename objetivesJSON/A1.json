@@ -1,0 +1,622 @@
+{
+  "sections": [
+    {
+      "sectionNumber": 1.1,
+      "sectionTitle": "Say hello",
+      "sectionObjective": "Talk about where you're from",
+      "GKU": "Language_Hub_A1_Unit1_Lesson1_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "countries"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "syllables and syllable stress"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "numbers 0-10"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present simple be: I, you"
+        }
+      ],
+      "hasReading": false
+    },
+    {
+      "sectionNumber": 1.2,
+      "sectionTitle": "What's your job?",
+      "sectionObjective": "Introduce a friend",
+      "GKU": "Language_Hub_A1_Unit1_Lesson1_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "jobs"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "identifying personal pronouns"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present be: he, she, it"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "contractions with be"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.1,
+      "sectionTitle": "Where are they from?",
+      "sectionObjective": "Talk about nationalities",
+      "GKU": "Language_Hub_A1_Unit2_Lesson2_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "languages and nationalities"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "syllable stress"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present be: we, you, they; possessive adjectives"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.2,
+      "sectionTitle": "When are you free?",
+      "sectionObjective": "Ask for and give personal information",
+      "GKU": "Language_Hub_A1_Unit2_Lesson2_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "days of the week; numbers 11–100"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "identifying context"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "wh- questions with be"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "contractions in questions"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.1,
+      "sectionTitle": "That’s my coat",
+      "sectionObjective": "Describe everyday objects",
+      "GKU": "Language_Hub_A1_Unit3_Lesson3_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "objects and colors"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/s/, /z/ and /ɪz/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "a/an and plural nouns; this, that, these, those"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.2,
+      "sectionTitle": "I have two sisters",
+      "sectionObjective": "Talk about your family",
+      "GKU": "Language_Hub_A1_Unit3_Lesson3_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "family"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "finding key information"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "have/has"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "schwa /ə/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.1,
+      "sectionTitle": "Every day",
+      "sectionObjective": "Talk about daily routines",
+      "GKU": "Language_Hub_A1_Unit4_Lesson4_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "daily activities; time"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present: I, you, we, they"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "sentence stress"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.2,
+      "sectionTitle": "Every year",
+      "sectionObjective": "Talk about annual routines",
+      "GKU": "Language_Hub_A1_Unit4_Lesson4_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "months and seasons"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "using pictures before you read"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present questions: I, you, we, they"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "do you /ʤʊ/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.1,
+      "sectionTitle": "Relax and be happy",
+      "sectionObjective": "Talk about free time",
+      "GKU": "Language_Hub_A1_Unit5_Lesson5_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "free time activities"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present: he, she, it"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "does he/does she"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.2,
+      "sectionTitle": "When's your lunch break?",
+      "sectionObjective": "Talk about food and meals",
+      "GKU": "Language_Hub_A1_Unit5_Lesson5_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "food and meals"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "skimming"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "adverbs of frequency"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "linking with /j/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.1,
+      "sectionTitle": "Around town",
+      "sectionObjective": "Describe your town or city",
+      "GKU": "Language_Hub_A1_Unit6_Lesson6_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "places in a town"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "there is / there are"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "there is / there are; some and any"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.2,
+      "sectionTitle": "Choosing a home",
+      "sectionObjective": "Describe your home",
+      "GKU": "Language_Hub_A1_Unit6_Lesson6_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "furniture and rooms; prepositions of place"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "vowel sounds: /ʌ/ and /e/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "predicting"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "is there / are there question forms"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.1,
+      "sectionTitle": "What can you do?",
+      "sectionObjective": "Talk about your abilities",
+      "GKU": "Language_Hub_A1_Unit7_Lesson7_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "can/can't"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "can/can't: /æ/ and /ə/"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "abilities"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.2,
+      "sectionTitle": "He's amazing!",
+      "sectionObjective": "Talk about people's talents",
+      "GKU": "Language_Hub_A1_Unit7_Lesson7_2",
+      "sectionSkills": [
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for pronoun reference"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "adjectives"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "possessive ’s"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "possessive ’s"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.1,
+      "sectionTitle": "What's he doing?",
+      "sectionObjective": "Describe what people are doing",
+      "GKU": "Language_Hub_A1_Unit8_Lesson8_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present progressive"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "verb phrases"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "different ways to pronounce a"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.2,
+      "sectionTitle": "Thew gray coat",
+      "sectionObjective": "Talk about clothes",
+      "GKU": "Language_Hub_A1_Unit8_Lesson8_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "clothes"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "vowel sounds: /i:/, /ɜ:/, /u:/ and /ɔ:/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "identifying key words"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "adjective order"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.1,
+      "sectionTitle": "Famous faces",
+      "sectionObjective": "Talk about famous people from the past",
+      "GKU": "Language_Hub_A1_Unit9_Lesson9_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple past: was/were"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "dates and years"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "was he / was she"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.2,
+      "sectionTitle": "Voices from the past",
+      "sectionObjective": "Talk about people's achievements",
+      "GKU": "Language_Hub_A1_Unit9_Lesson9_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "everyday verbs"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "scanning"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple past: regular verbs"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "past tense endings: /d/, /t/ and /ɪd/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.1,
+      "sectionTitle": "Precious finds",
+      "sectionObjective": "Talk about past events",
+      "GKU": "Language_Hub_A1_Unit10_Lesson10_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple past: irregular verbs"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "time phrases"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "vowel sounds: /ɔ:/ and /oʊ/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.2,
+      "sectionTitle": "Family treasures",
+      "sectionObjective": "Talk about past experiences",
+      "GKU": "Language_Hub_A1_Unit10_Lesson10_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "life events"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "identifying reasons"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple past questions"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "final consonant /t/ and /d/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 11.1,
+      "sectionTitle": "In or out?",
+      "sectionObjective": "Talk about things you like doing",
+      "GKU": "Language_Hub_A1_Unit11_Lesson11_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "recreational activities"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "like/love/hate/enjoy + verb + -ing"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "verb + -ing /ŋ/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 11.2,
+      "sectionTitle": "Super fans",
+      "sectionObjective": "Talk about favorite sports, music and movies",
+      "GKU": "Language_Hub_A1_Unit11_Lesson11_2",
+      "sectionSkills": [
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for opinions"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "object pronouns"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "entertainment"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "vowel sounds: /ʊ/ and /u:/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 12.1,
+      "sectionTitle": "Trips",
+      "sectionObjective": "Describe a trip",
+      "GKU": "Language_Hub_A1_Unit12_Lesson12_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "travel"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "constonant clusters"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "countable and uncountable nouns"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 12.2,
+      "sectionTitle": "A prize vacation",
+      "sectionObjective": "Talk about vacation plans",
+      "GKU": "Language_Hub_A1_Unit12_Lesson12_2",
+      "sectionSkills": [
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for feelings"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "types of vacations"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present progressive"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "vowel sounds: /ɪ/, /i:/ and /aɪ/"
+        }
+      ]
+    }
+  ]
+}

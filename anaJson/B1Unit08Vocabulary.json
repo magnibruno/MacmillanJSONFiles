@@ -1,0 +1,456 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 8,
+      "chapterTitle": "ART",
+      "chapterQuote": "Art is not what you see, but what you make others see. Edgar Degas",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about taste in music and your favorite songs",
+        "talk about art and artists",
+        "describe films and books",
+        "show interest in a topic",
+        "write a review"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 8.1,
+          "sectionTitle": "Musical Taste",
+          "sectionObjectives": [
+            "Talk about taste in music and your favorite songs"
+          ],
+          "GKU": "Language_Hub_B1_Unit8_Lesson8_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "music"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "consonant clusters in words"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "reflexive pronouns"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Music",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 150.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Music",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the words woth similar meanings.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "words in a song",
+                        "concert",
+                        "songs by other bands",
+                        "very easy to remember",
+                        "doing a series of concerts",
+                        "performing a concert",
+                        "people in the group",
+                        "collection of songs"
+                      ],
+                      "columnB": [
+                        "lyrics",
+                        "gig",
+                        "cover songs",
+                        "catchy",
+                        "on tour",
+                        "live",
+                        "band members",
+                        "album"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Music",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Replace the pronouns in Exercise B to make true sentences. Tell your partner.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Music",
+              "sets": [
+                {
+                  "setMarker": "",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Label the pictures (1–2) with the words in the box. You will need to use some words more than once..",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.2,
+          "sectionTitle": "Unusual art",
+          "sectionObjectives": [
+            "Talk about art and artists"
+          ],
+          "GKU": "Language_Hub_B1_Unit8_Lesson8_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "infinitive of purpose"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɪ/ and /iː/"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "types of art"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of art",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. How many artists can you name? What do you know about them or their paintings? Who are the most famous artists from your country?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of art",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 150.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of art",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "landscape"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_002",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "still life"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_003",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "portrait"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_004",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "abstract art"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_005",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "sculpture"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_006",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "photograph"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_007",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "exhibit"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphTitle": "",
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.2_008",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "gallery"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": true,
+                  "exerciseType": "RC - word bank",
+                  "textMode": "full article",
+                  "exerciseInstruction": "Label each picture with the words in the word bank.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "landscape",
+                        "still life",
+                        "portrait",
+                        "abstract art",
+                        "sculpture",
+                        "photograph",
+                        "exhibit",
+                        "gallery"
+                      ],
+                      "LKUs": [
+                        "landscape",
+                        "portrait",
+                        "abstract",
+                        "sculpture",
+                        "photograph",
+                        "exhibit",
+                        "gallery"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.3,
+          "sectionTitle": "Telling Stories",
+          "sectionObjectives": [
+            "Describe movies and books"
+          ],
+          "GKU": "Language_Hub_B1_Unit8_Lesson8_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "movie and book genres; adjectives for describing movies and books"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in longer words"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "first conditional"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "identifying contrasts"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Movie and book genres",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.3_001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "sci-fi"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.3_002",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "horror"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.3_003",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "autobiography"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.3_004",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "comedy"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.3_005",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "costume drama"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm-LH_TAT3_PH_U8.3_006",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "animated"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "RC - word bank",
+                  "textMode": "full article",
+                  "exerciseInstruction": "Match the pictures with the genre listed in the word bank.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "sci-fi",
+                        "horror",
+                        "autobiography",
+                        "comedy",
+                        "drama",
+                        "animated"
+                      ],
+                      "LKUs": [
+                        "horror",
+                        "fiction",
+                        "autobiography",
+                        "comedy",
+                        "drama",
+                        "animated"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

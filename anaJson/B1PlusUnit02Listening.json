@@ -1,0 +1,554 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 2,
+      "chapterTitle": "Experiences",
+      "chapterQuote": "Nothing is a waste of time if you use the experience wisely. Auguste Rodin",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about past experiences and things you want to do",
+        "talk about a life-changing decision",
+        "talk about an inspirational person",
+        "talk about solving a problem",
+        "ask for, give and refuse permission",
+        "write an informal email"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 2.1,
+          "sectionTitle": "Important decisions",
+          "sectionObjectives": [
+            "Talk about past experiences and things you want to do",
+            "Talk about a life-changing decision"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit2_Lesson2_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present perfect and simple past"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "’s and ’ve"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "collocations: making big decisions"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for the main idea"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "mm_LH_B1_plus_U2_1_Listening",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Match the words and phrases with the pictures (a–b).",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "a",
+                        "b"
+                      ],
+                      "columnB": [
+                        "a cruise along canals, freshwater, houseboat",
+                        "cross oceans, saltwater, yacht"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "mm_LH_B1_plus_U2_1_Listening",
+                  "setAudioNumber": 2.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U2.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Look at the pictures (a and b) and listen to a podcast interview with Emma. Match the picture to what it shows. ",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Picture a",
+                        "Picture b"
+                      ],
+                      "columnB": [
+                        "shows Emma’s current reality.",
+                        "shows Emma’s ultimate dream."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 2.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U2.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again. Look at the phrases from the podcast. Choose if the phrase is a main idea of Emma's story, or if it is a supporting idea.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I love swimming"
+                          ],
+                          "exerciseAnswers": "supporting idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "yachts are very expensive"
+                          ],
+                          "exerciseAnswers": "supporting idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "to make a decision to put a plan into action"
+                          ],
+                          "exerciseAnswers": "main idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "it won’t take me around the world"
+                          ],
+                          "exerciseAnswers": "supporting idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "to stay motivated and not lose heart"
+                          ],
+                          "exerciseAnswers": "main idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "learning to live in a small space"
+                          ],
+                          "exerciseAnswers": "supporting idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "doing something similar to my dream, it’s a start"
+                          ],
+                          "exerciseAnswers": "main idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "the hardest part of any journey is the first step"
+                          ],
+                          "exerciseAnswers": "main idea",
+                          "exerciseOptions": [
+                            "main idea",
+                            "supporting idea"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "LISTENING OR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 2.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U2.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "TSS dictate",
+                  "TSStype": "Story",
+                  "exerciseInstruction": "Listen again. Fill in the blanks from the summary of Emma's story.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Emma is 35 and she works in the advertising industry."
+                          ],
+                          "blankedWords": [
+                            "advertising"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "She loves swimming and diving. For the last few years, she’s been learning how to sail."
+                          ],
+                          "blankedWords": [
+                            "diving"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Her dream is to live on a yacht and sail around the world. She hasn’t bought a yacht yet because they are expensive."
+                          ],
+                          "blankedWords": [
+                            "expensive"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "She sold her house and bought a houseboat. The houseboat is an opportunity for Emma to learn to live on the water and move from place to place."
+                          ],
+                          "blankedWords": [
+                            "water"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "She is happy with her decision to buy a houseboat because it means that she has ‘made the break’ from the land to the water."
+                          ],
+                          "blankedWords": [
+                            "land",
+                            "water"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "F",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in groups and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 2.2,
+          "sectionTitle": "You can do it!",
+          "sectionObjectives": [
+            "Talk about an inspirational person",
+            "Talk about solving a problem"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit2_Lesson2_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "dependent prepositions; problems and solutions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress: verbs with two syllables"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present and past ability"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "deducing the meaning of unknown words from context"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "Word stress: verbs with two syllables",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": "",
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Look at the pictures (1–4). What are the people doing? What problems could they have when they do these things?",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR MAIN IDEA",
+                  "setImage": "",
+                  "setAudioNumber": 2.4,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U2.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "You are going to listen to four people talking about a challenge or problem. Complete the sentences with the phrases.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Matt solved a problem",
+                        "Suzanna solved a problem",
+                        "Nancy solved a problem",
+                        "Roberto solved a problem"
+                      ],
+                      "columnB": [
+                        "on his own",
+                        "by pretending to be a different person",
+                        "by using a different skill",
+                        "by taking classes"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 2.4,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U2.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again. Choose the correct words to complete the sentences.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Matt knew / didn’t know how to cook simple hot food."
+                          ],
+                          "exerciseAnswers": "didn't know",
+                          "exerciseOptions": [
+                            "knew",
+                            "didn't know"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "He found useful advice on the internet / TV."
+                          ],
+                          "exerciseAnswers": "internet",
+                          "exerciseOptions": [
+                            "internet",
+                            "TV"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Suzanna needed to give a speech at work / a family event."
+                          ],
+                          "exerciseAnswers": "a family event",
+                          "exerciseOptions": [
+                            "work",
+                            "a family event"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "She read / didn’t read her speech aloud from a script."
+                          ],
+                          "exerciseAnswers": "didn't read",
+                          "exerciseOptions": [
+                            "read",
+                            "didn't read"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Nancy knew a little / didn’t know any Chinese."
+                          ],
+                          "exerciseAnswers": "knew a little",
+                          "exerciseOptions": [
+                            "knew a little",
+                            "didn't know any"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "She made several / didn’t make any mistakes when she first sang to the children."
+                          ],
+                          "exerciseAnswers": "didn't make any",
+                          "exerciseOptions": [
+                            "make several",
+                            "didn't make any"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "When Roberto was a child, he tried / didn’t try to learnto swim."
+                          ],
+                          "exerciseAnswers": "didn't try",
+                          "exerciseOptions": [
+                            "tried",
+                            "didn't try"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "He has / still hasn’t swum in the ocean."
+                          ],
+                          "exerciseAnswers": "has",
+                          "exerciseOptions": [
+                            "has",
+                            "still hasn't"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

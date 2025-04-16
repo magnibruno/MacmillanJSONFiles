@@ -140,7 +140,7 @@
                           "exerciseInstruction": {
                             "type": ["string", "null"]
                           },
-                          "exerciseQuestion": {
+                          "sentences": {
                             "type": "string"
                           },
                           "exerciseMaxAnswer": {
@@ -163,7 +163,7 @@
                                 "sentenceOrdinal": {
                                   "type": "integer"
                                 },
-                                "exerciseQuestion": {
+                                "sentences": {
                                   "type": ["string", "null"]
                                 },
                                 "exerciseAnswers": {
@@ -194,7 +194,7 @@
                                   "type": "string"
                                 }
                               },
-                              "required": ["sentenceOrdinal", "exerciseQuestion", "exerciseAnswers", "exerciseMaxAnswer", "exerciseMinAnswer", "LKUs"]
+                              "required": ["sentenceOrdinal", "sentences", "exerciseAnswers", "exerciseMaxAnswer", "exerciseMinAnswer", "LKUs"]
                             }
                           },
                           "explanationBox": {

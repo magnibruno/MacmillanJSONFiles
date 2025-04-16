@@ -1,0 +1,448 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 8,
+      "chapterTitle": "Innovation",
+      "chapterQuote": "To invent, you need a good imagination and a pile of junk. Thomas Edison",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "explain how an invention works",
+        "suggest and evaluate creative ideas",
+        "use positive language to promote a new product",
+        "give a friend advice about choosing a gadget",
+        "give and follow instructions",
+        "write a biography"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 8.1,
+          "sectionTitle": "Making a difference",
+          "sectionObjectives": [
+            "Explain how an invention works",
+            "Suggest and evaluate creative ideas"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit8_Lesson8_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "word families; creative thinking"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "adjective clauses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "adjective clauses"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for problems and solutions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. The pictures show some techniques for becoming more creative. What do you think the techniques are?",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR GIST",
+                  "setImage": "mm_LH_B1_plus_U8_1_Listening",
+                  "setAudioNumber": 8.3,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U8.1_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Listen to a conversation between two friends, Caroline and Toby. Match the images (a-f) with the technique they show.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "a",
+                        "b",
+                        "c",
+                        "d",
+                        "e",
+                        "f"
+                      ],
+                      "columnB": [
+                        "Take a break from working",
+                        "Get some physical exercise",
+                        "Look at blue things",
+                        "Look at the problem from the outside, to take away the emotions",
+                        "Discuss your ideas with other people",
+                        "The alphabet technique"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.3,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U8.1_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again. What was the solution to each problem?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "You don’t learn how to be creative at school."
+                          ],
+                          "exerciseAnswers": "Read books about creativity.",
+                          "exerciseOptions": [
+                            "Write stories and design clothes.",
+                            "Go to creativity classes.",
+                            "Read books about creativity."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "You’re too busy to stop working."
+                          ],
+                          "exerciseAnswers": "Take a break to make yourself more productive.",
+                          "exerciseOptions": [
+                            "Take a break to make yourself more productive.",
+                            "Work in the evenings so you can have a break during the day.",
+                            "Relax – your work isn’t as important as you think."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Your brain is filled with too much information."
+                          ],
+                          "exerciseAnswers": "Get some physical exercise.",
+                          "exerciseOptions": [
+                            "Get some physical exercise.",
+                            "Watch TV and play games on your phone.",
+                            "Turn off your computer."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "You need to think outside the box."
+                          ],
+                          "exerciseAnswers": "Look at blue things.",
+                          "exerciseOptions": [
+                            "Go to the library to get some ideas.",
+                            "Look at blue things.",
+                            "Listen to some music."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "You have no ideas at all."
+                          ],
+                          "exerciseAnswers": "Use letters of the alphabet to generate ideas.",
+                          "exerciseOptions": [
+                            "Discuss your ideas with a group of friends.",
+                            "Close your eyes for a few minutes.",
+                            "Use letters of the alphabet to generate ideas."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Which of Caroline’s techniques have you used? Which might you use in the future? Tell your partner.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.2,
+          "sectionTitle": "Must-have gadgets",
+          "sectionObjectives": [
+            "Use positive language to promote a new product",
+            "Give a friend advice about choosing a gadget"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit8_Lesson8_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "positive adjectives"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "’ll and won’t"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "zero and first conditionals; conditionals with modals and imperatives"
+            },
+            {
+              "skillType": "S",
+              "skillName": "reading",
+              "skillTitle": "topic sentences"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Look at the pictures of inventions (a–d) and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR THE MAIN IDEA",
+                  "setImage": null,
+                  "setAudioNumber": 8.4,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U8.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - question dictate",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Listen to a podcast about new gadgets and answer the questions.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which gadgets from the pictures do the people discuss?"
+                          ],
+                          "blankedWords": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "They discuss the umbrella (Oombrella) and the dog bowl."
+                          ],
+                          "blankedWords": [
+                            "umbrella",
+                            "dog",
+                            "bowl"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "What is special about them?"
+                          ],
+                          "blankedWords": [],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "The Oombrella is connected to the internet. CleverPet entertains dogs and cats with puzzles – they have to press buttons to win food."
+                          ],
+                          "blankedWords": [
+                            "connected",
+                            "internet",
+                            "dogs",
+                            "cats"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.4,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U8.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again. Which gadgets do these sentences describe? Choose Oombrella, CleverPet or both.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "It looks beautiful."
+                          ],
+                          "exerciseAnswers": "Oombrella",
+                          "exerciseOptions": [
+                            "Oombrella",
+                            "CleverPet",
+                            "both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "It’s connected to the internet."
+                          ],
+                          "exerciseAnswers": "both",
+                          "exerciseOptions": [
+                            "Oombrella",
+                            "CleverPet",
+                            "both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "It sends messages to your phone."
+                          ],
+                          "exerciseAnswers": "Oombrella",
+                          "exerciseOptions": [
+                            "Oombrella",
+                            "CleverPet",
+                            "both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "It’s useful for many years."
+                          ],
+                          "exerciseAnswers": "both",
+                          "exerciseOptions": [
+                            "Oombrella",
+                            "CleverPet",
+                            "both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "It gets more difficult to use over time."
+                          ],
+                          "exerciseAnswers": "CleverPet",
+                          "exerciseOptions": [
+                            "Oombrella",
+                            "CleverPet",
+                            "both"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "It can lead to a longer life."
+                          ],
+                          "exerciseAnswers": "CleverPet",
+                          "exerciseOptions": [
+                            "Oombrella",
+                            "CleverPet",
+                            "both"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in groups and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

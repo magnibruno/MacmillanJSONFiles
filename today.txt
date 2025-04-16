@@ -1,0 +1,30 @@
+*check grammar exercises*
+
+2 days of work
+create images mechanism
+create audio mechanism 
+
+1 day of work
+TextSB (already have all information)
+
+1 day of work
+Speak (talk with Michal)
+	ts as usual	
+	UpdateAudioTables we need to set the dialect
+textSpeak (talk with Michal)
+
+
+LC - question dictate
+LC - multiple choice
+LC - TSS dictate
+LC - match
+
+?? tipo TSS dicate/without audio
+
+
+
+
+
+
+
+

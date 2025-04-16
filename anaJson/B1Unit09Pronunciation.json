@@ -1,0 +1,552 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 9,
+      "chapterTitle": "MONEY",
+      "chapterQuote": "Money often costs too much. Ralph Waldo Emerson",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about attitudes toward money and about spending money",
+        "talk about philanthropy and charities",
+        "discuss your skills and how they could help others",
+        "go shopping for clothes and ask for a refund",
+        "write a ‘for sale’ advertisement"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 9.1,
+          "sectionTitle": "Spending Money",
+          "sectionObjectives": [
+            "Talk about attitudes toward money and about spending money"
+          ],
+          "GKU": "Language_Hub_B1_Unit9_Lesson9_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "prepositions in money phrases"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɑː/, /ʌ/ and /æ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "second conditional"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ɑː/, /ʌ/ and /æ/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the letters in parenthesis. What sound do they make?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which vowel sound is in 'after'?"
+                          ],
+                          "exerciseAnswers": "Short 'a' sound (as in 'cat')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'father')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which vowel sound is in 'discover' (the 'o' sound)?"
+                          ],
+                          "exerciseAnswers": "Short 'u' sound (as in 'cup')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'father')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Which vowel sound is in 'happiness' (the 'a' sound)?"
+                          ],
+                          "exerciseAnswers": "Short 'a' sound (as in 'cat')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'father')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Which vowel sound is in 'last' (the 'a' sound)?"
+                          ],
+                          "exerciseAnswers": "Long 'a' sound (as in 'car')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'car')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Which vowel sound is in 'money' (the 'o' sound)?"
+                          ],
+                          "exerciseAnswers": "Short 'u' sound (as in 'cup')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'car')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Which vowel sound is in 'much' (the 'u' sound)?"
+                          ],
+                          "exerciseAnswers": "Short 'u' sound (as in 'cup')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'car')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "Which vowel sound is in 'past' (the 'a' sound)?"
+                          ],
+                          "exerciseAnswers": "Long 'a' sound (as in 'car')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'car')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "Which vowel sound is in 'travel' (the 'a' sound)?"
+                          ],
+                          "exerciseAnswers": "Same vowel sound as 'cat'",
+                          "exerciseOptions": [
+                            "Same vowel sound as 'car'",
+                            "Same vowel sound as 'cup'",
+                            "Same vowel sound as 'cat'"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "Which vowel sound is in 'up' (the 'u' sound)?"
+                          ],
+                          "exerciseAnswers": "Short 'u' sound (as in 'cup')",
+                          "exerciseOptions": [
+                            "Long 'a' sound (as in 'car')",
+                            "Short 'u' sound (as in 'cup')",
+                            "Short 'a' sound (as in 'cat')"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ɑː/, /ʌ/ and /æ/",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen again and repeat.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "after, discover, happiness, last"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "money, much, past, travel, up"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ɑː/, /ʌ/ and /æ/",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practice saying the sentences. Listen to your partner and check their pronunciation.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 9.2,
+          "sectionTitle": "Getting and giving",
+          "sectionObjectives": [
+            "Talk about philanthropy and charities"
+          ],
+          "GKU": "Language_Hub_B1_Unit9_Lesson9_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "essential adjective clauses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/s/ and /z/"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "verbs connected with money"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/s/ and /z/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the words. Do the letters in parenthesis make a /s/ or a /z/ sound?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which sound does the 'ss' in 'across' make?"
+                          ],
+                          "exerciseAnswers": "Unvoiced 's' sound (as in 'snake')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which sound does the 's' in 'baseball' make?"
+                          ],
+                          "exerciseAnswers": "Voiced 'z' sound (as in 'zebra')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Which sound does the 'c' in 'Facebook' make?"
+                          ],
+                          "exerciseAnswers": "Unvoiced 's' sound (as in 'snake')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Which sound does the 's' in 'givers' make?"
+                          ],
+                          "exerciseAnswers": "Voiced 'z' sound (as in 'zebra')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Which sound does the 's' in 'promise' make?"
+                          ],
+                          "exerciseAnswers": "Unvoiced 's' sound (as in 'snake')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Which sound does the 's' in 'raises' make?"
+                          ],
+                          "exerciseAnswers": "Voiced 'z' sound (as in 'zebra')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "Which sound does the 's' in 'visit' make?"
+                          ],
+                          "exerciseAnswers": "Voiced 'z' sound (as in 'zebra')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "Which sound does the 's' in 'same' make?"
+                          ],
+                          "exerciseAnswers": "Unvoiced 's' sound (as in 'snake')",
+                          "exerciseOptions": [
+                            "Unvoiced 's' sound (as in 'snake')",
+                            "Voiced 'z' sound (as in 'zebra')"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/s/ and /z/",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen again and repeat the words.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "across, also, baseball, Facebook"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "givers, promise, raises, salary"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "same, supports, Switzerland, visit"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 9.3,
+          "sectionTitle": "Who needs money?",
+          "sectionObjectives": [
+            "Discuss your skills and how they could help others"
+          ],
+          "GKU": "Language_Hub_B1_Unit9_Lesson9_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "make and do expressions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʒ/ and /dʒ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "gerunds"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "using context to guess unknown words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ʒ/ and /dʒ/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 9.5,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U9.3_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen carefully to two different speech sounds. Then, for each word, decide if it has the sound as in \"measure\" or the sound as in \"judge.\"",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which sound does the 'g' in 'exchange' make?"
+                          ],
+                          "exerciseAnswers": "Voiced 'j' sound (as in 'judge')",
+                          "exerciseOptions": [
+                            "Soft 'zh' sound (as in 'measure')",
+                            "Voiced 'j' sound (as in 'judge')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which sound does the 'g' in 'language' make?"
+                          ],
+                          "exerciseAnswers": "Soft 'zh' sound (as in 'measure')",
+                          "exerciseOptions": [
+                            "Soft 'zh' sound (as in 'measure')",
+                            "Voiced 'j' sound (as in 'judge')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Which sound does the 's' in 'decision' make?"
+                          ],
+                          "exerciseAnswers": "Soft 'zh' sound (as in 'measure')",
+                          "exerciseOptions": [
+                            "Soft 'zh' sound (as in 'measure')",
+                            "Voiced 'j' sound (as in 'judge')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Which sound does the 's' in 'Asia' make?"
+                          ],
+                          "exerciseAnswers": "Soft 'zh' sound (as in 'measure')",
+                          "exerciseOptions": [
+                            "Soft 'zh' sound (as in 'measure')",
+                            "Voiced 'j' sound (as in 'judge')"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Which sound does the 'gg' in 'suggest' make?"
+                          ],
+                          "exerciseAnswers": "Voiced 'j' sound (as in 'judge')",
+                          "exerciseOptions": [
+                            "Soft 'zh' sound (as in 'measure')",
+                            "Voiced 'j' sound (as in 'judge')"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ʒ/ and /dʒ/",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 9.6,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U9.3_001",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen, check and repeat the words.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "exchange, language, decision, Asia, suggest"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

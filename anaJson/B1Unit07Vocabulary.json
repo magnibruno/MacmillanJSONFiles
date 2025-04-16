@@ -1,0 +1,819 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 7,
+      "chapterTitle": "MIND",
+      "chapterQuote": "The greatest thing in life is to keep your mind young. Henry Ford",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "discuss what makes you happy",
+        "write an online comment about the effects of the internet",
+        "talk about intelligence and achievements",
+        "describe an object and say what you use it for",
+        "write a survey report"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 7.1,
+          "sectionTitle": "Smile",
+          "sectionObjectives": [
+            "Discuss what makes you happy"
+          ],
+          "GKU": "Language_Hub_B1_Unit7_Lesson7_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "feelings"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ə/ (schwa) in a / an"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "articles"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Feelings",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "A smile a day...",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "We all know that a cheerful state of mind makes us happy ...",
+                    "It helped the mind and body to feel relaxed and therefore showed trust between people.",
+                    "This stopped people from feeling scared of each other and helped people to connect."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Look at the sentences from 'A smile a day ...' Then choose the correct words to complete the sentences (1–3).",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "'Cheerful,' 'relaxed,' and 'scared' are ________.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "adjectives",
+                      "LKUs": [
+                        "adjectives",
+                        "nouns"
+                      ],
+                      "sentenceAnswerOptions": [
+                        "adjectives",
+                        "nouns"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "'Cheerful,' 'relaxed,' and 'scared' describe ________.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "feelings and states of mind",
+                      "LKUs": [
+                        "opinion",
+                        "feeling"
+                      ],
+                      "sentenceAnswerOptions": [
+                        "opinions",
+                        "feelings and states of mind"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Words like 'cheerful,' 'relaxed,' and 'scared' ________.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "can be positive or negative",
+                      "LKUs": [
+                        "positive",
+                        "negative"
+                      ],
+                      "sentenceAnswerOptions": [
+                        "are always positive",
+                        "are always negative",
+                        "can be positive or negative"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Feelings",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 149.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Feelings",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. When was the last time you felt anxious, confused, pleased, relaxed? Tell your partner.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Feelings",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the adjectives (1–6) with their meanings (a–f).",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "pleased",
+                        "cheerful",
+                        "confused",
+                        "anxious",
+                        "relaxed",
+                        "scared"
+                      ],
+                      "columnB": [
+                        "happy and satisfied",
+                        "behaving in a happy, friendly way",
+                        "unable to understand something or think clearly about it",
+                        "worried because you think something bad might happen",
+                        "calm and not worried",
+                        "frightened or worried"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Feelings",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the option that best answers the question below.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which words have a similar meaning as 'glad?'"
+                          ],
+                          "exerciseAnswers": "pleased, cheerful",
+                          "exerciseOptions": [
+                            "pleased, cheerful",
+                            "anxious, scared",
+                            "relaxed, confused"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which words have a similar meaning as 'nervous?'"
+                          ],
+                          "exerciseAnswers": "anxious, scared",
+                          "exerciseOptions": [
+                            "pleased, cheerful",
+                            "anxious, scared",
+                            "relaxed, confused"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Feelings",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with adjectives from the word bank",
+                  "wordBank": [
+                    "pleased",
+                    "cheerful",
+                    "confused",
+                    "anxious",
+                    "scared"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I am feeling anxious because I have an exam tomorrow."
+                          ],
+                          "blankedWords": [
+                            "anxious"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Olaf's finished all of his work, so he's in a cheerful mood."
+                          ],
+                          "blankedWords": [
+                            "cheerful"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I’m not going anywhere near that spider – I’m too scared!"
+                          ],
+                          "blankedWords": [
+                            "scared"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I don’t understand these questions – they just make me feel confused."
+                          ],
+                          "blankedWords": [
+                            "confused"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Jordi’s really pleased now that he has pased his driving test."
+                          ],
+                          "blankedWords": [
+                            "pleased"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.2,
+          "sectionTitle": "The internet and the brain",
+          "sectionObjectives": [
+            "Write an online comment about the effects of the internet"
+          ],
+          "GKU": "Language_Hub_B1_Unit7_Lesson7_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "used to"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "used to"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "shortened words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Shortened words",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": null,
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - question dictate",
+                  "exerciseInstruction": "Look at the sentence below. What are the words 'net' and 'site' short for?",
+                  "TSStype": "dialogue",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "What is the word 'net' short for?",
+                            "'Net' is short for internet."
+                          ],
+                          "blankedWords": [
+                            "internet"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "What is the word 'site' short for?",
+                            "'Site' is short for website."
+                          ],
+                          "blankedWords": [
+                            "website"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Shortened words",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on pages 149 and 150.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Shortened words",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Discuss the questions.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Shortened words",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": null,
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the correct words.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The shortened form of 'internet' is net."
+                          ],
+                          "blankedWords": [
+                            "net"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "The shortened form of 'website' is site."
+                          ],
+                          "blankedWords": [
+                            "site"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "The shortened form of 'laboratory' is lab."
+                          ],
+                          "blankedWords": [
+                            "lab"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "The shortened form of 'suitcase' is case."
+                          ],
+                          "blankedWords": [
+                            "case"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "The shortened form of 'microphone' is mic."
+                          ],
+                          "blankedWords": [
+                            "mic"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "The shortened form of 'introduction' is intro."
+                          ],
+                          "blankedWords": [
+                            "intro"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "The shortened form of 'newspaper' is paper."
+                          ],
+                          "blankedWords": [
+                            "paper"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "The shortened form of 'airplane' is plane."
+                          ],
+                          "blankedWords": [
+                            "plane"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "The shortened form of 'information' is info."
+                          ],
+                          "blankedWords": [
+                            "info"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 10,
+                          "sentences": [
+                            "The shortened form of 'cell phone' is phone."
+                          ],
+                          "blankedWords": [
+                            "phone"
+                          ],
+                          "hints": [
+                            "p"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Shortened words",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "exerciseInstruction": "Complete the sentences with the shortened word from the word bank.",
+                  "TSStype": "TS_GROUP",
+                  "wordBank": [
+                    "net",
+                    "intro",
+                    "site",
+                    "lab",
+                    "case",
+                    "cell",
+                    "mic",
+                    "news",
+                    "plane",
+                    "info"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We need more info before we can make a final decision."
+                          ],
+                          "blankedWords": [
+                            "info"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "The singer dropped the mic halfway through the song."
+                          ],
+                          "blankedWords": [
+                            "mic"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "So many of the sites on the net are basically just full of pitures of people's cats."
+                          ],
+                          "blankedWords": [
+                            "net",
+                            "sites"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I asked the staff to let me take my case on to the plane as carry-on luggage."
+                          ],
+                          "blankedWords": [
+                            "case",
+                            "plane"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Read the intro to this article in the paper and see if you can understand it."
+                          ],
+                          "blankedWords": [
+                            "paper",
+                            "intro"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "My parents are going to buy me a new phone when I start working in the lab at college."
+                          ],
+                          "blankedWords": [
+                            "phone",
+                            "lab"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.3,
+          "sectionTitle": "Intelligence",
+          "sectionObjectives": [
+            "Talk about intelligence and achievements"
+          ],
+          "GKU": "Language_Hub_B1_Unit7_Lesson7_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "phrasal verbs"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "practicing the: /ðiː/ or /ðə/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "no article (school, the school)"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "listening for the order of events"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Phrasal Verbs",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the phrasal verb with its definition.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "grew up",
+                        "brought up",
+                        "gave up",
+                        "made up",
+                        "dropped out",
+                        "falling out"
+                      ],
+                      "columnB": [
+                        "spent his childhood",
+                        "took care of him until he became an adult",
+                        "stopped doing something",
+                        "invented",
+                        "left something before finishing it",
+                        "Stopped being friendly because he had had a disagreement with them"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Phrasal Verbs",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the correct form of the phrasal verb.",
+                  "wordBank": [
+                    "grow up",
+                    "bring up",
+                    "give up",
+                    "make up",
+                    "drop out",
+                    "fall out"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Where did you grow up? What is the neighborhood like? Do you still live there?"
+                          ],
+                          "blankedWords": [
+                            "grow"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Who brought you up? Do you have a big family or a small family?"
+                          ],
+                          "blankedWords": [
+                            "brought"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Name something you have given up. When and why did you stop doing it?"
+                          ],
+                          "blankedWords": [
+                            "given"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "When you were a child, did you play traditional games or did you make up your own games?"
+                          ],
+                          "blankedWords": [
+                            "make"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Do you know anyone who dropped out of school or college? Why didn't they finish?"
+                          ],
+                          "blankedWords": [
+                            "drop"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Have you ever had a falling out with someone? Did you become friends again?"
+                          ],
+                          "blankedWords": [
+                            "falling"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Phrasal Verbs",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Ask and answer the questions in Exercise B.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

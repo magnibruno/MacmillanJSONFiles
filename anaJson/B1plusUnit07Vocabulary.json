@@ -1,0 +1,624 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 7,
+      "chapterTitle": "Food",
+      "chapterQuote": "So long as you have food in your mouth, you have solved all questions for the time being.",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about eating out",
+        "make speculations and deductions about food",
+        "compare different types of food",
+        "compare a range of solutions and choose the best one",
+        "make suggestions",
+        "write a reply in an online discussion forum"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 7.1,
+          "sectionTitle": "Eating out",
+          "sectionObjectives": [
+            "Talk about eating out",
+            "Make speculations and deductions about food"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit7_Lesson7_1",
+          "sectionSkills": [
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "diphthongs; word stress with modals"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "modals of speculation and deduction"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "phrasal verbs; adjectives to describe food"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "hidden contrasts"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Look at Super supper clubs. Find sentences that have the same meaning as the ones below.",
+                  "paragraphSubtitles": [
+                    "Super supper clubs."
+                  ],
+                  "paragraphContents": [
+                    "Anti-restaurants. Underground restaurants. Pop-up restaurants. Guestaurants. Whatever you call them, there’s no doubt that supper clubs are one of the hottest trends in eating out today."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "The idea is simple: instead of going to a traditional restaurant, you eat in the chef’s home. Instead of choosing a dish from a menu, you eat what the chef gives you. And instead of sitting quietly at separate tables, all the customers eat together, talking and making friends. But if that sounds like your perfect evening, there’s some bad news . You can’t just show up when you’re feeling hungry; you’ll need to join a waiting list and then wait for an invitation from the chef."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "The modern idea of supper clubs took off in Cuba in the 1990s. Cuba now has a huge amount of supper clubs, or paladares. Most of them started off as simply a room in the chef’s home. They’re popular with tourists, as well as people who want a simple home-cooked meal at a fair price. One of Cuba’s best paladares is Castas y Tal, on the 11th floor of a large apartment building in central Havana. The main restaurant area has only eight seats, but there are wonderful views of the city below."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "For chefs, supper clubs clearly seem like a great idea. They’re fairly cheap and easy to set up because the chef can do everything at home. Instead of having to cook the same food again and again, supper clubs give chefs control over what to cook. Customers don’t mind giving up some choice because they know they’ll eat amazing food that they’ve never eaten before. They might not like it, but at least it won’t be boring."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "At the St. Jude Project in Mumbai, India, Chef Gresham Fernandes tries out ideas while he’s cooking … and even while he’s serving up the meal! He cooks in front of the guests, explaining what he’s doing as he works."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "So next time you’re feeling adventurous, why not visit a supper club? It’s sure to be an experience you won’t forget!"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "textImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - highlight",
+                  "exerciseInstruction": "Look at Super supper clubs again. Find sentences that have the same meaning as the ones below.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "You can’t just arrive without making a reservation when you’re feeling hungry.",
+                      "exerciseMaxAnswer": "You can’t just show up when you’re feeling hungry",
+                      "exerciseMinAnswer": "show up",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "show up"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "The modern idea of supper clubs really became popular in Cuba in the 1990s.",
+                      "exerciseMaxAnswer": "The modern idea of supper clubs took off in Cuba in the 1990s.",
+                      "exerciseMinAnswer": "took off",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "took off"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Most of them began their existence as simply a room in the chef’s home.",
+                      "exerciseMaxAnswer": "Most of them started off as simply a room in the chef’s home.",
+                      "exerciseMinAnswer": "started off",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "started off"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "They’re fairly cheap and easy to get ready to start.",
+                      "exerciseMaxAnswer": "They’re fairly cheap and easy to set up",
+                      "exerciseMinAnswer": "set up",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "set up"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Customers don’t mind losing some choice.",
+                      "exerciseMaxAnswer": "Customers don’t mind giving up some choice",
+                      "exerciseMinAnswer": "giving up",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "give up"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Chef Gresham Fernandes experiments with ideas while he’s cooking … and even while he’s putting the food on plates.",
+                      "exerciseMaxAnswer": "Chef Gresham Fernandes tries out ideas while he’s cooking … and even while he’s serving up the meal!",
+                      "exerciseMinAnswer": "tries out ideas while he’s cooking … and even while he’s serving up",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "try out",
+                        "serve up"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Phrasal verbs",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Phrasal verbs",
+                  "paragraphSubtitles": [
+                    "Read the rules about phrasal verbs. Then complete the examples with phrasal verbs"
+                  ],
+                  "paragraphContents": [
+                    "Phrasal verbs are usually made of two parts: a verb (e.g. work, try) and a particle (e.g. out, up)."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Sometimes it’s possible to guess the meaning from the two words, but usually you just need to learn the meaning of the whole phrasal verb:",
+                    "You can’t just turn up at their house! Always call first to check it’s OK."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Some phrasal verbs can have an object. When the object is short (e.g. a pronoun or one or two words), it usually comes in the middle:",
+                    "I have lots of ideas and I like to try them out while I’m cooking."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "But when the object is a longer phrase, it usually comes at the end:",
+                    "I like to try out lots of new ideas while I'm cooking."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Read the rules about phrasal verbs. Then complete the examples with the correct phrasal verbs.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "turn",
+                        "up",
+                        "try",
+                        "out"
+                      ],
+                      "LKUs": [
+                        "turn up",
+                        "try out"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Phrasal verbs",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 145.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Phrasal verbs",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "vocabularyHub": false,
+                  "exerciseInstruction": "Complete the questions with the correct phrasal verbs. Then work in pairs and ask and answer the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Adjectives to describe food",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in groups. Look at the pictures and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Adjectives to describe food",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 145.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Adjectives to describe food",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "textSB",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Many food adjectives end in -y (e.g. spicy). Complete the sentences with the missing adjectives. Use the words in the parentheses to help you.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I didn’t think this soup would taste very nice, but in fact it’s really tasty! (taste)"
+                          ],
+                          "blankedWords": [
+                            "tasty"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Honey is very sticky. It sticks to the bread like glue! (sticks)"
+                          ],
+                          "blankedWords": [
+                            "sticky"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I really love cheesy pizza, so I always ask for extra cheese on the top. (cheese)"
+                          ],
+                          "blankedWords": [
+                            "cheesy"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "This creamy sauce is too rich for me. How much cream did you put into it? (cream)"
+                          ],
+                          "blankedWords": [
+                            "creamy"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Adjectives to describe food",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Think of some types of food and drinks that these adjectives might describe. Use the glossary to help you.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Adjectives to describe food",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Use adjectives to describe:",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Adjectves to describe food",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "exerciseInstruction": "Complete the sentences with the adjectives in the box",
+                  "TSStype": "TS_GROUP",
+                  "wordBank": [
+                    "delicious",
+                    "disgusting",
+                    "filling",
+                    "mild",
+                    "savory",
+                    "sour"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Our bakery sells a mix of sweet products, like cakes and fruit pies, and savory products, like bread and meat pies."
+                          ],
+                          "blankedWords": [
+                            "savory"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Do you prefer strong flavors or mild flavors?"
+                          ],
+                          "blankedWords": [
+                            "mild"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Mmm … I love this meal. It’s absolutely delicious!"
+                          ],
+                          "blankedWords": [
+                            "delicious"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I love sour food like lemons, grapefruit and pickled cabbage."
+                          ],
+                          "blankedWords": [
+                            "sour"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Ugh! How long has this milk been in the fridge? Two weeks? It tastes disgusting!"
+                          ],
+                          "blankedWords": [
+                            "disgusting"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "This meal is great but it’s very filling – I feel completely full already."
+                          ],
+                          "blankedWords": [
+                            "filling"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.2,
+          "sectionTitle": "Food fads",
+          "sectionObjectives": [
+            "Compare different types of food",
+            "Compare a range of solutions and choose the best one"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit7_Lesson7_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "comparatives and superlatives; the …, the …"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "vowel + w"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "waste"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "identifying people’s opinions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Waste",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the definitions with the words and phrases",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "to not use something that you could use",
+                        "a container for putting garbage in",
+                        "things that you throw away because they are no longer useful",
+                        "to use all of something, so there’s no waste",
+                        "to change waste materials such as newspapers and bottles so that they can be used again",
+                        "to use something again",
+                        "to use less of something",
+                        "to get rid of something that you no longer want"
+                      ],
+                      "columnB": [
+                        "waste",
+                        "garbage can",
+                        "garbage",
+                        "use up",
+                        "recycle",
+                        "reuse",
+                        "reduce",
+                        "throw away"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Waste",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "vocabularyHub": false,
+                  "exerciseInstruction": "Complete the questions with one word in each space. Then work in pairs and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

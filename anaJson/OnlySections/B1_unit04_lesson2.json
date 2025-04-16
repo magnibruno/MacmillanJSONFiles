@@ -1,0 +1,170 @@
+{
+	"sectionNumber": 4.2,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "The future of free time",
+	"sectionObjective": "Present reasons to support or argue against predictions.",
+	"GKU": "Language_Hub_B1_Unit4_Lesson4_2",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "making predictions"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "suffixes"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Reading",
+			"skillTitle": "predictions"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "will and won't"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Work–life balance",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Everybody loves long weekends, so why do they happen so rarely? When we have three full days off work, there is more time to relax and spend time with friends and family. The good news is that some people think it might not be long until every weekend is a long weekend."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Experts and business leaders predict that better technology will do more of our work for us. This will allow us to have shorter workweeks in the future. In fact, it is already beginning to happen. Carlos Slim, the famous Mexican telecoms billionaire, has introduced a shorter week for some of his older, more experienced employees. In Japan, companies such as car maker Toyota have found that working shorter hours leads to happier employees, and higher profits."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"A better work–life balance won’t be the only good thing about shorter workweeks. Offices will use less energy for lighting, computers and air conditioning. Also, there will be fewer car trips to work, which is better for the environment."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "Robot relationships",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Meet Pepper, the world’s friendliest robot. Pepper’s Japanese makers say the cute little robot can understand 70–80 percent of conversations with a human. They even say Pepper can understand when someone is happy or sad. And this is just the beginning. Experts predict that in the future, humans will probably develop close relationships with robots."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Right now, most of the robots in Japan look like Pepper, but it definitely won’t be long until robots look, sound and move like humans. Erica, a robot developed by Professor Hiroshi Ishiguro of Osaka University, can show basic feelings on her face and gives us a better idea of what is already possible."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Experts such as Ishiguro think that developments in technology might help scientists to make machines that really understand human feelings. This means your robot might be able to figure out if you are happy or sad and use this information to talk and behave like a friend. That could make it possible for robots to take care of people. Some experts even believe that one day it may be possible for robots to feel love."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Agree or disagree with the following sentences. Why/Why not?"
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": null,
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Work in groups. Student A go to page 156, Student B go to page 153 and Student C go to page 152. Read your article and discuss the questions below.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What does the first article say about our social lives?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "People will have shorter workweeks in the future.",
+							"LKUs": [
+								"short",
+								"worweek"
+							],
+							"sentenceAnswerOptions": [
+								"People will have shorter workweeks in the future.",
+								"Humans will develop relationships with robots."
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What role will technology play according to the second article?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Robots will take care of people.",
+							"LKUs": [
+								"role",
+								"technology"
+							],
+							"sentenceAnswerOptions": [
+								"Robots will take care of people.",
+								"Robots will replace people at work."
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "What possible benefits of the development does the first article mention?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "It will help the environment.",
+							"LKUs": [
+								"benefit"
+							],
+							"sentenceAnswerOptions": [
+								"It will help the environment.",
+								"People will live a healthier lifestyle."
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. Discuss your article and the following questions."
+				}
+			]
+		}
+	]
+}

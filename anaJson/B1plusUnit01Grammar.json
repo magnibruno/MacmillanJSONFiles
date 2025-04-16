@@ -1,0 +1,639 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 1,
+      "chapterTitle": "Communication",
+      "chapterQuote": "Wise men speak because they have something to say; fools because they have to say something. Plato",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "update your status on social media",
+        "make a short podcast",
+        "plan and conduct an interview",
+        "use rhetorical questions in a presentation",
+        "ask for, offer and respond to help",
+        "write a report about trends"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 1.1,
+          "sectionTitle": "Communication today",
+          "sectionObjectives": [
+            "Update your status on social media",
+            "Make a short podcast"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit1_Lesson1_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "simple present and present progressive"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "seeing and hearing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "schwa /ə/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening to check predictions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Simple present and present progressive",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Which verbs are in the simple present? Which are in the present progressive?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "have, get up, take, watch, show"
+                          ],
+                          "exerciseAnswers": "simple present",
+                          "exerciseOptions": [
+                            "simple present",
+                            "present progressive"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I'm writing, I'm smiling, we're getting"
+                          ],
+                          "exerciseAnswers": "present progressive",
+                          "exerciseOptions": [
+                            "simple present",
+                            "present progressive"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I'm not complaining, is becoming, I'm thinking"
+                          ],
+                          "exerciseAnswers": "present progressive",
+                          "exerciseOptions": [
+                            "simple present",
+                            "present progressive"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "think, understand, talk, love"
+                          ],
+                          "exerciseAnswers": "simple present",
+                          "exerciseOptions": [
+                            "simple present",
+                            "present progressive"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Simple present and present progressive",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the sentences with the rules.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "In the picture, you can see I’m smiling.",
+                        "I know what you mean about our ‘perfect lives’.",
+                        "But now I’m writing this post, …",
+                        "You have such a perfect life!",
+                        "I get up early every day.",
+                        "So now we’re getting worried about money."
+                      ],
+                      "columnB": [
+                        "We use the present progressive with dynamic verbs to describe actions in a picture, video, etc.",
+                        "Stative verbs (want, seem) frequently describe feelings and ideas. We use the simple present with stative verbs.",
+                        "We use the present progressive with dynamic verbs to talk about actions that are in progress at the moment of speaking or writing. ",
+                        "A few verbs (have, look, speak, think) have two or more meanings. They are sometimes dynamic verbs and sometimes stative verbs.",
+                        "We use the simple present with dynamic verbs to talk about actions that always, usually or never happen.",
+                        "We use the present progressive with dynamic verbs to describe trends (e.g. something is happening more and more these days). "
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Simple present and present progressive",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Find at least one more example of each rule (2–5) in the posts.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Simple present and present progressive",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": null,
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 122.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Simple present and present progressive",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Are the verbs stative verbs (S) or dynamic verbs (D)?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "contain"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "cost"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "depend"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "deserve"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "enjoy"
+                          ],
+                          "exerciseAnswers": "D",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "happen"
+                          ],
+                          "exerciseAnswers": "D",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "include"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "mean"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "own"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 10,
+                          "sentences": [
+                            "relax"
+                          ],
+                          "exerciseAnswers": "D",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 11,
+                          "sentences": [
+                            "seem"
+                          ],
+                          "exerciseAnswers": "S",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 12,
+                          "sentences": [
+                            "shine"
+                          ],
+                          "exerciseAnswers": "D",
+                          "exerciseOptions": [
+                            "S",
+                            "D"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }                
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Simple present and present progressive",
+              "sets": [
+                {
+                  "setMarker": "F",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "SPEAK",
+                  "exerciseInstruction": "Work in groups and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+            ]
+        },
+        {
+          "sectionNumber": 1.2,
+          "sectionTitle": "Who owns English?",
+          "sectionObjectives": [
+            "Plan and conduct an interview",
+            "Use rhetorical questions in a presentation"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit1_Lesson1_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "pronouncing questions"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "languages"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "rhetorical questions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "A",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "audioNumberOrdinal": "",
+                  "setIgnore": false,
+                  "exerciseType": "SORT TU",
+                  "exerciseInstruction": "Put the words in the correct order to make questions. Then listen to the interview again and check your answers.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "Can I aks you a few questions?"
+                      ],
+                      "wordBank": [
+                        "you",
+                        "I",
+                        "a",
+                        "questions",
+                        "ask",
+                        "can",
+                        "few"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "Which countries did you visit?"
+                      ],
+                      "wordBank": [
+                        "countries",
+                        "did",
+                        "which",
+                        "visit",
+                        "you"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "What happened in England?"
+                      ],
+                      "wordBank": [
+                        "England",
+                        "happened",
+                        "what",
+                        "in"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "How is English changing?"
+                      ],
+                      "wordBank": [
+                        "changing",
+                        "English",
+                        "is",
+                        "how"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "Who uses MLE?"
+                      ],
+                      "wordBank": [
+                        "MLE",
+                        "uses",
+                        "who"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "What do you mean by 'Standard English?'"
+                      ],
+                      "wordBank": [
+                        "mean",
+                        "do",
+                        "Standard English",
+                        "by",
+                        "you",
+                        "what"
+                      ]
+                    },
+                    {
+                      "sentenceOrdinal": 7,
+                      "sentences": [
+                        "So are you saying we need to learn non-standard English?"
+                      ],
+                      "wordBank": [
+                        "to",
+                        "you",
+                        "need",
+                        "non-standard English",
+                        "saying",
+                        "are",
+                        "learn",
+                        "we",
+                        "so"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the questions to the correct rules.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Can I ask you a few questions?",
+                        "Which countries did you visit?",
+                        "What happened in England?"
+                      ],
+                      "columnB": [
+                        "When we make questions in English, we usually put the auxiliary verb (be, have, can) before the subject.",
+                        "In sentences with no auxiliary verb, we add do, does, or did when we make a question.",
+                        "When the question is about the subject, we use the same word order as in sentences. We don’t add do, does or did."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "PRACTICE",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Make questions about the missing information.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "(Somebody) writes a blog for a website."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Who writes a blog for a website?"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "Juan visited (a number of countries)."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "How many countries did Juan visit?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "You (can/can’t) give me an example."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Can you give me an example?"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "(A form of English) is becoming popular in London."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Which form of English is becoming popular in London?"
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "(A number of people) speak non-standard English."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "How many people speak non-standard English?"
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "Most native speakers (speak/don’t speak) Standard English."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Do most native speakers speak Standard English?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 122.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "SPEAK Work in pairs. Student A – go to the Communication Hub on page 149. Student B – go to the Communication Hub on page 150.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }  
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1018 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 4,
+      "chapterTitle": "Socializing",
+      "chapterQuote": "Man is by nature a social animal. Aristotle  ",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about plans you have made for a weekend with visitors",
+        "present reasons to support or argue against predictions",
+        "ask and answer questions about how you like to spend your free time",
+        "make arrangements to meet up with somebody",
+        "write an invitation and reply"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 4.1,
+          "sectionTitle": "What’s the plan?",
+          "sectionObjectives": [
+            "Talk about plans you have made for a weekend with visitors"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "free time"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "be going to + base form and present progressive for the future"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "going to"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "be going to + base form and present progressive for the future",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "be going to + base form and present progressive for the future",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Read the definitions. Then look at the sentences and decide if they are arrangements or intentions."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Arrangements – you have probably booked a ticket or agreed on a time with other people. You usually mention a time, date or place."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Intentions – you have already decided to do something and want to tell someone about it. You don’t need to mention a time, date or place."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Read the definitions. Then look at the sentences and decide if they are arrangements (A) or intentions (I).",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "I’m going to introduce you to all my new friends as ‘Greggy’.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "intention",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "arrangement",
+                        "intention"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Tomorrow evening, she’s having dinner with some old friends.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "arrangement",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "arrangement",
+                        "intention"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "I think I’m going to bring Mom and Dad here, too.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "intention",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "arrangement",
+                        "intention"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We’re meeting Duncan and Alicia at three o’clock.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "arrangement",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "arrangement",
+                        "intention"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Alicia says she and Duncan are going to open a restaurant one day.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "intention",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "arrangement",
+                        "intention"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "be going to + base form and present progressive for the future",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We use be going to + base form to talk about arrangements / intentions."
+                          ],
+                          "exerciseAnswers": "intentions",
+                          "exerciseOptions": [
+                            "arrangements",
+                            "intentions"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "We use the present progressive (be + verb + -ing) to talk about arrangements / intentions."
+                          ],
+                          "exerciseAnswers": "arrangements",
+                          "exerciseOptions": [
+                            "arrangements",
+                            "intentions"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "be going to + base form and present progressive for the future",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 126.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "be going to + base form and present progressive for the future",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the sentences so that they are correct.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "I’m going to introducing you to my friends."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I’m going to introduce you to my friends."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "She going to the theater with Alice tonight."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "She is going to the theater with Alice tonight."
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "We meet Pamela at 4 pm this afternoon."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "We are meeting Pamela at 4 pm this afternoon."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "They going to cook pizza for everyone."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "They are going to cook pizza for everyone."
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "She’s going buy a cake for his birthday."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "She’s going to buy a cake for his birthday."
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "What time we meeting for lunch?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "What time are we meeting for lunch?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.2,
+          "sectionTitle": "The future of free time",
+          "sectionObjectives": [
+            "Present reasons to support or argue against predictions"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "making predictions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "will and won’t"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "suffixes"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Making predictions",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the sentences from the articles about the future of our social lives. Which verbs are the modal verbs used to make predictions?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The good news is some people think it might not be long until every weekend is a long weekend."
+                          ],
+                          "exerciseAnswers": "might",
+                          "exerciseOptions": [
+                            "is",
+                            "might",
+                            "think"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "However, experts agree that the way we use social media will change in the future."
+                          ],
+                          "exerciseAnswers": "will",
+                          "exerciseOptions": [
+                            "will",
+                            "agree",
+                            "use"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Some experts even believe that one day it may be possible for robots to feel love."
+                          ],
+                          "exerciseAnswers": "may",
+                          "exerciseOptions": [
+                            "believe",
+                            "may",
+                            "feel"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Making predictions",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Find and underline four more examples of modal verbs in one of the articles you read in Reading Exercise B. Then work in pairs and compare your answers.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Making predictions",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the rules with will, might or may.",
+                  "wordBank": [
+                    "will",
+                    "might",
+                    "may"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We use will (not) + the base form of a verb when we are certain about our prediction."
+                          ],
+                          "blankedWords": [
+                            "will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "We use might or may (not) + the base form of a verb when we are less certain about our prediction."
+                          ],
+                          "blankedWords": [
+                            "might",
+                            "may"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "Making predictions",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Making predictions",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Look at the sentences from Robot relationships. Then choose the correct words to complete the rules."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "… humans will probably develop close relationships with robots."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "… it definitely won’t be long until robots look, sound and move like humans."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "ook at the sentences from Robot relationships. Then choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We use probably to make predictions with will and won’t less / more certain.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "less",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "less",
+                        "more"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We use definitely to make predictions with will and won’t less / more certain.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "more",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "less",
+                        "more"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We use probably and definitely before / after will.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "after",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "before",
+                        "after"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We use probably and definitely before / after won’t.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "before",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "before",
+                        "after"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Making predictions",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 128.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Making predictions",
+              "sets": [
+                {
+                  "setMarker": "F",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the predictions about artificial intelligence and add the words in parentheses.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "Some people want three-day weekends every week. (might not)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Some people might not want three-day weekends every week."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "It probably be harder to find a job in the future because of technology. (will)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "It will probably be harder to find a job in the future because of technology."
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "I don’t think we have robot friends in my lifetime. (’ll)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I don’t think we'll have robot friends in my lifetime."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "We control computers with our minds in the future. (might)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "We might control computers with our minds in the future."
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "VR headsets definitely get much cheaper in the next few years. (will)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "VR headsets will definitely get much cheaper in the next few years."
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "Humans won’t fall in love with robots in the future."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Humans probably won’t fall in love with robots in the future."
+                    },
+                    {
+                      "sentenceOrdinal": 7,
+                      "sentences": [
+                        "I’m sure we all have robots in our homes 20 years from now. (’ll)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I’m sure we'll all have robots in our homes 20 years from now."
+                    },
+                    {
+                      "sentenceOrdinal": 8,
+                      "sentences": [
+                        "We stop working completely one day because of technology. (may)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "We may stop working completely one day because of technology."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Making predictions",
+              "sets": [
+                {
+                  "setMarker": "G",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Are there any predictions in Exercise F that you do not agree with?",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.3,
+          "sectionTitle": "Hygge",
+          "sectionObjectives": [
+            "Ask and answer questions about how you like to spend your free time"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_3",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "relaxing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "linking a consonant to a vowel"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "summarizing"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Subject and object questions",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Read the rules and look at the questions from Make yourself at home. Then look at the examples and answer the questions."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": ["Subject and object questions: Rules"],
+                  "paragraphContents": [
+                    "We ask subject questions when we don’t know what/who/ which/whose something or someone is."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "We ask object questions when we want to know more information about something or someone."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Examples"
+                  ],
+                  "paragraphContents": [
+                    "What is hygge?"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "How do you pronounce ‘hygge’?"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Read the rules and look at the questions from Make yourself at home. Then look at the examples and answer the questions.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which is the subject question?",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "What is hygge?",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "What is hygge?",
+                        "How do you pronounce ‘hygge’?"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which is the object question?",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "How do you pronounce ‘hygge’?",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "What is hygge?",
+                        "How do you pronounce ‘hygge’?"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which question includes an auxiliary verb?",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "How do you pronounce ‘hygge’?",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "What is hygge?",
+                        "How do you pronounce ‘hygge’?"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Subject and object questions",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Look at the questions and possible answers. Then choose the correct words to complete the rules."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "What is hygge? It is an attitude that focuses on enjoying the simple things in life."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "How do you pronounce ‘hygge’? You pronounce it ‘hue-gah’."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Look at the questions and possible answers. Then choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "With subject questions, we change / don’t change the word order in the answer.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "don't change",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "change",
+                        "don't change"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "In subject / object questions, the question word is the object of the sentence.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "object",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "subject",
+                        "object"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 128.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object pronouns",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the questions. Choose the correct question word and decide if an auxillary verb is needed to complete the question.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "Who / Why / is / do / – your best friend?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Who is your best friend?"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "When / What / do / – you do with your best friend?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "What do you do with your best friend?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "What / Who / does smile / smiles more, you or your best friend?"
+                      ],
+                      "blankedWords": [
+                        ""
+                      ],
+                      "exerciseAnswers": "Who smiles more, you or your best friend?"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "What / Which / do / – you do to relax?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "What do you do to relax?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct question type : subject or object?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Who is your best friend?"
+                          ],
+                          "exerciseAnswers": "subject",
+                          "exerciseOptions": [
+                            "subject",
+                            "object"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "What do you do with your best friend?"
+                          ],
+                          "exerciseAnswers": "object",
+                          "exerciseOptions": [
+                            "subject",
+                            "object"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Who smiles more, you or your best friend?"
+                          ],
+                          "exerciseAnswers": "subject",
+                          "exerciseOptions": [
+                            "subject",
+                            "object"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "What do you do to relax?"
+                          ],
+                          "exerciseAnswers": "object",
+                          "exerciseOptions": [
+                            "subject",
+                            "object"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Subject and object questions",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Ask and answer the questions in Exercise D.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

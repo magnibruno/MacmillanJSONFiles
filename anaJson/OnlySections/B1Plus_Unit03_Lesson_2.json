@@ -1,0 +1,293 @@
+{
+	"sectionNumber": 3.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Travel smart",
+	"sectionObjective": "Talk about why a plan didn't work/Evaluate suggestions and justify a choice",
+	"GKU": "Language_Hub_B1plus_Unit3_Lesson3_2",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "articles and quantifiers"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "gradable and ungradable adjectives"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "sentence stress: quantifiers"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "listening for signposting language"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Whatever happened to Helsinki's Kutsuplus transportation service?",
+					"paragraphSubtitles": [
+						"1"
+					],
+					"paragraphContents": [
+						"A few years ago, Helsinki, Finland, decided it had a problem: there were too many cars. So the Helsinki Regional Transportation Authority decided to hold a three-year trial of an on-demand minibus service designed to reduce the number of cars on the road. It was called Kutsuplus and it allowed passengers to choose where they wanted to go."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"2"
+					],
+					"paragraphContents": [
+						"Passengers went online and selected a start and end point for their trip. They then paid online and went to their nearest bus stop. A minibus arrived and took them to the chosen end point. If other people wanted to go to the same area at the same time, no problem: there was plenty of space and they could share the minibus! Even if people wanted to go to different places in the same area, the online service was able to choose the best route available, so everybody was happy!"
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"3"
+					],
+					"paragraphContents": [
+						"For passengers, the key benefits of Kutsuplus were convenience and cost. They could choose where they wanted to go and they didn't have to wait long for the bus to arrive. During the time of the trial, the average Kutsuplus trip cost $5. In comparison, the average cost of a taxi ride started at $6, but could be much more expensive for longer trips. Surely this would make Kutsuplus a great success! Well, not really..."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"4"
+					],
+					"paragraphContents": [
+						"Although it was more convenient than a normal bus or the subway, unlike a taxi, the minibus wasn't able to take people exactly where they wanted to go. Passengers had to use the nearest bus stops as the start and end points of their trip. Another major problem was that there were very few buses in operation. By the end of the trial, Kutsuplus had 21,000 registered users, but only 15 buses. This would have a big effect on the result of the trial."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"5"
+					],
+					"paragraphContents": [
+						"In general, Helsinki residents had positive feelings about the service. A lot of them felt that it was convenient, especially for people who lived in areas where there wasn't enough public transportation. However, with not enough buses in operation, it wasn't convenient for everybody. In the end, city officials decided not to continue the service."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the question. Do you think there are too many cars on the road where you live or study?"
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read Whatever happened to Helsinki’s Kutsuplus transportation service? Match the headings (a–e) with the paragraphs (1–5).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which of the options is a good heading for paragraph 1?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "What was Kutsuplus?",
+							"LKUs": [
+								"what",
+								"be"
+							],
+							"sentenceAnswerOptions": [
+								"The advantages of Kutsuplus",
+								"The disadvantages of Kutsuplus",
+								"How Kutsuplus worked",
+								"What was Kutsuplus?"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which of the options is a good heading for paragraph 2?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "How Kutsuplus worked",
+							"LKUs": [
+								"how",
+								"work"
+							],
+							"sentenceAnswerOptions": [
+								"The advantages of Kutsuplus",
+								"The disadvantages of Kutsuplus",
+								"How Kutsuplus worked",
+								"What was Kutsuplus?"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which of the options is a good heading for paragraph 4?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "The disadvantages of Kutsuplus",
+							"LKUs": [
+								"disadvantage"
+							],
+							"sentenceAnswerOptions": [
+								"The advantages of Kutsuplus",
+								"The disadvantages of Kutsuplus",
+								"How Kutsuplus worked",
+								"What was Kutsuplus?"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which of the options is a good heading for paragraph 5?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Was Kutsuplus a success?",
+							"LKUs": [
+								"success"
+							],
+							"sentenceAnswerOptions": [
+								"The advantages of Kutsuplus",
+								"The disadvantages of Kutsuplus",
+								"How Kutsuplus worked",
+								"Was Kutsuplus a success?"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Complete the sentences with a, b or c.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "The long-term goal of Kutsuplus was to encourage people to stop...",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "driving cars",
+							"LKUs": [
+								"driving",
+								"cars"
+							],
+							"sentenceAnswerOptions": [
+								"driving cars",
+								"hiring minibuses",
+								"using the subway"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Passengers could choose the start and end point of their trips by...",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "using the internet",
+							"LKUs": [
+								"internet"
+							],
+							"sentenceAnswerOptions": [
+								"asking at the bus stop",
+								"using the internet",
+								"calling the driver"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "There were...registered users by the end of the trial.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "a lot of",
+							"LKUs": [
+								"a lot of"
+							],
+							"sentenceAnswerOptions": [
+								"a small number of",
+								"a lot of",
+								"not enough"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Overall, people who lived in Helsinki thought the service was...",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "useful",
+							"LKUs": [
+								"useful"
+							],
+							"sentenceAnswerOptions": [
+								"useful",
+								"expensive",
+								"unfair"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "The local...stopped the service.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "government",
+							"LKUs": [
+								"government"
+							],
+							"sentenceAnswerOptions": [
+								"businesses",
+								"government",
+								"residents"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Do you think the Kutsuplus service was a good idea? Why/Why not?"
+				}
+			]
+		}
+	]
+}

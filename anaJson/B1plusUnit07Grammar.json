@@ -1,0 +1,671 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 7,
+      "chapterTitle": "Food",
+      "chapterQuote": "So long as you have food in your mouth, you have solved all questions for the time being.",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about eating out",
+        "make speculations and deductions about food",
+        "compare different types of food",
+        "compare a range of solutions and choose the best one",
+        "make suggestions",
+        "write a reply in an online discussion forum"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 7.1,
+          "sectionTitle": "Eating out",
+          "sectionObjectives": [
+            "Talk about eating out",
+            "Make speculations and deductions about food"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit7_Lesson7_1",
+          "sectionSkills": [
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "diphthongs; word stress with modals"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "modals of speculation and deduction"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "phrasal verbs; adjectives to describe food"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "hidden contrasts"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of speculation and deduction",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct meaning for the sentences from the conversation at the pot luck dinner party.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "They can’t be buffalo wings. Buffaloes don’t have wings!"
+                          ],
+                          "exerciseAnswers": "I’m sure they aren’t buffalo wings.",
+                          "exerciseOptions": [
+                            "Maybe they aren’t buffalo wings.",
+                            "I’m sure they aren’t buffalo wings."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "They could be chicken or something like that."
+                          ],
+                          "exerciseAnswers": "It’s possible that they’re chicken.",
+                          "exerciseOptions": [
+                            "It’s possible that they’re chicken.",
+                            "It was possible that they were chicken."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "You must think I’m so disorganized!"
+                          ],
+                          "exerciseAnswers": "I’m sure you think this.",
+                          "exerciseOptions": [
+                            "I’m sure you think this.",
+                            "It’s necessary for you to think this."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Well, they might not be chilies."
+                          ],
+                          "exerciseAnswers": "Maybe they aren’t chilies.",
+                          "exerciseOptions": [
+                            "It isn’t possible that they’re chilies.",
+                            "Maybe they aren’t chilies."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Uh … you may have a problem there."
+                          ],
+                          "exerciseAnswers": "Maybe you have a problem.",
+                          "exerciseOptions": [
+                            "Maybe you have a problem.",
+                            "I’m sure you have a problem."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of speculation and deduction",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Modals of speculation and deduction",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Look again at the sentences. Complete the rules with the correct words."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "They can’t be buffalo wings. Buffaloes don’t have wings!",
+                    "They could be chicken or something like that.",
+                    "You must think I’m so disorganized!",
+                    "Well, they might not be chilies.",
+                    "Uh … you may have a problem there."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Modals of speculation and deduction"
+                  ],
+                  "paragraphContents": [
+                    "We use must when we are sure something is true."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use may, might or could when we think something is possibly true, but we are not sure."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use may not or might not when we think something possibly isn’t true, but we are not sure."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use can't when we are sure something is not true."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the table with the correct form of the verbs in the box. Use Exercise A to help you.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "must",
+                        "could",
+                        "may",
+                        "not",
+                        "can't"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of speculation and deduction",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Modals of speculation and deduction",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Decide if the statements are true or false.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "‘Kitty may serve fruit salad for dessert tonight.’",
+                            "Dessert will definitely be fruit salad."
+                          ],
+                          "exerciseAnswers": "false",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "‘I’ve been invited to three pot-luck dinners. They must be popular.’",
+                            " Pot-luck dinners are popular."
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "‘This can’t be tomato soup – it isn’t red!’",
+                            "It almost certainly isn’t tomato soup."
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "‘Bitter chocolate could be good in a cake.’",
+                            "The speaker really doesn’t like bitter chocolate."
+                          ],
+                          "exerciseAnswers": "false",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "‘If you left the milk out all night, it could be sour.’",
+                            "It’s possible that the milk is sour."
+                          ],
+                          "exerciseAnswers": "true",
+                          "exerciseOptions": [
+                            "true",
+                            "false"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.2,
+          "sectionTitle": "Food fads",
+          "sectionObjectives": [
+            "Compare different types of food",
+            "Compare a range of solutions and choose the best one"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit7_Lesson7_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "comparatives and superlatives; the …, the …"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "vowel + w"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "waste"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "identifying people’s opinions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Comparatives and superlatives",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with one word in each space.",
+                  "wordBank": [
+                    "as x2",
+                    "less x 2",
+                    "fewer",
+                    "the",
+                    "more",
+                    "most",
+                    "fewest",
+                    "than",
+                    "longer"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "This week, I’ve decided to look at one of the biggest food fads of the 21st century: superfoods."
+                          ],
+                          "blankedWords": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "They contain less sugar than other fruits, so they’re one of the healthiest snacks around."
+                          ],
+                          "blankedWords": [
+                            "less",
+                            "than",
+                            "the"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Chia seeds contain some of the most nutrients for the fewest calories."
+                          ],
+                          "blankedWords": [
+                            "most",
+                            "fewest"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Even better, they make you feel full … so you’ll eat fewer snacks!"
+                          ],
+                          "blankedWords": [
+                            "fewer"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Some people believe these berries will help them to grow old more slowly … or even to live longer."
+                          ],
+                          "blankedWords": [
+                            "more",
+                            "longer"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "It isn’t as exciting as quinoa, but it’s a lot less expensive!"
+                          ],
+                          "blankedWords": [
+                            "as",
+                            "as",
+                            "less"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Comparatives and superlatives",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Comparatives and superlatives",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Compare each set of ideas.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "the …, the …",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Look at the sentences from the radio show. Match the beginnings of the sentences with the endings.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "The more I researched the topic,",
+                        "The less food we throw away,",
+                        "The less we cook,",
+                        "The longer we do it,",
+                        "The more carefully you count things,"
+                      ],
+                      "columnB": [
+                        "the more I realized that we aren’t just throwing away food.",
+                        "the better.",
+                        "the less we waste.",
+                        "the more normal it feels.",
+                        "the more accurate your results will be."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "the …, the …",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Read the rule and complete the example. Use the words in the parentheses to help you.",
+                  "wordBank": [
+                    ""
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "To show that two changes are closely connected, we use the + comparative, the + comparative. As one thing changes, it makes the other thing change."
+                          ],
+                          "blankedWords": [],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "As far as I’m concerned, the uglier (ugly), the better (good)!"
+                          ],
+                          "blankedWords": [
+                            "uglier",
+                            "better"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "the …, the …",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Comparatives and superlatives; the …, the …",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the words and phrases in the word bank.",
+                  "wordBank": [
+                    "less meat",
+                    "more times",
+                    "more quickly",
+                    "the more money",
+                    "the sweeter",
+                    "you disagree"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The less meat you eat, the healthier it is for your heart."
+                          ],
+                          "blankedWords": [
+                            "less",
+                            "meat"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "The more sugar you add, the sweeter the sauce will be."
+                          ],
+                          "blankedWords": [
+                            "the",
+                            "sweeter"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "The more quickly you eat your salad, the sooner you’ll have dessert!"
+                          ],
+                          "blankedWords": [
+                            "more",
+                            "quickly"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "The more you disagree with me, the less likely I am to change my mind!"
+                          ],
+                          "blankedWords": [
+                            "you",
+                            "disagree"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "The more times you reheat food, the more unsafe it becomes."
+                          ],
+                          "blankedWords": [
+                            "more",
+                            "times"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "The less food we throw away, the more money we'll save."
+                          ],
+                          "blankedWords": [
+                            "the",
+                            "more",
+                            "money"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

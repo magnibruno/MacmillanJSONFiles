@@ -1,0 +1,471 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 8,
+      "chapterTitle": "ART",
+      "chapterQuote": "Art is not what you see, but what you make others see. Edgar Degas",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about taste in music and your favorite songs",
+        "talk about art and artists",
+        "describe films and books",
+        "show interest in a topic",
+        "write a review"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 8.1,
+          "sectionTitle": "Musical Taste",
+          "sectionObjectives": [
+            "Talk about taste in music and your favorite songs"
+          ],
+          "GKU": "Language_Hub_B1_Unit8_Lesson8_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "music"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "consonant clusters in words"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "reflexive pronouns"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Consonant clusters in words",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.1,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT2_AUD_U8.1_003",
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Listen carefully. Are all the letters in the consonant clusters pronounced?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "background"
+                          ],
+                          "exerciseAnswers": "no",
+                          "exerciseOptions": [
+                            "yes",
+                            "no"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "electric"
+                          ],
+                          "exerciseAnswers": "yes",
+                          "exerciseOptions": [
+                            "yes",
+                            "no"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "individual"
+                          ],
+                          "exerciseAnswers": "yes",
+                          "exerciseOptions": [
+                            "yes",
+                            "no"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "influenced"
+                          ],
+                          "exerciseAnswers": "yes",
+                          "exerciseOptions": [
+                            "yes",
+                            "no"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "keyboards"
+                          ],
+                          "exerciseAnswers": "yes",
+                          "exerciseOptions": [
+                            "yes",
+                            "no"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "ourselves"
+                          ],
+                          "exerciseAnswers": "yes",
+                          "exerciseOptions": [
+                            "yes",
+                            "no"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Consonant clusters in words",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen again and repeat.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "background, electric, individual"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "influenced, keyboards, ourselves"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.2,
+          "sectionTitle": "Unusual art",
+          "sectionObjectives": [
+            "Talk about art and artists"
+          ],
+          "GKU": "Language_Hub_B1_Unit8_Lesson8_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "infinitive of purpose"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɪ/ and /iː/"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "types of art"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "/ɪ/ and /iː/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.5,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U8.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "listen and choose the word you hear.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "1. Which word do you hear?"
+                          ],
+                          "exerciseAnswers": "sleep",
+                          "exerciseOptions": [
+                            "slip",
+                            "sleep"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "2. Which word do you hear?"
+                          ],
+                          "exerciseAnswers": "ship",
+                          "exerciseOptions": [
+                            "ship",
+                            "sheep"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "3. Which word do you hear?"
+                          ],
+                          "exerciseAnswers": "live",
+                          "exerciseOptions": [
+                            "live",
+                            "leave"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "4. Which word do you hear?"
+                          ],
+                          "exerciseAnswers": "seat",
+                          "exerciseOptions": [
+                            "sit",
+                            "seat"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "5. Which word do you hear?"
+                          ],
+                          "exerciseAnswers": "pitch",
+                          "exerciseOptions": [
+                            "pitch",
+                            "peach"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "6. Which word do you hear?"
+                          ],
+                          "exerciseAnswers": "beat",
+                          "exerciseOptions": [
+                            "bit",
+                            "beat"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.3,
+          "sectionTitle": "Telling Stories",
+          "sectionObjectives": [
+            "Describe movies and books"
+          ],
+          "GKU": "Language_Hub_B1_Unit8_Lesson8_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "movie and book genres; adjectives for describing movies and books"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in longer words"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "first conditional"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "identifying contrasts"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Word stress in longer words",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "What is the stressed sylable in the words below?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "adventure"
+                          ],
+                          "exerciseAnswers": "ven",
+                          "exerciseOptions": [
+                            "ad",
+                            "ven",
+                            "ture"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "animated"
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "a",
+                            "ni",
+                            "ma",
+                            "ted"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "biography"
+                          ],
+                          "exerciseAnswers": "o",
+                          "exerciseOptions": [
+                            "bi",
+                            "o",
+                            "gra",
+                            "phy"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "comedy"
+                          ],
+                          "exerciseAnswers": "co",
+                          "exerciseOptions": [
+                            "co",
+                            "me",
+                            "dy"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "fantasy"
+                          ],
+                          "exerciseAnswers": "fan",
+                          "exerciseOptions": [
+                            "fan",
+                            "ta",
+                            "sy"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "historical"
+                          ],
+                          "exerciseAnswers": "to",
+                          "exerciseOptions": [
+                            "his",
+                            "to",
+                            "ri",
+                            "cal"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "musical"
+                          ],
+                          "exerciseAnswers": "mu",
+                          "exerciseOptions": [
+                            "mu",
+                            "si",
+                            "cal"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Word stress in longer words",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Compare your answers. Then listen and check.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Word stress in longer words",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. What genres of movies and books do you enjoy?",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

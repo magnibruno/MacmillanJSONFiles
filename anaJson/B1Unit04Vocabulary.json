@@ -1,0 +1,530 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 4,
+      "chapterTitle": "SOCIALIZING",
+      "chapterQuote": "Man is by nature a social animal. Aristotle",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about plans you have made for a weekend with visitors",
+        "present reasons to support or argue against predictions",
+        "ask and answer questions about how you like to spend your free time",
+        "make arrangements to meet up with somebody",
+        "write an invitation and reply"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 4.1,
+          "sectionTitle": "What’s the plan?",
+          "sectionObjectives": [
+            "Talk about plans you have made for a weekend with visitors"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "free time"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "going to"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "be going to + base form and present progressive for the future"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Free time",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Write down as many free time activities as you can in English. You have two minutes. Then compare your list with another pair.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "mm_B1unit4_4.1",
+              "partSubTitle": "Free time",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": "mm_B1unit4_4.1",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Complete the diagrams with the verbs in the box.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                      ],
+                      "columnB": [
+                        "go to",
+                        "go for",
+                        "see or go to",
+                        "play",
+                        "hang out"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Free time",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Which of the free time activities in Exercise B are your favourites, and why?",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.2,
+          "sectionTitle": "The future of free time",
+          "sectionObjectives": [
+            "Present reasons to support or argue against predictions"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "making predictions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "will and won’t"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "suffixes"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Suffixes",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 147.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Suffixes",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the words with the correct suffixes.",
+                  "wordBank": [
+                    "-ion",
+                    "-ity",
+                    "-ment",
+                    "-ness"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I think there is a possibility that robots will feel love in the future."
+                          ],
+                          "blankedWords": [
+                            "possibility"
+                          ],
+                          "hints": [
+                            "possibil"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I agree with the prediction that virtual reality will be an important part of social media."
+                          ],
+                          "blankedWords": [
+                            "prediction"
+                          ],
+                          "hints": [
+                            "predict"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "There is an agreement between many experts that technology will help our work–life balance."
+                          ],
+                          "blankedWords": [
+                            "agreement"
+                          ],
+                          "hints": [
+                            "agree"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "An important development is that robots are now beginning to understand our feelings."
+                          ],
+                          "blankedWords": [
+                            "development"
+                          ],
+                          "hints": [
+                            "develop"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "I don’t believe that robots will be able to experience real happiness or sadness."
+                          ],
+                          "blankedWords": [
+                            "happiness",
+                            "sadness"
+                          ],
+                          "hints": [
+                            "happi",
+                            "sad"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Suffixes",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Look at sentences 1, 2 and 5 in Exercise B. Do you agree with these opinions? Why/Why not?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Suffixes",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Complete the diagrams with the verbs in the box. Check your answers in the Macmillan English Dictionary.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "discuss",
+                        "develop"
+                      ],
+                      "columnB": [
+                        "ion",
+                        "ment"
+                      ]
+                    },
+                    {
+                      "columnA": [
+                        "agree",
+                        "predict"
+                      ],
+                      "columnB": [
+                        "ment",
+                        "ion"
+                      ]
+                    },
+                    {
+                      "columnA": [
+                        "improve",
+                        "invent"
+                      ],
+                      "columnB": [
+                        "ment",
+                        "ion"
+                      ]
+                    },
+                    {
+                      "columnA": [
+                        "happi",
+                        "abil"
+                      ],
+                      "columnB": [
+                        "ness",
+                        "ity"
+                      ]
+                    },
+                    {
+                      "columnA": [
+                        "possibil",
+                        "sad"
+                      ],
+                      "columnB": [
+                        "ity",
+                        "ness"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.3,
+          "sectionTitle": "Hygge",
+          "sectionObjectives": [
+            "Ask and answer questions about how you like to spend your free time"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "relaxing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "linking a consonant to a vowel"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "summarizing"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Relaxing",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make a list of different ways of relaxing. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Relaxing",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 148.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Relaxing",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "How hygge is your lifestyle?",
+                  "paragraphImage": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "1. It’s a rainy Sunday afternoon. Do you prefer to... ",
+                    "a. go to a shopping center and spend some money?",
+                    "b. order delivery food and switch on the game console?",
+                    "c. sit down with a good book and read all afternoon under a cozy blanket?"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphImage": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "2. How would you rather celebrate your birthday?",
+                    "a. Go out with friends and stay out until late.",
+                    "b. Meet friends in the relaxed atmosphere of a café or restaurant and have a nice meal.",
+                    "c. Have friends or family over to eat homemade food and play board games."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphImage": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "3. What makes you happiest?",
+                    "a. Money, shopping, vacations, etc.",
+                    "b. A chance to get together with family and friends.",
+                    "c. The simple things in life, like a quiet night in or a long walk in the country."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphImage": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "4. It’s Friday night and your workweek is over. Would you rather …",
+                    "a. go out with your colleagues?",
+                    "b. go home, watch TV and have an early night?",
+                    "c. go home, have a nice, hot bath and then sit by the fire and dry off?"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphImage": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "5. How do you create the perfect atmosphere at home?",
+                    "a. Turn on the lights, turn up the music and dance around the living room.",
+                    "b. Close the curtains, turn on the TV and lie on the couch.",
+                    "c. Light some candles, play some soft music and take some time out to relax."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphImage": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Finished? Work out your score: a = 0, b = 1, c = 2"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "textMode": "full article",
+                  "exerciseInstruction": "Complete the gaps in blue in the survey with the words in the box.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "book",
+                        "relaxed",
+                        "family",
+                        "homemade",
+                        "games",
+                        "together",
+                        "simple",
+                        "quiet",
+                        "hot",
+                        "fire",
+                        "candles",
+                        "time"
+                      ],
+                      "LKUs": [
+                        "book",
+                        "relaxed",
+                        "family",
+                        "homemade",
+                        "games",
+                        "together",
+                        "simple",
+                        "quiet",
+                        "hot",
+                        "fire",
+                        "candle",
+                        "time"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

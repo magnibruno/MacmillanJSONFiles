@@ -1,0 +1,332 @@
+{
+	"sectionNumber": 6.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Hobbies",
+	"sectionObjective": "Talk about hobbies and free time activities/Discuss trying new things",
+	"GKU": "Language_Hub_B1plus_Unit6_Lesson6_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "hobbies and free time activities"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "been: unstressed"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "present perfect progressive; had to/needed to"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "identifying tone"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "My six months of trying new things",
+					"paragraphSubtitles": [
+						"July 15",
+						"By Candie Carmichael"
+					],
+					"paragraphContents": [
+						"I've never been the kind of person who does lots of exciting things in their free time. Paragliding, swimming with dolphins, climbing Mount Everest - not me! My idea of danger is to sit on the couch and watch the latest crime series on TV. The closest I get to nature is when I like my friends' cat pictures on social media. As for climbing Himalayan mountains - forget it! I'd rather climb the stairs to bed."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"But at one point toward the end of last year, I started to feel that my life was becoming a little... well... boring. I needed to take up a hobby. But which one? There are so many things out there - how do you know what you will enjoy? So I decided to spend the first six months of this year trying out a new hobby each month. I was a complete beginner at every activity I tried."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "Here’s what happened:",
+					"paragraphSubtitles": [
+						"January: Fly fishing"
+					],
+					"paragraphContents": [
+						"The first thing I learned was that no flies are harmed in fly fishing. You make a pretty, artificial fly and attach it to a hook on a fishing line. Then you throw the line on the water. When a fish takes a bite, you... oh, I don't know. I did NOT do well at this. One month: lots of badly made flies, and ZERO fish (apart from the ones I got at the fish and fries place on my way home)."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"February: Stamp collecting"
+					],
+					"paragraphContents": [
+						"Why does anyone do this? Is this really a hobby? After a whole four weeks of attaching little squares of paper from around the world into a big book with blank pages, I still have no idea."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"March: Ping-Pong"
+					],
+					"paragraphContents": [
+						"This one really surprised me. I'm actually good at it! I joined a club, and I didn't need to spend a lot of time practicing before I started winning games. After only a month, I was already one of the best players in the group. I really can't believe it. Maybe there’s a chance for me to get in shape after all."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"April: Beekeeping"
+					],
+					"paragraphContents": [
+						"Surely all I had to do was keep some flying insects in a box? What could possibly go wrong? About a hundred bee stings later, I realized that a lot can go wrong and beekeeping is a serious (and sometimes painful) business. I think I'll just get my honey from the grocery store in future."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"May: Playing the ukulele"
+					],
+					"paragraphContents": [
+						"The ukulele is like a very small guitar. It has four strings. It makes you look like a giant when you play it. I really enjoyed this. I didn't have to be in great shape. It wasn't dangerous and it wasn't painful. And at the end of the month, I could play Rivers of Babylon all the way through. If that isn't success, I don't know what is!"
+					]
+				},
+				{
+					"paragraphOrdinal": 8,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"June: Yoga"
+					],
+					"paragraphContents": [
+						"Ouch! I thought yoga was relaxing. I didn't realize I had to be super athletic and flexible. After one month of downward dogs and (falling over!) tree poses, I learned some very important things about me: I am not very athletic. I am not very flexible. I do not like yoga."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. When was the last time you:"
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Read the first two paragraphs of My six months of trying new things. Then complete the summary with a word in the box.",
+					"exercises": null
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR KEY WORDS",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read the rest of the article. Match the activities (1–6) with Candie’s experiences (a–f ).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "This hobby caused her pain.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "beekeeping",
+							"sentenceAnswerOptions": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"LKUs": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "She wasn’t successful at all.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "fly fishing",
+							"sentenceAnswerOptions": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"LKUs": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "She was able to complete a whole song.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "playing the ukulele",
+							"sentenceAnswerOptions": [
+								"fly fishing",
+								"stamp collecting",
+								"playing the ukulele",
+								"Ping-Pong"
+							],
+							"LKUs": [
+								"fly fishing",
+								"stamp collecting",
+								"playing the ukulele",
+								"Ping-Pong"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "She was surprised by how good she was at this activity.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "Ping-Pong",
+							"sentenceAnswerOptions": [
+								"fly fishing",
+								"stamp collecting",
+								"playing the ukulele",
+								"Ping-Pong"
+							],
+							"LKUs": [
+								"fly fishing",
+								"stamp collecting",
+								"playing the ukulele",
+								"Ping-Pong"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "She learned that she is not able to do this kind of thing well because she isn’t athletic.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "yoga",
+							"sentenceAnswerOptions": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"LKUs": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "She didn’t understand why this is a popular hobby.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "stamp collecting",
+							"sentenceAnswerOptions": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"LKUs": [
+								"fly fishing",
+								"stamp collecting",
+								"yoga",
+								"beekeeping"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - word bank",
+					"exerciseInstruction": "Read again. Fill in the blanks in the article (1–6) with the sentences (a–f ).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": null,
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"sentenceAnswerOptions": [
+								"hobby",
+								"wrong",
+								"shape",
+								"throw",
+								"enjoyed",
+								"flexible"
+							],
+							"LKUs": [
+								"hobby",
+								"wrong",
+								"shape",
+								"throw",
+								"enjoyed",
+								"flexible"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Look at the highlighted words and phrases. What do the capital letters, punctuation and word choice tell us about the article’s tone?"
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. If you had to choose one of these activities to take up for a month, which would you choose? Why? Tell your partner."
+				}
+			]
+		}
+	]
+}

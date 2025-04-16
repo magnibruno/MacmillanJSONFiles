@@ -1,0 +1,604 @@
+{
+  "sections": [
+    {
+      "sectionNumber": 1.1,
+      "sectionTitle": "Communication today",
+      "sectionObjective": 
+        "Update your status on social media. Make a short podcast"        
+      ,
+      "GKU": "Language_Hub_B1plus_Unit1_Lesson1_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present and present progressive"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "seeing and hearing"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "schwa /ə/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening to check predictions"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 1.2,
+      "sectionTitle": "Who owns English?",
+      "sectionObjective": 
+        "Plan and conduct an interview. Use rhetorical questions in a presentation"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit1_Lesson1_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "subject and object questions"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "pronouncing questions"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "languages"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "rhetorical questions"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.1,
+      "sectionTitle": "Important decisions",
+      "sectionObjective":
+        "Talk about past experiences and things you want to do. Talk about a life-changing decision"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit2_Lesson2_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present perfect and simple past"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "’s and ’ve"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "collocations: making big decisions"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for the main idea"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.2,
+      "sectionTitle": "You can do it!",
+      "sectionObjective": 
+        "Talk about an inspirational person. Talk about solving a problem"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit2_Lesson2_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "dependent prepositions; problems and solutions"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "word stress: verbs with two syllables"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present and past ability"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "deducing the meaning of unknown words from context"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.1,
+      "sectionTitle": "Travel experiences",
+      "sectionObjective": 
+        "Talk about a difficult trip or travel experience. Talk about behavior on public transportation",
+       
+      "GKU": "Language_Hub_B1plus_Unit3_Lesson3_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "narrative tenses"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "word stress in nouns ending in -ion"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "collocations: travel information; nouns ending in -ion"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "skim-reading to build a map of a text"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.2,
+      "sectionTitle": "Travel smart",
+      "sectionObjective": 
+        "Evaluate suggestions and justify a choice. Talk about why a plan didn't work"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit3_Lesson3_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "articles and quantifiers"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "sentence stress: quantifiers"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "gradable and ungradable adjectives"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for signposting"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.1,
+      "sectionTitle": "Personal change",
+      "sectionObjective": 
+        "Talk about resolutions and plans. Talk about a life-changing book or movie"        
+      ,
+      "GKU": "Language_Hub_B1plus_Unit4_Lesson4_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "future forms"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "intonation for attitude and mood"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "collocations: goals and resolutions"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "summarizing"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.2,
+      "sectionTitle": "Social change",
+      "sectionObjective": 
+        "Make and discuss predictions. Discuss problems, reasons and consequences"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit4_Lesson4_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "making predictions"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "prefixes: dis-, mis-, over-, re-, under-"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "contraction of will; linking final consonant and first vowel sounds"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "paraphrasing"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.1,
+      "sectionTitle": "At work",
+      "sectionObjective": 
+        "Discuss and give advice about employment skills and career interests. Discuss and suggest workplace benefits and changes"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit5_Lesson5_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "employment skills and qualities; verbs of influence"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "past habits and states"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "intonation and rhythm: holding your turn"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "following reference links in a text"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.2,
+      "sectionTitle": "In business",
+      "sectionObjective": 
+        "Describe and evaluate a small business. Talk about environmental business ideas"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit5_Lesson5_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "the passive voice"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "business collocations"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "silent consonants"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for examples"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.1,
+      "sectionTitle": "Take part!",
+      "sectionObjective": 
+        "Describe a sport or game. Give a short, persuasive talk"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit6_Lesson6_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "modals of obligation"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "adjectives ending in -ive; sports"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "rhythm: pausing"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for main and supporting points"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.2,
+      "sectionTitle": "Hobbies",
+      "sectionObjective": 
+        "Talk about hobbies and free time activities. Discuss trying new things"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit6_Lesson6_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "hobbies and free time activities"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present perfect progressive; had to / needed to"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "been: unstressed"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "identifying tone"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.1,
+      "sectionTitle": "Eating out",
+      "sectionObjective": 
+        "Talk about eating out. Make speculations and deductions about food"        
+      ,
+      "GKU": "Language_Hub_B1plus_Unit7_Lesson7_1",
+      "sectionSkills": [
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "diphthongs; word stress with modals"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "modals of speculation and deduction"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "phrasal verbs; adjectives to describe food"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "hidden contrasts"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.2,
+      "sectionTitle": "Food fads",
+      "sectionObjective": 
+        "Compare different types of food. Compare a range of solutions and choose the best one"       
+      ,
+      "GKU": "Language_Hub_B1plus_Unit7_Lesson7_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "comparatives and superlatives; the …, the …"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "vowel + w"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "waste"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "identifying people’s opinions"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.1,
+      "sectionTitle": "Making a difference",
+      "sectionObjective": 
+        "Explain how an invention works. Suggest and evaluate creative ideas"        
+      ,
+      "GKU": "Language_Hub_B1plus_Unit8_Lesson8_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "word families; creative thinking"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "adjective clauses"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "adjective clauses"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for problems and solutions"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.2,
+      "sectionTitle": "Must-have gadgets",
+      "sectionObjective": 
+        "Use positive language to promote a new product. Give a friend advice about choosing a gadget"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit8_Lesson8_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "positive adjectives"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "’ll and won’t"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "zero and first conditionals; conditionals with modals and imperatives"
+        },
+        {
+          "skillType": "S",
+          "skillName": "reading",
+          "skillTitle": "topic sentences"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.1,
+      "sectionTitle": "Art for everybody",
+      "sectionObjective": 
+        "Suggest improvements to a proposal. Plan an arts event"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit9_Lesson9_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "the arts; verbal idioms"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "second conditional"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ʧ/, /ʃ/ and /k/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "using linking words to understand the writer’s opinion"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.2,
+      "sectionTitle": "Tell me a story",
+      "sectionObjective": 
+        "Report a conversation Create a collaborative story"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit9_Lesson9_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "reported speech"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "reporting verbs"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "using your voice to make a story more interesting"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for definitions of new words"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.1,
+      "sectionTitle": "Making up your mind",
+      "sectionObjective": 
+        "Talk about different versions of past events. Talk about past mistakes"
+      ,
+      "GKU": "Language_Hub_B1plus_Unit10_Lesson10_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "psychology verbs; expressions with mind"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "third conditional; should have + past participle"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "third conditional"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for phrases that support an argument"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.2,
+      "sectionTitle": "Wish lists",
+      "sectionObjective": 
+        "Talk about your wishes and regrets. Plan a to-do list"        
+      ,
+      "GKU": "Language_Hub_B1plus_Unit10_Lesson10_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "reflexive verbs; staying organized"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "emphasis and reflexive pronouns"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "hopes and wishes"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "bridge sentences"
+        }
+      ]
+    }
+  ]
+}

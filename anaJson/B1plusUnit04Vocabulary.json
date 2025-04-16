@@ -1,0 +1,584 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 4,
+      "chapterTitle": "Change",
+      "chapterQuote": "There is nothing permanent except change. Heraclitus",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about resolutions and plans",
+        "talk about a life-changing book or movie",
+        "make and discuss predictions",
+        "discuss problems, reasons and consequences",
+        "clarify and ask for clarification",
+        "make and deal with complaints",
+        "write a short essay"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 4.1,
+          "sectionTitle": "Personal change",
+          "sectionObjectives": [
+            "Talk about resolutions and plans",
+            "Talk about a life-changing book or movie"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit4_Lesson4_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "future forms"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "intonation for attitude and mood"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "collocations: goals and resolutions"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "summarizing"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: goals and resolutions",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the phrases with phrases that have a similar meaning.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "make a resolution",
+                        "keep a resolution",
+                        "break a resolution",
+                        "quit a bad habit",
+                        "reach a target",
+                        "cut down on something"
+                      ],
+                      "columnB": [
+                        "set (yourself) a goal",
+                        "stick to a plan",
+                        "not do what you promised",
+                        "stop doing something that is not good for you",
+                        "achieve something",
+                        "do less of something"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: goals and resolutions",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the best words to complete the sentences.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I’ve made a resolution to learn / of learning ten English words a day."
+                          ],
+                          "exerciseAnswers": "to learn",
+                          "exerciseOptions": [
+                            "to learn",
+                            "of learning"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "He managed to keep his resolution by / in using a fitness app."
+                          ],
+                          "exerciseAnswers": "by",
+                          "exerciseOptions": [
+                            "by",
+                            "in"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "He quit smoking / smoke last year."
+                          ],
+                          "exerciseAnswers": "smoking",
+                          "exerciseOptions": [
+                            "smoking",
+                            "smoke"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "She wants to cut down on drink / drinking coffee."
+                          ],
+                          "exerciseAnswers": "drinking",
+                          "exerciseOptions": [
+                            "drink",
+                            "drinking"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "His goals are not very realistic / real. They’re too hard to achieve."
+                          ],
+                          "exerciseAnswers": "realistic",
+                          "exerciseOptions": [
+                            "realistic",
+                            "real"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Stick to your plan until / when you reach your target."
+                          ],
+                          "exerciseAnswers": "until",
+                          "exerciseOptions": [
+                            "until",
+                            "when"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: goals and resolutions",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 143.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: making big decisions",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Which decision in Exercise C do you think is the most achievable? Which is the least achievable? Give reasons.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: goals and resolutions",
+              "sets": [
+                {
+                  "setMarker": "",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the correct collocations.",
+                  "wordBank": [
+                    ""
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "He didn’t stop drinking soda completely but he cut down to two cans a week."
+                          ],
+                          "blankedWords": [
+                            "cut",
+                            "down"
+                          ],
+                          "hints": [
+                            "c",
+                            "d"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "When I make a plan I stick to it. I’ve kept the resolution I made last year."
+                          ],
+                          "blankedWords": [
+                            "kept",
+                            "resolution"
+                          ],
+                          "hints": [
+                            "ke",
+                            "re"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "She finally reached her target of running for thirty minutes every day."
+                          ],
+                          "blankedWords": [
+                            "reached",
+                            "target"
+                          ],
+                          "hints": [
+                            "re",
+                            "ta"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "He quit eating sugary food three months ago and he already feels healthier."
+                          ],
+                          "blankedWords": [
+                            "quit"
+                          ],
+                          "hints": [
+                            "q"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "He made a resolution to quit eating chocolate last New Year."
+                          ],
+                          "blankedWords": [
+                            "made",
+                            "resolution"
+                          ],
+                          "hints": [
+                            "ma",
+                            "re"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.2,
+          "sectionTitle": "Social change",
+          "sectionObjectives": [
+            "Make and discuss predictions",
+            "Discuss problems, reasons and consequences"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit4_Lesson4_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "making predictions"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "prefixes: dis-, mis-, over-, re-, under-"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "contraction of will; linking final consonant and first vowel sounds"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "paraphrasing"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Prefixes: dis-, mis-, over-, re-, under-",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct prefix to complete the words in the sentences.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Hi, I’m Rita Costa and this is '()thinking the Future'."
+                          ],
+                          "exerciseAnswers": "Re",
+                          "exerciseOptions": [
+                            "Dis",
+                            "Mis",
+                            "Re",
+                            "Under"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Many villages and small towns are going to ()appear."
+                          ],
+                          "exerciseAnswers": "dis",
+                          "exerciseOptions": [
+                            "dis",
+                            "over",
+                            "under",
+                            "mis"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "We’ve talked before about ()population in urban areas …"
+                          ],
+                          "exerciseAnswers": "over",
+                          "exerciseOptions": [
+                            "mis",
+                            "over",
+                            "re",
+                            "dis"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "You’ve ()understood the goal of this plan."
+                          ],
+                          "exerciseAnswers": "mis",
+                          "exerciseOptions": [
+                            "dis",
+                            "over",
+                            "re",
+                            "mis"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "My employees don’t feel ()paid now!"
+                          ],
+                          "exerciseAnswers": "under",
+                          "exerciseOptions": [
+                            "dis",
+                            "under",
+                            "re",
+                            "mis"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Prefixes: dis-, mis-, over-, re-, under-",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the prefixes with their meanings.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "dis-",
+                        "mis-",
+                        "over-",
+                        "re-",
+                        "under-"
+                      ],
+                      "columnB": [
+                        "opposite",
+                        "bad or wrong",
+                        "too much",
+                        "again, but perhaps in a different way",
+                        "too little or too small"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Prefixes: dis-, mis-, over-, re-, under-",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct prefix to complete the words in the sentences.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "There are many things I ()like about where I live. I’d like to move."
+                          ],
+                          "exerciseAnswers": "dis",
+                          "exerciseOptions": [
+                            "dis",
+                            "mis",
+                            "re",
+                            "under"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I know someone who usually ()works. They should relax more."
+                          ],
+                          "exerciseAnswers": "over",
+                          "exerciseOptions": [
+                            "dis",
+                            "over",
+                            "under",
+                            "mis"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I regularly ()place things and waste time trying to find them."
+                          ],
+                          "exerciseAnswers": "mis",
+                          "exerciseOptions": [
+                            "mis",
+                            "over",
+                            "re",
+                            "dis"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "There are some terrible buildings in my town that they should knock down and ()build"
+                          ],
+                          "exerciseAnswers": "re",
+                          "exerciseOptions": [
+                            "dis",
+                            "over",
+                            "re",
+                            "mis"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "I usually ()agree with my parents, which sometimes leads to arguments."
+                          ],
+                          "exerciseAnswers": "dis",
+                          "exerciseOptions": [
+                            "dis",
+                            "under",
+                            "re",
+                            "mis"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Prefixes: dis-, mis-, over-, re-, under-",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 143.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Prefixes: dis-, mis-, over-, re-, under-",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Rewrite the sentences in Exercise C so they are true for you. Then compare your ideas with your partner.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

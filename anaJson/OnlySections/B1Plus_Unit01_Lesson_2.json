@@ -1,0 +1,237 @@
+{
+	"sectionNumber": 1.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Who owns English?",
+	"sectionObjective": "Talk about English and communication",
+	"GKU": "Language_Hub_B1plus_Unit1_Lesson1_2",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "subject and object questions"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "languages"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "pronouncing questions"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "rhetorical questions"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Use it or lose it?",
+					"paragraphSubtitles": [
+						"1"
+					],
+					"paragraphContents": [
+						"What's the worst thing about learning a language? Is it the hundreds of hours you need to spend studying and practicing? No, although that's bad enough. In fact, the worst thing is how easy it is to forget everything!"
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"2"
+					],
+					"paragraphContents": [
+						"How do I know? From bitter experience! Many years ago, I lived in Spain for a year and studied Spanish for hours every day. By the end of that year, I spoke Spanish fluently (but not very accurately). But now, 20 years later, it's all gone. My only evidence that I ever spoke Spanish is an old certificate."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"3"
+					],
+					"paragraphContents": [
+						"So is there any hope for me and my Spanish? Recent research suggests that there is. Imagine your brain is like a big library. As you keep adding new information to that library, the old information doesn't disappear: it just gets harder to find."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"4"
+					],
+					"paragraphContents": [
+						"How does this work in practice? When I see a dog, my English-speaking brain thinks of the word dog. But when I lived in Spain, my brain had two words to choose from, dog and perro (and yes, that's dog in Spanish!). My brain learned to block the wrong word - it blocked dog when I was speaking Spanish and perro when I was speaking English. Over time, my brain got very good at blocking words."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"5"
+					],
+					"paragraphContents": [
+						"And what happened when I left Spain? The word perro stayed blocked. And, like a door that's been closed for years is harder to open, it became harder to unblock the word! Now, 20 years later, all those Spanish words are still in my brain. But they're blocked behind heavy old doors."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"6"
+					],
+					"paragraphContents": [
+						"How can I open those doors? Two things: I need to make an effort to push the doors open again; and I need to keep the doors open by practicing regularly."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"7"
+					],
+					"paragraphContents": [
+						"Is there anything good to say about this 'blocking process'? In fact, there's lots of evidence that it makes your brain work better. For example, look at the words in the box. As quickly as possible, say what color they're written in. Try it now. Did you notice how hard it was to say the color when the word itself was a color? That’s because ‘bad information’ (the word on the page) blocked the ‘good information’ (the color of the word)."
+					]
+				},
+				{
+					"paragraphOrdinal": 8,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"8"
+					],
+					"paragraphContents": [
+						"What’s the connection with language learning? It turns out that bilingual people are much better at activities like this than monolingual people, because their brains are trained to block ‘bad information’ quickly and accurately. And in the modern world, where we have to deal with too much information all the time, the ability to block ‘bad information’ is the key to success."
+					]
+				},
+				{
+					"paragraphOrdinal": 9,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"9"
+					],
+					"paragraphContents": [
+						"What's the best thing about learning a language? Is it the ability to communicate with different people around the world? No, although that's amazing enough. In fact, the best thing is that it makes our brains more powerful."
+					]
+				}
+			],
+			"glossaryBox": [
+				{
+					"glossaryTitle": "Glossary",
+					"glossaryContent": [
+						"block (v) to stop something from moving through something else",
+						"evidence (n) facts or physical signs that help to prove something"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read Use it or lose it? quickly and answer the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Is the writer generally positive or negative about learning languages?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "positive",
+							"sentenceAnswerOptions": [
+								"positive",
+								"negative"
+							],
+							"LKUs": [
+								"positive"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "What's the connection between the pictures, the word cloud and language learning?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "They train the brain.",
+							"sentenceAnswerOptions": [
+								"They train the brain.",
+								"They make you think faster."
+							],
+							"LKUs": [
+								"brain"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "SCAN",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. How many rhetorical questions are there? Use the information in the box to help you.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "How many rhetorical questions are there?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "twelve",
+							"LKUs": [
+								"rhetorical question"
+							],
+							"sentenceAnswerOptions": [
+								"twelve",
+								"ten",
+								"eight"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Look at the rhetorical questions at the start of each paragraph. Discuss the answers. Then read the paragraph again to check."
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions."
+				}
+			]
+		}
+	]
+}

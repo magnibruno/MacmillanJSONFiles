@@ -1,0 +1,236 @@
+{
+	"sectionNumber": 1.1,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Update your status on social media/Make a short podcast",
+	"sectionObjective": "Communication today",
+	"GKU": "Language_Hub_B1plus_Unit1_Lesson1_1",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "simple present and present progressive"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "seeing and hearing"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "schwa /a/"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "listening to check predictions"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "My perfect online life",
+					"paragraphSubtitles": [
+						"@Katia … is feeling confused - 6 hours ago"
+					],
+					"paragraphContents": [
+						"Had a very strange experience today. I met my old school friend @Elisa for the first time in eight years. ‘You’re so lucky!’ she said. ‘You have such a perfect life! I’m so jealous!’"
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"A perfect life? Me? I have a very normal life: I get up early every day, take the bus to work, watch TV … and that’s all. In fact, Elisa seems to have a perfect life: her pictures always show her wonderful family relaxing in the sunshine on a beautiful beach. But now that I’m writing this post, I think I understand what happened: on social media, our lives look perfect, but the reality is very different."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"For example, last week I posted a selfie from the top of a mountain. In the picture, you can see I’m smiling. But in fact, I felt absolutely exhausted and just wanted to go home as quickly as possible! But you can’t see that in the picture!"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"And did you see the picture of our new kitchen a few weeks ago? Well, yes, it’s beautiful, but I didn’t mention that it took six months to finish. Six months without a kitchen! And it cost us twice as much as we expected, so now we’re getting worried about money. But no one ever talks about money problems on social media, do they?"
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"I’m not complaining, though. I’m very happy with my life! I love being normal … and I don’t mind that my life is becoming a little boring! In fact, I’m thinking of staying at home this evening – just me, my husband and a takeout pizza! Perfect!"
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": "Reply from @Elisa",
+					"paragraphSubtitles": [
+						"4 hours ago"
+					],
+					"paragraphContents": [
+						"Hey, @Katia! Great to see you this morning. I know what you mean about our ‘perfect lives’. I guess I need to explain about all those beach pictures. You see, I work really hard all year, and the only time I use social media is when I’m on vacation. That’s why I’m sitting on the beach in all my pictures! It usually rains for most of the week we’re on vacation, but of course we only take pictures when the sun’s shining!"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups and discuss the questions.",
+					"exercises": null
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "PREDICT",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Match the pictures (1-3) with the social media status updates (a-c). How do you think the people in the pictures are feeling? What can you guess about their lives?",
+					"exercises": null
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Read the social media posts quickly to check your predictions from Exercise B. Write about the true stories behind the pictures.",
+					"exercises": null
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again and answer the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "How do Katia and Elisa know each other?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "school",
+							"LKUs": [
+								"school"
+							],
+							"sentenceAnswerOptions": [
+								"school",
+								"university"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Why was Katia confused?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "social media",
+							"LKUs": [
+								"confused"
+							],
+							"sentenceAnswerOptions": [
+								"because of social media",
+								"because of work"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "When did Katia go to the top of the mountain?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "last week",
+							"LKUs": [
+								"mountain"
+							],
+							"sentenceAnswerOptions": [
+								"last week",
+								"this week"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "How does Katia feel about her new kitchen?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "happy",
+							"LKUs": [
+								"kitchen"
+							],
+							"sentenceAnswerOptions": [
+								"happy",
+								"boring"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "How does Katia feel about her 'boring life?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "She doesn't mind it.",
+							"LKUs": [
+								"boring"
+							],
+							"sentenceAnswerOptions": [
+								"She doesn't mind it.",
+								"She is worried about it."
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"exerciseQuestion": "Why doesn't Elisa post pictures when she isn't on vacation?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Because she works really hard.",
+							"LKUs": [
+								"vacation"
+							],
+							"sentenceAnswerOptions": [
+								"Because she works really hard.",
+								"Because she doesn't like social media."
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs and discuss the questions.",
+					"exercises": null
+				}
+			]
+		}
+	]
+}

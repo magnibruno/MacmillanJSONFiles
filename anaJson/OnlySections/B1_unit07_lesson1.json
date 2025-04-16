@@ -1,0 +1,266 @@
+{
+	"sectionNumber": 7.1,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Smile",
+	"sectionObjective": "Discuss what makes you happy",
+	"GKU": "Language_Hub_B1_Unit7_Lesson7_1",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "articles"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/ə/ (schwa) in a / an"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "feelings"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "A smile a day...",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"We all know that a cheerful state of mind makes us happy, but it could also help us to live longer."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Laughing out loud, something we do on average 17 times a day, is particularly good for you. Laughter is a short sound which is repeated, on average, five times a second. It is widely believed that laughing 100 times is equal to ten minutes' light exercise in the gym."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"In addition, a 2005 study by the University of Maryland School of Medicine showed that laughter lowers blood pressure and there is a healthy increase in heart rate and blood flow. This can lead to a healthier heart and also make you less likely to catch colds and other minor illnesses."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The research also suggests that people who are happy are likely to live longer. Laughing also produces chemicals in the brain that make us feel pleased and puts us in a positive mood."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Smiling and laughing are also important for social relationships. Experts believe that smiling and laughing in humans began as a way to show relief when danger had passed. It helped the mind and body to feel relaxed and therefore showed trust between people."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"This stopped people from feeling scared of each other and helped people to connect. So the next time you want to connect with someone, why not start with a smile? It will help them to feel at ease and you might even make a new friend!"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. Discuss the questions."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - highlight",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "How many times a day does a person laughs on average?",
+							"exerciseMinAnswer": "17",
+							"exerciseMaxAnswer": "Laughing out loud, something we do on average 17 times a day, is particularly good for you.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"laugh",
+								"person"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "How is laughing good for our health?",
+							"exerciseMinAnswer": "lowers blood pressure",
+							"exerciseMaxAnswer": "In addition, a 2005 study by the University of Maryland School of Medicine showed that laughter lowers blood pressure and there is a healthy increase in heart rate and blood flow.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"good",
+								"health"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "How do smiling and laughing help social relationships?",
+							"exerciseMinAnswer": "helped people to connect",
+							"exerciseMaxAnswer": "Experts believe that smiling and laughing in humans began as a way to show relief when danger had passed. It helped the mind and body to feel relaxed and therefore showed trust between people. This stopped people from feeling scared of each other and helped people to connect.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"human",
+								"relationship"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read A smile a day … quickly and check your answers to questions 3, 4 and 5.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Happy people are likely to live to an older age.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "False",
+							"LKUs": [
+								"happy",
+								"age"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Laughing can have a similar effect to working out in the gym.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"laughing",
+								"gym"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Laughing slows our heartbeat and blood flow.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "False",
+							"LKUs": [
+								"laughing",
+								"heartbeat"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Laughing can prevent small health problems.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"laughing",
+								"health"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "The production of chemicals in our brain causes laughter.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"chemical",
+								"brain"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Smiling and laughter began in humans to show there was danger.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "False",
+							"LKUs": [
+								"smiling",
+								"danger"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the questions."
+				}
+			]
+		}
+	]
+}

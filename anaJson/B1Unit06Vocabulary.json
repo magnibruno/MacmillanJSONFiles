@@ -1,0 +1,953 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 6,
+      "chapterTitle": "HEALTH",
+      "chapterQuote": "Health is not valued until sickness comes. Thomas Fuller",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "give a presentation on health dos and don’ts",
+        "plan an exercise event for your local community",
+        "encourage people to make a lifestyle change",
+        "talk about your symptoms at a pharmacy",
+        "write a product review"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 6.1,
+          "sectionTitle": "Health Myths",
+          "sectionObjectives": [
+            "Give a presentation on health dos and don’ts"
+          ],
+          "GKU": "Language_Hub_B1_Unit6_Lesson6_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "minor illnesses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʌ/, /ɔː/, /uː/, /eɪ/ and /ɜː/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "quantifiers too and enough"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Minor illnesses",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Dr. Tremblay's Words of Wisdom",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Hi, I’m Dr. Tremblay from Canada. The Australian winter is here and so are colds and flu. You remember Grandma’s advice ... ‘Hat! Scarf! Keep warm, or you’ll catch a cold.’ Well, Australia isn’t as cold as Canada, but it is sensible to make sure you’re warm enough. However, the truth is that cold weather doesn’t cause colds and flu. They are caused by viruses. You are more likely to catch a cold inside, where there are lots of people. And remember,if you have a cold and are suffering with a headache, a cough or a sore throat, get plenty of rest, drink warm drinks – unless you have a temperature – and make sure you are getting enough vitamins. Don’t take antibiotics! They don’t kill viruses and they won’t help a cold."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Choose the correct answer according to the text.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Which of the following are health concerns that Dr. Tremblay lists?",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "colds, flu, and viruses",
+                      "LKUs": [
+                        "cold",
+                        "flu",
+                        "virus"
+                      ],
+                      "sentenceAnswerOptions": [
+                        "vitamins, rest, and a drink",
+                        "hat, scarf, and warm",
+                        "colds, flu, and viruses",
+                        "antibiotics, temperature, and sensible"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Minor illnesses",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148a001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "a cold"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148b001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "a cough"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148c001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "a headache"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148d001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "flu"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148e001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "toothache"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148f001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "sunburn"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148g001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "a broken bone"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148h001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "a temperature"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 9,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148i001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "stomachache"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 10,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_Ph_ABC_PreIntSB_U6p148j001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "a sore throat"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Match the picture to the health problem listed in the word bank.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "broken",
+                        "bone",
+                        "cold",
+                        "cough",
+                        "headache",
+                        "temperature",
+                        "sore",
+                        "throat",
+                        "flu",
+                        "stomachache",
+                        "sunburn",
+                        "toothache"
+                      ],
+                      "LKUs": [
+                        "bone",
+                        "cold",
+                        "cough",
+                        "headache",
+                        "temperature",
+                        "sore",
+                        "throat",
+                        "flu",
+                        "stomachache",
+                        "sunburn",
+                        "toothache"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6.2,
+          "sectionTitle": "Keep Fit",
+          "sectionObjectives": [
+            "Plan an exercise event for your local community"
+          ],
+          "GKU": "Language_Hub_B1_Unit6_Lesson6_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "-ing forms"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ŋ /, /n/ and /m/"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "exercise"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Exercise",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make a list of different ways of exercising. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Exercise",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 148.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Exercise",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Look at the Vocabulary Hub Exercise B on page 149. Go around the class and ask the questions. If someone answers yes, write their name and ask a follow-up question.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Exercise",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "jogging"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_002",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "racquetball"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_003",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "yoga"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_004",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "field hockey"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_005",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "biking"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_006",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Nordic walking"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_007",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "marathon running"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U6.2_008",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "working out at the gym"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Match the pictures of sports and activities with the words in the word bank.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "biking",
+                        "field",
+                        "hockey",
+                        "jogging",
+                        "running",
+                        "walking",
+                        "racquetball",
+                        "working",
+                        "out",
+                        "yoga"
+                      ],
+                      "LKUs": [
+                        "biking",
+                        "field hockey",
+                        "jogging",
+                        "marathon",
+                        "running",
+                        "walking",
+                        "racquetball",
+                        "gym",
+                        "work out",
+                        "yoga"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Exercise",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the instructions with the correct form of the verbs in the box. You will need to use some of the verbs more than once.",
+                  "wordBank": [
+                    "burn",
+                    "do",
+                    "go",
+                    "lose",
+                    "play",
+                    "run",
+                    "stay",
+                    "work out"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Find someone who hates working out at the gym."
+                          ],
+                          "blankedWords": [
+                            "working",
+                            "out"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Find someone who can give a tip on how to lose weight in a healthy way."
+                          ],
+                          "blankedWords": [
+                            "lose"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Find someone who goes jogging or running regularly."
+                          ],
+                          "blankedWords": [
+                            "goes"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Find someone who knows someone who has run a marathon, a half-marathon or a 10 km race."
+                          ],
+                          "blankedWords": [
+                            "run"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Find someone who knows how to play racquetball."
+                          ],
+                          "blankedWords": [
+                            "play"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Find someone who stays in shape by walking or biking to school or work."
+                          ],
+                          "blankedWords": [
+                            "stays"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "Find someone who knows how many calories an average person burns in a day."
+                          ],
+                          "blankedWords": [
+                            "burns"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "Find someone who does yoga or goes to an exercise class."
+                          ],
+                          "blankedWords": [
+                            "does"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "Find someone who has a parent or grandparent who goes Nordic walking."
+                          ],
+                          "blankedWords": [
+                            "goes"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 10,
+                          "sentences": [
+                            "Find someone who regularly played a team sport such as field hockey or soccer when they were in school."
+                          ],
+                          "blankedWords": [
+                            "played"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6.3,
+          "sectionTitle": "We may never 'meat' again",
+          "sectionObjectives": [
+            "Encourage people to make a lifestyle change"
+          ],
+          "GKU": "Language_Hub_B1_Unit6_Lesson6_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "food groups"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/s/ and /ʃ/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present perfect with just, already and yet"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "scanning for key words"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Food groups",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Make a list of different food items. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Food groups",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 149.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Food groups",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Have you eaten any healthy food today? Who has been kinder to their body?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Food groups",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Categorize each food listed as either 'fruits and vegetables,' 'grains,' or 'seafood.'",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "avocado"
+                          ],
+                          "exerciseAnswers": "fruits and vegetables",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "banana"
+                          ],
+                          "exerciseAnswers": "fruits and vegetables",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "cod"
+                          ],
+                          "exerciseAnswers": "seafood",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "lettuce"
+                          ],
+                          "exerciseAnswers": "fruits and vegetables",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "lobster"
+                          ],
+                          "exerciseAnswers": "seafood",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "oats"
+                          ],
+                          "exerciseAnswers": "grains",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "rice"
+                          ],
+                          "exerciseAnswers": "grains",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "shrimp"
+                          ],
+                          "exerciseAnswers": "seafood",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "tomato"
+                          ],
+                          "exerciseAnswers": "fruits and vegetables",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 10,
+                          "sentences": [
+                            "tuna"
+                          ],
+                          "exerciseAnswers": "seafood",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 11,
+                          "sentences": [
+                            "wheat"
+                          ],
+                          "exerciseAnswers": "grains",
+                          "exerciseOptions": [
+                            "fruits and vegetables",
+                            "grains",
+                            "seafood"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Food groups",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Complete the list with one of the answers below.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Foods that are mostly used in salads: cucumbers, ________, ________."
+                          ],
+                          "exerciseAnswers": "lettuce, tomato",
+                          "exerciseOptions": [
+                            "lettuce, tomato",
+                            "cod, lobster",
+                            "rice, banana"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Foods that are used in breakfast cereals: nuts, ________, ________, ________."
+                          ],
+                          "exerciseAnswers": "oats, wheat, banana",
+                          "exerciseOptions": [
+                            "oats, wheat, banana",
+                            "avocado, cod, lettuce",
+                            "lobster, tuna, shrimp"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Examples of shellfish: crab, ________, ________."
+                          ],
+                          "exerciseAnswers": "lobster, shrimp",
+                          "exerciseOptions": [
+                            "lobster, shrimp",
+                            "cod, tuna",
+                            "wheat, rice"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Food groups",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": null,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "I think I’ll have a tuna mayonnaise sandwich."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": null,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "The wheat is ground into flour, and this is the main ingredient of bread."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": null,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "A prawn looks just like a shrimp, but is smaller."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": null,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Sushi is made with raw fish, rice and sometimes avocado and tuna."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": null,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "I prefer white fish, like haddock and cod."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the sentence with the correct word from the word bank.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "avocado",
+                        "cod",
+                        "tuna",
+                        "wheat"
+                      ],
+                      "LKUs": [
+                        "avocado",
+                        "cod",
+                        "tuna",
+                        "wheat"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

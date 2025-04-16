@@ -1,0 +1,673 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 10,
+      "chapterTitle": "Psychology",
+      "chapterQuote": "The purpose of psychology is to give us a completely different idea of the things we know best. Paul Valéry ",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about different versions of past events",
+        "talk about past mistakes",
+        "talk about your wishes and regrets",
+        "plan a to-do list",
+        "make and accept apologies",
+        "write a report"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 10.1,
+          "sectionTitle": "Making up your mind",
+          "sectionObjectives": [
+            "Talk about different versions of past events",
+            "Talk about past mistakes"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit10_Lesson10_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "psychology verbs; expressions with mind"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "third conditional; should have + past participle"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "third conditional"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for phrases that support an argument"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Third conditional",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Third conditional",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Look at the sentence from 'Do you think you think rationally?' Think again! Then choose the correct words to complete the rules."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "If the hook number had been much higher, say 70 million, it would have made us think of a number in the millions."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": "Third conditional: the rules",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We use the third conditional to talk about imaginary situations in the past."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Conditional sentences usually have two clauses: the if-clause and the result clause. To make a third conditional sentence, we use:",
+                    "if + past perfect, would + have + past participle"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We can use might or could instead of would in the result clause."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the sentence from 'Do you think you think rationally?' Think again! Then choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "past",
+                        "two",
+                        "can"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Third conditional",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "DO YOU THINK YOU THINK RATIONALLY? THINK AGAIN!",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "For centuries, psychologists assumed that people think rationally and make decisions based on facts. But we’re actually much less rational than we think."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "HOOK NUMBERS"
+                  ],
+                  "paragraphContents": [
+                    "Look again at the quiz. Question 1a is clearly nonsense: of course we have more than 70 thoughts per day! So it shouldn’t affect our answers to question 1b. But for most people, the number 70 acts as a hook. It encourages us to think of a number that isn’t too far from 70. But if the hook number had been much higher, say 70 million, it would have made us think of a number in the millions. And if we hadn’t seen a hook at all, we might have chosen a more likely answer: around 70,000 thoughts per day."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Sales people use hook numbers to persuade us to spend much more than we should, for example, by tricking us into believing a watch must be worth thousands of dollars."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "BURIED COSTS"
+                  ],
+                  "paragraphContents": [
+                    "A buried cost is time, money or effort that we’ve already spent and can’t get back. It would be rational to ignore buried costs when making decisions; they’re gone, so we should forget about them. But for most of us, waste feels like physical pain, and we usually spend even more time, money and effort trying to avoid that pain. Look back at question 2 in the quiz. The money you’ve spent is gone. Instead of regretting the past, we should forget it and focus on the future. When you’re sick, you should stay home and get better."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "FILTERING"
+                  ],
+                  "paragraphContents": [
+                    "In question 3 from the quiz, were you tempted by School A? That 75 percent pass rate sounds great, doesn’t it? What about School B, with all those failures? No, thanks! Of course, your rational side knows that School B is better – a 20 percent failure rate means there’s an 80 percent pass rate. But we can’t help being influenced by words like pass and fail."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We’re strongly attracted to positive words like success, save and free. But negative words are even more powerful. We hate losing, wasting or missing things. So if you see an ad that warns, ‘Don’t miss your last chance to save,’ remember that someone is trying to trick our irrational minds."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Glossary"
+                  ],
+                  "paragraphContents": [
+                    "bury (v) to put something in the ground and cover it with earth",
+                    "filter (v) if you filter a photo, you change or improve the appearance of the image before posting it on social media",
+                    "hook (n) a curved piece of metal or plastic fixed to a pole or with a handle at the other end, used for catching hold of something"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "textImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - highlight",
+                  "exerciseInstruction": "Find and highlight another third conditional sentence in the article.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Find and highlight another third conditional sentence in the article.",
+                      "exerciseMaxAnswer": "And if we hadn’t seen a hook at all, we might have chosen a more likely answer: around 70,000 thoughts per day.",
+                      "exerciseMinAnswer": "if we hadn’t seen a hook at all, we might have chosen a more likely answer:",
+                      "exerciseAnswers": null,
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Third conditional",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 140.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Third conditional",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Write three third conditional sentences that are true for you. Tell your partner about the situations in your sentences.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should have + past participle",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "should have + past participle",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from the conversation between Vicky and Robert. Then choose the correct words to complete the rules."
+                  ],
+                  "paragraphContents": [
+                    "So with your laptop, you should have gone to a smaller store.",
+                    "I realized that they weren’t perfect and I shouldn’t have bought them."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Look at the sentences from the conversation between Vicky and Robert. Then choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We write should (not) + have + past participle / base form.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "past participle",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "past participle",
+                        "base form"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "We use should have done to talk about mistakes that we make / made in the past and imagine how we could have avoided those mistakes.",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "made",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "make",
+                        "made"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should have + past partciple",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 140.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should have + past participle",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Use should/shouldn’t have done to talk about these situations.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Third conditional; Would / Should have + past participle",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Read the sentences and choose the option which is true.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "He should have made a decision based on the facts."
+                          ],
+                          "exerciseAnswers": "He didn’t consider the facts.",
+                          "exerciseOptions": [
+                            "He considered the facts.",
+                            "He didn’t consider the facts."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "She could have avoided the other car if she’d stopped in time."
+                          ],
+                          "exerciseAnswers": "She didn’t avoid the other car.",
+                          "exerciseOptions": [
+                            "She avoided the other car.",
+                            "She didn’t avoid the other car."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "If you had listened to me, you wouldn’t have made a foolish decision."
+                          ],
+                          "exerciseAnswers": "You made a foolish decision.",
+                          "exerciseOptions": [
+                            "You made a foolish decision.",
+                            "You didn’t make a foolish decision."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "If David had gone to a smaller store, he would have felt less stressed."
+                          ],
+                          "exerciseAnswers": "David went to a big store.",
+                          "exerciseOptions": [
+                            "David went to a small store.",
+                            "David went to a big store."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "If David had gone to a smaller store, he would have felt less stressed."
+                          ],
+                          "exerciseAnswers": "David went to a big store.",
+                          "exerciseOptions": [
+                            "David went to a small store.",
+                            "David went to a big store."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "We wouldn’t have bought this house if we’d known it was so noisy here."
+                          ],
+                          "exerciseAnswers": "We bought the house.",
+                          "exerciseOptions": [
+                            "We bought the house.",
+                            "We didn’t buy the house."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 10.2,
+          "sectionTitle": "Wish lists",
+          "sectionObjectives": [
+            "Talk about your wishes and regrets",
+            "Plan a to-do list"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit10_Lesson10_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "reflexive verbs; staying organized"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "emphasis and reflexive pronouns"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "hopes and wishes"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "bridge sentences"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Hopes and wishes",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the sentences from the conversation with the explanations.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "I wish I’d known about all this a few years ago! But I guess it’s too late for me now.",
+                        "I hope your new routine works for you, Leo.",
+                        "I wish we had time to talk about your other seven cups of coffee, but we need to go to our next caller.",
+                        "I wish I could run a marathon next year."
+                      ],
+                      "columnB": [
+                        "The speaker is imagining a different past situation.",
+                        "The speaker is talking about something that’s likely to happen in the future.",
+                        "The speaker is imagining a different present situation.",
+                        "The speaker is talking about something that’s unlikely to happen in the future."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Hopes and wishes",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 140.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Hopes and wishes",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "HOPES AND WISHES",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Complete the sentences with hope or wish. Then choose the correct words to complete the hopes and wishes."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "I hope you have a great time on vacation next week."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "I started playing tennis last year and I love it, but I’m too old to become a top player. I wish I started playing when I was younger."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "It’s great that you’re coming to my city next week. I wish I could meet you while you're here, but unfortunately I’ll be away all week. "
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "I’m a little worried about Frank and Donna. They should have arrived an hour ago. I hope they arrive soon."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "I never have time to do all the things I need to do each week. Sometimes I wish there were eight days in a week!"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "My main regret is that I didn’t spend enough time with my children when they were younger. I wish I hadn't spent so much time working in those days!"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "My dream is to be the first person to travel to Mars! I really wish I could go there one day, but I know it’s never going to happen. "
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the sentences with hope or wish. Then choose the correct words to complete the hopes and wishes.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "hope",
+                        "wish",
+                        "have",
+                        "started",
+                        "could",
+                        "meet",
+                        "arrive",
+                        "were",
+                        "hadn't",
+                        "spent",
+                        "could",
+                        "go"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Hopes and wishes",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the situations to the people’s comments.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Brett’s too short for the basketball team.",
+                        "Dad is always losing his keys.",
+                        "I don’t know any of the answers.",
+                        "Josh’s drive to work takes 90 minutes.",
+                        "I want to stop eating sugar completely.",
+                        "Phoebe feels lonely.",
+                        "Anna is really tired."
+                      ],
+                      "columnB": [
+                        "‘I wish I were taller.’",
+                        "‘I wish I wasn’t so disorganized.’",
+                        "‘I wish I had studied more.’",
+                        "‘I wish I didn’t have to drive so far.’",
+                        "‘I hope you achieve your goal.’",
+                        "‘I wish I had more friends.’",
+                        "‘I wish I hadn’t stayed up all night.’"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

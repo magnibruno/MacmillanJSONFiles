@@ -1,0 +1,892 @@
+{
+  "sections": [
+    {
+      "sectionNumber": 1.1,
+      "sectionTitle": "Breaking the ice",
+      "sectionObjective": "Find out about someone new",
+      "GKU": "Language_Hub_B1_Unit1_Lesson1_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "people"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "the alphabet"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "question forms"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 1.2,
+      "sectionTitle": "Blogs and bloggers",
+      "sectionObjective": "Talk about different types of people",
+      "GKU": "Language_Hub_B1_Unit1_Lesson1_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "types of people"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "using a dictionary"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "frequency words and phrases"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 1.3,
+      "sectionTitle": "Personality",
+      "sectionObjective": "Describe someone’s personality",
+      "GKU": "Language_Hub_B1_Unit1_Lesson1_3",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "indefinite pronouns"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "personality adjectives, adjective + preposition"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "word stress in multisyllable adjectives"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "previewing a text"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.1,
+      "sectionTitle": "Love where you live",
+      "sectionObjective": "Talk about your neighborhood",
+      "GKU": "Language_Hub_B1_Unit2_Lesson2_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "adverbs of degree"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "describing places"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "stress in two-syllable adjectives"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.2,
+      "sectionTitle": "The boomerang generation",
+      "sectionObjective": "Talk about your life and routine",
+      "GKU": "Language_Hub_B1_Unit2_Lesson2_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "verb + preposition"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple present and present progressive"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "consonant pairs at the beginning of words"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 2.3,
+      "sectionTitle": "Time flies",
+      "sectionObjective": "Talk about life events",
+      "GKU": "Language_Hub_B1_Unit2_Lesson2_3",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "simple past - regular and irregular verbs"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "life events"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "Simple past irregular verbs /ɔː/, /e/ and /eɪ/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "skimming for key words"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.1,
+      "sectionTitle": "The four-year journey",
+      "sectionObjective": "Talk about journeys and transportation",
+      "GKU": "Language_Hub_B1_Unit3_Lesson3_1",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "all / some / most / no / none"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "types of transportation"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/p/, /b/, /v/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.2,
+      "sectionTitle": "Lost at sea",
+      "sectionObjective": "Tell a story about a journey",
+      "GKU": "Language_Hub_B1_Unit3_Lesson3_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "past progressive and simple past"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "was and were with past progressive"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "prefixes"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 3.3,
+      "sectionTitle": "Time flies",
+      "sectionObjective": "Too good to be true",
+      "GKU": "Language_Hub_B1_Unit3_Lesson3_3",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "verb + -ing and to + base form"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "accommodations and amenities"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ʃ/, /tʃ/ and /dʒ/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "identifying tone"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.1,
+      "sectionTitle": "What’s the plan?",
+      "sectionObjective": "Talk about plans you have made for a weekend with visitors",
+      "GKU": "Language_Hub_B1_Unit4_Lesson4_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "free time"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "be going to + base form and present progressive for the future"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "going to"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.2,
+      "sectionTitle": "The future of free time",
+      "sectionObjective": "Present reasons to support or argue against predictions",
+      "GKU": "Language_Hub_B1_Unit4_Lesson4_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "making predictions"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "will and won’t"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "suffixes"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 4.3,
+      "sectionTitle": "Hygge",
+      "sectionObjective": "Ask and answer questions about how you like to spend your free time",
+      "GKU": "Language_Hub_B1_Unit4_Lesson4_3",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "subject and object questions"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "relaxing"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "linking a consonant to a vowel"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "summarizing"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.1,
+      "sectionTitle": "Work",
+      "sectionObjective": "Talk about the pros and cons of different jobs and say how they help society",
+      "GKU": "Language_Hub_B1_Unit5_Lesson5_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "work collocations"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/w/ and /v/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "can, could, be able to"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.2,
+      "sectionTitle": "Flip-flop entrepreneurs",
+      "sectionObjective": "Decide on the rules for a workplace or classroom",
+      "GKU": "Language_Hub_B1_Unit5_Lesson5_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "obligation, necessity and permission: must, have to and can"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "can / can’t and must / must not"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "adjectives for appearance"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 5.3,
+      "sectionTitle": "Don’t call us",
+      "sectionObjective": "Answer questions on topics in which you are an expert",
+      "GKU": "Language_Hub_B1_Unit5_Lesson5_3",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "work + preposition"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "has, have, for, since"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present perfect with for and since"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "listening for inference"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.1,
+      "sectionTitle": "Health Myths",
+      "sectionObjective": "Give a presentation on health dos and don’ts",
+      "GKU": "Language_Hub_B1_Unit6_Lesson6_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "minor illnesses"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ʌ/, /ɔː/, /uː/, /eɪ/ and /ɜː/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "quantifiers too and enough"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.2,
+      "sectionTitle": "Keep Fit",
+      "sectionObjective": "Plan an exercise event for your local community",
+      "GKU": "Language_Hub_B1_Unit6_Lesson6_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "-ing forms"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ŋ /, /n/ and /m/"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "exercise"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 6.3,
+      "sectionTitle": "We may never 'meat' again",
+      "sectionObjective": "Encourage people to make a lifestyle change",
+      "GKU": "Language_Hub_B1_Unit6_Lesson6_3",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "food groups"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/s/ and /ʃ/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "present perfect with just, already and yet"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "scanning for key words"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.1,
+      "sectionTitle": "Smile",
+      "sectionObjective": "Discuss what makes you happy",
+      "GKU": "Language_Hub_B1_Unit7_Lesson7_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "feelings"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ə/ (schwa) in a / an"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "articles"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.2,
+      "sectionTitle": "The internet and the brain",
+      "sectionObjective": "Write an online comment about the effects of the internet",
+      "GKU": "Language_Hub_B1_Unit7_Lesson7_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "used to"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "used to"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "shortened words"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 7.3,
+      "sectionTitle": "Intelligence",
+      "sectionObjective": "Talk about intelligence and achievements",
+      "GKU": "Language_Hub_B1_Unit7_Lesson7_3",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "phrasal verbs"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "practicing the: /ðiː/ or /ðə/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "no article (school, the school)"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "listening for the order of events"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.1,
+      "sectionTitle": "Musical Taste",
+      "sectionObjective": "Talk about taste in music and your favorite songs",
+      "GKU": "Language_Hub_B1_Unit8_Lesson8_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "music"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "consonant clusters in words"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "reflexive pronouns"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.2,
+      "sectionTitle": "Unusual art",
+      "sectionObjective": "Talk about art and artists",
+      "GKU": "Language_Hub_B1_Unit8_Lesson8_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "infinitive of purpose"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ɪ/ and /iː/"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "types of art"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 8.3,
+      "sectionTitle": "Telling Stories",
+      "sectionObjective": "Describe movies and books",
+      "GKU": "Language_Hub_B1_Unit8_Lesson8_3",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "movie and book genres; adjectives for describing movies and books"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "word stress in longer words"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "first conditional"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "identifying contrasts"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.1,
+      "sectionTitle": "Spending money",
+      "sectionObjective": "Talk about attitudes toward money and about spending money",
+      "GKU": "Language_Hub_B1_Unit9_Lesson9_1",
+      "sectionSkills": [
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ɑː/, /ʌ/ and /æ/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "second conditional"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "prepositions in money phrases"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.2,
+      "sectionTitle": "Getting and giving",
+      "sectionObjective": "Talk about philanthropy and charities",
+      "GKU": "Language_Hub_B1_Unit9_Lesson9_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "verbs connected with money"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/s/ and /z/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "essential adjective clauses"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 9.3,
+      "sectionTitle": "Who needs money?",
+      "sectionObjective": "Discuss your skills and how they could help others",
+      "GKU": "Language_Hub_B1_Unit9_Lesson9_3",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "gerunds"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "make and do expressions"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ʒ/ and /dʒ/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "using context to guess unknown words"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.1,
+      "sectionTitle": "Devices",
+      "sectionObjective": "Describe and compare personal possessions",
+      "GKU": "Language_Hub_B1_Unit10_Lesson10_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "electronic devices"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ɪst/ and superlative adjectives"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "comparatives and superlatives"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.2,
+      "sectionTitle": "It’s only good when it works",
+      "sectionObjective": "Describe types of technology",
+      "GKU": "Language_Hub_B1_Unit10_Lesson10_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "more comparative structures"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/əz/ in comparative structures"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "using devices and the internet"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 10.3,
+      "sectionTitle": "The best view in the universe",
+      "sectionObjective": "Discuss the requirements for a job",
+      "GKU": "Language_Hub_B1_Unit10_Lesson10_3",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "collocations: science and research"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ʊ/ and /uː/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "need to"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "facts and opinions"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 11.1,
+      "sectionTitle": "Natural wonders",
+      "sectionObjective": "Talk about natural wonders",
+      "GKU": "Language_Hub_B1_Unit11_Lesson11_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "natural features"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/e/ and /iː/"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "the passive voice (simple present and simple past)"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 11.2,
+      "sectionTitle": "Animal images",
+      "sectionObjective": "Read and talk about wildlife photography",
+      "GKU": "Language_Hub_B1_Unit11_Lesson11_2",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "adjective + infinitive"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "to /tə/"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "animals"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 11.3,
+      "sectionTitle": "Throw-away world",
+      "sectionObjective": "Talk about the causes and effects of plastic pollution",
+      "GKU": "Language_Hub_B1_Unit11_Lesson11_3",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "somewhere, nowhere, everywhere, anywhere"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/l/ pronounced and silent"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "even"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Reading",
+          "skillTitle": "looking for ways of expressing cause and effect"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 12.1,
+      "sectionTitle": "The news",
+      "sectionObjective": "Talk about the pros and cons of online news",
+      "GKU": "Language_Hub_B1_Unit12_Lesson12_1",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "news expressions"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "reported speech"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/ɒ /, /ɔː/ and /oʊ/"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 12.2,
+      "sectionTitle": "On the box",
+      "sectionObjective": "Talk and debate about different TV viewing habits",
+      "GKU": "Language_Hub_B1_Unit12_Lesson12_2",
+      "sectionSkills": [
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "television"
+        },
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "past perfect"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "word stress in past perfect sentences"
+        }
+      ]
+    },
+    {
+      "sectionNumber": 12.3,
+      "sectionTitle": "Advertising",
+      "sectionObjective": "Talk about advertising and what makes a good advertisement",
+      "GKU": "Language_Hub_B1_Unit12_Lesson12_3",
+      "sectionSkills": [
+        {
+          "skillType": "G",
+          "skillName": "Grammar",
+          "skillTitle": "should"
+        },
+        {
+          "skillType": "V",
+          "skillName": "Vocabulary",
+          "skillTitle": "advertising"
+        },
+        {
+          "skillType": "P",
+          "skillName": "Pronunciation",
+          "skillTitle": "/æ/ and /e/"
+        },
+        {
+          "skillType": "S",
+          "skillName": "Listening",
+          "skillTitle": "identifying opinion and attitudes of speakers"
+        }
+      ]
+    }
+  ]
+}

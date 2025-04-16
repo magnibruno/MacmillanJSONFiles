@@ -1,0 +1,479 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 6,
+      "chapterTitle": "Sports and hobbies",
+      "chapterQuote": "You can discover more about a person in an hour of play than in a year of conversation. Richard Lingard",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "describe a sport or game",
+        "give a short, persuasive talk",
+        "talk about hobbies and free time activities",
+        "discuss trying new things",
+        "express your opinion",
+        "write an article for a magazine"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 6.1,
+          "sectionTitle": "Take part!",
+          "sectionObjectives": [
+            "Describe a sport or game",
+            "Give a short, persuasive talk"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit6_Lesson6_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "modals of obligation"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "adjectives ending in -ive; sports"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "rhythm: pausing"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for main and supporting points"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs and discuss the questions. What are the pros and cons of playing video games?",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR GIST",
+                  "setImage": "",
+                  "setAudioNumber": 6.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U6.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to a talk about eSports and choose the correct answers.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "What is the best title for the talk?"
+                          ],
+                          "exerciseAnswers": "Video gaming: the next Olympic sport?",
+                          "exerciseOptions": [
+                            "Video gaming: is it good for you?",
+                            "Video gaming: the professional sport of the future",
+                            "Video gaming: nothing more than a free time activity",
+                            "Video gaming: the next Olympic sport?"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "What is the purpose of the talk?"
+                          ],
+                          "exerciseAnswers": "to persuade people to agree with the speaker’s opinion of eSports",
+                          "exerciseOptions": [
+                            "to give general information about eSports",
+                            "to encourage people to watch and play eSports",
+                            "to persuade people to agree with the speaker’s opinion of eSports",
+                            "to give a balanced analysis of eSports"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 6.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U6.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Listen again to the introduction. What is the main idea? What are the supporting points?",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Soccer, basketball, golf and tennis are four of the world's most popular sports.",
+                        "played by millions, watched by millions more, all in the Olympic games"
+                      ],
+                      "columnB": [
+                        "Main idea",
+                        "Supporting points"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 6.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U6.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Listen again to another part of the talk. What is the main idea? What are the supporting points?",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "eSports are played in the same way as any other sport.",
+                        "professional teams compete in large venues and stadiums, thousands of spectators, millions watch online"
+                      ],
+                      "columnB": [
+                        "Main idea",
+                        "Supporting points"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 6.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U6.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again to the whole talk and and choose the correct answers.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "The speaker thinks that many people in the audience …"
+                          ],
+                          "exerciseAnswers": "don’t realize that video gaming is played professionally.",
+                          "exerciseOptions": [
+                            "play video games at home.",
+                            "understand how popular eSports are.",
+                            "don’t realize that video gaming is played professionally."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "She says playing video games is a sport because …"
+                          ],
+                          "exerciseAnswers": "there are winners and losers.",
+                          "exerciseOptions": [
+                            "players practice a lot.",
+                            "the games have clear rules.",
+                            "there are winners and losers."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "She says a great eSports player …"
+                          ],
+                          "exerciseAnswers": "has a strong mind and body.",
+                          "exerciseOptions": [
+                            "has a strong mind and body.",
+                            "plays other traditional sports.",
+                            "spends all their time training."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "She says eSports are different from traditional sports because …"
+                          ],
+                          "exerciseAnswers": "they are growing in popularity.",
+                          "exerciseOptions": [
+                            "they are growing in popularity.",
+                            "young people like them.",
+                            "people watch them online."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "The Olympic Games wants to include sports that …"
+                          ],
+                          "exerciseAnswers": "young people like.",
+                          "exerciseOptions": [
+                            "involve physical activity.",
+                            "young people like.",
+                            "have professional players."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "Listening",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "F",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 6.2,
+          "sectionTitle": "Hobbies",
+          "sectionObjectives": [
+            "Talk about hobbies and free time activities",
+            "Discuss trying new things"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit6_Lesson6_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "hobbies and free time activities"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "present perfect progressive; had to / needed to"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "been: unstressed"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "identifying tone"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR GIST",
+                  "setImage": "",
+                  "setAudioNumber": 6.5,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U6.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Listen to a radio show about hobbies and free time activities. Match the hobbies with the guest speaker (1-5).",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Speaker 1",
+                        "Speaker 2",
+                        "Speaker 3",
+                        "Speaker 4",
+                        "Speaker 5"
+                      ],
+                      "columnB": [
+                        "classic or vintage cars",
+                        "pottery",
+                        "cyclist",
+                        "music fan",
+                        "bird watching"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 6.5,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U6.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen again. Choose the best answers for each person.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Speaker 1"
+                          ],
+                          "exerciseAnswers": "spends a lot of money on his hobby.",
+                          "exerciseOptions": [
+                            "buys and sells new cars.",
+                            "spends a lot of money on his hobby.",
+                            "makes enough money from his hobby to pay for his vacations."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Speaker 2"
+                          ],
+                          "exerciseAnswers": "is learning how to do something new.",
+                          "exerciseOptions": [
+                            "finds his hobby stressful at times.",
+                            "also works as a photographer.",
+                            "is learning how to do something new."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Speaker 3"
+                          ],
+                          "exerciseAnswers": "says her husband spends a lot of time on his hobby.",
+                          "exerciseOptions": [
+                            "wants her husband to spend more time on his hobby.",
+                            "says her husband spends a lot of time on his hobby.",
+                            "shares her husband’s hobby."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Speaker 4"
+                          ],
+                          "exerciseAnswers": "shares her interest with her friends.",
+                          "exerciseOptions": [
+                            "shares her interest with her friends.",
+                            "has her own social media site about her interest.",
+                            "regularly stays at hotels in Boston."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Speaker 5"
+                          ],
+                          "exerciseAnswers": "as had many different hobbies.",
+                          "exerciseOptions": [
+                            "usually has a few hobbies at the same time.",
+                            "finds it hard to get interested in things.",
+                            "has had many different hobbies."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in groups and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 10,
+      "chapterTitle": "Psychology",
+      "chapterQuote": "The purpose of psychology is to give us a completely different idea of the things we know best. Paul Valéry ",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about different versions of past events",
+        "talk about past mistakes",
+        "talk about your wishes and regrets",
+        "plan a to-do list",
+        "make and accept apologies",
+        "write a report"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 10.1,
+          "sectionTitle": "Making up your mind",
+          "sectionObjectives": [
+            "Talk about different versions of past events",
+            "Talk about past mistakes"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit10_Lesson10_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "psychology verbs; expressions with mind"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "third conditional; should have + past participle"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "third conditional"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for phrases that support an argument"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Third conditional",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 10.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U10.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the third conditional sentence.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "If I’d thought about it more carefully, I’d have made a better decision."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Third conditional",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": "null",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practice saying the sentences you wrote in Grammar Exercise D. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 10.2,
+          "sectionTitle": "Wish lists",
+          "sectionObjectives": [
+            "Talk about your wishes and regrets",
+            "Plan a to-do list"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit10_Lesson10_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "reflexive verbs; staying organized"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "emphasis and reflexive pronouns"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "hopes and wishes"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "bridge sentences"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Emphasis and reflexive pronouns",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 10.5,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U10.2_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the sentences from the radio show. For each sentence, decide if the reflexive pronouns are stressed or unstressed.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I treat myself to a snack from the package."
+                          ],
+                          "exerciseAnswers": "unstressed",
+                          "exerciseOptions": [
+                            "stressed",
+                            "unstressed"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I always make myself a cup of coffee before I check my emails."
+                          ],
+                          "exerciseAnswers": "unstressed",
+                          "exerciseOptions": [
+                            "stressed",
+                            "unstressed"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Don't blame yourself."
+                          ],
+                          "exerciseAnswers": "stressed",
+                          "exerciseOptions": [
+                            "stressed",
+                            "unstressed"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "How will you reward yourself for being good?"
+                          ],
+                          "exerciseAnswers": "unstressed",
+                          "exerciseOptions": [
+                            "stressed",
+                            "unstressed"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Emphasis and reflexive pronouns",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the best word or phrase to complete the rules.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "When a reflexive pronoun follows a verb, the pronoun is / is not usually stressed."
+                          ],
+                          "exerciseAnswers": "is not",
+                          "exerciseOptions": [
+                            "is",
+                            "is not"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "But when we want to emphasise the subject at the end of a clause, we can / can’t stress the pronoun."
+                          ],
+                          "exerciseAnswers": "can",
+                          "exerciseOptions": [
+                            "can",
+                            "can't"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Emphasis and reflexive pronouns",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practise saying the sentences in Exercise A. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

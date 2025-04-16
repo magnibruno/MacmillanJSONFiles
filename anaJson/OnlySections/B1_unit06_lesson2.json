@@ -1,0 +1,410 @@
+{
+	"sectionNumber": 6.2,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Keep fit",
+	"sectionObjective": "Plan an exercise event for your local community",
+	"GKU": "Language_Hub_B1_Unit6_Lesson6_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "exercise"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/ŋ /, /n/ and /m/"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "-ing forms"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Funny fitness",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Did you know that laughing for 15 minutes can burn up to 40 calories? We hope these jokes and quotes will keep you smiling as you walk to the store, jog around the park or run your next marathon."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Q What is a runner's favorite school subject?",
+						"A Jog-raphy"
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"If you are in a bad mood, go for a walk. If you are still in a bad mood, go for another walk.",
+						"Hippocrates"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Patient: Doctor, can you give me something to stop sleepwalking?",
+						"Doctor: I'm afraid I can't, sir. You need the exercise!"
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": "Parkrun",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Are you looking for an easy way to stay in shape and lose weight? Would you like to run 5 km in a familyfriendly atmosphere? Would you like to compare your results with other runners from all over the world? If so, then check out Parkrun."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Parkrun organizes free weekly timed runs in parks all over the world. The 5 km runs take place on weekend mornings and are open to everyone. After each race, runners receive detailed results via email."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Parkrun is an international community of over one million runners in 17 countries and there is always space for more! So come and join the Parkrun family and get fit for free!"
+					]
+				},
+				{
+					"paragraphOrdinal": 8,
+					"paragraphTitle": "Marathon Man",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"What do you think it takes to become a running master? Fauja Singh, from east London, finished a 10 km race in Hong Kong in one hour and 32 minutes – and he did it at the age of 101."
+					]
+				},
+				{
+					"paragraphOrdinal": 9,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"In 2011, Singh became the oldest person to run a marathon. At 100 years of age, he completed the Toronto Marathon in just over eight hours."
+					]
+				},
+				{
+					"paragraphOrdinal": 10,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"As a young man, Mr. Singh was a farmer in Punjab, India. Then in the 1960s, he went to live in Britain and only began running when he was 89 years old."
+					]
+				},
+				{
+					"paragraphOrdinal": 11,
+					"paragraphTitle": "",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Mr. Singh plans to run again for charity, but the Hong Kong 10 km was his final competitive race. ‘I will remember this day. I will miss it,’ Mr. Singh said after the event."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Check () the sentences you agree with. Then work in pairs and explain your choices.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Running is great exercise and great fun.",
+							"exerciseMaxAnswer": "running",
+							"exerciseMinAnswer": "running",
+							"exerciseAnswer": "running",
+							"LKUs": [
+								"running"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "I'd like to run a marathon one day.",
+							"exerciseMaxAnswer": "marathon",
+							"exerciseMinAnswer": "marathon",
+							"exerciseAnswer": "marathon",
+							"LKUs": [
+								"marathon"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "I prefer team sports, like racquetball or field hockey.",
+							"exerciseMaxAnswer": "team",
+							"exerciseMinAnswer": "team",
+							"exerciseAnswer": "team",
+							"LKUs": [
+								"team"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "Jogging is exercise, not fun.",
+							"exerciseMaxAnswer": "jogging",
+							"exerciseMinAnswer": "jogging",
+							"exerciseAnswer": "jogging",
+							"LKUs": [
+								"jogging"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "Running is boring.",
+							"exerciseMaxAnswer": "running",
+							"exerciseMinAnswer": "running",
+							"exerciseAnswer": "running",
+							"LKUs": [
+								"running"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"exerciseQuestion": "The only time I run is to catch the bus.",
+							"exerciseMaxAnswer": "run",
+							"exerciseMinAnswer": "run",
+							"exerciseAnswer": "run",
+							"LKUs": [
+								"run"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "SCAN",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read texts 1-3. What is the purpose of each?",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Read text 1. What is the purpose of this text?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "to inform",
+							"LKUs": [
+								"inform"
+							],
+							"sentenceAnswerOptions": [
+								"to persuade",
+								"to inform",
+								"to entertain"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Read text 2. What is the purpose of this text?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "to persuade",
+							"LKUs": [
+								"persuade"
+							],
+							"sentenceAnswerOptions": [
+								"to persuade",
+								"to inform",
+								"to entertain"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Read text 3. What is the purpose of this text?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "to entertain",
+							"LKUs": [
+								"entertain"
+							],
+							"sentenceAnswerOptions": [
+								"to persuade",
+								"to inform",
+								"to entertain"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again and answer the questions. Write Funny fitness (FF), Parkrun (PR), Marathon man (MM) or none of the texts (N).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Which text tells the story of an individual?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "Parkrun",
+							"LKUs": [
+								"individual"
+							],
+							"sentenceAnswerOptions": [
+								"Parkrun",
+								"Funny fitness",
+								"Marathon man",
+								"None of the texts"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Which text offers readers the chance to read more online?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "Parkrun",
+							"LKUs": [
+								"online"
+							],
+							"sentenceAnswerOptions": [
+								"Parkrun",
+								"Funny fitness",
+								"Marathon man",
+								"None of the texts"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "Which text tries to sell readers something?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "Funny fitness",
+							"LKUs": [
+								"sell"
+							],
+							"sentenceAnswerOptions": [
+								"Parkrun",
+								"Funny fitness",
+								"Marathon man",
+								"None of the texts"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "Which text reports the results of a research project?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "Marathon man",
+							"LKUs": [
+								"research"
+							],
+							"sentenceAnswerOptions": [
+								"Parkrun",
+								"Funny fitness",
+								"Marathon man",
+								"None of the texts"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "Which text tries to make readers laugh?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "Funny fitness",
+							"LKUs": [
+								"laugh"
+							],
+							"sentenceAnswerOptions": [
+								"Parkrun",
+								"Funny fitness",
+								"Marathon man",
+								"None of the texts"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"exerciseQuestion": "Which text describes the purpose of a particular organization?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "Parkrun",
+							"LKUs": [
+								"organization"
+							],
+							"sentenceAnswerOptions": [
+								"Parkrun",
+								"Funny fitness",
+								"Marathon man",
+								"None of the texts"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Why is running such a popular form of exercise?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": null,
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Would you like to do a parkrun? Why/Why not?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": null,
+							"context": "textContents"
+						}
+					]
+				}
+			]
+		}
+	]
+}

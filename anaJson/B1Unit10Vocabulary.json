@@ -1,0 +1,560 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 10,
+      "chapterTitle": "SCIENCE AND TECHNOLOGY",
+      "chapterQuote": "Be less curious about people and more curious about ideas. Marie Curie",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "describe and compare personal possessions",
+        "describe types of technology",
+        "discuss the requirements for a job",
+        "make and receive formal and informal phone calls",
+        "write a recommendation"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 10.1,
+          "sectionTitle": "Devices",
+          "sectionObjectives": [
+            "Describe and compare personal possessions"
+          ],
+          "GKU": "Language_Hub_B1_Unit10_Lesson10_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "electronic devices"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɪst/ and superlative adjectives"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "comparatives and superlatives"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Electronic devices",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make a list of words to name or describe electronic devices. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Electronic devices",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make a list of words to name or describe electronic devices. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Electronic devices",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U10.1_001",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "fitness tracker"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U10.1_002",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "tablet"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U10.1_003",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "power bank"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U10.1_004",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "drone"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U10.1_005",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "e-reader"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphImage": "mm_LH_TAT3_PH_U10.1_006",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "USB drive"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Match the pictures with the words in the word bank.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "drone",
+                        "e-reader",
+                        "fitness",
+                        "power",
+                        "tablet",
+                        "USB drive"
+                      ],
+                      "LKUs": [
+                        "drone",
+                        "e-reader",
+                        "fitness",
+                        "power",
+                        "tablet",
+                        "USB drive"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Electronic devices",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the devices in the word bank.",
+                  "wordBank": [
+                    "drone",
+                    "e-reader",
+                    "fitness tracker",
+                    "power bank",
+                    "tablet",
+                    "USB drive"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "A power bank is great when you are not at home and your phone battery runs out."
+                          ],
+                          "blankedWords": [
+                            "power",
+                            "bank"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "He always uses his USB drive to transfer large files."
+                          ],
+                          "blankedWords": [
+                            "USB drive"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I wear my fitness tracker 24 hours a day. I love it because it tells me how many steps I take."
+                          ],
+                          "blankedWords": [
+                            "fitness",
+                            "tracker"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Tina got a drone for her birthday, but she was flying it in the backyard and it got stuck up in a tree!"
+                          ],
+                          "blankedWords": [
+                            "drone"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "My husband won’t buy an e-reader because he says he loves the feel and smell of paper books."
+                          ],
+                          "blankedWords": [
+                            "e-reader"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 10.2,
+          "sectionTitle": "It’s only good when it works",
+          "sectionObjectives": [
+            "Describe types of technology"
+          ],
+          "GKU": "Language_Hub_B1_Unit10_Lesson10_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "more comparative structures"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/əz/ in comparative structures"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "using devices and the internet"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Using devices and the internet",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the collocations with verbs from the word bank.",
+                  "wordBank": [
+                    "make",
+                    "block",
+                    "remember",
+                    "connect",
+                    "click",
+                    "crashes",
+                    "freezes",
+                    "install"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "make a video call – use the internet to talk to and see someone else"
+                          ],
+                          "blankedWords": [
+                            "make"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "block your account – if a bank or a social media provider does this, they stop your account from working because you have done something wrong"
+                          ],
+                          "blankedWords": [
+                            "block"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "remember your password – keep in your mind the secret word you chose to keep your email, bank or social media account safe"
+                          ],
+                          "blankedWords": [
+                            "remember"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "connect a drive – add a small device with extra memory to your computer"
+                          ],
+                          "blankedWords": [
+                            "connect"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "My husband won’t buy an e-reader because he says he loves the feel and smell of paper books."
+                          ],
+                          "blankedWords": [
+                            "e-reader"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Using devices and the internet",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make a list of adjectives to describe appearance. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 10.3,
+          "sectionTitle": "The best view in the universe",
+          "sectionObjectives": [
+            "Discuss the requirements for a job"
+          ],
+          "GKU": "Language_Hub_B1_Unit10_Lesson10_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "collocations: science and research"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ʊ/ and /uː/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "need to"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "facts and opinions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: science and research",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "ISS schedule memo 1174639 – Schedule number 4077",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "Good evening from Earth and the Control Center. As always, please follow tomorrow’s schedule carefully."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "9:00 am – IMPORTANT repair broken gym equipment. This must be fixed today. Exercise program must return to normal."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "10:00 am – Live link with University of Beijing – Give a presentation to students on Chinese astronauts who have made important discoveries on the ISS."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "11:00 am – Continue testing technologies for long-distance communication."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "1:00 pm – Meeting to look for solutions to the recent computer problems."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "2:00 pm – Continue doing research into growing fruit in space. Do experiments, numbers 146 to 149 and collect more data on water levels."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "5:00 pm – Make more preparations for the next spacewalk. Try to solve the problems with spacesuit number 4."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Look at the pictures of Tom’s morning routine. Complete the phrases with the verbs in the box.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "follow",
+                        "repair",
+                        "made",
+                        "testing",
+                        "look",
+                        "doing",
+                        "do",
+                        "collect",
+                        "make",
+                        "solve"
+                      ],
+                      "LKUs": [
+                        "follow",
+                        "repair",
+                        "make",
+                        "test",
+                        "look",
+                        "do",
+                        "collect",
+                        "solve"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: science and research",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Go to the Communication Hub on page 155 and complete the survey. Then compare your results. Which of you would be best at working in space?",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

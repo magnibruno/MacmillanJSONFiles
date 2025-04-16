@@ -1,0 +1,162 @@
+{
+	"sectionNumber": 4.3,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Hygge",
+	"sectionObjective": "Ask and answer questions about how you like to spend your free time",
+	"GKU": "Language_Hub_B1_Unit4_Lesson4_3",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "subject and object questions"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "relaxing"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "linking a consonant to a vowel"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Make yourself at home",
+					"paragraphSubtitles": [
+						"What is hygge?"
+					],
+					"paragraphContents": [
+						"Winters in Denmark are long, dark and cold, but according to the 2016 ON World Happiness Report, Danish people are among the happiest in the world. One reason might be hygge, the Danish attitude that focuses on enjoying the simple things in life, such as enjoying a coffee in a relaxed atmosphere with easy-going friends or family."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "",
+					"paragraphSubtitles": [
+						"How do you pronounce hygge?"
+					],
+					"paragraphContents": [
+						"Hygge is easy enough to pronounce - 'hue-gah' - but much more difficult to translate. No single English word describes the idea completely, but being cozy is part of it. In English, we use words like hug, and in Danish, hygge can be an adjective, verb or noun."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "How do I know if it's hygge?",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Your friends come over on a cold winter evening to sit by the fire, eat homemade food and play board games. That's definitely hygge. You have a quiet night in, take a bath, light some candles, then sit down with a good book and a cozy blanket. That's hygge, too. You argue about politics, check your phone, play video games and listen to thumping techno music. That's definitely not hygge! So how do you know if it's hygge? Think warm socks, wool sweaters, sleeping pets and happy family gatherings. Got it now?"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "Why hygge?",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Research shows that people who are kind to themselves and take some time to relax and enjoy the simple things in life are happier. Hygge encourages us to do this and also to get together with friends and family. Happy groups of people make more caring communities and a happier society. It’s no surprise that the Danes are always smiling!"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Have you done any of the things in the box? Why/Why not?"
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Look at the pictures. What are the people doing? How do you think they feel? Use the words in the box to help you."
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - highlight",
+					"exerciseInstruction": "Read the first paragraph of Make yourself at home. What does hygge mean?",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": null,
+							"exerciseMinAnswer": "enjoying the simple things in life",
+							"exerciseMaxAnswer": "One reason might be hygge, the Danish attitude that focuses on enjoying the simple things in life, such as enjoying a coffee in a relaxed atmosphere with easy-going friends or family.",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"enjoy",
+								"simple"
+							],
+							"sentenceAnswerOptions": null,
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - word bank",
+					"exerciseInstruction": "Read the whole article. Complete the summary with the words in the box. Use the information in the box to help you.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Complete the summary with the words in the box.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": [
+								"attitude",
+								"cozy",
+								"gatherings",
+								"happy",
+								"relaxed",
+								"simple"
+							],
+							"sentenceAnswerOptions": [
+								"attitude",
+								"cozy",
+								"gatherings",
+								"happy",
+								"relaxed",
+								"simple"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the questions."
+				}
+			]
+		}
+	]
+}

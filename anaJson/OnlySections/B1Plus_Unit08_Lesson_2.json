@@ -1,0 +1,254 @@
+{
+	"sectionNumber": 8.2,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Must-have gadgets",
+	"sectionObjective": "Talk about new gadgets",
+	"GKU": "Language_Hub_B1plus_Unit8_Lesson8_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "positive adjectives"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "zero and first conditionals; conditionals with modals and imperatives"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "'ll and won't"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "topic sentences"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "If you really can't wait...",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"It’s five o’clock in the morning, and there are already over 200 people in the line outside the phone store. It's cold and dark, but the people seem happy. In a few hours, the doors will open and they'll finally get their hands on the gadget of their dreams: a gorgeous new cell phone. Of course, if you don't want to stand in line all night, you can come to the store this afternoon when the lines will be gone. Even better, if you can wait six months or so, the same phone will cost half the price. But if you really need that phone right now, come and join the back of the line."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Marketers have a name for people who buy new gadgets before everyone else: innovators. I've always thought that was a terrible name - innovation normally means doing something extremely smart, like inventing a new machine. But what's innovative about buying expensive gadgets just because they're new? Of course, marketers love 'innovators' for two reasons: innovators are happy to spend a lot of money and they persuade the rest of us to buy those gadgets a few months later."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"So why do they do it? I decided to speak to some people in the line outside the phone store to find out … and I got a few surprises. The biggest surprise was that the people at the front of the line were actually being paid to be there. I work for a gadget store, Gary's Gadgets,' said Bob, who is right at the front of the line. 'My boss, Gary, is paying me,' said Bob, 'so I'll be on TV around the world - wearing a T-shirt with the Gary's Gadgets logo.' Janice and Damian, who are second and third in the line, are also there for the money. 'We came here ten days ago, just to make sure we were first,' says Janice. 'But then Bob offered us $2,500 to move ahead of us.'"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"A little further back in the line, I meet some fans who aren’t just there to buy a phone. For me, it's a social event,' says a man named Mo. 'It's a great way to meet people who share my love of gadgets. I've had some amazing conversations in this line. Many of us come every year, so it feels like meeting old friends.' A woman named Ruby agrees, 'It's like going to a pop concert or a live sports game. I love the feeling of being at an important place at an important time.'"
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Near the back of the line, some people are feeling less positive. I'm only here because of the special offer: 25 percent off for the first 200 customers,' explains a stressed-looking young woman named Lucy, 'so I'll be really annoyed if I'm number 201!' Her best friend, Fiona, looks annoyed already. 'I'm only here to keep Lucy company,' she says. 'I actually think it's a waste of time and money. I've been here all night and I'm really cold. I mean, this new phone looks exactly the same as last year's!' But Lucy looks shocked. 'There's only one difference that counts: the difference between the best... and second best.'"
+					]
+				}
+			],
+			"glossaryBox": [
+				{
+					"glossaryTitle": "Glossary",
+					"glossaryContent": [
+						"gadget (n) a small tool or piece of equipment that does something useful or impressive, sometimes using new technology",
+						"innovative (adj) new, original and advanced",
+						"innovator (n) a person who invents or begins using new ideas, methods, equipment, etc."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Look at the picture and answer the questions."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "PREDICT",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Work in pairs. Before you read If you really can't wait..., look at the five topic sentences (a-e) and discuss the questions. Use the strategies in the box to help you.",
+					"exercises": []
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Read the article. Match the topic sentences (a-e) with the paragraphs (1-5).",
+					"exercises": []
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Write B (Bob), J (Janice), M (Mo), R (Ruby), L (Lucy) or F (Fiona).",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person has met people from the line at events like this before?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Mo",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Bob",
+								"Janice",
+								"Mo",
+								"Ruby"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person paid to be at the front of the line?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Bob",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Bob",
+								"Janice",
+								"Mo",
+								"Ruby"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person doesn't want to buy a phone at all?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Fiona",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Mo",
+								"Ruby",
+								"Lucy",
+								"Fiona"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person compares the experience to other exciting events?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Ruby",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Bob",
+								"Janice",
+								"Mo",
+								"Ruby"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person arrived before anyone else?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Janice",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Bob",
+								"Janice",
+								"Mo",
+								"Ruby"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person enjoys talking to other people about gadgets?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Mo",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Bob",
+								"Janice",
+								"Mo",
+								"Ruby"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 7,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which person is hoping to save some money?",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswers": "Lucy",
+							"LKUs": null,
+							"sentenceAnswerOptions": [
+								"Mo",
+								"Ruby",
+								"Lucy",
+								"Fiona"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. Do you think it is right to call people who buy the latest gadgets innovators? Why/Why not?"
+				}
+			]
+		}
+	]
+}

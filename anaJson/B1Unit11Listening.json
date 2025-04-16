@@ -1,0 +1,373 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 11,
+      "chapterTitle": "NATURAL WORLD",
+      "chapterQuote": "Everybody needs beauty as well as bread, places to play in where nature may heal and give strength to body and soul alike. John Muir",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about natural wonders",
+        "read and talk about wildlife photography",
+        "talk about the causes and effects of plastic pollution",
+        "tell a story",
+        "write an email giving suggestions and advice"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 11.1,
+          "sectionTitle": "Natural wonders",
+          "sectionObjectives": [
+            "Talk about natural wonders"
+          ],
+          "GKU": "Language_Hub_B1_Unit11_Lesson11_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "natural features"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/e/ and /iː/"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "the passive voice (simple present and simple past)"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Mount Everest"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Great Barrier Reef"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Grand Canyon"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Northern lights (aurora borealis)"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Rio de Janeiro harbor"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Victoria Falls"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": null,
+                  "paragraphImage": "",
+                  "paragraphSubtitles": null,
+                  "paragraphContents": [
+                    "Paricutin volcano"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "The places in the pictures above have recently been named as the Seven Natural Wonders of the World. Match the names of each location with each picture.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "sentences": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "Mount",
+                        "Reef",
+                        "Canyon",
+                        "lights",
+                        "harbor",
+                        "Falls",
+                        "volcano"
+                      ],
+                      "LKUs": [
+                        "Mount",
+                        "Reef",
+                        "Canyon",
+                        "lights",
+                        "harbor",
+                        "Falls",
+                        "volcano"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR KEY WORDS",
+                  "setImage": "",
+                  "setAudioNumber": 11.3,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U11.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Listen to a radio travel show about the 'Seven Natural Wonders of the World'. In which order did the travel writer visit the places?",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                      ],
+                      "columnB": [
+                        "the Great Barrier Reef",
+                        "Grand Canyon",
+                        "Mount Everest",
+                        "Victoria Falls",
+                        "Paricutin Volcano",
+                        "Rio de Janeiro Harbor",
+                        "Northern Lights"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 11.3,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U11.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the radio show again and answer the questions.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "What is the aim of the Seven Natural Wonders organization?"
+                          ],
+                          "exerciseAnswers": "to protect and preserve the natural wonders of the world",
+                          "exerciseOptions": [
+                            "to protect and preserve the natural wonders of the world",
+                            "to visit the Seven Natural Wonders of the World",
+                            "to climb the volcano and walk around the crater and look inside"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "What three main factors were used to choose the Seven Natural Wonders?"
+                          ],
+                          "exerciseAnswers": "How unique the place is, how important it is, its pure natural beauty.",
+                          "exerciseOptions": [
+                            "How unique the place is, how important it is, its pure natural beauty.",
+                            "Where it is located, how colorful the place is, the views.",
+                            "how old it is, how many people have traveled there, how big it is."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Why did Mike decide to visit the Seven Natural Wonders?"
+                          ],
+                          "exerciseAnswers": "He loves travelling and likes a challenge.",
+                          "exerciseOptions": [
+                            "He loves travelling and likes a challenge.",
+                            "He wanted to promote and protect the Natural Wonders.",
+                            "He is a travel writer and his work made him go."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 11.3,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U11.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Match each of the seven natural wonders to the fact about it.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "Northern Lights",
+                        "Paricutin volcano",
+                        "Victoria Falls",
+                        "Great Barrier Reef",
+                        "Mount Everest",
+                        "The Grand Canyon"
+                      ],
+                      "columnB": [
+                        "This natural wonder is visible only at certain times of the year.",
+                        "This natural wonder was formed the most recently.",
+                        "This natural wonder is located in two countries.",
+                        "This natural wonder is famous for its different colors.",
+                        "This natural wonder is the highest.",
+                        "This natural wonder is the most visited."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "Natural features",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Which of the Seven Natural Wonders you would most like to visit and why?",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 11.2,
+          "sectionTitle": "Animal images",
+          "sectionObjectives": [
+            "Read and talk about wildlife photography"
+          ],
+          "GKU": "Language_Hub_B1_Unit11_Lesson11_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "adjective + infinitive"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "to /tə/"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "animals"
+            }
+          ],
+          "sectionPart": [],
+          "hasListeninig": false
+        },
+        {
+          "sectionNumber": 11.3,
+          "sectionTitle": "Throw-away world",
+          "sectionObjectives": [
+            "Talk about the causes and effects of plastic pollution"
+          ],
+          "GKU": "Language_Hub_B1_Unit11_Lesson11_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "somewhere, nowhere, everywhere, anywhere"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/l/ pronounced and silent"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "even"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "looking for ways of expressing cause and effect"
+            }
+          ],
+          "sectionPart": [],
+          "hasListeninig": false
+        }
+      ]
+    }
+  ]
+}

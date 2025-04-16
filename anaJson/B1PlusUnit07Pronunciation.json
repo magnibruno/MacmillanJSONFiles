@@ -1,0 +1,289 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 7,
+      "chapterTitle": "Food",
+      "chapterQuote": "So long as you have food in your mouth, you have solved all questions for the time being.",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about eating out",
+        "make speculations and deductions about food",
+        "compare different types of food",
+        "compare a range of solutions and choose the best one",
+        "make suggestions",
+        "write a reply in an online discussion forum"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 7.1,
+          "sectionTitle": "Eating out",
+          "sectionObjectives": [
+            "Talk about eating out",
+            "Make speculations and deductions about food"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit7_Lesson7_1",
+          "sectionSkills": [
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "diphthongs; word stress with modals"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "modals of speculation and deduction"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "phrasal verbs; adjectives to describe food"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "hidden contrasts"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Diphthongs",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 7.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U7.1_001",
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Match the words with their correct pronunciation. Then listen and check your answers.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "wait",
+                        "you",
+                        "join",
+                        "might",
+                        "home",
+                        "doubt",
+                        "news"
+                      ],
+                      "columnB": [
+                        "Sounds like 'weight'",
+                        "Sounds like 'yoo'",
+                        "Sounds like 'joyn'",
+                        "Sounds like 'mite'",
+                        "Sounds like 'hohm'",
+                        "Sounds like 'dowt'",
+                        "Sounds like 'nooz'"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Diphthongs",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the best word or phrase to complete the rules about diphthongs.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Diphthongs are long vowel / consonant sounds made from two short sounds."
+                          ],
+                          "exerciseAnswers": "vowel",
+                          "exerciseOptions": [
+                            "vowel",
+                            "consonant"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "We pronounce diphthongs by moving quickly from one sound to the next / saying the two sounds separately."
+                          ],
+                          "exerciseAnswers": "moving quickly from one sound to the next",
+                          "exerciseOptions": [
+                            "moving quickly from one sound to the next",
+                            "saying the two sounds separately"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "American English has seven / ten diphthongs: the vowel sounds in 'say', 'my', 'go', 'boy', 'how', 'you', and 'too'."
+                          ],
+                          "exerciseAnswers": "seven",
+                          "exerciseOptions": [
+                            "seven",
+                            "ten"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Diphthongs",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make sentences using at least three of the words from Exercises A and B. Then practice saying your sentences.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 7.2,
+          "sectionTitle": "Food fads",
+          "sectionObjectives": [
+            "Compare different types of food",
+            "Compare a range of solutions and choose the best one"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit7_Lesson7_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "comparatives and superlatives; the …, the …"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "vowel + w"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "waste"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "identifying people’s opinions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Vowel + w",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 7.6,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U7.2_002",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the words.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "chew, cow, own, raw, stew"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Vowel + w",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 7.7,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U7.2_003",
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Match the groups of words to the correct categories. Some words have already been added for you. Then listen and check your answers. ",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "awesome, law",
+                        "few",
+                        "flew, grew",
+                        "flown, throw, know, slowly, grown",
+                        "allowed, flowers, now"
+                      ],
+                      "columnB": [
+                        "a + w as in 'for', 'draw', 'awful'",
+                        "e + w as in 'you', 'few', 'view'",
+                        "e + w as in 'too', 'jewelry', 'threw'",
+                        "o + w as in 'go', 'low', 'owe'",
+                        "o + w as in 'out', 'how', 'wow'"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Vowel + w",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practice saying the sentences in Exercise B. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

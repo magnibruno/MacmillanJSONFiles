@@ -1,0 +1,362 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 3,
+      "chapterTitle": "On the move",
+      "chapterQuote": "I never travel without my diary. One should always have something sensational to read in the train. Oscar Wilde",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about a difficult trip or travel experience",
+        "talk about behavior on public transportation",
+        "evaluate suggestions and justify a choice",
+        "talk about why a plan didn’t work",
+        "tell a story",
+        "write an email of complaint"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 3.1,
+          "sectionTitle": "Travel experiences",
+          "sectionObjectives": [
+            "Talk about a difficult trip or travel experience",
+            "Talk about behavior on public transportation"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit3_Lesson3_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "narrative tenses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in nouns ending in -ion"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "collocations: travel information; nouns ending in -ion"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "skim-reading to build a map of a text"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "A",
+              "partImage": "",
+              "partSubTitle": "Word stress in nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 3.3,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U3.1_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the pronunciation of the nouns ending in -ion and choose the stressed syllables. Some words may have two stressed syllables.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "action"
+                          ],
+                          "exerciseAnswers": "act-",
+                          "exerciseOptions": [
+                            "act-",
+                            "-ion"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "connection"
+                          ],
+                          "exerciseAnswers": "-nec-",
+                          "exerciseOptions": [
+                            "con-",
+                            "-nect-",
+                            "-tion"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "communication"
+                          ],
+                          "exerciseAnswers": "-mu- , -ca-",
+                          "exerciseOptions": [
+                            "com-, -ion",
+                            "-mu- , -ca-"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Word stress in nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 3.3,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U3.1_003",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the words.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "action, connection, communication"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Word stress in nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the nouns ending in -ion.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "decision, expectation, expression"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "inspiration, reaction, situation"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Word stress in nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": "",
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "TSStype": "",
+                  "exerciseInstruction": "Work in pairs. Practice saying the words. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3.2,
+          "sectionTitle": "Travel smart",
+          "sectionObjectives": [
+            "Evaluate suggestions and justify a choice",
+            "Talk about why a plan didn't work"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit3_Lesson3_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "articles and quantifiers"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "sentence stress: quantifiers"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "gradable and ungradable adjectives"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for signposting"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Sentence stress: quantifiers",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 3.5,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U3.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to the sentences from the article. Which sentences do you hear, a or b? Pay attention to the stressed words in the sentences.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "a. A lot of them felt that it was convenient. (stressed words: 'a lot') / b. A lot of them felt that it was convenient. (stressed word: 'them') "
+                          ],
+                          "exerciseAnswers": "a",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "a. There were very few buses in operation. (stressed word: 'buses') / b. There were very few buses in operation. (stressed word: 'few')"
+                          ],
+                          "exerciseAnswers": "b",
+                          "exerciseOptions": [
+                            "a",
+                            "b"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Sentence stress: quantifiers",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen again and repeat the sentences.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "A lot of them felt that it was convenient."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "There were very few buses in operation."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Sentence stress: quantifiers",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": 3.5,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT3_AUD_U3.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Do we usually stress the main noun or the quantifier?",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Do we usually stress the main noun or the quantifier?"
+                          ],
+                          "exerciseAnswers": "quantifier",
+                          "exerciseOptions": [
+                            "main noun",
+                            "quantifier"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Sentence stress: quantifiers",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Practise saying the sentences. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

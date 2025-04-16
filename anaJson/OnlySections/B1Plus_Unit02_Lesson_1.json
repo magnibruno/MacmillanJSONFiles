@@ -1,0 +1,329 @@
+{
+	"sectionNumber": 2.1,
+	"CEFRLevel": "B1_plus",
+	"dialect": "American",
+	"sectionTitle": "Important decisions",
+	"sectionObjective": "Talk about past experiences and things you want to do/Talk about a life-changing decision",
+	"GKU": "Language_Hub_B1plus_Unit1_Lesson1_1",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "collocations: making big decisions"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "present perfect and simple past"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "'s and 've"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "listening for the main idea"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "one page sequence - match",
+					"exerciseInstruction": "Match the different types of lists (1–5) with the examples (a–e).",
+					"exercises": [
+						{
+							"columnA": [
+								"list of favorite things, e.g. movies, songs",
+								"shopping list",
+								"everyday to-do list",
+								"list of pros and cons",
+								"bucket list"
+							],
+							"columnB": [
+								"Toy Story, X-Men, Beauty and the Beast",
+								"bananas, cheese, yogurt",
+								"Call Mom, Email the bank, Pay rent",
+								"For: cheaper / easy to find, Against: poor quality / ordinary",
+								"Swim with dolphins, Learn to surf, Do a parachute jump"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Not yet? No more!",
+					"paragraphSubtitles": [
+						"posted by Julia",
+						"November 16 | Leave a comment"
+					],
+					"paragraphContents": [
+						"Have you ever written a bucket list? If so, have you done many of those incredible things on your list? I certainly haven't."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"I wrote mine on New Year's Day five years ago, and I chose 50 things, like swimming with dolphins and climbing Mount Everest. However, after all these years, I've only done one thing on that list. Last year, I watched the sun rise and set on the same day. I still haven't swum with dolphins. I still haven't climbed Everest. And, I think I never will!"
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The problem is that you need an infinite amount of time and money to do all those incredible things or to learn those skills. I've simply never had that time and money. What is the point in making an unachievable list? How does that improve your life?"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"So, this is my achievable bucket list blog. The aim is still to do unusual things that are positive and life-enhancing, but without needing to be a millionaire or to have all the time in the world to achieve these goals."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Here’s the start of my list. I haven’t done any of these things yet, but I think I can in the future. What do you think? Achievable? Life-enhancing?"
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"• Plant a tree.",
+						"• Do a charity walk or run.",
+						"• Write a poem.",
+						"• Learn how to make a fire in the wild.",
+						"• Ride a horse.",
+						"• Eat nothing but fresh food for a week.",
+						"• Stop using social media for two weeks.",
+						"• Learn and perform a magic trick."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": "Comments:",
+					"paragraphSubtitles": [
+						"Yuka W"
+					],
+					"paragraphContents": [
+						"Thanks! Before I read this, my bucket list was only expensive travel ideas. I just wrote a new list of interesting but doable things!"
+					]
+				},
+				{
+					"paragraphOrdinal": 8,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"dream_catcher77"
+					],
+					"paragraphContents": [
+						"Actually, I think a bucket list should be about amazing things. I wrote mine last year and I’ve done half of it already. This year, I’ve seen lions in the wild and I’ve done a parachute jump. Next month, the Pyramids! All because they’re on my list."
+					]
+				},
+				{
+					"paragraphOrdinal": 9,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"Robin Stannard"
+					],
+					"paragraphContents": [
+						"Also, sometimes those incredible things are not so great. I've swum with dolphins. It was garbage! I'd rather swim with my friends. Keep it simple - it's still special :-)"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "B",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. How often do you make lists? What types of lists do you make? Why?",
+					"exercises": null
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR GIST",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read Not yet? No more! and answer the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Which sentence summarizes the blogger's opinion?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "Make a list of things that are possible to do, rather than a list of dreams.",
+							"sentenceAnswerOptions": [
+								"A bucket list is a great idea, but remember that you probably can’t do all those things in your lifetime.",
+								"Make a list of things that are possible to do, rather than a list of dreams.",
+								"People write bucket lists just for fun and to dream a little, not in order to actually do those things."
+							],
+							"LKUs": [
+								"dream",
+								"possible"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "How many of the people commenting on the blog agree with the writer?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "two",
+							"sentenceAnswerOptions": [
+								"none",
+								"two",
+								"one",
+								"three"
+							],
+							"LKUs": [
+								"agree"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Answer the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "How many things on her first bucket list has the writer not done?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "49",
+							"sentenceAnswerOptions": [
+								"50",
+								"51",
+								"49",
+								"48"
+							],
+							"LKUs": [
+								"bucket~list"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Why is it not possible to do all the things on a typical bucket list?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "You need money and time.",
+							"sentenceAnswerOptions": [
+								"The list is too long.",
+								"You need money and time.",
+								"You need encouragement."
+							],
+							"LKUs": [
+								"infinite",
+								"time",
+								"money"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "How is her new list similar to her original list?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "It has positive activities.",
+							"sentenceAnswerOptions": [
+								"It has positive activities.",
+								"It has more activities.",
+								"It has fewer activities."
+							],
+							"LKUs": [
+								"positive"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "How many outdoor activities are there on her new list?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": "4",
+							"sentenceAnswerOptions": [
+								"4",
+								"3",
+								"2",
+								"1"
+							],
+							"LKUs": [
+								"outdoor",
+								"activity"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Read again and discuss the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Are the writer's choices good ideas for an achievable bucket list?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": null,
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Which choices do you like most and why?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswers": null,
+							"LKUs": null,
+							"context": "textContents"
+						}
+					]
+				}
+			]
+		}
+	]
+}

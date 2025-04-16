@@ -1,0 +1,284 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 1,
+      "chapterTitle": "Communication",
+      "chapterQuote": "Wise men speak because they have something to say; fools because they have to say something. Plato",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "update your status on social media",
+        "make a short podcast",
+        "plan and conduct an interview",
+        "use rhetorical questions in a presentation",
+        "ask for, offer and respond to help",
+        "write a report about trends"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 1.1,
+          "sectionTitle": "Communication today",
+          "sectionObjectives": [
+            "Update your status on social media",
+            "Make a short podcast"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit1_Lesson1_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "simple present and present progressive"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "seeing and hearing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "schwa /ə/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening to check predictions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Schwa /ə/",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 1.7,
+                  "audioNumberOrdinal": "007",
+                  "setAudio": "ALH_TAT3_AUD_U1.1_007",
+                  "setIgnore": false,
+                  "exerciseType": "TSS dictate",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Listen and fill in the words that contain schwas.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "We’re not looking at our phones for a whole week!"
+                          ],
+                          "blankedWords": [
+                            "at",
+                            "for",
+                            "a"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "We arranged to meet here, outside the university, at four o’clock."
+                          ],
+                          "blankedwords": [
+                            "arranged",
+                            "to",
+                            "the",
+                            "at",
+                            "o’clock"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "It’s Monday afternoon and I’m late meeting Olivia."
+                          ],
+                          "blankedWords": [
+                            "afternoon",
+                            "and",
+                            "Olivia"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I’ll buy you a cupcake to say thank you, and you can tell us what you think of our podcasts."
+                          ],
+                          "blankedWords": [
+                            "a",
+                            "to",
+                            "and",
+                            "can",
+                            "us",
+                            "of"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Yes, I’m wearing a watch today – an old one from when I was a teenager."
+                          ],
+                          "blankedWords": [
+                            "a",
+                            "today",
+                            "an",
+                            "from",
+                            "was",
+                            "a",
+                            "teenager"
+                          ],
+                          "context": "setAudioNumber"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Schwa /ə/",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Practise saying the sentences. Listen and check your partner’s pronunciation.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 1.2,
+          "sectionTitle": "Who owns English?",
+          "sectionObjectives": [
+            "Plan and conduct an interview",
+            "Use rhetorical questions in a presentation"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit1_Lesson1_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "pronouncing questions"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "languages"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "rhetorical questions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Pronouncing questions",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 1.1,
+                  "audioNumberOrdinal": "003",
+                  "setAudio": "ALH_TAT3_AUD_U1.2_003",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen to two people asking questions from the interview and answer the questions.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Which speaker joined the words together?"
+                          ],
+                          "exerciseAnswers": "Speaker 2",
+                          "exerciseOptions": [
+                            "Speaker 1",
+                            "Speaker 2"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which speaker is easier to understand?"
+                          ],
+                          "exerciseAnswers": "Speaker 1",
+                          "exerciseOptions": [
+                            "Speaker 1",
+                            "Speaker 2"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Pronouncing questions",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": "A",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Read the information in the box. Then practice saying the questions. First, try to say them by joining the words together. Then try to say them as clearly as possible.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Pronouncing questions",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": 1.11,
+                  "audioNumberOrdinal": "004",
+                  "setAudio": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Listen to two people asking the questions in Exercise B. Which version is better for you to use, the first or the second speaker? Why? Tell your partner.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

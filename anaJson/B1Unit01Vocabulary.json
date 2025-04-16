@@ -1,0 +1,559 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 1,
+      "chapterTitle": "RELATIONSHIPS",
+      "chapterQuote": "My best friend is the one who brings out the best in me. Henry Ford",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "find out about someone new",
+        "talk about different types of people",
+        "describe someone's personality",
+        "greet people and give personal information, make introductions",
+        "write information about yourself"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 1.1,
+          "sectionTitle": "Breaking the ice",
+          "sectionObjectives": [
+            "Find out about someone new"
+          ],
+          "GKU": "Language_Hub_B1_Unit1_Lesson1_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "people"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "the alphabet"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "question forms"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "People",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 146.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "People",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Answer the questions.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "People",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Look at the pictures. Describe the people and their relationships. Use the words in the box to help you.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct words to complete the sentences.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Sally and Nicole are good ________ and they go to the same college."
+                          ],
+                          "exerciseAnswers": "friends",
+                          "exerciseOptions": [
+                            "friends",
+                            "strangers"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Jamal is a photography _________. He knows a lot about cameras."
+                          ],
+                          "exerciseAnswers": "teacher",
+                          "exerciseOptions": [
+                            "teacher",
+                            "colleague"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Every weekend, I go to stay at my _________ house."
+                          ],
+                          "exerciseAnswers": "grandparents'",
+                          "exerciseOptions": [
+                            "grandparents'",
+                            "couple's"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I never know what to say to _________ when I meet them for the first time."
+                          ],
+                          "exerciseAnswers": "strangers",
+                          "exerciseOptions": [
+                            "strangers",
+                            "parents"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Janelle and Carla are _________, and they work together in the office very well."
+                          ],
+                          "exerciseAnswers": "colleagues",
+                          "exerciseOptions": [
+                            "colleagues",
+                            "students"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "All of my ________ live in the same town - we're a very close family."
+                          ],
+                          "exerciseAnswer": "relatives",
+                          "exerciseOptions": [
+                            "relatives",
+                            "teachers"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 1.2,
+          "sectionTitle": "Blogs and bloggers",
+          "sectionObjectives": [
+            "Talk about different types of people"
+          ],
+          "GKU": "Language_Hub_B1_Unit1_Lesson1_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "frequency words and phrases"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "using a dictionary"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "types of people"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of people",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Make a list of different types of people. You have one minute.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of people",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 146.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of people",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Write down the names of three people you know and describe them to your partner. Say what type of person each one is. Ask questions about the people your partner describes.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Types of people",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the descriptions with the types of people in bold in Three of the best.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "a person who likes animals",
+                        "a woman who has three children",
+                        "a person who is very interested in food",
+                        "a person who enjoys seeing other places",
+                        "a person who watches or takes part in sports",
+                        "a person who plays computer games",
+                        "a person who enjoys spending time with others",
+                        "a person who loves reading",
+                        "a person who writes online regularly",
+                        "a person who listens to music regularly"
+                      ],
+                      "columnB": [
+                        "animal lover",
+                        "mother of three",
+                        "foodie",
+                        "traveler",
+                        "sports fan",
+                        "gamer",
+                        "people person",
+                        "book lover",
+                        "blogger",
+                        "music fan"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Types of people",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the words in the box.",
+                  "wordBank": [
+                    "coffee",
+                    "dog",
+                    "father",
+                    "positive",
+                    "soccer"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I'm a dog owner. I take it for a walk twice a day."
+                          ],
+                          "blankedWords": [
+                            "dog"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "I'm a big coffee drinker. Cappuccino is my favorite, but I also like espresso."
+                          ],
+                          "blankedWords": [
+                            "coffee"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "I'm a father of two. My wife and I have two daughters."
+                          ],
+                          "blankedWords": [
+                            "father"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I'm a positive person. I try not to worry or complain."
+                          ],
+                          "blankedWords": [
+                            "positive"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "I'm a soccer fan. My favorite team is Manchester United."
+                          ],
+                          "blankedWords": [
+                            "soccer"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 1.3,
+          "sectionTitle": "Personality",
+          "sectionObjectives": [
+            "Describe someone's personality"
+          ],
+          "GKU": "Language_Hub_B1_Unit1_Lesson1_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "personality adjectives, adjective + preposition"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in multisyllable adjectives"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "indefinite pronouns"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "previewing a text"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Personality adjectives, adjective + preposition",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the personality adjectives with the speakers below.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "confident",
+                        "hard-working",
+                        "creative",
+                        "well organized",
+                        "lazy",
+                        "sensible",
+                        "sociable",
+                        "curious",
+                        "independent"
+                      ],
+                      "columnB": [
+                        "'I believe I can do anything if I try. I don't usually worry about things.'",
+                        "'I love my job. I work a lot, but that's OK.'",
+                        "'I can paint pictures, write stories and make music.'",
+                        "'I plan my time carefully and I always know where to find my things.'",
+                        "'I don't like work. I like doing nothing! My perfect day? Staying in bed with a pizza.'",
+                        "'I like to think about things carefully before I do them.'",
+                        "'I have a lot of friends and we meet and go out all the time.'",
+                        "'I like learning new things and I ask a lot of questions.'",
+                        "'I like to do things myself.'"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": null,
+              "partSubTitle": "Personality adjectives, adjective + preposition",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the questions with the correct preposition.",
+                  "wordBank": [
+                    "in",
+                    "with",
+                    "at",
+                    "for"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Are you involved in any clubs, groups or teams? Which ones?"
+                          ],
+                          "blankedWords": [
+                            "in"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "What are you good at?"
+                          ],
+                          "blankedWords": [
+                            "at"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Who is responsible for doing the cooking in your home?"
+                          ],
+                          "blankedWords": [
+                            "for"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Are you happy with your cell phone? Why/Why not?"
+                          ],
+                          "blankedWords": [
+                            "with"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "What websites, magazines or TV shows are you interested in?"
+                          ],
+                          "blankedWords": [
+                            "in"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Are you interested in books and reading?"
+                          ],
+                          "blankedWords": [
+                            "in"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Personality adjectives, adjective + preposition",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Ask and answer the questions in Exercise B.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

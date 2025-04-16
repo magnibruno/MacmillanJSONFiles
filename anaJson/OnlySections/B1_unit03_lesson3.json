@@ -1,0 +1,241 @@
+{
+	"sectionNumber": 3.3,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Too good to be true",
+	"sectionObjective": "Talk about the kind of vacations you like",
+	"GKU": "Language_Hub_B1_Unit3_Lesson3_3",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "verb + -ing and to + base form"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "accommodations and amenities"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/ʃ/, /tʃ/ and /dʒ/"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "identifying tone"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "TIPS FOR A HAPPY VACATION",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"You're planning to go on vacation and you've decided to try somewhere new. You could consider using a travel agent, but it's easy to organize your own vacation online these days. All you need to do is visit a travel review site, spend time reading travelers' comments and then choose the accommodations with the best reviews. Simple!"
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Or is it? How do you know that what you are reading is genuine? Research shows that some hotels and restaurants pay people to write fake reviews. Of course, the websites manage to find and delete some of these fake reviews, but they aren't always successful. So, before you choose to spend your vacation budget or that 'amazing beach resort' or cruise ship that scored ten out of ten, read our tips and learn how to spot a fake review."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"TIP ONE: What you see is not always what you get. If the pictures of the apartment, quest house or campsite seem to be too good to be true, they probably are. For example, when you see the photograph below, you expect to find a nice quiet beach, but in fact, the beach and all the hotels are right next to a building site!"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"TIP TWO: Nowhere is perfect – fact! Most genuine reviewers like to include a mix of positive and negative comments, so a review that’s 100 percent positive or negative is more likely to be fake. If you want to know what a hostel or chalet is really like, don’t read the very best and very worst reviews. Look at the ones in the middle."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"TIP THREE: EXCELLENT!!!! Fake reviewers like using capital letters, exclamation marks!! and lots of extreme adjectives like 'wonderful', 'amazing' and 'excellent'. It can feel like you are being YELLED AT! Genuine reviewers usually avoid using so much extreme language. Instead, they usually include helpful details like room size or prices."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Discuss the questions.",
+					"exercises": null
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read two online reviews for a hotel. Which sounds real and which does not? Why?",
+					"exercises": null
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "SCAN",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read Tips for a happy vacation quickly. Underline any of the ideas you discussed in Exercise B.",
+					"exercises": null
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "",
+					"textImage": null,
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Choose two words which describe the author’s tone. Use the information in the box to help you.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Choose two words which describe the author’s tone.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "informal, funny",
+							"LKUs": [
+								"informal",
+								"funny"
+							],
+							"sentenceAnswerOptions": [
+								"informal, funny",
+								"formal, serious"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - highlight",
+					"exerciseInstruction": "Read again and answer the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "Why isn't organizing your own vacation online as simple as it seems?",
+							"exerciseMaxAnswer": "How do you know that what you are reading is genuine?",
+							"exerciseMinAnswer": "fake reviews",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"genuine",
+								"fake"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Why might someone want to write a fake review?",
+							"exerciseMaxAnswer": "Research shows that some hotels and restaurants pay people to write fake reviews.",
+							"exerciseMinAnswer": "some hotels and restaurants pay people",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"fake",
+								"review"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"exerciseQuestion": "What does the article aim to teach its readers?",
+							"exerciseMaxAnswer": "read our tips and learn how to spot a fake review.",
+							"exerciseMinAnswer": "how to spot a fake review",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"fake",
+								"review"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"exerciseQuestion": "What are the characteristics of a genuine review?",
+							"exerciseMaxAnswer": "Most genuine reviewers like to include a mix of positive and negative comments, so a review that’s 100 percent positive or negative is more likely to be fake.",
+							"exerciseMinAnswer": "include a mix of positive and negative comments",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"genuine",
+								"review"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"exerciseQuestion": "What are the characteristics of a fake review?",
+							"exerciseMaxAnswer": "Fake reviewers like using capital letters, exclamation marks!! and lots of extreme adjectives like 'wonderful', 'amazing' and 'excellent'.",
+							"exerciseMinAnswer": "using capital letters",
+							"exerciseAnswer": null,
+							"LKUs": [
+								"fake",
+								"review"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "F",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. Discuss the questions.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"exerciseQuestion": "What other kinds of online reviews do you read or write, for example, movies, books, games, etc.? ",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": null,
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"exerciseQuestion": "Do people rely too much on online reviews? Explain.",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": null,
+							"LKUs": null,
+							"context": "textContents"
+						}
+					]
+				}
+			]
+		}
+	]
+}

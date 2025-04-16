@@ -1,0 +1,439 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 4,
+      "chapterTitle": "SOCIALIZING",
+      "chapterQuote": "Man is by nature a social animal. Aristotle",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about plans you have made for a weekend with visitors",
+        "present reasons to support or argue against predictions",
+        "ask and answer questions about how you like to spend your free time",
+        "make arrangements to meet up with somebody",
+        "write an invitation and reply"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 4.1,
+          "sectionTitle": "What’s the plan?",
+          "sectionObjectives": [
+            "Talk about plans you have made for a weekend with visitors"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "free time"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "going to"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "be going to + base form and present progressive for the future"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "going to",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "audioNumberOrdinal": "",
+                  "setAudio": null,
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "She’s going to call later."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "I’m going to text Angie and Mark."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "going to",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Look at the sentences that you marked as intentions (i) in Grammar Exercise A. practice saying the sentences in an informal way. pronounce going to as /ˈgʌnə/.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "going to",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Ask questions about your partner’s plans. Talk about your arrangements and intentions.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.2,
+          "sectionTitle": "The future of free time",
+          "sectionObjectives": [
+            "Present reasons to support or argue against predictions"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "making predictions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "will and won’t"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "suffixes"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "will and won't",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 4.3,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U4.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "TSS dictate",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Stressed words are the ones that carry the information. Listen and underline the stressed words.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "There will be fewer car trips to work in the future."
+                          ],
+                          "blankedWords": [
+                            "There",
+                            "fewer",
+                            "work",
+                            "future"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Technology will do more of the work for us."
+                          ],
+                          "blankedwords": [
+                            "Technology",
+                            "do",
+                            "work"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "People won’t be paid for working fewer days per week."
+                          ],
+                          "blankedWords": [
+                            "people",
+                            "paid",
+                            "fewer",
+                            "days",
+                            "week"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Do you think people will be happier in the future?"
+                          ],
+                          "blankedWords": [
+                            "think",
+                            "people",
+                            "happier",
+                            "future"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "No, they won’t."
+                          ],
+                          "blankedWords": [
+                            "no",
+                            "won't"
+                          ],
+                          "context": "setAudioNumber"
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Yes, they will. They won’t have to work so hard."
+                          ],
+                          "blankedWords": [
+                            "yes",
+                            "will",
+                            "won't",
+                            "work",
+                            "hard"
+                          ],
+                          "context": "setAudioNumber"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "will and won't",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 4.3,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U4.2_001",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the sentences. Copy the stress.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "There will be fewer car journeys to work in the future."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "Technology will do more of the work for us."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "People won’t be paid for working fewer days per week."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "Do you think people will be happier in the future?"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "No, they won’t."
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "Yes, they will. They won’t have to work so hard."
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.3,
+          "sectionTitle": "Hygge",
+          "sectionObjectives": [
+            "Ask and answer questions about how you like to spend your free time"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "relaxing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "linking a consonant to a vowel"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "summarizing"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Linking a consonant to a vowel",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Which letters of the alphabet are vowels and which are consonants?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Linking a consonant to a vowel",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 4.4,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U4.3_001",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the phrases.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "light a candle"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "take a bath"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "PRONUNCIATION",
+              "partImage": "",
+              "partSubTitle": "Linking a consonant to a vowel",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 4.5,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT2_AUD_U4.3_002",
+                  "setIgnore": false,
+                  "exerciseType": "Speak",
+                  "exerciseInstruction": "Listen and repeat the phrases.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "have some friends over"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "a relaxed atmosphere"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "the simple things in life"
+                      ],
+                      "blankedWords": []
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "friends and family"
+                      ],
+                      "blankedWords": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

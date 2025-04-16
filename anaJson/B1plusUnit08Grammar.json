@@ -1,0 +1,912 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 8,
+      "chapterTitle": "Innovation",
+      "chapterQuote": "To invent, you need a good imagination and a pile of junk. Thomas Edison",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "explain how an invention works",
+        "suggest and evaluate creative ideas",
+        "use positive language to promote a new product",
+        "give a friend advice about choosing a gadget",
+        "give and follow instructions",
+        "write a biography"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 8.1,
+          "sectionTitle": "Making a difference",
+          "sectionObjectives": [
+            "Explain how an invention works",
+            "Suggest and evaluate creative ideas"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit8_Lesson8_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "word families; creative thinking"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "adjective clauses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "adjective clauses"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for problems and solutions"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Eden Full Goh:",
+                  "paragraphSubtitles": [
+                    "the inventor who is making a big difference"
+                  ],
+                  "paragraphContents": [
+                    "Eden Full Goh is perhaps not a name that you immediately recognize, but she is one of the most exciting and creative inventors of the 21st century."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Eden, who was born in Calgary, Canada, started to show talent at the age of nine, when she built a solar-powered toy car. That is where her interest in solar power began but certainly not where it stopped. She had not yet graduated from college when she came up with a very simple, but highly efficient, solar panel system that produces energy at low cost."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Eden’s invention, which has won many prizes, is now used in 19 countries, where it makes a real difference to thousands of people’s lives. Here is how to use it."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "1"
+                  ],
+                  "paragraphContents": [
+                    "The SunSaluter is like a table. The top of the table is a solar panel, which can face in different directions."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "2"
+                  ],
+                  "paragraphContents": [
+                    "Get up early in the morning when it’s still dark. Fill one plastic bottle with sand and two more bottles with dirty water."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "3"
+                  ],
+                  "paragraphContents": [
+                    "Attach the water bottles to the filter. At the bottom of the filter is a tube that takes clean water to a large container. At the top there’s a hook that attaches the filter to the SunSaluter."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "4"
+                  ],
+                  "paragraphContents": [
+                    "Hang the filter on one end of the SunSaluter, which will then go down. Hang the bottle that you filled with sand on the other end of the solar panel. Make sure the solar panel is facing the east, where the sun will rise."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "5"
+                  ],
+                  "paragraphContents": [
+                    "At sunrise, when the sun comes up, the solar panel will start catching sunlight from the east."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 9,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "6"
+                  ],
+                  "paragraphContents": [
+                    "During the day, the water will flow very slowly through the filter to the container, where it is stored. As the water bottles become lighter, the heavy sand bottle slowly pulls the other end of the SunSaluter down. At noon, when the sun is high in the sky, the solar panel will face upwards."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 10,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "7"
+                  ],
+                  "paragraphContents": [
+                    "In the evening, when the water bottles are empty, the solar panel will face west. You can now drink the clean water that you collected during the day."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 11,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [
+                    "Glossary"
+                  ],
+                  "paragraphContents": [
+                    "solar panel (n) a piece of equipment that uses energy from the sun to create power"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "textImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - highlight",
+                  "exerciseInstruction": "Highlight the correct answer in the text 'Eden Full Goh: the inventor who is making a big difference.'",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "What does 'who' refer to in this setence: 'Eden, who was born in Calgary, Canada, started to show talent at the age of nine, when she built a solar-powered toy car.' ",
+                      "exerciseMaxAnswer": "Eden",
+                      "exerciseMinAnswer": "Eden",
+                      "exerciseAnswers": null,
+                      "LKUs": [],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "What does 'when' refer to in this sentence: 'Get up early in the morning when it’s still dark.'",
+                      "exerciseMaxAnswer": "early in the morning",
+                      "exerciseMinAnswer": "morning",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "where",
+                        "from"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "What does 'where' refer to in this sentence: 'Make sure the solar panel is facing the east, where the sun will rise.'",
+                      "exerciseMaxAnswer": "the east",
+                      "exerciseMinAnswer": "east",
+                      "exerciseAnswers": null,
+                      "LKUs": [
+                        "where",
+                        "from"
+                      ],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "What does 'which' refer to in this sentence: 'Eden’s invention, which has won many prizes...'",
+                      "exerciseMaxAnswer": "Eden's invention",
+                      "exerciseMinAnswer": "Eden's invention",
+                      "exerciseAnswers": null,
+                      "LKUs": [],
+                      "context": "textContents"
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "What does 'that' refer to in this sentence: 'She had not yet graduated from college when she came up with a very simple, but highly efficient, solar panel system that produces energy at low cost.'",
+                      "exerciseMaxAnswer": "solar panel system",
+                      "exerciseMinAnswer": "solar panel system",
+                      "exerciseAnswers": null,
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Adjective clauses",
+                  "paragraphSubtitles": [
+                    "Read the rules and complete the adjective clauses."
+                  ],
+                  "paragraphContents": [
+                    "Essential adjective clauses tell us which person, thing, place or time we are talking about. Without the adjective clause, the sentence isn’t complete."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Eden Full Goh: the inventor who is making a big difference."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Non-essential adjective clauses give extra information about a person, thing, place or time. We can cut the adjective clause and the sentence is still complete. We use commas to separate the adjective clause from the rest of the sentence."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Eden’s invention, which has won many prizes , is now used in 19 countries."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the table with the correct form of the verbs in the box. Use Exercise A to help you.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "who",
+                        "which"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 136.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Adjective clauses",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct option.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "There are a lot of students which / who have great ideas."
+                          ],
+                          "exerciseAnswers": "who",
+                          "exerciseOptions": [
+                            "which",
+                            "who"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "The last century was the time when / where technology really progressed."
+                          ],
+                          "exerciseAnswers": "when",
+                          "exerciseOptions": [
+                            "when",
+                            "where"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "The magazine who / that I like best is called 'New Scientist'."
+                          ],
+                          "exerciseAnswers": "that",
+                          "exerciseOptions": [
+                            "who",
+                            "that"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Princeton is the place where / which I studied for my degree."
+                          ],
+                          "exerciseAnswers": "where",
+                          "exerciseOptions": [
+                            "where",
+                            "which"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "I want to find a job that / who helps others."
+                          ],
+                          "exerciseAnswers": "that",
+                          "exerciseOptions": [
+                            "that",
+                            "who"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "John is the boy who / whose father is a doctor."
+                          ],
+                          "exerciseAnswers": "whose",
+                          "exerciseOptions": [
+                            "who",
+                            "whose"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "I don’t know anyone who / which works in technology."
+                          ],
+                          "exerciseAnswers": "who",
+                          "exerciseOptions": [
+                            "who",
+                            "which"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "He was born at a time when / where computers didn’t exist."
+                          ],
+                          "exerciseAnswers": "when",
+                          "exerciseOptions": [
+                            "when",
+                            "where"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 8.2,
+          "sectionTitle": "Must-have gadgets",
+          "sectionObjectives": [
+            "Use positive language to promote a new product",
+            "Give a friend advice about choosing a gadget"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit8_Lesson8_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "positive adjectives"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "’ll and won’t"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "zero and first conditionals; conditionals with modals and imperatives"
+            },
+            {
+              "skillType": "S",
+              "skillName": "reading",
+              "skillTitle": "topic sentences"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Zero and first conditionals",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": 8.5,
+                  "audioNymberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U8.2_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - match",
+                  "exerciseInstruction": "Look at the extracts from the podcast about new gadgets. Match the beginnings of the sentences with the endings.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "I never go for a walk",
+                        "Will it keep me dry",
+                        "If this Oombrella lasts for years,",
+                        "Pets stay healthier and they live longer"
+                      ],
+                      "columnB": [
+                        "unless the sun’s shining.",
+                        "if there’s a storm tomorrow morning?",
+                        "I’ll be very happy.",
+                        "if they keep busy."
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Zero and first conditionals",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct words to complete the rules.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Conditional sentences usually have two / four clauses: the if-clause and the result clause."
+                          ],
+                          "exerciseAnswers": "two",
+                          "exerciseOptions": [
+                            "two",
+                            "four"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "When the if-clause comes first, we always / never need a comma between the clauses."
+                          ],
+                          "exerciseAnswers": "always",
+                          "exerciseOptions": [
+                            "always",
+                            "never"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "We can use 'unless' instead of 'if'. It means if not / because."
+                          ],
+                          "exerciseAnswers": "if not",
+                          "exerciseOptions": [
+                            "if not",
+                            "because"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "We use the zero conditional to talk about things that are always true. We use past / present tenses in both clauses."
+                          ],
+                          "exerciseAnswers": "present",
+                          "exerciseOptions": [
+                            "past",
+                            "present"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "We use the first conditional to talk about possible situations in the future / past. We usually use 'will' in the result clause."
+                          ],
+                          "exerciseAnswers": "future",
+                          "exerciseOptions": [
+                            "future",
+                            "past"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Zero and first conditionals",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 136.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Conditionals with modals and imperatives",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Conditionals with modals and imperatives",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "Read the rules. Then look at paragraph 1 of 'If you really can’t wait …' again and complete the examples."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": "Conditionals with modals and imperatives",
+                  "paragraphSubtitles": [
+                    "Rules"
+                  ],
+                  "paragraphContents": [
+                    "Zero conditionals and first conditionals are very common. They can be very varied. Many patterns are possible."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "For example, we can use imperatives in the result clause:",
+                    "If you really need that phone right now, come and join the back of the line."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We can use modal verbs (e.g. should, might, can, must) in the if-clause or the result clause:",
+                    "If you don’t want to stand in line all night, you can come to the store this afternoon. If you can wait six months or so, the same phone will cost half the price."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": "If you really can't wait...",
+                  "paragraphSubtitles": [
+                    "Paragraph 1"
+                  ],
+                  "paragraphContents": [
+                    "It’s cold and dark, but the people seem happy. In a few hours, the doors will open and they’ll finally get their hands on the gadget of their dreams: a gorgeous new cell phone. Of course, if you don’t want to stand in line all night, you can come to the store this afternoon when the lines will be gone. Even better, if you can wait six months or so, the same phone will cost half the price. But if you really need that phone right now, come and join the back of the line."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Read the rules. Then look at paragraph 1 of 'If you really can’t wait …' again and complete the examples.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "come",
+                        "join",
+                        "can",
+                        "come",
+                        "can",
+                        "wait"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Conditionals with modals and imperatives",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 136.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Conditionals with modals and imperatives",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. Write five pieces of advice for people who are thinking of standing in line for the latest cell phone. Use these ideas and your own ideas:",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Zero and first conditionals; Conditionals with modals and imperatives",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Find and correct the mistakes with the zero conditional.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "If you will read a lot, you understand things better."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "If you read a lot, you understand things better."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "It’s better if you called me in the evenings."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "It’s better if you call me in the evenings."
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "Unless you don’t try, you don’t learn."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "If you don’t try, you don’t learn."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "The roads will more dangerous if it rains."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "The roads are more dangerous if it rains."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Zero and first conditionals; Conditionals with modals and imperatives",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Complete the first conditional sentences using the information in parentheses.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "The machine will not work (you / not / press this button). "
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "The machine will not work if you don’t press this button."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "If you find it at the right price, (you / buy it?)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "If you find it at the right price, will you buy it?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "How will you get home (you / miss the bus?) "
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "How will you get home if you miss the bus?"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "If it rains tomorrow, (you / still / play soccer?)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "If it rains tomorrow, will you stil play soccer?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Zero and first conditionals; Conditionals with modals and imperatives",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct option.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "If you see Jimmy, _"
+                          ],
+                          "exerciseAnswers": "give him this note.",
+                          "exerciseOptions": [
+                            "will give him this note.",
+                            "give him this note."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "You will save money if _"
+                          ],
+                          "exerciseAnswers": "you can wait a few months.",
+                          "exerciseOptions": [
+                            "you can wait a few months.",
+                            "you will wait a few months."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "If you don’t like it, _"
+                          ],
+                          "exerciseAnswers": "you can go home.",
+                          "exerciseOptions": [
+                            "you can go home.",
+                            "will you go home."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "If you have any problems, _"
+                          ],
+                          "exerciseAnswers": "call me.",
+                          "exerciseOptions": [
+                            "will call me.",
+                            "call me."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "If I feel like it, _"
+                          ],
+                          "exerciseAnswers": "I might go to the pop concert.",
+                          "exerciseOptions": [
+                            "I might go to the pop concert.",
+                            "I can go to the pop concert."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "Ask me if there’s anything _"
+                          ],
+                          "exerciseAnswers": "you don’t understand.",
+                          "exerciseOptions": [
+                            "you don’t understand.",
+                            "you won’t understand."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "If you want to have a good time, _"
+                          ],
+                          "exerciseAnswers": "come and join us on Saturday night!",
+                          "exerciseOptions": [
+                            "you will come and join us on Saturday night!",
+                            "come and join us on Saturday night!"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

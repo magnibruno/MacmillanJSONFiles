@@ -1,0 +1,210 @@
+{
+	"sectionNumber": 1.2,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Blogs and bloggers",
+	"sectionObjective": "Talk about different types of people",
+	"GKU": "Language_Hub_B1_Unit1_Lesson1_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "types of people"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "using a dictionary"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "frequency words and phrases"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "A",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Three of the best",
+					"paragraphSubtitles": [
+						"Blogs by Calvin Norton"
+					],
+					"paragraphContents": [
+						"With over 150 million blogs online, there is something for every type of person from the animal lover to the gamer to the sports fan. But, if you are looking for something a little different, here are my top three blogs."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "Brain Pickings",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Maria Popova is a book lover, music fan and writer. Her blog, Brain Pickings, is a collection of articles about history, news, books and culture. Maria is interested in reading and spends hundreds of hours each month doing research for her blog. It's an extremely popular blog and many people enjoy Maria's interesting mix of articles."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "Emma’s Bucket List",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"After her father and step-father died, Emma Stewart Rigby decided to live a full and exciting life. Emma, a mother of three, made a list of 246 things to do before she dies and in her blog she writes about her experiences. Emma is a people person and gives a lot of friendly advice on life. She’s also a foodie, and her bucket list includes unusual foods or interesting restaurants she plans to try. A great blog for ideas on how to live life to the max!"
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "The Atlas of Beauty",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"The Atlas of Beauty is a picture blog showing beauty in different cultures. Romanian photographer, blogger and traveler, Michela Noroc, takes pictures of women of all ages, races and nationalities living their everyday lives. It's a wonderful collection which shows that beauty can be found everywhere."
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. Discuss the questions."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR MAIN IDEA",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read Three of the best quickly. Which blog sounds most interesting to you and why?",
+					"exercises": []
+				},
+				{
+					"setMaker": "C",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": null,
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Complete each sentence with the name of a blogger, Emma, Maria or Michela.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "_______ is interested in visiting people around the world.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Michela",
+							"LKUs": [
+								"interested",
+								"visit"
+							],
+							"sentenceAnswerOptions": [
+								"Emma",
+								"Maria",
+								"Michela"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "_______ has children.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Emma",
+							"LKUs": [
+								"have",
+								"child"
+							],
+							"sentenceAnswerOptions": [
+								"Emma",
+								"Maria",
+								"Michela"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "_______ writes about a variety of subjects.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Maria",
+							"LKUs": [
+								"write",
+								"subject"
+							],
+							"sentenceAnswerOptions": [
+								"Emma",
+								"Maria",
+								"Michela"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "_______ has a high number of readers.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Maria",
+							"LKUs": [
+								"reader",
+								"have"
+							],
+							"sentenceAnswerOptions": [
+								"Emma",
+								"Maria",
+								"Michela"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "_______ is interested in trying new things.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Emma",
+							"LKUs": [
+								"interested",
+								"thing"
+							],
+							"sentenceAnswerOptions": [
+								"Emma",
+								"Maria",
+								"Michela"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "_______ wants people to understand that everyone is beautiful.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Michela",
+							"LKUs": [
+								"understand",
+								"beautiful"
+							],
+							"sentenceAnswerOptions": [
+								"Emma",
+								"Maria",
+								"Michela"
+							],
+							"context": "textContents"
+						}
+					]
+				}
+			]
+		}
+	]
+}

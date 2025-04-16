@@ -1,0 +1,837 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 12,
+      "chapterTitle": "Media",
+      "chapterQuote": "I do not take a single newspaper, nor read one a month, and I feel happier for it. Thomas Jefferson",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about the pros and cons of online news",
+        "talk and debate about different TV viewing habits",
+        "talk about advertising and what makes a good advertisement",
+        "give and respond to opinions",
+        "write a story"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 12.1,
+          "sectionTitle": "The news",
+          "sectionObjectives": [
+            "Talk about the pros and cons of online news"
+          ],
+          "GKU": "Language_Hub_B1_Unit12_Lesson12_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "news expressions"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "reported speech"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/ɒ /, /ɔː/ and /oʊ/"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Reported Speech",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Reported Speech",
+                  "paragraphSubtitles": [
+                    "Look at the sentences from 'The news'. Then answer the question."
+                  ],
+                  "paragraphContents": [
+                    "When questioned further one person said they thought the news was usually unreliable or that they did not trust it."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": null,
+                  "paragraphContents": ["In contrast, those who get their news from the TV, radio or paper said that ‘fake’ or biased news was not really a concern."]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "textImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - multiple choice",
+                  "exerciseInstruction": "Look at the sentences from 'The news'. Then answer the question.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": null,
+                      "exerciseQuestion": "Do these sentences show direct speech or are they reporting speech and ideas?",
+                      "exerciseMinAnswer": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseAnswers": "reporting speech and ideas",
+                      "LKUs": [],
+                      "sentenceAnswerOptions": [
+                        "direct speech",
+                        "reporting speech and ideas"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Reported Speech",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Reported speech",
+                  "paragraphSubtitles": [
+                    "Read the rules and complete the example sentences with the correct form of the verbs."
+                  ],
+                  "paragraphContents": [
+                    "When we report what people say or report their thoughts or ideas, we use a reporting verb (said, told, asked) and we usually change the tense of the verb(s) in the sentence (simple present -> simple past, present progressive -> past progressive, will -> would)."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "• 65 percent of people said they had a preferred news website.",
+                    "• The survey asked how often people checked the news.",
+                    "• Most people said they would think more carefully about the news stories."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "We also do this when we report someone’s words directly. We also change the pronoun (I -> he/she, you -> me)"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "‘Do you like your job?’ -> She asked me if I liked my job."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "‘I’m doing some work.’ -> He said he was doing some work."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "‘I don’t think there’s a lot of fake news.’ -> She said she didn't think there was a lot of fake news."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    ""
+                  ],
+                  "paragraphContents": [
+                    "I’ll get back to you later.’ -> He said he would get back to me later."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Read the rules and complete the example sentences with the correct form of the verbs.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "liked",
+                        "was",
+                        "doing",
+                        "didn't",
+                        "think",
+                        "was",
+                        "would",
+                        "get"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Reported speech",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 144.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Reported speech",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Complete the questions with your own ideas. Then work in pairs and ask and answer each other’s questions. Then work with another person and tell them what your partner’s answers were.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR ",
+              "partImage": "",
+              "partSubTitle": "Reported speech",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "textSB",
+                  "TSStype": "dialogue",
+                  "exerciseInstruction": "Complete the conversation with the correct passive form of the verbs in parentheses.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Pat: Fred said you went (go) to the movie theater with him the other night."
+                          ],
+                          "blankedWords": [
+                            "went"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Nuala: Yeah. He told me he wanted (want) to watch a new sci-fi movie, but I asked him if we could (can) see a comedy instead. I said I didn't feel (not feel) like seeing a serious movie."
+                          ],
+                          "blankedWords": [
+                            "wanted",
+                            "could",
+                            "didn't",
+                            "feel"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Pat: He said you had seen (see) Ride Away in the end. Was it good?"
+                          ],
+                          "blankedWords": [
+                            "had",
+                            "seen"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Nuala: That’s right. We were goin to (be going to) choose Hideout, but it was on too late. Ride Away was the best option.."
+                          ],
+                          "blankedWords": [
+                            "were",
+                            "going",
+                            "to"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 12.2,
+          "sectionTitle": "On the box",
+          "sectionObjectives": [
+            "Talk and debate about different TV viewing habits"
+          ],
+          "GKU": "Language_Hub_B1_Unit12_Lesson12_2",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "television"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "past perfect"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in past perfect sentences"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Past perfect",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Look at the sentence from 'How binge-watching has changed TV forever'. Choose which action was first.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Not long ago, once a week, people regularly discussed what had happened in the previous night’s episode of a certain television show."
+                          ],
+                          "exerciseAnswers": "had happened",
+                          "exerciseOptions": [
+                            "discussed",
+                            "had happened"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Past perfect",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphTitle": "Past perfect",
+                  "paragraphSubtitles": [
+                    "Choose the correct words to complete the rules."
+                  ],
+                  "paragraphContents": [
+                    "We make the past perfect with had + past participle."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "When we are talking about two events in the past, we use the past perfect to show that one event happened before the other."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "• I found a ticket that someone had dropped.",
+                    "• I’d seen a couple of episodes before the one last night.",
+                    "• I was late, but the movie hadn’t started."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "We usually use the past perfect with already and just."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphTitle": null,
+                  "paragraphSubtitles": [],
+                  "paragraphContents": [
+                    "• The bus had already left when we got to the station.",
+                    "• The meeting had just finished when we arrived.",
+                    "• Had you already seen the movie?"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Choose the correct words to complete the rules. ",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "had",
+                        "before"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Past perfect",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Go to the Grammar Hub on page 144.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "Past perfect",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Rewrite the sentences correctly using the past perfect.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "Someone had drop a newspaper on the ground.)"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Someone had dropped a newspaper on the ground."
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "I was late, but the movie wasn’t starting, so it was OK."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "I was late, but the movie hadn't started, so it was OK."
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "The show have just begun when we arrived."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "The show had just begun when we arrived."
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "They had saw the movie twice already."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "They had seen the movie twice already."
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "The journalist has already left when she got to the meeting."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "The journalist had already left when she got to the meeting."
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "Had you just seen the show before last night?"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Had you already seen the show before last night?"
+                    },
+                    {
+                      "sentenceOrdinal": 6,
+                      "sentences": [
+                        "A: Had she posted it before? B: Yes, she did."
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "A: Had she posted it before? B: Yes, she had."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 12.3,
+          "sectionTitle": "Advertising",
+          "sectionObjectives": [
+            "Talk about advertising and what makes a good advertisement"
+          ],
+          "GKU": "Language_Hub_B1_Unit12_Lesson12_3",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "should"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "advertising"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "/æ/ and /e/"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "identifying opinion and attitudes of speakers"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Should",
+                  "paragraphSubtitles": [
+                    "Look at the sentence from the conversation between Alex and Kerry. Complete the rules with the correct words."
+                  ],
+                  "paragraphContents": [
+                    "You know what, I think I might try it. Should I?"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": [
+                    "Should: Rules"
+                  ],
+                  "paragraphContents": [
+                    "We usually use should to make suggestions or offers.",
+                    "Should has a different meaning from will.",
+                    "We use should with I and we."
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the rules with the correct words.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "exerciseQuestion": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "suggestions",
+                        "offers",
+                        "different",
+                        "I",
+                        "we"
+                      ],
+                      "LKUs": [],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Grammar Hub on page 144.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Make two questions with should. Ask and answer the questions with your partner.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "should",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - multiple choice",
+                  "exerciseInstruction": "Choose the correct option.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "Should / Will we see what’s on TV?"
+                          ],
+                          "exerciseAnswers": "Should",
+                          "exerciseOptions": [
+                            "Should",
+                            "Will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Should / Will I invite Amy over to watch the show?"
+                          ],
+                          "exerciseAnswers": "Should",
+                          "exerciseOptions": [
+                            "Should",
+                            "Will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Should / Will they release the show on DVD soon?"
+                          ],
+                          "exerciseAnswers": "Will",
+                          "exerciseOptions": [
+                            "Should",
+                            "Will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "Should / Will we binge-watch the show this weekend?"
+                          ],
+                          "exerciseAnswers": "Should",
+                          "exerciseOptions": [
+                            "Should",
+                            "Will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Should / Will this catch people’s attention?"
+                          ],
+                          "exerciseAnswers": "Will",
+                          "exerciseOptions": [
+                            "Should",
+                            "Will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "What movie should / will we see at the movie theater?"
+                          ],
+                          "exerciseAnswers": "should",
+                          "exerciseOptions": [
+                            "should",
+                            "will"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "What should / will you say to the journalist?"
+                          ],
+                          "exerciseAnswers": "will",
+                          "exerciseOptions": [
+                            "should",
+                            "will"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "GRAMMAR",
+              "partImage": "",
+              "partSubTitle": "even",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "Rewrite",
+                  "exerciseInstruction": "Write questions using should or will.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "sentences": [
+                        "we / share / our photos online tonight"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Should we share our photos online tonight?"
+                    },
+                    {
+                      "sentenceOrdinal": 2,
+                      "sentences": [
+                        "they / release / the new movie / this weekend"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Will they release the new movie this weekend?"
+                    },
+                    {
+                      "sentenceOrdinal": 3,
+                      "sentences": [
+                        "I / pay / for the movie tickets"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Should I pay for the movie tickets?"
+                    },
+                    {
+                      "sentenceOrdinal": 4,
+                      "sentences": [
+                        "she / finish / her journalism course this year"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Will she finish her journalism course this year?"
+                    },
+                    {
+                      "sentenceOrdinal": 5,
+                      "sentences": [
+                        "we / watch / something exciting this weekend"
+                      ],
+                      "blankedWords": [],
+                      "exerciseAnswers": "Should we watch something exciting this weekend?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

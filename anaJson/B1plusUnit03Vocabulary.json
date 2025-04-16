@@ -1,0 +1,947 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1_plus",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 3,
+      "chapterTitle": "On the move",
+      "chapterQuote": "I never travel without my diary. One should always have something sensational to read in the train. Oscar Wilde",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about a difficult trip or travel experience",
+        "talk about behavior on public transportation",
+        "evaluate suggestions and justify a choice",
+        "talk about why a plan didn’t work",
+        "tell a story",
+        "write an email of complaint"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 3.1,
+          "sectionTitle": "Travel experiences",
+          "sectionObjectives": [
+            "Talk about a difficult trip or travel experience",
+            "Talk about behavior on public transportation"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit3_Lesson3_1",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "narrative tenses"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "word stress in nouns ending in -ion"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "collocations: travel information; nouns ending in -ion"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "skim-reading to build a map of a text"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: travel information",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": 3.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U3.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - question dictate",
+                  "TSStype": "dialogue",
+                  "exerciseInstruction": "Listen to a traffic news and travel update on a radio show. Answer the questions.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "How many types of transportation do they mention?",
+                            "They mention three types of transportation."
+                          ],
+                          "blankedWords": [
+                            "three"
+                          ],
+                          "hints": []
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Which has the fewest problems?",
+                            "The subway has the fewest problems."
+                          ],
+                          "blankedWords": [
+                            "subway"
+                          ],
+                          "hints": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: travel information",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR KEY WORDS",
+                  "setImage": "",
+                  "setAudioNumber": 3.2,
+                  "audioNumberOrdinal": "002",
+                  "setAudio": "ALH_TAT3_AUD_U3.1_002",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Choose the correct words to make the collocations used in the travel update.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "rush hour / job"
+                          ],
+                          "exerciseAnswers": "hour",
+                          "exerciseOptions": [
+                            "hour",
+                            "job"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "traffic lights / jam"
+                          ],
+                          "exerciseAnswers": "jam",
+                          "exerciseOptions": [
+                            "lights",
+                            "jam"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "road sign / work"
+                          ],
+                          "exerciseAnswers": "work",
+                          "exerciseOptions": [
+                            "sign",
+                            "work"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "severe delay / problem"
+                          ],
+                          "exerciseAnswers": "delay",
+                          "exerciseOptions": [
+                            "delay",
+                            "problem"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "slight delay / interest"
+                          ],
+                          "exerciseAnswers": "delay",
+                          "exerciseOptions": [
+                            "delay",
+                            "interest"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "good conditions / service"
+                          ],
+                          "exerciseAnswers": "service",
+                          "exerciseOptions": [
+                            "conditions",
+                            "service"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "subway station / line"
+                          ],
+                          "exerciseAnswers": "station",
+                          "exerciseOptions": [
+                            "station",
+                            "line"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "cancel a train / an event"
+                          ],
+                          "exerciseAnswers": "a train",
+                          "exerciseOptions": [
+                            "a train",
+                            "an event"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 9,
+                          "sentences": [
+                            "heavy rain / traffic"
+                          ],
+                          "exerciseAnswers": "traffic",
+                          "exerciseOptions": [
+                            "rain",
+                            "traffic"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 10,
+                          "sentences": [
+                            "overcrowded trains / buses"
+                          ],
+                          "exerciseAnswers": "trains",
+                          "exerciseOptions": [
+                            "trains",
+                            "buses"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: travel information",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 142.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Collocations: travel information",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs and discuss the questions.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "WORK IT OUT",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Look at Is it time to start talking to strangers? again. Find and underline nouns that end with -ion.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Nouns ending in -ion",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Nouns ending in -ion",
+                  "paragraphSubtitles": ["Complete the definitions with nouns"],
+                  "paragraphContents": [
+                    "to have an expectation : to have a belief about what something will be like or what will happen"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to have a positive reaction : to feel good as a result of something that happens"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to make a decision : to choose something after thinking carefully"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to have a connection : to have a relationship to something"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to have a confused expression : to look like you don’t understand something"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to be in a difficult situation : to be doing something that is not easy"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to be in communication : to be sharing information, ideas and feelings"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "to be an inspiration : to give you new ideas or the enthusiasm to create something with them"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Complete the definitions with nouns.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "sentences": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "expectation",
+                        "reaction",
+                        "decision",
+                        "connection",
+                        "expression",
+                        "situation",
+                        "communication",
+                        "inspiration"
+                      ],
+                      "LKUs": [
+                        "expectation",
+                        "reaction",
+                        "decision",
+                        "connection",
+                        "expression",
+                        "situation",
+                        "communication",
+                        "inspiration"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "",
+                  "setImage": null,
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 143.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Do you agree or disagree with the statements below. If you disagree with them, change them so they are true for you.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Nouns ending in -ion",
+              "sets": [
+                {
+                  "setMarker": "",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": true,
+                  "exerciseType": "Grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the nouns in the box.",
+                  "wordBank": [
+                    "communication",
+                    "connection",
+                    "decisions",
+                    "expectations",
+                    "expression",
+                    "inspiration",
+                    "reaction",
+                    "situations"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "I think communication between the engineer and the passengers is important when a train is delayed."
+                          ],
+                          "blankedWords": [
+                            "communication"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "In my country, there has been a negative reaction to driverless cars."
+                          ],
+                          "blankedWords": [
+                            "reaction"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Environmental issues don’t change the decisions that I make about transportation."
+                          ],
+                          "blankedWords": [
+                            "decisions"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "I think it is important to have a connection with the people you see every day."
+                          ],
+                          "blankedWords": [
+                            "connection"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "There are some travel situations that make me annoyed or angry."
+                          ],
+                          "blankedWords": [
+                            "situations"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 6,
+                          "sentences": [
+                            "I generally have a blank expression when out in public. I never smile at others."
+                          ],
+                          "blankedWords": [
+                            "expression"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 7,
+                          "sentences": [
+                            "I find people that can talk to strangers an inspiration. I wish I were so confident."
+                          ],
+                          "blankedWords": [
+                            "inspiration"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 8,
+                          "sentences": [
+                            "When I was on vacation, the transportation system was better than my expectation."
+                          ],
+                          "blankedWords": [
+                            "expectation"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 3.2,
+          "sectionTitle": "Travel smart",
+          "sectionObjectives": [
+            "Evaluate suggestions and justify a choice",
+            "Talk about why a plan didn't work"
+          ],
+          "GKU": "Language_Hub_B1plus_Unit3_Lesson3_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "articles and quantifiers"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "sentence stress: quantifiers"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "gradable and ungradable adjectives"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Listening",
+              "skillTitle": "listening for signposting"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Gradable and ungradable adjectives",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": false,
+                  "exerciseType": "grammar SB without explanation",
+                  "TSStype": "TS_GROUP",
+                  "exerciseInstruction": "Complete the sentences with the correct adjectives.",
+                  "wordBank": [
+                    "good",
+                    "difficult",
+                    "tiny",
+                    "furious",
+                    "old",
+                    "filthy"
+                  ],
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "That's a really good idea."
+                          ],
+                          "blankedWords": [
+                            "good"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "This may be extremely difficult."
+                          ],
+                          "blankedWords": [
+                            "difficult"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Car-free days have a really tiny effect on driving habits."
+                          ],
+                          "blankedWords": [
+                            "tiny"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "People were furious about that."
+                          ],
+                          "blankedWords": [
+                            "furious"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Some of our old buses are really filthy."
+                          ],
+                          "blankedWords": [
+                            "old",
+                            "filthy"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Gradable and ungradable adjectives",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Gradable and ungradable adjectives",
+                  "paragraphSubtitles": [
+                    "Which adjectives are gradable? Which are ungradable? Use the information below to help."
+                  ],
+                  "paragraphContents": [
+                    "Gradable adjectives can be made stronger and weaker. We can use a range of adverbs to change their strength (fairly, very, extremely, a little, really). They have a comparative form."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "Ungradable adjectives cannot be made weaker. They already mean very + adjective. We can use some adverbs to emphasise the adjective (extremely, absolutely, completely, really). They do not have a comparative form."
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Gradable adjectives",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "bad, funny, good, difficult, old"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Ungradable adjectives",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "tiny, enormous, furious, filthy"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Which adjectives are gradable? Which are ungradable? Use the information to help.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "sentences": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "funny",
+                        "good",
+                        "difficult",
+                        "old",
+                        "enormous",
+                        "furious",
+                        "filthy"
+                      ],
+                      "LKUs": [
+                        "good",
+                        "tiny",
+                        "bad",
+                        "furious",
+                        "difficult",
+                        "filthy",
+                        "funny",
+                        "enormous",
+                        "small",
+                        "terrible",
+                        "impossible",
+                        "angry",
+                        "funny",
+                        "big"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Gradable and ungradable adjectives",
+              "textMode": "full article",
+              "textContents": [
+                {
+                  "paragraphOrdinal": 1,
+                  "paragraphImage": "",
+                  "paragraphTitle": "Gradable and ungradable adjectives",
+                  "paragraphSubtitles": [
+                    "Put the adjectives in the correct place."
+                  ],
+                  "paragraphContents": [
+                    "very good -> excellent"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 2,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very small -> tiny"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 3,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very bad -> terrible"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 4,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very angry -> furious"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 5,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very difficult -> impossible"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 6,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very dirty -> filthy"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 7,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very funny -> hilarious"
+                  ]
+                },
+                {
+                  "paragraphOrdinal": 8,
+                  "paragraphImage": "",
+                  "paragraphTitle": "",
+                  "paragraphSubtitles": "",
+                  "paragraphContents": [
+                    "very big -> enormous"
+                  ]
+                }
+              ],
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": null,
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "vocabularyHub": false,
+                  "exerciseType": "RC - word bank",
+                  "exerciseInstruction": "Write the adjectives in the correct place.",
+                  "exercises": [
+                    {
+                      "sentenceOrdinal": 1,
+                      "paragraphOrdinal": 1,
+                      "sentences": null,
+                      "exerciseMaxAnswer": null,
+                      "exerciseMinAnswer": null,
+                      "sentenceAnswerOptions": [
+                        "good",
+                        "tiny",
+                        "bad",
+                        "furious",
+                        "difficult",
+                        "filthy",
+                        "funny",
+                        "enormous"
+                      ],
+                      "LKUs": [
+                        "good",
+                        "tiny",
+                        "bad",
+                        "furious",
+                        "difficult",
+                        "filthy",
+                        "funny",
+                        "enormous",
+                        "small",
+                        "terrible",
+                        "impossible",
+                        "angry",
+                        "funny",
+                        "big"
+                      ],
+                      "context": "textContents"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Gradable and ungradable adjectives",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": false,
+                  "exerciseType": "one page sequence - match",
+                  "exerciseInstruction": "Match the ungradable adjectives with adjectives.",
+                  "exercises": [
+                    {
+                      "columnA": [
+                        "wonderful",
+                        "huge",
+                        "awful"
+                      ],
+                      "columnB": [
+                        "very good",
+                        "very big",
+                        "very bad"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Gradable and ungradable adjectives",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Go to the Vocabulary Hub on page 143.",
+                  "exercises": null
+                }
+              ]
+            },
+            {
+              "partTitle": "VOCABULARY",
+              "partImage": "",
+              "partSubTitle": "Gradable and ungradable adjectives",
+              "sets": [
+                {
+                  "setMarker": "E",
+                  "setHeading": "SPEAK",
+                  "setImage": null,
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": null,
+                  "exerciseInstruction": "Work in pairs. Describe something you have bought, seen, eaten or done recently using ungradable adjectives.",
+                  "exercises": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

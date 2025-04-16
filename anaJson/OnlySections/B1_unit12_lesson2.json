@@ -1,0 +1,257 @@
+{
+	"sectionNumber": 12.2,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "On the box",
+	"sectionObjective": "Talk and debate about different TV viewing habits",
+	"GKU": "Language_Hub_B1_Unit12_Lesson12_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "television"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "past perfect"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "word stress in past perfect sentences"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "HOW BINGE-WATCHING HAS CHANGED TV FOREVER",
+					"paragraphSubtitles": [
+						"Once upon a time"
+					],
+					"paragraphContents": [
+						"Not long ago, once a week, people regularly discussed what had happened in the previous night's episode of a certain television show. They knew that they had to wait seven long days to find out what happened next. If it was a season finale, the wait was even longer. Those days are gone."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"What changed?"
+					],
+					"paragraphContents": [
+						"It all started with the DVD box set. And now, thanks to on-demand TV and internet streaming services such as Netflix (which actually started as a mail-order DVD rental service) and Amazon Prime, the way we watch television has changed forever. At the heart of this is binge-watching."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"The 'now' generation"
+					],
+					"paragraphContents": [
+						"Thirty to sixty minutes of our favorite series is no longer enough. Instead, people spend hours and even whole weekends watching episode after episode. As a result, audiences are now watching more TV than ever, and around 75 percent admit to binge-watching. It is now the 'new normal'."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"People want new content and they want it now. They don’t want to wait to find out what happens next. Because of this, TV companies now release a complete series at one time, rather than releasing the shows episode by episode as they have done in the past."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": null,
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"Some of the most popular shows of all time became so successful because they could be binge-watched. As a result, a whole industry has built up around binge-watching and TV has been changed forever."
+					]
+				},
+				{
+					"paragraphOrdinal": 6,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"A new kind of show"
+					],
+					"paragraphContents": [
+						"Today, shows are made differently. Now, there is no need for a whole story to be contained in one episode. There is also less need for the traditional end-of-episode ‘cliffhanger’. This is changing the familiar format of TV series, and show-makers now can be much more creative. For example, shows usually include actual real-world events that are happening at the same time."
+					]
+				},
+				{
+					"paragraphOrdinal": 7,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"TV is the new movie theater"
+					],
+					"paragraphContents": [
+						"Budgets for this new generation of TV shows are high and the shows have huge international audiences. Consequently, a lot of Hollywood stars are moving away from making traditional theater movies and appearing more on TV. At the same time, binge-watching is replacing going to the movie theater as a social occasion, with friends getting together for an evening of television. You don’t actually need to be in the same physical place. Thanks to social media sites such as Twitter and Facebook, even watching alone can be a social event."
+					]
+				},
+				{
+					"paragraphOrdinal": 8,
+					"paragraphTitle": null,
+					"paragraphSubtitles": [
+						"Is binge-watching here to stay?"
+					],
+					"paragraphContents": [
+						"In today's online world, people are becoming more demanding and more impatient. They want and expect everything to be immediately available. TV companies will therefore need to make more and more shows that meet this demand. As other media companies are starting to make their own TV shows, too, binge-watching will continue to be big business."
+					]
+				}
+			],
+			"glossaryBox": [
+				{
+					"glossaryTitle": "Glossary",
+					"glossaryContent": [
+						"binge-watching (n) the activity of watching TV for an extended period of time, for example, several episodes of a series",
+						"budget (n) the amount of money a person or organization has to spend on something",
+						"cliffhanger (n) an exciting end to a television show that makes you want to watch the next part",
+						"format (n) the arrangement, design or organization of something",
+						"release (v) to make a movie, TV show, etc. available for people to see or buy"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Look at the title of the article and the glossary. How do you think binge-watching has changed TV? Read the article and check your answer."
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read How binge-watching has changed TV forever. Are the sentences true (T) or false (F)? Correct the false sentences.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Netflix was originally a DVD manufacturer.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "False",
+							"LKUs": [
+								"DVD",
+								"manufacturer"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "We are now watching less TV than in the past.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"watch",
+								"past"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "People binge-watch because they want to find out what happens next.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"binge-watch",
+								"want"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Many shows have become successful because people could binge-watch them.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"become",
+								"successful"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Today, TV shows need to have a complete story in one episode.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "False",
+							"LKUs": [
+								"story",
+								"episode"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "More and more famous movie actors are starring in TV shows.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "True",
+							"LKUs": [
+								"movie",
+								"star"
+							],
+							"sentenceAnswerOptions": [
+								"False",
+								"True"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. Are you a binge-watcher? Are you addicted to TV? Go to the Communication Hub on page 154 and take the quiz! Compare your answers."
+				}
+			]
+		}
+	]
+}

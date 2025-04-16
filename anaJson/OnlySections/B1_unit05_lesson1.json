@@ -1,0 +1,289 @@
+{
+	"sectionNumber": 5.1,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "Work",
+	"sectionObjective": "Talk about the pros and cons of different jobs and say how they help society",
+	"GKU": "Language_Hub_B1_Unit5_Lesson5_1",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "can, could, be able to"
+		},
+		{
+			"skillType": "V",
+			"skillName": "vocabulary",
+			"skillTitle": "work collocations"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "/w/ and /v/"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "one page sequence - match",
+					"exerciseInstruction": "Match the definitions (1–4) with the words in the box.",
+					"exercises": [
+						{
+							"columnA": [
+								"pay raise",
+								"salary",
+								"self-employed",
+								"well-paid"
+							],
+							"columnB": [
+								"an increase in the amount of money you are paid to do your job",
+								"a fixed amount of money that you earn each month or year from your job",
+								"working for yourself",
+								"paid a lot of money"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in pairs. What are four things, apart from money, that can make people happy at work?"
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "C",
+					"setHeading": "SCAN",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read What really makes us happy in our jobs? quickly. Which of your ideas from Exercise B can you find?"
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "What really makes us happy in our jobs?",
+					"paragraphSubtitles": null,
+					"paragraphContents": [
+						"In a recent survey about jobs and work, 75 percent of children under ten said 'yes' to the question: 'Can money buy happiness?' But is being well-paid really so important? Can you still be happy at work if you earn a low hourly wage? We asked four working adults what, apart from money, they like about their jobs."
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "Helen",
+					"paragraphSubtitles": [
+						"Police Officer"
+					],
+					"paragraphContents": [
+						"I don't work regular office hours - I do shifts. This means I often work in the evenings and sometimes do the night shift. In my last job I could choose when I wanted to work and I found that I liked working in the evenings. I also like that I am able to use all the different skills I learned when I was training to be a police officer."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "Bret",
+					"paragraphSubtitles": [
+						"Waiter"
+					],
+					"paragraphContents": [
+						"My job is poorly paid, but I only work weekends, so I can study during the week. I work in a big restaurant. When there are no problems, the boss is usually very easygoing."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "Lena",
+					"paragraphSubtitles": [
+						"Sales Manager"
+					],
+					"paragraphContents": [
+						"I earn an average salary. However, if I make a lot of sales, I get a bonus and I find that motivating. I also enjoy having clear goals, even when I have to work long hours to achieve them. I recently got a promotion which meant a lot of extra work, but I don't mind. I got a small pay raise and as a manager, I was able to take an extra afternoon off each week to spend with my kids."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": "Ken",
+					"paragraphSubtitles": [
+						"Architect"
+					],
+					"paragraphContents": [
+						"The best part of my job is being my own boss. Because I'm self-employed, I can choose when I work and can take long vacations when I want to. The only bad part is I don't get a company car!"
+					]
+				}
+			],
+			"glossaryBox": [
+				{
+					"glossaryTitle": "Glossary",
+					"glossaryContent": [
+						"bonus (n) extra money you are paid in addition to your usual salary, usually because you have done well, for example, a year-end bonus",
+						"promotion (n) a move to a higher level in your job, usually because you have done well"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "D",
+					"setHeading": "READ FOR DETAIL",
+					"textImage": "",
+					"setAudioNumber": null,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Who says these things make them happy in their job, Helen (H), Lena (L), Bret (B) or Ken (K)?",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "They have flexible vacations and working hours.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Ken",
+							"LKUs": [
+								"flexible",
+								"vacation"
+							],
+							"sentenceAnswerOptions": [
+								"Helen",
+								"Lena",
+								"Bret",
+								"Ken"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "They learn and use special skills.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Helen",
+							"LKUs": [
+								"special",
+								"skill"
+							],
+							"sentenceAnswerOptions": [
+								"Helen",
+								"Lena",
+								"Bret",
+								"Ken"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Their employer gives them clear goals.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Lena",
+							"LKUs": [
+								"clear",
+								"goal"
+							],
+							"sentenceAnswerOptions": [
+								"Helen",
+								"Lena",
+								"Bret",
+								"Ken"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "They are independent.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Ken",
+							"LKUs": [
+								"independent"
+							],
+							"sentenceAnswerOptions": [
+								"Helen",
+								"Lena",
+								"Bret",
+								"Ken"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "They have a relaxed manager.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Bret",
+							"LKUs": [
+								"relaxed"
+							],
+							"sentenceAnswerOptions": [
+								"Helen",
+								"Lena",
+								"Bret",
+								"Ken"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "They have time for the family.",
+							"exerciseMinAnswer": null,
+							"exerciseMaxAnswer": null,
+							"exerciseAnswer": "Lena",
+							"LKUs": [
+								"time"
+							],
+							"sentenceAnswerOptions": [
+								"Helen",
+								"Lena",
+								"Bret",
+								"Ken"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "E",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"exerciseType": "",
+					"exerciseInstruction": "Work in pairs. Which of the four jobs in the article would you rather have? Why?",
+					"exercises": []
+				}
+			]
+		}
+	]
+}

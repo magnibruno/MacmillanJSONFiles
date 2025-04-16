@@ -1,0 +1,291 @@
+{
+	"sectionNumber": 10.2,
+	"CEFRLevel": "B1",
+	"dialect": "American",
+	"sectionTitle": "It's only good when it works",
+	"sectionObjective": "Describe types of technology",
+	"GKU": "Language_Hub_B1_Unit10_Lesson10_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "using devices and the internet"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "more comparative structures"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "in comparative structures"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "types of technology"
+		}
+	],
+	"hasReading": true,
+	"sectionPart": [
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": "",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "one page sequence - match",
+					"exerciseInstruction": "Complete the definitions (1–6) with the words in the box.",
+					"exercises": [
+						{
+							"columnA": [
+								"advertise (v)",
+								"annoying (adj)",
+								"mix (n)",
+								"rely on (phr verb)",
+								"security (n)",
+								"symbol (n)"
+							],
+							"columnB": [
+								"= to try to persuade people to buy a product or service by announcing it on television, on the internet, or in newspapers",
+								"= making you feel slightly angry",
+								"= a combination of different types of people who form a group, for example: There was a good () of people at the party.",
+								"= to trust someone or something to do a job or task for you",
+								"= safety from attack, harm or damage",
+								"= a picture or shape used to represent something: &*+@"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"partTitle": "READING",
+			"partImage": "",
+			"partSubTitle": null,
+			"textMode": "full article",
+			"textContents": [
+				{
+					"paragraphOrdinal": 1,
+					"paragraphTitle": "Is it just me?",
+					"paragraphSubtitles": [
+						"Tell the internet what annoys you and find out who agrees and who doesn’t!"
+					],
+					"paragraphContents": [
+						"You say: People say technology and the internet have made life better. Sure, there are benefits, but there are also lots of annoying things. Does anyone agree?"
+					]
+				},
+				{
+					"paragraphOrdinal": 2,
+					"paragraphTitle": "The internet says:",
+					"paragraphSubtitles": [
+						"User 1) Dancingmaggie"
+					],
+					"paragraphContents": [
+						"I agree! The worst thing is how often things go wrong. Many times when I try to make a video call, for example, the screen freezes. Video calls seem to fail as often as they work! Other things, too - you connect a drive and your computer crashes. You install a new app and everything stops working. Technology is only good when it works."
+					]
+				},
+				{
+					"paragraphOrdinal": 3,
+					"paragraphTitle": "",
+					"paragraphSubtitles": [
+						"User 2) RossM8"
+					],
+					"paragraphContents": [
+						"We rely on the internet, but we also waste time because of it. I'm usually searching for something online, but then I notice something interesting, click on a link and then minutes later I'm reading about a cat that looks like Beyonce or a man that married himself! Sometimes I forget what I was searching for in the first place. Some people are probably not as easily distracted as me."
+					]
+				},
+				{
+					"paragraphOrdinal": 4,
+					"paragraphTitle": "",
+					"paragraphSubtitles": [
+						"User 3) Aoneandatwo"
+					],
+					"paragraphContents": [
+						"The internet is amazing, and technology, too, in general. My problem is with the technology companies. They are always advertising new devices, so many people feel they have to own the latest model. If you ask me, the old models are usually just as good as the new ones, but, you know, your device is not as new as my device, so you're just not cool! It annoys me that people stop using perfectly good phones and laptops."
+					]
+				},
+				{
+					"paragraphOrdinal": 5,
+					"paragraphTitle": "",
+					"paragraphSubtitles": [
+						"User 4) ABC123"
+					],
+					"paragraphContents": [
+						"I know online security is important, especially when it comes to your bank details, but trying to remember passwords is not as easy as it sounds. They usually have to be a mix of symbols, numbers and letters, and of course, you shouldn't write them down or use the same password on different websites. My memory is not reliable and I forget passwords as often as I remember them. I have blocked my accounts so many times!"
+					]
+				}
+			],
+			"sets": [
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Read the posts on the online forum Is it just me? Do you agree or disagree with the users’ opinions?"
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": false,
+					"exerciseType": "RC - multiple choice",
+					"exerciseInstruction": "Read again. Match the sentences to the users.",
+					"exercises": [
+						{
+							"sentenceOrdinal": 1,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user says that other people might not have the same problem as they do?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 2",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"might",
+								"problem"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 2,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user regularly forgets important personal information?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 4",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"forget",
+								"information"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 3,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user feels that technology is often unreliable?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 1",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"technology",
+								"unreliable"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 4,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user thinks that people waste money on technology?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 3",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"money",
+								"waste"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 5,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user feels that it is important to protect your money online?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 4",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"money",
+								"protect"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 6,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user gets annoyed when trying to communicate online?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 1",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"annoy",
+								"communicate"
+							],
+							"context": "textContents"
+						},
+						{
+							"sentenceOrdinal": 7,
+							"paragraphOrdinal": null,
+							"exerciseQuestion": "Which user finds it hard to concentrate when using the internet?",
+							"exerciseMaxAnswer": null,
+							"exerciseMinAnswer": null,
+							"exerciseAnswer": "User 2",
+							"sentenceAnswerOptions": [
+								"User 1",
+								"User 2",
+								"User 3",
+								"User 4"
+							],
+							"LKUs": [
+								"concentrate",
+								"internet"
+							],
+							"context": "textContents"
+						}
+					]
+				},
+				{
+					"setMarker": "D",
+					"setHeading": "SPEAK",
+					"textImage": "",
+					"setAudioNumber": null,
+					"setIgnore": true,
+					"exerciseType": null,
+					"exerciseInstruction": "Work in groups. What would you post on the site? Are the other students in your group annoyed by the same thing?"
+				}
+			]
+		}
+	]
+}

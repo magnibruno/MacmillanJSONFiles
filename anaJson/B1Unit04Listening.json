@@ -1,0 +1,238 @@
+{
+  "book": "Language Hub",
+  "CEFRLevel": "B1",
+  "dialect": "American",
+  "chapters": [
+    {
+      "chapterUnit": 4,
+      "chapterTitle": "SOCIALIZING",
+      "chapterQuote": "Man is by nature a social animal. Aristotle",
+      "chapterFrontImage": "",
+      "chapterObjectives": [
+        "talk about plans you have made for a weekend with visitors",
+        "present reasons to support or argue against predictions",
+        "ask and answer questions about how you like to spend your free time",
+        "make arrangements to meet up with somebody",
+        "write an invitation and reply"
+      ],
+      "sections": [
+        {
+          "sectionNumber": 4.1,
+          "sectionTitle": "What’s the plan?",
+          "sectionObjectives": [
+            "Talk about plans you have made for a weekend with visitors"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_1",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "free time"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "going to"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "be going to + base form and present progressive for the future"
+            }
+          ],
+          "sectionPart": [
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "A",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": "",
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. What kind of things do you like to do when you visit a city for the first time?",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "B",
+                  "setHeading": "LISTEN FOR GIST",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Listen to a conversation between Sylvia and Greg and circle seven free-time activities in vocabulary Exercise B that they talk about.",
+                  "exercises": []
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "C",
+                  "setHeading": "LISTEN FOR DETAIL",
+                  "setImage": "",
+                  "setAudioNumber": 4.1,
+                  "audioNumberOrdinal": "001",
+                  "setAudio": "ALH_TAT2_AUD_U4.1_001",
+                  "setIgnore": false,
+                  "exerciseType": "LC - multiple choice",
+                  "exerciseInstruction": "Listen and choose the correct answer a or b.",
+                  "exercises": [
+                    {
+                      "exerciseSentences": [
+                        {
+                          "sentenceOrdinal": 1,
+                          "sentences": [
+                            "What is the relationship between Sylvia and Greg?"
+                          ],
+                          "exerciseAnswers": "brother and sister",
+                          "exerciseOptions": [
+                            "brother and sister",
+                            "boyfriend and girlfriend"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 2,
+                          "sentences": [
+                            "Who is Claire?"
+                          ],
+                          "exerciseAnswers": "Greg’s girlfriend",
+                          "exerciseOptions": [
+                            "Greg’s friend",
+                            "Greg’s girlfriend"
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 3,
+                          "sentences": [
+                            "Sylvia thinks that Greg will like her friend Duncan because they ..."
+                          ],
+                          "exerciseAnswers": "both enjoy eating.",
+                          "exerciseOptions": [
+                            "are both good cooks.",
+                            "both enjoy eating."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 4,
+                          "sentences": [
+                            "After dinner, Sylvia and Greg are going to see ..."
+                          ],
+                          "exerciseAnswers": "a funny show.",
+                          "exerciseOptions": [
+                            "a funny show.",
+                            "a play by Shakespeare."
+                          ]
+                        },
+                        {
+                          "sentenceOrdinal": 5,
+                          "sentences": [
+                            "Greg stops Sylvia explaining the plan for the next day because he..."
+                          ],
+                          "exerciseAnswers": "wants to order some food.",
+                          "exerciseOptions": [
+                            "doesn’t feel very well.",
+                            "wants to order some food."
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "partTitle": "LISTENING",
+              "partImage": "",
+              "partSubTitle": "",
+              "sets": [
+                {
+                  "setMarker": "D",
+                  "setHeading": "SPEAK",
+                  "setImage": "",
+                  "setAudioNumber": null,
+                  "setIgnore": true,
+                  "exerciseType": "",
+                  "exerciseInstruction": "Work in pairs. When was the last time you visited friends or family for the weekend? Tell your partner.",
+                  "exercises": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sectionNumber": 4.2,
+          "sectionTitle": "The future of free time",
+          "sectionObjectives": [
+            "Present reasons to support or argue against predictions"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_2",
+          "sectionSkills": [
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "making predictions"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "will and won’t"
+            },
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "suffixes"
+            }
+          ],
+          "sectionPart": [],
+          "hasListening": false
+        },
+        {
+          "sectionNumber": 4.3,
+          "sectionTitle": "Hygge",
+          "sectionObjectives": [
+            "Ask and answer questions about how you like to spend your free time"
+          ],
+          "GKU": "Language_Hub_B1_Unit4_Lesson4_3",
+          "sectionSkills": [
+            {
+              "skillType": "V",
+              "skillName": "Vocabulary",
+              "skillTitle": "relaxing"
+            },
+            {
+              "skillType": "P",
+              "skillName": "Pronunciation",
+              "skillTitle": "linking a consonant to a vowel"
+            },
+            {
+              "skillType": "G",
+              "skillName": "Grammar",
+              "skillTitle": "subject and object questions"
+            },
+            {
+              "skillType": "S",
+              "skillName": "Reading",
+              "skillTitle": "summarizing"
+            }
+          ],
+          "sectionPart": [],
+          "hasListening": false
+        }
+      ]
+    }
+  ]
+}
