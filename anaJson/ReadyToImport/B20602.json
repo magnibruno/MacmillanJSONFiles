@@ -1,0 +1,250 @@
+{
+    "sectionNumber": 6.2,
+    "sectionTitle": "Traditions of youth",
+    "sectionObjective": "Discuss age milestones in your country / Debate the best time to start college",
+    "GKU": "Language_Hub_B2_Unit6_Lesson_6_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "compound adjectives; phrases with make and do"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intrusive /j/ sounds"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "articles"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "decoding: idioms"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Articles",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Complete the extracts with a, an, the or – (no article). Then scan the article again to check your answers.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "They traditionally signify a point in someone’s life when ____ childhood is over."
+                                    ],
+                                    "exerciseAnswers": "-",
+                                    "exerciseOptions": [
+                                        "a",
+                                        "an",
+                                        "the",
+                                        "-"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "In Vanuatu, ____ small island in the Pacific Ocean, young boys jump from a 30-meter-high tower…"
+                                    ],
+                                    "exerciseAnswers": "a",
+                                    "exerciseOptions": [
+                                        "a",
+                                        "an",
+                                        "the",
+                                        "-"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "The vine is cut to a length that will just stop them from hitting ____ ground…"
+                                    ],
+                                    "exerciseAnswers": "the",
+                                    "exerciseOptions": [
+                                        "a",
+                                        "an",
+                                        "the",
+                                        "-"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "It is ____ ancient tradition that started almost 1,300 years ago."
+                                    ],
+                                    "exerciseAnswers": "an",
+                                    "exerciseOptions": [
+                                        "a",
+                                        "an",
+                                        "the",
+                                        "-"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "In recent years, ____ popularity of the festival has declined…"
+                                    ],
+                                    "exerciseAnswers": "the",
+                                    "exerciseOptions": [
+                                        "a",
+                                        "an",
+                                        "the",
+                                        "-"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Sweet 16 is the term given to the coming-of-age party to celebrate ____ teenager’s 16th birthday."
+                                    ],
+                                    "exerciseAnswers": "a",
+                                    "exerciseOptions": [
+                                        "a",
+                                        "an",
+                                        "the",
+                                        "-"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Articles",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Articles",
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the indefinite article (a/an):",
+                        "when we talk about something for the first time",
+                        "when it’s not clear or important which one of a group is being talked about"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the definite article (the):",
+                        "when there’s only one of something",
+                        "when it’s clear which thing we’re talking about (usually because we’ve mentioned it before)",
+                        "with superlatives",
+                        "with rivers, some mountains, oceans, seas, plural country names, groups of islands and deserts"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the zero article (-):",
+                        "to talk about things in general",
+                        "with most towns, cities, countries, continents, states, lakes and mountains"
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Complete the rules with the titles in the box.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "definite",
+                                "indefinite",
+                                "zero"
+                            ],
+                            "LKUs": null,
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Articles",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Articles",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Student A – Go to the Communication Hub on page 151. Student B – Go to the Communication Hub on page 152.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Articles",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": "SPEAK",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Tell your partner about the coming-of-age ceremony you have just read about.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

@@ -1,0 +1,249 @@
+{
+    "sectionNumber": 10.2,
+    "sectionTitle": "Digital media",
+    "sectionObjective": "Report a conversation / Plan and create a viral marketing ad",
+    "GKU": "Language_Hub_B2_Unit10_Lesson_10_2",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "Reporting verbs"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "Social media; adjective + noun collocations"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "Using intonation to attract and keep interest"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "substitution"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Reporting verbs",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the verbs (1–6) to the nouns (a–f) to make phrases.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "'No, I'm sorry. I cannot discuss an on-going investigation.'",
+                                "'We simply need to run a lot of tests. Until then, this is nothing more than a fun news item.'",
+                                "'I'm sorry the police were called out unnecessarily.'",
+                                "'That's correct. The animal was delivered home safely.'",
+                                "'Earlier today my team discovered two additional bars nearby – both in a similar state.'"
+                            ],
+                            "columnB": [
+                                "Although investigators have refused to comment on their current progress",
+                                "Professor Richard Hamilton advised historians not to take the discovery seriously until further research has been conducted",
+                                "Rodriguez later apologized for wasting police time.",
+                                "In response, a spokesperson for the police department confirmed that the animal had been safely returned to its owners.",
+                                "Laurent later informed local journalists that his team had found two more bars in a similar condition."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Reporting verbs",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Reporting verbs",
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We can use reporting verbs to explain the way in which something was said. Reporting verbs are followed by a range of different structures:"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "a argue, confirm, state, suggest + (that) + clause"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "b assure, inform, tell, warn + object + (that)"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "c agree, demand, offer, refuse, threaten + infinitive"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "d advise, encourage, persuade, remind, warn, convince + object + infinitive"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 6,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "e admit, apologize, deny, insist, suggest + (preposition + verb + -ing)"
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the verbs in bold.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "confirm",
+                                "inform",
+                                "refuse",
+                                "advise",
+                                "apologize"
+                            ],
+                            "LKUs": [
+                                "confirm",
+                                "inform",
+                                "refuse",
+                                "advise",
+                                "apologize"
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Reporting verbs",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Grammar Hub on page 140.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Reporting verbs",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Rewrite the quotes in reported speech using the verbs in the box.",
+                    "wordBank": [
+                        "apologize",
+                        "blame",
+                        "encourage",
+                        "refuse",
+                        "threaten"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "The protestors refused to leave until their demands were met."
+                                    ],
+                                    "blankedWords": [
+                                        "refused"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "The company threatened to fire any employee who was one minute late."
+                                    ],
+                                    "blankedWords": [
+                                        "threatened"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "The restaurant apologized to the 100 people who had got food poisoning the previous week."
+                                    ],
+                                    "blankedWords": [
+                                        "apologized"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "The police encouraged anyone who had seen anything to contact them."
+                                    ],
+                                    "blankedWords": [
+                                        "encouraged"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "The TV company blamed the internet provider for the slow service."
+                                    ],
+                                    "blankedWords": [
+                                        "blamed"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

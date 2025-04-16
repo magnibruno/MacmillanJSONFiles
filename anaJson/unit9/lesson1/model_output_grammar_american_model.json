@@ -1,0 +1,254 @@
+{
+    "sectionNumber": 9.1,
+    "sectionTitle": "Customers",
+    "sectionObjective": "Talk about the risks and benefits of apps / Make an effective complaint about a product or service",
+    "GKU": "Language_Hub_B2_Unit9_Lesson_9_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "dependent prepositions: verbs"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "adjective clauses"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "pitch on non-essential adjective clauses"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "fronting"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adjective clauses",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Look at the highlighted sentences in the article. Underline the adjective clauses in each.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adjective clauses",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Are the clauses you underlined in Exercise A essential or non-essential? How do you know?",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the sentences that match the rules.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "In essential adjective clauses we can use that instead of who or which."
+                                    ],
+                                    "exerciseAnswers": "In the past, we placed our trust in our neighbors – people in our local community that had developed a good reputation for the products and services they offered.",
+                                    "exerciseOptions": [
+                                        "In the past, we placed our trust in our neighbors – people in our local community that had developed a good reputation for the products and services they offered.",
+                                        "Thanks to Uber, which lets people use an app to order a ride at a generally much lower rate than a normal taxi firm, we are all potential taxi drivers."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "In essential adjective clauses we can omit the relative pronoun when it’s the object of the adjective clause."
+                                    ],
+                                    "exerciseAnswers": "Recruiters now regularly check out people’s online profiles before interviewing or hiring them and the first thing they see are social media profiles.",
+                                    "exerciseOptions": [
+                                        "Well, it’s not difficult to imagine a world where our every interaction affects a social credit score.",
+                                        "Recruiters now regularly check out people’s online profiles before interviewing or hiring them and the first thing they see are social media profiles."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "In non-essential adjective clauses we use commas to separate the clause from the rest of the sentence"
+                                    ],
+                                    "exerciseAnswers": "Thanks to Uber, which lets people use an app to order a ride at a generally much lower rate than a normal taxi firm, we are all potential taxi drivers.",
+                                    "exerciseOptions": [
+                                        "Thanks to Uber, which lets people use an app to order a ride at a generally much lower rate than a normal taxi firm, we are all potential taxi drivers.",
+                                        "Of course, we don’t all have the influence of famous celebrities, but companies now hire people whose job is to monitor mentions of their brands so they can provide instant customer support."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "In both types of adjective clause we use where to talk about places d and whose to talk about possession e – neither of which can be omitted."
+                                    ],
+                                    "exerciseAnswers": "Of course, we don’t all have the influence of famous celebrities, but companies now hire people whose job is to monitor mentions of their brands so they can provide instant customer support.",
+                                    "exerciseOptions": [
+                                        "Of course, we don’t all have the influence of famous celebrities, but companies now hire people whose job is to monitor mentions of their brands so they can provide instant customer support.",
+                                        "In the past, we placed our trust in our neighbors – people in our local community that had developed a good reputation for the products and services they offered."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "In both types of adjective clause we use prepositions at the beginning of a clause in formal English and at the end in informal English."
+                                    ],
+                                    "exerciseAnswers": "Who are the people in your life that you place your trust in?",
+                                    "exerciseOptions": [
+                                        "In the past, we placed our trust in our neighbors – people in our local community that had developed a good reputation for the products and services they offered.",
+                                        "Who are the people in your life that you place your trust in?"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adjective clauses",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Grammar Hub on page 138.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adjective clauses",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Try to improve the following review using adjective clauses like the one in the example.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Adjective clauses",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Last summer, I visited my cousin, ____ lives in a nice apartment in New York."
+                                    ],
+                                    "exerciseAnswers": "who",
+                                    "exerciseOptions": [
+                                        "who",
+                                        "whose"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "There’s the new store ____ I was telling you about."
+                                    ],
+                                    "exerciseAnswers": "-",
+                                    "exerciseOptions": [
+                                        "-",
+                                        "where"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "The recruiter ____ helped is my cousin, Léo."
+                                    ],
+                                    "exerciseAnswers": "who",
+                                    "exerciseOptions": [
+                                        "who",
+                                        "which"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "The woman ____ house we stayed in had listed it on Airbnb."
+                                    ],
+                                    "exerciseAnswers": "whose",
+                                    "exerciseOptions": [
+                                        "whose",
+                                        "who"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "It’s usually late at night where / when I feel hungriest."
+                                    ],
+                                    "exerciseAnswers": "when",
+                                    "exerciseOptions": [
+                                        "where",
+                                        "when"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

@@ -1,0 +1,330 @@
+{
+    "sectionNumber": 6.1,
+    "sectionTitle": "The right method?",
+    "sectionObjective": "Discuss rules in education / Talk about changes to education in your country",
+    "GKU": "Language_Hub_B2_Unit6_Lesson_6_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "obligation, prohibition and permission"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "education"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intonation to show interest"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "pronoun referencing"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Obligation, prohibition and permission",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the extracts with the words in the box. Then listen and check your answers.",
+                    "wordBank": [
+                        "allowed",
+                        "needed",
+                        "obliged",
+                        "should",
+                        "required",
+                        "supposed"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I'm not sure. In my school, students weren't obliged to attend classes."
+                                    ],
+                                    "blankedWords": [
+                                        "obliged"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I don't think students should be required to go to classes or to study certain subjects."
+                                    ],
+                                    "blankedWords": [
+                                        "required"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Well, in many cases people took subjects and exams earlier than they were supposed to."
+                                    ],
+                                    "blankedWords": [
+                                        "supposed"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "We weren't allowed to have dirty shoes."
+                                    ],
+                                    "blankedWords": [
+                                        "allowed"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "That's clearly unreasonable. The punishment should fit the crime."
+                                    ],
+                                    "blankedWords": [
+                                        "should"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "You quickly learned what you needed to do."
+                                    ],
+                                    "blankedWords": [
+                                        "needed"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Obligation, prohibition and permission",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Obligation, prohibition and permission",
+                    "paragraphSubtitles": [
+                        "Strong obligation"
+                    ],
+                    "paragraphContents": [
+                        "We use have to, must, need to, be obliged to, be required to to talk about things that are necessary."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "Lack of obligation"
+                    ],
+                    "paragraphContents": [
+                        "We use don't have to, don't need to, be not obliged to, be not required to to talk about things that aren't necessary."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "Weak obligation"
+                    ],
+                    "paragraphContents": [
+                        "We use should, be supposed to to talk about things that are recommended."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "Prohibition"
+                    ],
+                    "paragraphContents": [
+                        "We use must not, can't, be not allowed to to talk about things that aren't permitted."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "Permission"
+                    ],
+                    "paragraphContents": [
+                        "We use can, let or be allowed to to talk about things that are permitted."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Choose the correct options to complete the rules.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "are",
+                                "aren't"
+                            ],
+                            "LKUs": [
+                                ""
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Obligation, prohibition and permission",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 132.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Obligation, prohibition and permission",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options (a, b or c) to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "My parents didn't ____ me go out alone until I was 18."
+                                    ],
+                                    "exerciseAnswers": "let",
+                                    "exerciseOptions": [
+                                        "require",
+                                        "need",
+                                        "let"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I'm going to ____ my children have a lot more freedom than I had."
+                                    ],
+                                    "exerciseAnswers": "let",
+                                    "exerciseOptions": [
+                                        "let",
+                                        "allow",
+                                        "need"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "I was ____ do a lot of housework, but usually I didn't bother."
+                                    ],
+                                    "exerciseAnswers": "supposed to",
+                                    "exerciseOptions": [
+                                        "allowed to",
+                                        "need to",
+                                        "supposed to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I ____ practice the piano for an hour every day. I hated it!"
+                                    ],
+                                    "exerciseAnswers": "had to",
+                                    "exerciseOptions": [
+                                        "didn't have to",
+                                        "could",
+                                        "had to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I think people ____ be allowed to drive at 16. You can work then, so having a car would help."
+                                    ],
+                                    "exerciseAnswers": "should",
+                                    "exerciseOptions": [
+                                        "should",
+                                        "have to",
+                                        "must"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "We ____ to study a foreign language. I think it was a mistake, because languages are important."
+                                    ],
+                                    "exerciseAnswers": "didn't have to",
+                                    "exerciseOptions": [
+                                        "had to",
+                                        "didn't have to",
+                                        "must not"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Obligation, prohibition and permission",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Change the sentences in Exercise C so they are true for you.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

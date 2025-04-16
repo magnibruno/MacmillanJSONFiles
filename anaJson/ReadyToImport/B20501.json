@@ -1,0 +1,395 @@
+{
+    "sectionNumber": 5.1,
+    "sectionTitle": "Changing environment",
+    "sectionObjective": "Summarize a sequence of past events / Evaluate a range of proposals",
+    "GKU": "Language_Hub_B2_Unit5_Lesson5_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "the passive voice; causative have and get"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "green vocabulary"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "glottal stops"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying cause and effect"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "The passive voice",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Scan the article again and underline ten examples of the passive voice. The first has been underlined for you.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "The passive voice",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Discuss the questions.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "The passive voice",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "The passive voice",
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We form the passive voice with be + past participle."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "The passive voice can be formed with all tenses - only the form of be changes."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the passive voice when we don't know who or what caused an action."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the passive voice when it's not important who or what caused an action."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the passive voice when we want to focus on the person or thing that received the action."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Choose the correct options to complete the rules.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "participle",
+                                "all",
+                                "caused",
+                                "important",
+                                "received"
+                            ],
+                            "LKUs": null,
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "The passive voice",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "grammarHub": false,
+                    "exerciseInstruction": "Complete the sentences with the correct form of the verbs in parentheses.",
+                    "wordBank": [
+                        "use",
+                        "burn",
+                        "cut down",
+                        "threaten",
+                        "affect",
+                        "ban",
+                        "rise",
+                        "control"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "As the population continues to grow, more and more land is used for farming."
+                                    ],
+                                    "blankedWords": [
+                                        "used"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Very few fossil fuels were burned before the Industrial Revolution."
+                                    ],
+                                    "blankedWords": [
+                                        "burned"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Thousands of trees were being cut down every year before the government changed the law."
+                                    ],
+                                    "blankedWords": [
+                                        "cut down"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "The future of humans could be threatened by further increases in temperature."
+                                    ],
+                                    "blankedWords": [
+                                        "threatened"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Many species will be affected by climate change over the decade."
+                                    ],
+                                    "blankedWords": [
+                                        "affected"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Plastic bags have been banned recently in many countries."
+                                    ],
+                                    "blankedWords": [
+                                        "banned"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "Global temperatures have been rising for over a century."
+                                    ],
+                                    "blankedWords": [
+                                        "rising"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "Some people feel that the use of packaging needs to be controlled."
+                                    ],
+                                    "blankedWords": [
+                                        "controlled"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "The passive voice",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Grammar Hub on page 130.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Causative have and get",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": 5.2,
+                    "audioNumberOrdinal": "002",
+                    "setAudio": "ALH_TAT4_AUD_U5.1_002",
+                    "setIgnore": false,
+                    "exerciseType": "TSS dictate",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Listen and complete the extracts from the interview.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Ah, I can see you’re having solar panels installed."
+                                    ],
+                                    "blankedWords": [
+                                        "having",
+                                        "installed"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "We’re getting underfloor heating fitted."
+                                    ],
+                                    "blankedWords": [
+                                        "getting",
+                                        "fitted"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "We need to get the walls better insulated."
+                                    ],
+                                    "blankedWords": [
+                                        "get",
+                                        "insulated"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Causative have and get",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "PRACTICE",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "Rewrite",
+                    "exerciseInstruction": "Complete the sentences using the prompts in parentheses. Use the information in the box to help you.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "sentences": [
+                                "I (have /the car / repair) at the garage last weekend."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I had the car repaired at the garage last weekend."
+                        },
+                        {
+                            "sentenceOrdinal": 2,
+                            "sentences": [
+                                "We’re (get / the house / paint) right now."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "We’re getting the house painted right now."
+                        },
+                        {
+                            "sentenceOrdinal": 3,
+                            "sentences": [
+                                "We’re also (have / a smart energy meter / fit) to check how much energy we’re using."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "We’re also having a smart energy meter fitted to check how much energy we’re using."
+                        },
+                        {
+                            "sentenceOrdinal": 4,
+                            "sentences": [
+                                "We (have / a roof garden / create) last year to help keep heat in."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "We had a roof garden created last year to help keep heat in."
+                        },
+                        {
+                            "sentenceOrdinal": 5,
+                            "sentences": [
+                                "I’d like (get / new flooring / install) in the living room."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I’d like to get new flooring installed in the living room."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Causative have and get",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 130.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

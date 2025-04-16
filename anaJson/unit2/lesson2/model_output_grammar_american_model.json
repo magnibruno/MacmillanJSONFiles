@@ -1,0 +1,328 @@
+{
+    "sectionNumber": 2.2,
+    "sectionTitle": "Change",
+    "sectionObjective": "Conduct an interview about lifestlye changes / Debate the impact of smartphones",
+    "GKU": "Language_Hub_B2_Unit2_Lesson2_2",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "used to, would, get used to, be used to"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "adverbs of stance; adverb + adjective collocations"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying assumptions"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "catenation: used to"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "used to, would, get used to, be used to",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Work in pairs. Match the extracts from the interview (1–4) to their meaning (a–d).",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I used to work long hours and it was stressful."
+                                    ],
+                                    "exerciseAnswers": "This situation was true in the past but isn’t true now",
+                                    "exerciseOptions": [
+                                        "This situation is still strange, but it’s becoming more familiar.",
+                                        "This habit was true in the past but isn’t true now.",
+                                        "This situation was true in the past but isn’t true now",
+                                        "This was strange at first but is normal for me now."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I’m used to getting up at 6 o’clock every day…"
+                                    ],
+                                    "exerciseAnswers": "This was strange at first but is normal for me now.",
+                                    "exerciseOptions": [
+                                        "This situation is still strange, but it’s becoming more familiar.",
+                                        "This habit was true in the past but isn’t true now.",
+                                        "This situation was true in the past but isn’t true now",
+                                        "This was strange at first but is normal for me now."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Financially, it has also been much harder but we’re getting used to it."
+                                    ],
+                                    "exerciseAnswers": "This situation is still strange, but it’s becoming more familiar.",
+                                    "exerciseOptions": [
+                                        "This situation is still strange, but it’s becoming more familiar.",
+                                        "This habit was true in the past but isn’t true now.",
+                                        "This situation was true in the past but isn’t true now",
+                                        "This was strange at first but is normal for me now."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Back in New York he’d complain about his job constantly."
+                                    ],
+                                    "exerciseAnswers": "This habit was true in the past but isn’t true now.",
+                                    "exerciseOptions": [
+                                        "This situation is still strange, but it’s becoming more familiar.",
+                                        "This habit was true in the past but isn’t true now.",
+                                        "This situation was true in the past but isn’t true now",
+                                        "This was strange at first but is normal for me now."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "used to, would, get used to, be used to",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "used to, would, get used to, be used to",
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "1. We use used to + base form to talk about finished habits and states: things that were true in the past but aren't true now."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "2. We can also use would + base form to talk about finished habits and routines, but not to talk about states."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "3. We use be used to to talk about something that was unfamiliar but is not unfamiliar now."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "4. We use get used to to talk about something that is still unfamiliar and not a current habit."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "word bank",
+                    "exerciseInstruction": "Complete the rules with the words in the box.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "used to",
+                                "would",
+                                "be",
+                                "get"
+                            ],
+                            "LKUs": [
+                                "used to"
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "used to, would, get used to, be used to",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 124.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "used to, would, get used to, be used to",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with used to, would, be used to or get used to and the verbs in the word bank.",
+                    "wordBank": [
+                        "look",
+                        "like",
+                        "eat",
+                        "work",
+                        "cook",
+                        "play",
+                        "drive"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I used to look very different when I was younger."
+                                    ],
+                                    "blankedWords": [
+                                        "used to",
+                                        "look"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I didn't use to like mornings but now I enjoy getting up early."
+                                    ],
+                                    "blankedWords": [
+                                        "use to",
+                                        "like"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "When I was a teenager, I used to eat a lot of junk food."
+                                    ],
+                                    "blankedWords": [
+                                        "used to",
+                                        "eat"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I am used to working long hours now. I’ve done it for years."
+                                    ],
+                                    "blankedWords": [
+                                        "used to",
+                                        "working"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I am getting used to cooking for myself but I’m still not great at it."
+                                    ],
+                                    "blankedWords": [
+                                        "used to",
+                                        "cooking"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "When I was younger, I used to play video games for hours."
+                                    ],
+                                    "blankedWords": [
+                                        "used to",
+                                        "play"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "I am not used to driving. I only passed my test recently."
+                                    ],
+                                    "blankedWords": [
+                                        "used to",
+                                        "driving"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "used to, would, get used to, be used to",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": "PRACTICE",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Rewrite the sentences in Exercise D so they are true for you.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "used to, would, get used to, be used to",
+            "sets": [
+                {
+                    "setMarker": "F",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Discuss your sentences from Exercise E. Ask follow-up questions for more information.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

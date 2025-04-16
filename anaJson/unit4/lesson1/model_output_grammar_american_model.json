@@ -1,0 +1,320 @@
+{
+    "sectionNumber": 4.1,
+    "sectionTitle": "My future",
+    "sectionObjective": "Talk about future plans and goals / Make predictions about the future of work",
+    "GKU": "Language_Hub_B2_Unit4_Lesson4_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "Future forms"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "noun and prepositions collocations; nouns and verbs with the same spelling"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "nouns and verbs with the same spelling"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying evidence"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Future forms",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": 4.2,
+                    "audioNumberOrdinal": "002",
+                    "setAudio": "ALH_TAT4_AUD_U4.2_002",
+                    "setIgnore": false,
+                    "exerciseType": "TSS dictate",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Listen and complete the extracts with the correct future form of the verbs in parentheses.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I'm flying to Paris because I have a friend there."
+                                    ],
+                                    "blankedWords": [
+                                        "flying"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "The classes are three days a week from nine to four."
+                                    ],
+                                    "blankedWords": [
+                                        "are"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Then, I'm going to visit as many countries as I can."
+                                    ],
+                                    "blankedWords": [
+                                        "visit"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Parents are always really busy, so I'm definitely going to have to get better at managing my time."
+                                    ],
+                                    "blankedWords": [
+                                        "have"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Do you think you'll miss work?"
+                                    ],
+                                    "blankedWords": [
+                                        "miss"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "That's a good idea. I'll add it to the list!"
+                                    ],
+                                    "blankedWords": [
+                                        "add"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Future forms",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Future forms",
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use the present progressive for definite future arrangements."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use going to + base form to talk about general intentions."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use will + base form for decisions made at the moment of speaking."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use simple present for timetabled events."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use will + base form for making predictions."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 6,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use going to + base form for predictions based on something we know."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Choose the correct tenses to complete the rules.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "arrangements",
+                                "intentions",
+                                "speaking",
+                                "timetabled",
+                                "predictions",
+                                "know"
+                            ],
+                            "LKUs": [
+                                ""
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Future forms",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 128.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Future forms",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "Grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the verbs in the word bank.",
+                    "wordBank": [
+                        "break",
+                        "come",
+                        "fly",
+                        "go",
+                        "leave",
+                        "miss",
+                        "see",
+                        "text"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "There's no milk left? OK, I'll text to Bea and ask her to pick some up."
+                                    ],
+                                    "blankedWords": [
+                                        "text"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "That chair doesn't look very strong - I think it's going to break."
+                                    ],
+                                    "blankedWords": [
+                                        "break"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "We are flying with JetBlue on the way out, but haven't booked the return flight yet."
+                                    ],
+                                    "blankedWords": [
+                                        "flying"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "The next train to Cambridge leaves at 5:12 pm."
+                                    ],
+                                    "blankedWords": [
+                                        "leaves"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "She probably won't come - she doesn't really like parties."
+                                    ],
+                                    "blankedWords": [
+                                        "come"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "After college, I am going to go traveling for a year. Not sure where though."
+                                    ],
+                                    "blankedWords": [
+                                        "go"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "We’re still miles away from the airport - we are going to miss our flight!"
+                                    ],
+                                    "blankedWords": [
+                                        "miss"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "I am seeing her on Friday, actually. We have a meeting at 2 pm."
+                                    ],
+                                    "blankedWords": [
+                                        "seeing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

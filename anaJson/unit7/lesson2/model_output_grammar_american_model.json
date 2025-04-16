@@ -1,0 +1,215 @@
+{
+    "sectionNumber": 7.2,
+    "sectionTitle": "Make a change",
+    "sectionObjective": "Talk about wishes and regrets / Design and present a community project",
+    "GKU": "Language_Hub_B2_Unit7_Lesson_7_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "three-part phrasal verbs; compund nouns"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "two-stress phrasal verbs"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "inferring meaning"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "wish and if only"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Wish and if only",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Read the comments again. Look at the underlined sentences and answer the questions.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Wish and if only",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the sentence that matches the rule.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "We use wish + simple past to talk about how we would like the present to be different."
+                                    ],
+                                    "exerciseAnswers": "I wish we were still friends now.",
+                                    "exerciseOptions": [
+                                        "I wish we were still friends now.",
+                                        "If only I’d spent more time studying.",
+                                        "I wish she would just pick up the phone and call me.",
+                                        "… but I wish I had chosen a career I enjoyed more."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "We use wish + past perfect to talk about things we regret in the past."
+                                    ],
+                                    "exerciseAnswers": "… but I wish I had chosen a career I enjoyed more.",
+                                    "exerciseOptions": [
+                                        "I wish we were still friends now.",
+                                        "If only I’d spent more time studying.",
+                                        "I wish she would just pick up the phone and call me.",
+                                        "… but I wish I had chosen a career I enjoyed more."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "We use wish + object + would + base form to talk about something we want others to do or stop doing because it annoys us."
+                                    ],
+                                    "exerciseAnswers": "I wish she would just pick up the phone and call me.",
+                                    "exerciseOptions": [
+                                        "I wish we were still friends now.",
+                                        "If only I’d spent more time studying.",
+                                        "I wish she would just pick up the phone and call me.",
+                                        "… but I wish I had chosen a career I enjoyed more."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "We can use if only instead of wish in all of these structures to sound more dramatic or emphatic."
+                                    ],
+                                    "exerciseAnswers": "If only I’d spent more time studying.",
+                                    "exerciseOptions": [
+                                        "I wish we were still friends now.",
+                                        "If only I’d spent more time studying.",
+                                        "I wish she would just pick up the phone and call me.",
+                                        "… but I wish I had chosen a career I enjoyed more."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Wish and if only",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Wish and if only",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "Rewrite",
+                    "exerciseInstruction": "Rewrite the sentences using the words in parenthesis.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "sentences": [
+                                "It annoys me when people throw garbage on the street. (wish)"
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I wish people wouldn’t throw garbage on the street."
+                        },
+                        {
+                            "sentenceOrdinal": 2,
+                            "sentences": [
+                                "I regret moving to the country. (wish)"
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I wish I hadn’t moved to the countryside."
+                        },
+                        {
+                            "sentenceOrdinal": 3,
+                            "sentences": [
+                                "I don’t want to work evenings and weekends. (If only)"
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "If only I didn’t have to work evenings and weekends."
+                        },
+                        {
+                            "sentenceOrdinal": 4,
+                            "sentences": [
+                                "I forgot my passport and couldn’t go on vacation. (If only)"
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "If only I hadn’t forgotten my passport, I could have gone."
+                        },
+                        {
+                            "sentenceOrdinal": 5,
+                            "sentences": [
+                                "It annoys me when people are so rude online. (wish)"
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I wish people weren’t so rude online."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Wish and if only",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Complete the sentences with your own ideas. Tell your partner. Ask follow-up questions for more information.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

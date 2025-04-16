@@ -1,0 +1,496 @@
+{
+    "sectionNumber": 7.1,
+    "sectionTitle": "Open spaces",
+    "sectionObjective": "Discuss community development projects",
+    "GKU": "Language_Hub_B2_Unit7_Lesson_7_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "first conditional with different future forms; unreal conditionals"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "verbs to describe change"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "connected speech in conditionals"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying speculation"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "First conditional with different future forms",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": 7.2,
+                    "audioNumberOrdinal": "002",
+                    "setAudio": "ALH_TAT4_AUD_U7.2_002",
+                    "setIgnore": false,
+                    "exerciseType": "TSS dictate",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Listen and complete the extracts with the correct form of the verbs in parentheses.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "In fact, if we maintain our current numbers, we will have had 15,000 visitors in our first year."
+                                    ],
+                                    "blankedWords": [
+                                        "maintain",
+                                        "had"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "If we give kids opportunities like this, what are they going achieve in the future?"
+                                    ],
+                                    "blankedWords": [
+                                        "give",
+                                        "achieve"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "If you are thinking about starting a garden, speak to me later."
+                                    ],
+                                    "blankedWords": [
+                                        "thinking",
+                                        "speak"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "If we don't come together as a community, neighborhoods like mine will fall apart."
+                                    ],
+                                    "blankedWords": [
+                                        "come",
+                                        "fall"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "If you care about your community, do something to improve it."
+                                    ],
+                                    "blankedWords": [
+                                        "care",
+                                        "do"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "First conditional with different future forms",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options to complete the rules.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "We use the first conditional to talk about something that is possible in the ____."
+                                    ],
+                                    "exerciseAnswers": 
+                                        "future"
+                                    ,
+                                    "exerciseOptions": [
+                                        "past",
+                                        "future"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "We can use any ____ tense in the if-clause and any future tense or an imperative in the main clause."
+                                    ],
+                                    "exerciseAnswers": 
+                                        "present"
+                                    ,
+                                    "exerciseOptions": [
+                                        "present",
+                                        "future"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "First conditional with different future forms",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "First conditional with different future forms",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "If everything goes according to plan, ______ a total of 20 community gardens in the city by 2020."
+                                    ],
+                                    "exerciseAnswers": "we‘ll have opened",
+                                    "exerciseOptions": [
+                                        "we‘ll have opened",
+                                        "we‘ll open"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "We’re going to convert this old factory into a skate park if ______ the funding."
+                                    ],
+                                    "exerciseAnswers": "we get",
+                                    "exerciseOptions": [
+                                        "we get",
+                                        "we‘ll get"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "If they don’t hurry up, the project ______ finished on time."
+                                    ],
+                                    "exerciseAnswers": "won’t be",
+                                    "exerciseOptions": [
+                                        "isn’t",
+                                        "won’t be"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "______ looked at the plans tomorrow if you want to come along."
+                                    ],
+                                    "exerciseAnswers": "We’ll be looking",
+                                    "exerciseOptions": [
+                                        "We’ll be looking",
+                                        "We’ll have looked"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "If you go to the meeting, ______ the residents how they feel."
+                                    ],
+                                    "exerciseAnswers": "ask",
+                                    "exerciseOptions": [
+                                        "ask",
+                                        "to ask"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "If ______ their own vegetables, they should sell them, too."
+                                    ],
+                                    "exerciseAnswers": "they’re growing",
+                                    "exerciseOptions": [
+                                        "they’re growing",
+                                        "they’ll be growing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Unreal conditionals",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Read the following sentences from the article. Do they describe things that actually happened or imaginary situations? Do they describe possible results in the past, present or future?",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Unreal conditionals",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Unreal conditionals",
+                    "paragraphSubtitles": [
+                        "1. Second conditional"
+                    ],
+                    "paragraphContents": [
+                        "We use if + simple past + would/might/could + base form to talk about the consequences of an imagined present or future."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "2. Third conditional"
+                    ],
+                    "paragraphContents": [
+                        "We use if + past perfect and would/might/could + have + past participle to talk about the past consequences of a hypothetical, different past."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "3. Mixed conditionals"
+                    ],
+                    "paragraphContents": [
+                        "We can use a mixture of the second and third conditional by using if + past perfect + would/might/could + base form. This is used to imagine the present consequences of a hypothetical, different past."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "textImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - multiple choice",
+                    "exerciseInstruction": "Match the sentences (1–3) in Exercise A to the rules (a–c).",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": null,
+                            "exerciseQuestion": "Which sentence matches the first rule?",
+                            "exerciseMinAnswer": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseAnswers": "If there was less competition in the area, I think the business would be much more successful.",
+                            "LKUs": null,
+                            "sentenceAnswerOptions": [
+                                "If I hadn’t set up China Garden, I would have continued working in an office job that I hated for the rest of my life.",
+                                "If there was less competition in the area, I think the business would be much more successful.",
+                                "If they’d spent more money on promotion in the area, more people would know about the restaurant."
+                            ],
+                            "context": "textContents"
+                        },
+                        {
+                            "sentenceOrdinal": 2,
+                            "paragraphOrdinal": null,
+                            "exerciseQuestion": "Which sentence matches the second rule?",
+                            "exerciseMinAnswer": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseAnswers": "If I hadn’t set up China Garden, I would have continued working in an office job that I hated for the rest of my life.",
+                            "LKUs": null,
+                            "sentenceAnswerOptions": [
+                                "If I hadn’t set up China Garden, I would have continued working in an office job that I hated for the rest of my life.",
+                                "If there was less competition in the area, I think the business would be much more successful.",
+                                "If they’d spent more money on promotion in the area, more people would know about the restaurant."
+                            ],
+                            "context": "textContents"
+                        },
+                        {
+                            "sentenceOrdinal": 3,
+                            "paragraphOrdinal": null,
+                            "exerciseQuestion": "Which sentence matches the third rule?",
+                            "exerciseMinAnswer": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseAnswers": "If they’d spent more money on promotion in the area, more people would know about the restaurant.",
+                            "LKUs": null,
+                            "sentenceAnswerOptions": [
+                                "If I hadn’t set up China Garden, I would have continued working in an office job that I hated for the rest of my life.",
+                                "If there was less competition in the area, I think the business would be much more successful.",
+                                "If they’d spent more money on promotion in the area, more people would know about the restaurant."
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Unreal conditionals",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Grammar Hub on page 134.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Unreal conditionals",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "PRACTICE",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the verbs in parentheses. Use contractions where possible.",
+                    "wordBank": [
+                        "be(2x)",
+                        "call",
+                        "buy",
+                        "work",
+                        "meet"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "If I started a business, it would be in IT because I have a lot of ideas in that area."
+                                    ],
+                                    "blankedWords": [
+                                        "would",
+                                        "be"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "If I saw someone committing a crime, I wouldn't stop it myself because it’s too dangerous. I would call the police."
+                                    ],
+                                    "blankedWords": [
+                                        "would",
+                                        "call"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "If I had a lot of money, I would buy a sports car."
+                                    ],
+                                    "blankedWords": [
+                                        "would",
+                                        "buy"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I would be a lot happier now if I hadn’t dropped out of college."
+                                    ],
+                                    "blankedWords": [
+                                        "would",
+                                        "be"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I would work much harder if I was paid more."
+                                    ],
+                                    "blankedWords": [
+                                        "would",
+                                        "work"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "If I hadn’t taken my current job, I wouldn't have met my husband."
+                                    ],
+                                    "blankedWords": [
+                                        "wouldn't",
+                                        "met"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Unreal conditionals",
+            "sets": [
+                {
+                    "setMarker": "E",
+                    "setHeading": "SPEAK",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Change the sentences in Exercise D so they are true for you. Ask follow-up questions for more information.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

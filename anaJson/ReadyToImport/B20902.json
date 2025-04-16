@@ -1,0 +1,386 @@
+{
+    "sectionNumber": 9.2,
+    "sectionTitle": "Products",
+    "sectionObjective": "Conduct a survey about what influences our purchases / Design and present an ad campaign",
+    "GKU": "Language_Hub_B2_Unit9_Lesson_9_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "science; advertising"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "connected speech: determiners and quantifiers"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "determiners and quantifiers"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "topic sentences"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Determiners and quantifiers",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Work in pairs. Read the sentences. Which of the determiners or quantifiers in bold describe 100%, a large amount, a medium to small amount or 0%?",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "There's little evidence to support many of the health claims made about yogurt."
+                                    ],
+                                    "exerciseAnswers": "a medium to small amount",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "You need plenty of fruits and vegetables in your diet."
+                                    ],
+                                    "exerciseAnswers": "a large amount",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "It's not true that we need to drink several glasses of water a day."
+                                    ],
+                                    "exerciseAnswers": "a medium to small amount",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "There is no evidence to support that claim."
+                                    ],
+                                    "exerciseAnswers": "0%",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "All companies have to be careful with the wording of their ads."
+                                    ],
+                                    "exerciseAnswers": "100%",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Neither ad was particularly accurate."
+                                    ],
+                                    "exerciseAnswers": "0%",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "Every claim must be supported by evidence."
+                                    ],
+                                    "exerciseAnswers": "100%",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "There isn't really any evidence to support that claim."
+                                    ],
+                                    "exerciseAnswers": "0%",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 9,
+                                    "sentences": [
+                                        "None of those claims are based on real data."
+                                    ],
+                                    "exerciseAnswers": "0%",
+                                    "exerciseOptions": [
+                                        "100%",
+                                        "a large amount",
+                                        "a medium to small amount",
+                                        "0%"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Determiners and quantifiers",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Determiners and quantifiers",
+                    "paragraphSubtitles": [
+                        "few, much, many, a little, etc"
+                    ],
+                    "paragraphContents": [
+                        "We use many, few, a few, several, a large number of with countable nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "few, much, many, a little, etc"
+                    ],
+                    "paragraphContents": [
+                        "We use much, a little, little, a great deal of, a large amount of with uncountable nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "few, much, many, a little, etc"
+                    ],
+                    "paragraphContents": [
+                        "We use a lot of, lots of, plenty of, some and any with countable and uncountable nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "all, each and every"
+                    ],
+                    "paragraphContents": [
+                        "We use all with plural nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "all, each and every"
+                    ],
+                    "paragraphContents": [
+                        "We use each and every with singular nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 6,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "both, either and neither"
+                    ],
+                    "paragraphContents": [
+                        "We use both with plural nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 7,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "both, either and neither"
+                    ],
+                    "paragraphContents": [
+                        "We use either and neither with singular nouns."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 8,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "no, none and any"
+                    ],
+                    "paragraphContents": [
+                        "We use no + noun in positive sentences and any + noun in negative sentences."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 9,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": [
+                        "no, none and any"
+                    ],
+                    "paragraphContents": [
+                        "We use none in short answers, in positive sentences or with of + pronoun / countable nouns."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Choose the correct options to complete the rules.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "countable",
+                                "uncountable",
+                                "singular",
+                                "plural",
+                                "positive",
+                                "negative"
+                            ],
+                            "LKUs": null,
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Determiners and quantifiers",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Grammar Hub on page 138.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Determiners and quantifiers",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct option (a, b or c) to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Contrary to popular belief, ____ people make purchases based on online reviews."
+                                    ],
+                                    "exerciseAnswers": "few",
+                                    "exerciseOptions": [
+                                        "much",
+                                        "neither",
+                                        "few"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "It’s important that you include at least ____ vegetables in your diet if you want to stay healthy."
+                                    ],
+                                    "exerciseAnswers": "a few",
+                                    "exerciseOptions": [
+                                        "few",
+                                        "both",
+                                        "a few"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "____ food bloggers have become very important because they can influence food trends."
+                                    ],
+                                    "exerciseAnswers": "Plenty of",
+                                    "exerciseOptions": [
+                                        "Plenty of",
+                                        "Much",
+                                        "Every"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "____ food companies make health claims about their products to encourage consumers to buy them."
+                                    ],
+                                    "exerciseAnswers": "Both",
+                                    "exerciseOptions": [
+                                        "Both",
+                                        "Neither",
+                                        "Either"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

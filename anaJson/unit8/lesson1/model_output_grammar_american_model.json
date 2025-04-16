@@ -1,0 +1,257 @@
+{
+    "sectionNumber": 8.1,
+    "sectionTitle": "Myths and legends",
+    "sectionObjective": "Speculate about past events / Summarize a cultural story",
+    "GKU": "Language_Hub_B2_Unit8_Lesson_8_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "word families"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "decoding: similes and metaphors"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "thought groups"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "past modals of deduction"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Past modals of deduction",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Work in pairs. Look at the highlighted sentences in the article. Which sentence(s) mean …",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Many believed that the men must have been murdered."
+                                    ],
+                                    "exerciseAnswers": "it’s almost certain that something happened or is true.",
+                                    "exerciseOptions": [
+                                        "it’s almost certain that something happened or is true.",
+                                        "it’s possible that something happened or is true.",
+                                        "it’s impossible that something happened or is true."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Others suggested they might have been eaten by a sea monster or could even have been carried away by a ghost ship in the night."
+                                    ],
+                                    "exerciseAnswers": "it’s possible that something happened or is true.",
+                                    "exerciseOptions": [
+                                        "it’s almost certain that something happened or is true.",
+                                        "it’s possible that something happened or is true.",
+                                        "it’s impossible that something happened or is true."
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "However, the hikers can’t have been murdered or attacked by animals because there were no signs of a fight."
+                                    ],
+                                    "exerciseAnswers": "it’s impossible that something happened or is true.",
+                                    "exerciseOptions": [
+                                        "it’s almost certain that something happened or is true.",
+                                        "it’s possible that something happened or is true.",
+                                        "it’s impossible that something happened or is true."
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Past modals of deduction",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphTitle": "Past modals of deduction",
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use modals of deduction to make guesses about what happened in the past."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use must + have + past participle to say we're sure something happened because there's strong evidence."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use may / might / could + have + past participle to say we think something is possible, but we aren't sure."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphTitle": null,
+                    "paragraphSubtitles": null,
+                    "paragraphContents": [
+                        "We use can't + have + past participle to say we're sure something didn't happen because there's strong evidence."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "WORK IT OUT",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "word bank",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the words in parentheses.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "must",
+                                "may",
+                                "can't"
+                            ],
+                            "LKUs": null,
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Past modals of deduction",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Go to the Grammar Hub on page 136.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Past modals of deduction",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Read the situations (1-3) and discuss what you think happened using past modals of deduction.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "GRAMMAR",
+            "partImage": "",
+            "partSubTitle": "Past modals of deduction",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "They’re more than an hour late. They _____ gotten lost."
+                                    ],
+                                    "exerciseAnswers": "must have",
+                                    "exerciseOptions": [
+                                        "must have",
+                                        "can’t have"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Patrick _____ gone to the opera. He hates classical music!"
+                                    ],
+                                    "exerciseAnswers": "can’t have",
+                                    "exerciseOptions": [
+                                        "can’t have",
+                                        "could have"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "You passed! You _____ been so happy when you heard the results!"
+                                    ],
+                                    "exerciseAnswers": "must have",
+                                    "exerciseOptions": [
+                                        "might have",
+                                        "must have"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "It _____ been food poisoning. Nobody else who ate the fish got sick."
+                                    ],
+                                    "exerciseAnswers": "can’t have",
+                                    "exerciseOptions": [
+                                        "must have",
+                                        "can’t have"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}
