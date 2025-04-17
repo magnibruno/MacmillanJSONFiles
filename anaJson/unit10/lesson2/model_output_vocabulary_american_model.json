@@ -1,0 +1,179 @@
+{
+    "sectionNumber": 10.2,
+    "sectionTitle": "Digital media",
+    "sectionObjective": "Report a conversation / Plan and create a viral marketing ad",
+    "GKU": "Language_Hub_B2_Unit10_Lesson_10_2",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "Reporting verbs"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "Social media; adjective + noun collocations"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "Using intonation to attract and keep interest"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "substitution"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Social media",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Look at the pictures (1–3). What do they have in common? Have you done any of these things?",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Social media",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the definitions with the correct form of the words in the word bank.",
+                    "wordBank": [
+                        "viral",
+                        "campaign",
+                        "trending",
+                        "reach",
+                        "follower",
+                        "hashtag",
+                        "influencer"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "When something goes viral, it becomes very popular and spreads quickly, especially on the internet."
+                                    ],
+                                    "blankedWords": [
+                                        "viral"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "A campaign is a series of organized activities designed to achieve a particular social, commercial or political result."
+                                    ],
+                                    "blankedWords": [
+                                        "campaign"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "When something is trending, it is frequently being mentioned or discussed on the internet, particularly on social media platforms."
+                                    ],
+                                    "blankedWords": [
+                                        "trending"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "To reach people with a message or program means they see or hear it."
+                                    ],
+                                    "blankedWords": [
+                                        "reach"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "A follower is someone who chooses to receive updates and messages from another person on a social media platform."
+                                    ],
+                                    "blankedWords": [
+                                        "follower"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "A hashtag is a symbol used on social media to describe the general subject of a post."
+                                    ],
+                                    "blankedWords": [
+                                        "hashtag"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "An influencer is someone who changes the way people behave, especially through social media."
+                                    ],
+                                    "blankedWords": [
+                                        "influencer"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Adjective + noun collocations",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the numbers (1–6) with the letters (a–f ) to form adjective + noun collocations.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "The number of online …",
+                                "There has been a positive …",
+                                "One key …",
+                                "Hashtags are a great way to raise public …",
+                                "Using Twitter allows us to reach a wider …",
+                                "The company has made a substantial …"
+                            ],
+                            "columnB": [
+                                "comments posted is a good measure of success.",
+                                "reaction both online and in print media.",
+                                "factor was the use of social media influencers.",
+                                "awareness of a new campaign.",
+                                "audience than through other social media platforms.",
+                                "donation to the campaign."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

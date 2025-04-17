@@ -1,0 +1,405 @@
+{
+    "sectionNumber": 1.2,
+    "sectionTitle": "Who we are",
+    "sectionObjective": "Compare, contrast and summarize short biographies / Talk about people that have influenced you",
+    "GKU": "Language_Hub_B2_Unit1_Lesson1_2",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "tense review"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "personality adjectives; noun suffixes"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "listening for the main ideas"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "connected speech: final consonant and initial vowel"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Personality adjectives",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Complete the extracts with the personality adjectives in the box.",
+                    "wordBank": [
+                        "arrogant",
+                        "down-to-earth",
+                        "easy-going",
+                        "loyal",
+                        "open-minded",
+                        "self-centered",
+                        "stubborn",
+                        "witty"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences":[
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "We all need a loyal friend. Someone who will support us no matter what happens."
+                                    ],
+                                    "blankedWords": [
+                                        "loyal"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "This person is an open-minded adventurer. They always force us into new and different situations."
+                                    ],
+                                    "blankedWords": [
+                                        "open-minded"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "They are easy-going and open to new ideas, cultures and activities. None of these things stress them out."
+                                    ],
+                                    "blankedWords": [
+                                        "easy-going"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "No, these people aren’t arrogant. They just have a lot of self-belief."
+                                    ],
+                                    "blankedWords": [
+                                        "arrogant"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "They’ll tell you when you’re being self-centered and should think about others more."
+                                    ],
+                                    "blankedWords": [
+                                        "self-centered"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Or they’ll tell you you are being stubborn and need to be more flexible."
+                                    ],
+                                    "blankedWords": [
+                                        "stubborn"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "She’s very down-to-earth. She just does everything in this very sensible, practical way. I guess she is a helpful person to have around!"
+                                    ],
+                                    "blankedWords": [
+                                        "down-to-earth"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "Having no witty people to have a laugh with would make work very boring."
+                                    ],
+                                    "blankedWords": [
+                                        "witty"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Personality adjectives",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "My neighbor is really ____. He’s always willing to consider new ideas or opinions."
+                                    ],
+                                    "exerciseAnswers": "these days",
+                                    "exerciseOptions": [
+                                        "easy-going",
+                                        "open-minded"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "In a difficult situation, she stays calm. She’s so ____ and knows exactly what to do."
+                                    ],
+                                    "exerciseAnswers": "currently",
+                                    "exerciseOptions": [
+                                        "loyal",
+                                        "down-to-earth"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "She never gets stressed. She’s so ____."
+                                    ],
+                                    "exerciseAnswers": "at the moment",
+                                    "exerciseOptions": [
+                                        "easy-going",
+                                        "witty"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I find her really ____. It’s like she thinks she is better than everyone."
+                                    ],
+                                    "exerciseAnswers": "at the moment",
+                                    "exerciseOptions": [
+                                        "arrogant",
+                                        "self-centered"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Even when I’ve done stupid things, she has always been ____ and supported me."
+                                    ],
+                                    "exerciseAnswers": "at the moment",
+                                    "exerciseOptions": [
+                                        "loyal",
+                                        "down-to-earth"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "There’s no point arguing with him. He’s just so ____ and won’t change his mind."
+                                    ],
+                                    "exerciseAnswers": "at the moment",
+                                    "exerciseOptions": [
+                                        "stubborn",
+                                        "arrogant"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "I think she’s really ____ actually. She’s always making relevant jokes."
+                                    ],
+                                    "exerciseAnswers": "at the moment",
+                                    "exerciseOptions": [
+                                        "easy-going",
+                                        "witty"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "Stop being so ____. Try to think about other people for once!"
+                                    ],
+                                    "exerciseAnswers": "at the moment",
+                                    "exerciseOptions": [
+                                        "self-centered",
+                                        "stubborn"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Personality adjectives",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 143",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Personality adjectives",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Complete the personality quiz.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Personality adjectives",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the personality adjectives (1–8) with the definitions (a–h).",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "passionate",
+                                "optimistic",
+                                "pessimistic",
+                                "ambitious",
+                                "sensitive",
+                                "naive",
+                                "determined",
+                                "flexible"
+                            ],
+                            "columnB": [
+                                "showing or expressing strong beliefs, interest or enthusiasm",
+                                "being hopeful about the future and expecting that good things will happen",
+                                "thinking that the worst thing will happen in every situation",
+                                "wanting to be successful, rich, famous, etc",
+                                "likely to become upset quickly",
+                                "lacking experience in life and too ready to trust or believe in others",
+                                "not willing to let anything prevent you from doing what you have decided to do",
+                                "able to make changes or deal with a situation that is changing"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Noun suffixes",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "",
+                    "wordBank": [
+                        "determined",
+                        "loyal",
+                        "optimistic",
+                        "responsible",
+                        "arrogant",
+                        "confident"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I think what I value most in a friend is loyalty."
+                                    ],
+                                    "blankedWords": [
+                                        "loyalty"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Optimism is a great quality for a close friend to have."
+                                    ],
+                                    "blankedWords": [
+                                        "Optimism"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Her determination to succeed had a great influence on me."
+                                    ],
+                                    "blankedWords": [
+                                        "determination"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Frankly, I was amazed by his arrogance."
+                                    ],
+                                    "blankedWords": [
+                                        "arrogance"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "She took responsibility for her actions."
+                                    ],
+                                    "blankedWords": [
+                                        "responsibility"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "He always gave me the confidence to try new things."
+                                    ],
+                                    "blankedWords": [
+                                        "confidence"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

@@ -1,0 +1,344 @@
+{
+    "sectionNumber": 3.1,
+    "sectionTitle": "Staying alive",
+    "sectionObjective": "Create a collaborative story /Tell a personal anecdote",
+    "GKU": "Language_Hub_B2_Unit3_Lesson3_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "descriptive verbs"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "dramatic storytelling techniques"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "following the sequence of a narrative"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "narrative tenses"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Descriptive verbs",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Work in pairs. For each extract, choose the option that makes the same sound as the verb in bold.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I can still remember the snow (crunching) under our feet as we walked together."
+                                    ],
+                                    "exerciseAnswers": "old leaves under your feet",
+                                    "exerciseOptions": [
+                                        "old leaves under your feet",
+                                        "your feet in an empty hospital hallway"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Sometimes the wood (groans) under your weight, which can be a little scary, but so far none have ever actually broken!"
+                                    ],
+                                    "exerciseAnswers": "floorboards under your feet",
+                                    "exerciseOptions": [
+                                        "grass under your feet",
+                                        "floorboards under your feet"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "I am terrified of snakes, so I just froze as it started to (hiss) and arch backwards."
+                                    ],
+                                    "exerciseAnswers": "air slowly escaping from a tire",
+                                    "exerciseOptions": [
+                                        "the wind closing a door",
+                                        "air slowly escaping from a tire"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "It can be silent for just a few minutes and all you can hear is water (trickling) around you."
+                                    ],
+                                    "exerciseAnswers": "a slow-running tap",
+                                    "exerciseOptions": [
+                                        "a slow-running tap",
+                                        "a large, powerful river"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I can still hear my ankle (snap) as I landed."
+                                    ],
+                                    "exerciseAnswers": "a branch breaking",
+                                    "exerciseOptions": [
+                                        "a branch breaking",
+                                        "a window breaking"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Descriptive verbs",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the verbs in the word bank.",
+                    "wordBank": [
+                        "crunch",
+                        "groan",
+                        "hiss",
+                        "trickle",
+                        "snap"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "The snake hissed and slithered back into the undergrowth."
+                                    ],
+                                    "blankedWords": [
+                                        "hissed"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "The leaves were crunching under our feet as we crept slowly through the forest."
+                                    ],
+                                    "blankedWords": [
+                                        "crunching"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I could hear the branch of the tree groaning under my weight before it snapped and I fell to the ground."
+                                    ],
+                                    "blankedWords": [
+                                        "groaning",
+                                        "snapped"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Every time it rained, I could hear water trickling down the wall behind my bed."
+                                    ],
+                                    "blankedWords": [
+                                        "trickling"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Descriptive verbs",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 144.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Descriptive verbs",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Use descriptive verbs to make this story more interesting.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Descriptive verbs",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_001",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        "It was pouring rain and thunder rumble in the distance."
+                    ],
+                    "paragraphContents": [
+                        "Helia can draw."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_002",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "The tires screeched as she tried to stop the car in time."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_003",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "The floorboards creaked under his weight as he tried to tiptoe down the stairs."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_004",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "They sat around the crackling fire, wondering what to do next."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_005",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "He stormed out of the room, slamming the door behind him."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 6,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_006",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "Shining his flashlight through the chain link fence, Todd was greeted by an angry growling dog."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 7,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_007",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "The figure smashed the window and reached inside."
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 8,
+                    "paragraphImage": "LH_TAT5_AW_U3.1_008",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "The fan was whirring in the corner of the room."
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Complete the sentences with the verbs in the box.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "screeched",
+                                "creaked",
+                                "crackling",
+                                "slamming",
+                                "growling",
+                                "smashed",
+                                "whirring"
+                            ],
+                            "LKUs": [
+                                "screech",
+                                "creak",
+                                "crackle",
+                                "slam",
+                                "growl",
+                                "smash",
+                                "whir"
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

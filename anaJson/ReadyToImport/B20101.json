@@ -1,0 +1,331 @@
+{
+    "sectionNumber": 1.1,
+    "sectionTitle": "Personality",
+    "sectionObjective": "Talk about reactions and feelings / Design and present a meet-up group",
+    "GKU": "Language_Hub_B2_Unit1_Lesson1_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "feelings"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intonation in yes/no and wh- questions"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "skimming for the main ideas"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "question forms"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Feelings",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Scan the article again. Complete the definitions with the adjectives in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "relieved",
+                                "tense",
+                                "awkward",
+                                "devastated",
+                                "horrified",
+                                "thrilled",
+                                "impressed",
+                                "frustrated"
+                            ],
+                            "columnB": [
+                                "feeling happy because something bad has stopped or hasn't happened",
+                                "feeling nervous, worried and not able to relax because of what might happen",
+                                "feeling embarrassed and not relaxed",
+                                "feeling very shocked and upset",
+                                "feeling very shocked or frightened",
+                                "feeling very happy and excited",
+                                "feeling admiration for someone because of an unusually good achievement, quality or skill",
+                                "feeling annoyed or impatient because you can't do or achieve what you want"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Feelings",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Complete the sentences with adjectives in the word bank.",
+                    "wordBank": [
+                        "relieved",
+                        "tense",
+                        "awkward",
+                        "devastated",
+                        "horrified",
+                        "thrilled",
+                        "impressed",
+                        "frustrated"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences":[
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I felt a little awkward at first because I wasn't wearing a suit like everybody else."
+                                    ],
+                                    "blankedWords": [
+                                        "awkward"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I was just really frustrated because the police wouldn't let me help."
+                                    ],
+                                    "blankedWords": [
+                                        "frustrated"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "It'd been a horrible flight and I was pretty relieved when the plane finally landed."
+                                    ],
+                                    "blankedWords": [
+                                        "relieved"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Firefighter Mark Cox was thrilled to receive an award for bravery after the incident."
+                                    ],
+                                    "blankedWords": [
+                                        "thrilled"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "You couldn't help but be impressed by how quickly he reacted to the danger."
+                                    ],
+                                    "blankedWords": [
+                                        "impressed"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "The crowd grew tense as they waited to see if firefighters would reach the child in time."
+                                    ],
+                                    "blankedWords": [
+                                        "tense"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "I was devastated to hear that my grandmother had died because we were very close."
+                                    ],
+                                    "blankedWords": [
+                                        "devastated"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "We were all horrified as the elevator fell 15 floors toward the ground."
+                                    ],
+                                    "blankedWords": [
+                                        "horrified"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Feelings",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 142.",
+                    "exercises": []
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Feelings",
+            "textMode": "full article",
+            "textContents": [
+                {
+                    "paragraphOrdinal": 1,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_002",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "awkward"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 2,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_006",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "devastated"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 3,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_003",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "disgusted"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 4,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_005",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "frustrated"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 5,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_001",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "furious"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 6,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_004",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "overwhelmed"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 7,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_008",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "relieved"
+                    ]
+                },
+                {
+                    "paragraphOrdinal": 8,
+                    "paragraphImage": "LH_TAT5_AW_U1.1_007",
+                    "paragraphTitle": "",
+                    "paragraphSubtitles": [
+                        ""
+                    ],
+                    "paragraphContents": [
+                        "stunned"
+                    ]
+                }
+            ],
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "RC - word bank",
+                    "exerciseInstruction": "Label the pictures (1–8) with the adjectives in the box.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "paragraphOrdinal": 1,
+                            "exerciseQuestion": null,
+                            "exerciseMaxAnswer": null,
+                            "exerciseMinAnswer": null,
+                            "sentenceAnswerOptions": [
+                                "relieved",
+                                "disgusted",
+                                "awkward",
+                                "devastated",
+                                "furious",
+                                "overwhelmed",
+                                "stunned",
+                                "frustrated"
+                            ],
+                            "LKUs": [
+                                "relieved",
+                                "disgusted",
+                                "awkward",
+                                "devastated",
+                                "furious",
+                                "overwhelmed",
+                                "stunned",
+                                "frustrated"
+                            ],
+                            "context": "textContents"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

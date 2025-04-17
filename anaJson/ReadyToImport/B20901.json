@@ -1,0 +1,191 @@
+{
+    "sectionNumber": 9.1,
+    "sectionTitle": "Customers",
+    "sectionObjective": "Talk about the risks and benefits of apps / Make an effective complaint about a product or service",
+    "GKU": "Language_Hub_B2_Unit9_Lesson_9_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "dependent prepositions: verbs"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "adjective clauses"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "pitch on non-essential adjective clauses"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "fronting"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Dependent prepositions: verbs",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the words in the word bank.",
+                    "wordBank": [
+                        "about (x2)",
+                        "for (x2)",
+                        "on",
+                        "to (x2)",
+                        "with"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Thank you for holding; we appreciate your call."
+                                    ],
+                                    "blankedWords": [
+                                        "for"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I'm calling to complain about the condition of the books I received."
+                                    ],
+                                    "blankedWords": [
+                                        "about"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "I understand that, but at no point did I consent to the books being left somewhere they could get damaged!"
+                                    ],
+                                    "blankedWords": [
+                                        "to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I understand that, but I really must insist on a full refund."
+                                    ],
+                                    "blankedWords": [
+                                        "on"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I’m afraid that since we have adhered to your delivery instructions, the most I’d be able to offer is $10 off your next purchase."
+                                    ],
+                                    "blankedWords": [
+                                        "to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Look, I don’t want to argue about this anymore!"
+                                    ],
+                                    "blankedWords": [
+                                        "about"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "24 hours? Why can’t this be dealt with right now?"
+                                    ],
+                                    "blankedWords": [
+                                        "with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "I can only apologize for any inconvenience caused."
+                                    ],
+                                    "blankedWords": [
+                                        "for"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Dependent prepositions: verbs",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "Rewrite",
+                    "exerciseInstruction": "Rewrite the incorrect sentences.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "sentences": [
+                                "You should have complained at having to wait so long to be served."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "You should have complained about having to wait so long to be served."
+                        },
+                        {
+                            "sentenceOrdinal": 2,
+                            "sentences": [
+                                "I realize you’ve adhered in company policy, but I’m still not satisfied."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I realize you’ve adhered to company policy, but I’m still not satisfied."
+                        },
+                        {
+                            "sentenceOrdinal": 3,
+                            "sentences": [
+                                "Gary, can you help me? There’s a customer downstairs who keeps insisting at speaking to the manager."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "Gary, can you help me? There’s a customer downstairs who keeps insisting on speaking to the manager."
+                        },
+                        {
+                            "sentenceOrdinal": 4,
+                            "sentences": [
+                                "Look, we’ve been arguing on this for the past 45 minutes. Either issue a refund or let me speak to your manager."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "Look, we’ve been arguing about this for the past 45 minutes. Either issue a refund or let me speak to your manager."
+                        },
+                        {
+                            "sentenceOrdinal": 5,
+                            "sentences": [
+                                "When you completed the purchase online, you consented with our terms and conditions."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "When you completed the purchase online, you consented to our terms and conditions."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

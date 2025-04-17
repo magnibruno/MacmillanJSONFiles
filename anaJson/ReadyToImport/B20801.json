@@ -1,0 +1,123 @@
+{
+    "sectionNumber": 8.1,
+    "sectionTitle": "Myths and legends",
+    "sectionObjective": "Speculate about past events / Summarize a cultural story",
+    "GKU": "Language_Hub_B2_Unit8_Lesson_8_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "word families"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "decoding: similes and metaphors"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "thought groups"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "past modals of deduction"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Word families",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Complete the word families in the table. Use the information in the box to help you.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Word families",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "wordBank": [
+                        "myth",
+                        "hero",
+                        "represent",
+                        "tradition",
+                        "transform"
+                    ],
+                    "exerciseInstruction": "Complete the sentences with the correct form of the words in the word bank.",
+                    "exercises": [
+                        {
+                            "exerciseSentences":[
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "The minotaur is a mythical creature with the head of a bull and the body of a man."
+                                    ],
+                                    "blankedWords": [
+                                        "mythical"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "The main character usually heroically saves a princess or someone else in distress."
+                                    ],
+                                    "blankedWords": [
+                                        "heroically"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Snakes are frequently used to represent danger."
+                                    ],
+                                    "blankedWords": [
+                                        "represent"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Traditionally, stories were told and not written down so there are frequently variations of a legend."
+                                    ],
+                                    "blankedWords": [
+                                        "Traditionally"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Many stories frequently include the transformation of a person into some kind of monster."
+                                    ],
+                                    "blankedWords": [
+                                        "transformation"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

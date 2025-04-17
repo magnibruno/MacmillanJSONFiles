@@ -1,0 +1,318 @@
+{
+    "sectionNumber": 8.2,
+    "sectionTitle": "Who did it?",
+    "sectionObjective": "Write and perform a short scene / Speculate about the causes and consequences of a crime",
+    "GKU": "Language_Hub_B2_Unit8_Lesson_8_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "easily confused verbs; crime"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "adding information"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "order of adjectives"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "following an argument"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Easily confused verbs",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options to complete the sentences. Then scan the story again to check your answers.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "____ his reaction, Alice ____ her father’s arm and asked …"
+                                    ],
+                                    "exerciseAnswers": "Seeing, touched",
+                                    "exerciseOptions": [
+                                        "Seeing, touched",
+                                        "Watching, felt"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "For two long minutes they waited, patiently ____ the sky until suddenly, …"
+                                    ],
+                                    "exerciseAnswers": "watching",
+                                    "exerciseOptions": [
+                                        "watching",
+                                        "seeing"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "… the figure calmly smashed the window, ____ for the handle and climbed inside."
+                                    ],
+                                    "exerciseAnswers": "felt",
+                                    "exerciseOptions": [
+                                        "touched",
+                                        "felt"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "… they ____ the professor’s voice ringing through the hallway outside."
+                                    ],
+                                    "exerciseAnswers": "heard",
+                                    "exerciseOptions": [
+                                        "heard",
+                                        "listened"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "‘Tommy? Is that you?’ he called, ____ into the darkness."
+                                    ],
+                                    "exerciseAnswers": "looking",
+                                    "exerciseOptions": [
+                                        "seeing",
+                                        "looking"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "He ____ for a reply but there was nothing but silence."
+                                    ],
+                                    "exerciseAnswers": "listened",
+                                    "exerciseOptions": [
+                                        "listened",
+                                        "heard"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Easily confused verbs",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the words in Exercise A.",
+                    "wordBank": [
+                        "listen",
+                        "feel",
+                        "watch",
+                        "hear",
+                        "look",
+                        "see",
+                        "touch"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Standing inside the room, he listened carefully to what they were saying outside."
+                                    ],
+                                    "blankedWords": [
+                                        "listened"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "He felt along the wall until he found the light switch."
+                                    ],
+                                    "blankedWords": [
+                                        "felt"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "He sat watching them to see what they would do."
+                                    ],
+                                    "blankedWords": [
+                                        "watching"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Hearing the news, she rushed quickly to tell the others"
+                                    ],
+                                    "blankedWords": [
+                                        "Hearing"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "He looked in the direction of the safe and saw that the picture had been moved."
+                                    ],
+                                    "blankedWords": [
+                                        "looked"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "As he entered the room, he saw that the window had been smashed."
+                                    ],
+                                    "blankedWords": [
+                                        "saw"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "He carefully touched the necklace before picking it up."
+                                    ],
+                                    "blankedWords": [
+                                        "touched"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Easily confused verbs",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Discuss the questions.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Crime",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in groups. Look at the pictures and discuss the questions.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Crime",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Complete the definitions with the correct form of the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "burglary",
+                                "bribe",
+                                "identity theft",
+                                "robbery",
+                                "fraud",
+                                "blackmail"
+                            ],
+                            "columnB": [
+                                "(n) when someone illegally enters a building and steals things",
+                                "(v) to give money or presents to someone so that they will help you",
+                                "(n) the illegal use of somebody else’s name and personal information to obtain goods, credit cards, etc.",
+                                "(n) the crime of taking money or property illegally by using threats or violence",
+                                "(n) the crime of obtaining money from someone by tricking them",
+                                "(v) to make someone give you money or do what you want by threatening to reveal compromising information about them"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Crime",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 146.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Crime",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. What do you think is the most effective way to catch the criminal in each example? Think about:",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

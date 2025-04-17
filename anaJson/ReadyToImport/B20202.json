@@ -1,0 +1,256 @@
+{
+    "sectionNumber": 2.2,
+    "sectionTitle": "Change",
+    "sectionObjective": "Conduct an interview about lifestlye changes / Debate the impact of smartphones",
+    "GKU": "Language_Hub_B2_Unit2_Lesson2_2",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "used to, would, get used to, be used to"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "adverbs of stance; adverb + adjective collocations"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying assumptions"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "catenation: used to"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Adverbs of stance",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Scan the article again. Complete the definitions with the adverbs in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "Admittedly",
+                                "Sadly",
+                                "Frankly",
+                                "Naturally",
+                                "Undoubtedly",
+                                "Simply",
+                                "Apparently",
+                                "Merely"
+                            ],
+                            "columnB": [
+                                "used to say that something is true even though it may weaken your argument",
+                                "used to show that you think something is bad or wrong",
+                                "used to emphasize that you are about to give your honest opinion, even though the person you are talking to might not like it",
+                                "in the way that you would expect",
+                                "used to say that something is certainly true or is accepted by everyone",
+                                "used to emphasize that you are saying something in a plain and straightforward way",
+                                "based only on what you have heard, not on what you are certain is true",
+                                "used to emphasize that something is small or unimportant"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Adverbs of stance",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct options to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "____, all new developments come with both advantages and disadvantages."
+                                    ],
+                                    "exerciseAnswers": "Naturally",
+                                    "exerciseOptions": [
+                                        "Naturally",
+                                        "Sadly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "____, I see less of my friends in person now."
+                                    ],
+                                    "exerciseAnswers": "Admittedly",
+                                    "exerciseOptions": [
+                                        "Merely",
+                                        "Admittedly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "____, we have a weaker sense of community than we used to, but I’m not sure I agree."
+                                    ],
+                                    "exerciseAnswers": "Apparently",
+                                    "exerciseOptions": [
+                                        "Frankly",
+                                        "Apparently"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Social media is ____ another method of communication."
+                                    ],
+                                    "exerciseAnswers": "merely",
+                                    "exerciseOptions": [
+                                        "merely",
+                                        "apparently"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "____, I think social media enhances relationships."
+                                    ],
+                                    "exerciseAnswers": "Frankly",
+                                    "exerciseOptions": [
+                                        "Simply",
+                                        "Frankly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "The internet has ____ enhanced many aspects of our lives. I don’t think anyone could question that."
+                                    ],
+                                    "exerciseAnswers": "undoubtedly",
+                                    "exerciseOptions": [
+                                        "undoubtedly",
+                                        "apparently"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "I think many people regret the breakdown of communities. ____, many communities are not as close as they once were."
+                                    ],
+                                    "exerciseAnswers": "Sadly",
+                                    "exerciseOptions": [
+                                        "Sadly",
+                                        "Naturally"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "It’s very ____ the best solution to the problem."
+                                    ],
+                                    "exerciseAnswers": "simply",
+                                    "exerciseOptions": [
+                                        "simply",
+                                        "merely"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Adverb + adjective collocations",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the adverbs in the box.",
+                    "wordBank": [
+                        "absolutely",
+                        "bitterly",
+                        "deeply",
+                        "highly",
+                        "ridiculously"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "It is highly likely that more and more of our relationships will be conducted using phones."
+                                    ],
+                                    "blankedWords": [
+                                        "highly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "It is absolutely ridiculous to say that smartphones have been negative for relationships."
+                                    ],
+                                    "blankedWords": [
+                                        "absolutely"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "I think society should be deeply concerned about the negative impact of smartphones."
+                                    ],
+                                    "blankedWords": [
+                                        "deeply"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Smartphones make it ridiculously easy to stay in touch with people."
+                                    ],
+                                    "blankedWords": [
+                                        "ridiculously"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I was bitterly disappointed when my friend started checking her phone during dinner."
+                                    ],
+                                    "blankedWords": [
+                                        "bitterly"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

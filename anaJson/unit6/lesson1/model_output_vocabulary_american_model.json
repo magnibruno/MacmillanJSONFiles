@@ -1,0 +1,102 @@
+{
+    "sectionNumber": 6.1,
+    "sectionTitle": "The right method?",
+    "sectionObjective": "Discuss rules in education / Talk about changes to education in your country",
+    "GKU": "Language_Hub_B2_Unit6_Lesson_6_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "obligation, prohibition and permission"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "education"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intonation to show interest"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "pronoun referencing"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Education",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Look at the infographic. Complete the definitions with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "private school",
+                                "compulsory",
+                                "state school",
+                                "curriculum",
+                                "boarding school",
+                                "higher education"
+                            ],
+                            "columnB": [
+                                "(n) a school that you pay money to attend",
+                                "(adj) something that must be done because of rules or laws",
+                                "(n) a school that is free because it is funded by the government",
+                                "(n) the subjects studied in a school, college, etc.",
+                                "(n) a school where students also live full-time",
+                                "(n) education at a university or at a college of a similar level"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Education",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go the Vocabulary Hub on page 145.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Education",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in groups. Discuss the questions.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

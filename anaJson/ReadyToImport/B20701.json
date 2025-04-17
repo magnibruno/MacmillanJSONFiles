@@ -1,0 +1,171 @@
+{
+    "sectionNumber": 7.1,
+    "sectionTitle": "Open spaces",
+    "sectionObjective": "Discuss community development projects",
+    "GKU": "Language_Hub_B2_Unit7_Lesson_7_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "first conditional with different future forms; unreal conditionals"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "verbs to describe change"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "connected speech in conditionals"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying speculation"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Verbs to describe change",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the verbs (1–6) to the nouns (a–f) to make phrases.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "transform",
+                                "relocate",
+                                "convert",
+                                "demolish",
+                                "restore",
+                                "extend",
+                                "construct"
+                            ],
+                            "columnB": [
+                                "to change something completely",
+                                "to move to another place",
+                                "to change the use of something",
+                                "to knock down or destroy",
+                                "to repair something so that it looks the same as it did originally",
+                                "to make longer or bigger",
+                                "to build or make something like a building, road or machine"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Verbs to describe change",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the questions with the correct form of the verbs in Exercise A.",
+                    "wordBank": [
+                        "transform",
+                        "relocate",
+                        "convert",
+                        "restore",
+                        "extend",
+                        "construct"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Do you think it’s better to restore old buildings or them to make way for new ones?"
+                                    ],
+                                    "blankedWords": [
+                                        "restore"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "What is one change that would completely transform your hometown for the better?"
+                                    ],
+                                    "blankedWords": [
+                                        "transform"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Your hometown wants to construct a new road through a local park. How would you feel?"
+                                    ],
+                                    "blankedWords": [
+                                        "construct"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "What could old unused Main Street stores be converted into now that most people shop online?"
+                                    ],
+                                    "blankedWords": [
+                                        "converted"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Why do you think so many stores relocate from the main street to out-of-town shopping malls?"
+                                    ],
+                                    "blankedWords": [
+                                        "relocate"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Do you think it is better to extend public transportation to all parts of a city or to encourage more bike riding?"
+                                    ],
+                                    "blankedWords": [
+                                        "extend"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Verbs to describe change",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Discuss the questions in Exercise B.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

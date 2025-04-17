@@ -1,0 +1,349 @@
+{
+    "sectionNumber": 5.2,
+    "sectionTitle": "Changing places",
+    "sectionObjective": "Talk about changes in your town or city / Evaluate candidates and put together a team",
+    "GKU": "Language_Hub_B2_Unit5_Lesson5_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "describing areas of a city; prefixes"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "words that lose a syllable"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "ing and infinitive forms"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "listening for rhetorical questions"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Describing areas of a city",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Scan the article again. Complete the definitions with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "urban",
+                                "commercial",
+                                "suburbs",
+                                "residential",
+                                "industrial",
+                                "housing",
+                                "rural",
+                                "slums"
+                            ],
+                            "columnB": [
+                                "(adj) relating to towns and cities, or happening there",
+                                "(adj) relating to business",
+                                "(n) an area where people live that is outside the city",
+                                "(adj) relating to where people live rather than work",
+                                "(adj) relating to industry",
+                                "(n) buildings for people to live in",
+                                "(adj) relating to or in the country",
+                                "(n) a poor area of a town where the houses are in very bad condition"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Describing areas of a city",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Choose the correct options (a, b or c) to complete the sentences.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "sentences": [
+                                "Over half of the world's population live in ____ areas and this is expected to grow."
+                            ],
+                            "exerciseAnswers": "urban",
+                            "exerciseOptions": [
+                                "urban",
+                                "commercial",
+                                "slums"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 2,
+                            "sentences": [
+                                "Depopulation in ____ areas has led to even less work and fewer facilities."
+                            ],
+                            "exerciseAnswers": "rural",
+                            "exerciseOptions": [
+                                "commercial",
+                                "suburb",
+                                "rural"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 3,
+                            "sentences": [
+                                "The ____ area is home to some of the largest banks and financial companies in the world."
+                            ],
+                            "exerciseAnswers": "commercial",
+                            "exerciseOptions": [
+                                "industrial",
+                                "commercial",
+                                "residential"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 4,
+                            "sentences": [
+                                "When people have families, they frequently move to the ____ to have more space."
+                            ],
+                            "exerciseAnswers": "suburbs",
+                            "exerciseOptions": [
+                                "suburbs",
+                                "housing",
+                                "residential"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 5,
+                            "sentences": [
+                                "____ areas with good transportation connections are usually more expensive to live in."
+                            ],
+                            "exerciseAnswers": "Residential",
+                            "exerciseOptions": [
+                                "Slum",
+                                "Industrial",
+                                "Residential"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 6,
+                            "sentences": [
+                                "A lack of affordable ____ can lead to people living in poor conditions."
+                            ],
+                            "exerciseAnswers": "housing",
+                            "exerciseOptions": [
+                                "suburbs",
+                                "housing",
+                                "slums"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 7,
+                            "sentences": [
+                                "When traditionally ____ areas are in decline, many of the old factories are frequently converted to apartments."
+                            ],
+                            "exerciseAnswers": "industrial",
+                            "exerciseOptions": [
+                                "industrial",
+                                "commercial",
+                                "rural"
+                            ]
+                        },
+                        {
+                            "sentenceOrdinal": 8,
+                            "sentences": [
+                                "The biggest ____ in the world has over half a million people living in poor quality housing."
+                            ],
+                            "exerciseAnswers": "slum",
+                            "exerciseOptions": [
+                                "suburb",
+                                "slum",
+                                "urban"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Describing areas of a city",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Use the words in Exercise A to describe your city or a city you know well.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Prefixes",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Complete the words in bold with a prefix from the box.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "extra-",
+                                "il-",
+                                "over-",
+                                "re-",
+                                "sub-",
+                                "un-"
+                            ],
+                            "columnB": [
+                                "ordinary",
+                                "legal",
+                                "population",
+                                "developed",
+                                "urban",
+                                "happy"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Prefixes",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct prefix to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Levels of pollution were so high they needed to ____ the riv"
+                                    ],
+                                    "exerciseAnswers": "decontaminate",
+                                    "exerciseOptions": [
+                                        "decontaminate",
+                                        "uncontaminate"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "They were ____ from the race for cheating."
+                                    ],
+                                    "exerciseAnswers": "disqualified",
+                                    "exerciseOptions": [
+                                        "disqualified",
+                                        "unqualified"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "In order to improve travel times, they decided to ____ the subway system."
+                                    ],
+                                    "exerciseAnswers": "upgrade",
+                                    "exerciseOptions": [
+                                        "upgrade",
+                                        "downgrade"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "The solution was ____ to put into place."
+                                    ],
+                                    "exerciseAnswers": "impossible",
+                                    "exerciseOptions": [
+                                        "unpossible",
+                                        "impossible"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "The company ____ the community about the development."
+                                    ],
+                                    "exerciseAnswers": "misled",
+                                    "exerciseOptions": [
+                                        "misled",
+                                        "disled"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "People don’t use the train because they feel it is ____."
+                                    ],
+                                    "exerciseAnswers": "overpriced",
+                                    "exerciseOptions": [
+                                        "overpriced",
+                                        "underpriced"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "The cost of building new road networks was significantly ____."
+                                    ],
+                                    "exerciseAnswers": "underestimated",
+                                    "exerciseOptions": [
+                                        "underestimated",
+                                        "overestimated"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "The excellent infrastructure has allowed the city to ____ many similarly sized cities."
+                                    ],
+                                    "exerciseAnswers": "outperform",
+                                    "exerciseOptions": [
+                                        "overperform",
+                                        "outperform"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

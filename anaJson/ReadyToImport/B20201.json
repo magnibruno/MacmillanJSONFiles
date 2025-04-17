@@ -1,0 +1,187 @@
+{
+    "sectionNumber": 2.1,
+    "sectionTitle": "A full life",
+    "sectionObjective": "Talk about health and lifestyle choices / Plan and conduct a lifestyle survey",
+    "GKU": "Language_Hub_B2_Unit2_Lesson2_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "health and fitness"
+        },
+        {
+            "skillType": "L",
+            "skillName": "Listening",
+            "skillTitle": "listening for reasons"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "present perfect and present perfect progressive"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "connected speech: present perfect progressive"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Health and fitness",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Brainstorm a list of things that have positive or negative effects on our health.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Health and fitness",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Complete the definitions (a–f ) with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "obesity",
+                                "anxiety",
+                                "cholesterol",
+                                "depression",
+                                "calorie",
+                                "stress"
+                            ],
+                            "columnB": [
+                                "a condition in which someone is too fat in a way that is dangerous for their health",
+                                "the feeling of being very worried that something bad is going to happen",
+                                "a type of fat in the blood that can cause heart disease if you have too much",
+                                "a medical condition in which a person is so unhappy they cannot live a normal life",
+                                "a unit for measuring how much energy you get from food",
+                                "pressure or worry caused by problems in everyday life"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Health and fitness",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Complete the sentences with words from Exercise A.",
+                    "wordBank": [
+                        "obesity",
+                        "anxiety",
+                        "cholesterol",
+                        "depression",
+                        "calories",
+                        "stress"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I suffer a lot from depression in the winter. I'm much more positive in the summer months."
+                                    ],
+                                    "blankedWords": [
+                                        "depression"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Keeping your diet low in fatty foods can help lower cholesterol."
+                                    ],
+                                    "blankedWords": [
+                                        "cholesterol"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Nuts have more calories in them than you might think."
+                                    ],
+                                    "blankedWords": [
+                                        "calories"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Obesity is a huge problem in my country. Almost a quarter of the population is dangerously overweight."
+                                    ],
+                                    "blankedWords": [
+                                        "obesity"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Anxiety is one of my biggest issues. I worry so much about everything."
+                                    ],
+                                    "blankedWords": [
+                                        "Anxiety"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "I worry about my stress levels. I'm under too much pressure at work."
+                                    ],
+                                    "blankedWords": [
+                                        "stress"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Health and fitness",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 143",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

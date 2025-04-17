@@ -1,0 +1,199 @@
+{
+    "sectionNumber": 4.1,
+    "sectionTitle": "My future",
+    "sectionObjective": "Talk about future plans and goals / Make predictions about the future of work",
+    "GKU": "Language_Hub_B2_Unit4_Lesson4_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "Future forms"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "noun and prepositions collocations; nouns and verbs with the same spelling"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "nouns and verbs with the same spelling"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying evidence"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Noun + preposition collocations",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "Rewrite",
+                    "exerciseInstruction": "Correct the prepositions in each sentence.",
+                    "exercises": [
+                        {
+                            "sentenceOrdinal": 1,
+                            "sentences": [
+                                "Congratulations for passing the exam!"
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "Congratulations on passing the exam!"
+                        },
+                        {
+                            "sentenceOrdinal": 2,
+                            "sentences": [
+                                "I’m hoping to take a course for accounting."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I’m hoping to take a course in accounting."
+                        },
+                        {
+                            "sentenceOrdinal": 3,
+                            "sentences": [
+                                "I need to make more time of my family."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I need to make more time for my family."
+                        },
+                        {
+                            "sentenceOrdinal": 4,
+                            "sentences": [
+                                "We’re planning to visit a lot of places of Europe."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "We’re planning to visit a lot of places in Europe."
+                        },
+                        {
+                            "sentenceOrdinal": 5,
+                            "sentences": [
+                                "There’s the possibility to changing jobs next summer."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "There’s the possibility of changing jobs next summer."
+                        },
+                        {
+                            "sentenceOrdinal": 6,
+                            "sentences": [
+                                "I’m a little worried. There’s the risk for not getting into college."
+                            ],
+                            "blankedWords": [],
+                            "exerciseAnswers": "I’m a little worried. There’s the risk of not getting into college."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Nouns and verbs with the same spelling",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Scan the article again. Which of the words in bold (1-12) are nouns? Which are verbs?",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Noun + preposition collocations",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the words in the word bank.",
+                    "wordBank": [
+                        "benefit",
+                        "balance",
+                        "challenge",
+                        "influence",
+                        "control",
+                        "produce"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences":[
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "One of the benefits of robotics could be more free time for individuals."
+                                    ],
+                                    "blankedWords": [
+                                        "benefits"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "We need to balance the convenience of automation with the need for employment."
+                                    ],
+                                    "blankedWords": [
+                                        "balance"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "We should constantly challlenge companies that get away with paying lower taxes."
+                                    ],
+                                    "blankedWords": [
+                                        "challlenge"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "There's no doubt that technology has influenced the way in which all industries work."
+                                    ],
+                                    "blankedWords": [
+                                        "influenced"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Some people think that automation gives companies more control over workers."
+                                    ],
+                                    "blankedWords": [
+                                        "control"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Robots make it quicker and easier for companies to produce their products."
+                                    ],
+                                    "blankedWords": [
+                                        "produce"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

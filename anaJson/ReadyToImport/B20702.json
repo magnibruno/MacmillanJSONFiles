@@ -1,0 +1,284 @@
+{
+    "sectionNumber": 7.2,
+    "sectionTitle": "Make a change",
+    "sectionObjective": "Talk about wishes and regrets / Design and present a community project",
+    "GKU": "Language_Hub_B2_Unit7_Lesson_7_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "three-part phrasal verbs; compund nouns"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "two-stress phrasal verbs"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "inferring meaning"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "wish and if only"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Three-part phrasal verbs",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Complete the sentences with the correct form of the phrasal verbs in the box. Use the definitions in parentheses to help you. Then listen and check.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Well, obviously I (respect and admire) people like Mark Boyle. He’s achieved amazing things."
+                                    ],
+                                    "exerciseAnswers": "look up to",
+                                    "exerciseOptions": [
+                                        "come up with",
+                                        "come up against",
+                                        "look up to",
+                                        "get around to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Anyway, luckily, I (have a good relationship with someone) my neighbors and one of them is a professional decorator."
+                                    ],
+                                    "exerciseAnswers": "get along with",
+                                    "exerciseOptions": [
+                                        "get along with",
+                                        "come up with",
+                                        "come up against",
+                                        "get around to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Anyway, it turned out he was looking for an accountant, so we (think of) a plan to help us both."
+                                    ],
+                                    "exerciseAnswers": "come up with",
+                                    "exerciseOptions": [
+                                        "get along with",
+                                        "come up with",
+                                        "come up against",
+                                        "get around to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "So, I set up the Facebook group to give people somewhere to share their skills or give away things they don’t want anymore. It actually helps (reduce) waste as well."
+                                    ],
+                                    "exerciseAnswers": "cut down on",
+                                    "exerciseOptions": [
+                                        "get along with",
+                                        "cut down on",
+                                        "come up against",
+                                        "get around to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "We had a lot of great ideas that we’d never (to finally do something) working on because we rarely met"
+                                    ],
+                                    "exerciseAnswers": "get around to",
+                                    "exerciseOptions": [
+                                        "get along with",
+                                        "come up with",
+                                        "come up against",
+                                        "get around to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "It’s great because if you (to have to deal with something difficult) a problem, then you can usually find someone here to help."
+                                    ],
+                                    "exerciseAnswers": "come up against",
+                                    "exerciseOptions": [
+                                        "get along with",
+                                        "come up with",
+                                        "come up against",
+                                        "get around to"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Three-part phrasal verbs",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 146.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Three-part phrasal verbs",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the questions with the correct form of the phrasal verbs in the box.",
+                    "wordBank": [
+                        "get along with",
+                        "run out of",
+                        "come up against",
+                        "get around to",
+                        "keep up with",
+                        "look up to"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "What things do you regularly want to do but never get around to doing?"
+                                    ],
+                                    "blankedWords": [
+                                        "get around to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Do you think it’s important to get along with your neighbors?"
+                                    ],
+                                    "blankedWords": [
+                                        "get along with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Do you have a hero that you look up to?"
+                                    ],
+                                    "blankedWords": [
+                                        "look up to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "How do you keep up with local news and community events?"
+                                    ],
+                                    "blankedWords": [
+                                        "keep up with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "If you run out of gas when driving, what would you do?"
+                                    ],
+                                    "blankedWords": [
+                                        "run out of"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "If you come up against a difficult situation, who do you turn to for help?"
+                                    ],
+                                    "blankedWords": [
+                                        "come up against"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Three-part phrasal verbs",
+            "sets": [
+                {
+                    "setMarker": "D",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Discuss the questions in Exercise C.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Compound nouns",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the numbers (1–5) to the letters (a–e) to form compound nouns.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "We need more volunteer …",
+                                "I want to improve my Spanish, so I’ve joined a language …",
+                                "We set up a car-sharing …",
+                                "We have opened a food …",
+                                "Next week we have organized a street …"
+                            ],
+                            "columnB": [
+                                "workers to help run the youth club.",
+                                "exchange group.",
+                                "system to help reduce pollution and congestion.",
+                                "bank to distribute food to the poor.",
+                                "party in our neighborhood."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

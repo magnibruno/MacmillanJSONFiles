@@ -1,0 +1,310 @@
+{
+    "sectionNumber": 4.2,
+    "sectionTitle": "What will life be like?",
+    "sectionObjective": "Evaluate future predictions / Debate a range of transportation proposals",
+    "GKU": "Language_Hub_B2_Unit4_Lesson4_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "intensifiers"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intonation with intensifiers"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "future perfect, future progressive and future perfect progressive"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying agreement and disagreement"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Intensifiers",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Read the extracts from the discussion. Complete the definitions below with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "entirely",
+                                "firmly",
+                                "undoubtedly",
+                                "greatly",
+                                "widely",
+                                "especially",
+                                "significantly",
+                                "incredibly"
+                            ],
+                            "columnB": [
+                                "completely, or in every way",
+                                "strongly",
+                                "used for saying that something is certainly true or is accepted by everyone",
+                                "very much",
+                                "by a lot of people, or in a lot of places",
+                                "used when mentioning conditions that make something more relevant, important or true",
+                                "in a way that is relevant or that has an important effect on something",
+                                "extremely"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct intensifiers to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Many of these inventions seem ____ unlikely to happen."
+                                    ],
+                                    "exerciseAnswers": "incredibly",
+                                    "exerciseOptions": [
+                                        "undoubtedly",
+                                        "incredibly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "It's ____ possible that all cars will be driverless in the future."
+                                    ],
+                                    "exerciseAnswers": "entirely",
+                                    "exerciseOptions": [
+                                        "entirely",
+                                        "greatly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "There are ____ more passengers using the system than it was designed for originally."
+                                    ],
+                                    "exerciseAnswers": "significantly",
+                                    "exerciseOptions": [
+                                        "significantly",
+                                        "firmly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Travel times would be ____ improved."
+                                    ],
+                                    "exerciseAnswers": "greatly",
+                                    "exerciseOptions": [
+                                        "greatly",
+                                        "entirely"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "You are ____ right."
+                                    ],
+                                    "exerciseAnswers": "undoubtedly",
+                                    "exerciseOptions": [
+                                        "undoubtedly",
+                                        "especially"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "I ____ believe that safety is more important than convenience."
+                                    ],
+                                    "exerciseAnswers": "firmly",
+                                    "exerciseOptions": [
+                                        "firmly",
+                                        "widely"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "That is ____ true when it comes to a company making a profit."
+                                    ],
+                                    "exerciseAnswers": "especially",
+                                    "exerciseOptions": [
+                                        "especially",
+                                        "widely"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "It is ____ believed that commercial flights will eventually be powered by solar energy."
+                                    ],
+                                    "exerciseAnswers": "widely",
+                                    "exerciseOptions": [
+                                        "significantly",
+                                        "widely"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Intensifiers",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Go to the Vocabulary Hub on page 145",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Intensifiers",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Use intensifiers to give your opinions on the topics below.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Intensifiers",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "LC - multiple choice",
+                    "exerciseInstruction": "Choose the correct options (a, b or c) to complete the sentences.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "The risks of this kind of technology are ____ greater than any potential benefit."
+                                    ],
+                                    "exerciseAnswers": "considerably",
+                                    "exerciseOptions": [
+                                        "intensely",
+                                        "utterly",
+                                        "considerably"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "All of the medical professionals that we spoke to said that the idea robots could perform complex surgery was ____ ridiculous."
+                                    ],
+                                    "exerciseAnswers": "utterly",
+                                    "exerciseOptions": [
+                                        "disastrously",
+                                        "extremely",
+                                        "utterly"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "To be honest, the results were ____ unexpected. I thought we’d need to run several more tests."
+                                    ],
+                                    "exerciseAnswers": "totally",
+                                    "exerciseOptions": [
+                                        "considerably",
+                                        "totally",
+                                        "painfully"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Seeing a computer program that I designed beat a human competitor is ____ satisfying."
+                                    ],
+                                    "exerciseAnswers": "intensely",
+                                    "exerciseOptions": [
+                                        "intensely",
+                                        "totally",
+                                        "disastrously"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "If we don’t put the proper safety measures in place, the results could be ____ bad."
+                                    ],
+                                    "exerciseAnswers": "disastrously",
+                                    "exerciseOptions": [
+                                        "disastrously",
+                                        "utterly",
+                                        "intensely"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "I am ____ sorry to announce that Maria Sanchez will be retiring from the field of robotics."
+                                    ],
+                                    "exerciseAnswers": "extremely",
+                                    "exerciseOptions": [
+                                        "utterly",
+                                        "totally",
+                                        "extremely"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

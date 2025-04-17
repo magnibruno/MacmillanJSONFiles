@@ -1,0 +1,301 @@
+{
+    "sectionNumber": 9.2,
+    "sectionTitle": "Products",
+    "sectionObjective": "Conduct a survey about what influences our purchases / Design and present an ad campaign",
+    "GKU": "Language_Hub_B2_Unit9_Lesson_9_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "science; advertising"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "connected speech: determiners and quantifiers"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "determiners and quantifiers"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "topic sentences"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Science",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Read The book club. Complete the definitions with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "researcher",
+                                "evidence",
+                                "theory",
+                                "data",
+                                "analysis"
+                            ],
+                            "columnB": [
+                                "(n) people who study something carefully to discover new information about it",
+                                "(n) facts or signs that make you believe something is true",
+                                "(n) one or more ideas that explain how or why something happens",
+                                "(n) facts or information used for making calculations or decisions",
+                                "(n) a process of studying or examining something in order to understand or explain it"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Science",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with words in the word bank.",
+                    "wordBank": [
+                        "researchers",
+                        "evidence",
+                        "theory",
+                        "data",
+                        "analysis"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "The company has collected data from over 20,000 people worldwide."
+                                    ],
+                                    "blankedWords": [
+                                        "data"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Researchers claim the results indicate a clear link between stress and high blood pressure."
+                                    ],
+                                    "blankedWords": [
+                                        "Researchers"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "I’m sorry, but there simply isn’t enough evidence to support that claim."
+                                    ],
+                                    "blankedWords": [
+                                        "evidence"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Analysis of the data showed a link between the consumption of fish and improved memory."
+                                    ],
+                                    "blankedWords": [
+                                        "Analysis"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "One theory is that consumers don’t actually question the claims made in advertising."
+                                    ],
+                                    "blankedWords": [
+                                        "theory"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Advertising",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Scan the article again. Complete the definitions with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "advertising campaign",
+                                "marketing strategy",
+                                "consumer",
+                                "endorse",
+                                "brand",
+                                "target market",
+                                "high-profile",
+                                "trend"
+                            ],
+                            "columnB": [
+                                "(n) a series of advertisements that share a single idea or theme",
+                                "(n) a plan of how to encourage people to buy a product or service",
+                                "(n) someone who buys or uses goods and services",
+                                "(v) to express support for someone or something, especially in public",
+                                "(n) a product or group of products that has its own name and is made by one company",
+                                "(n) the group of people that a product or service is directed toward",
+                                "(adj) frequently seen in public, mentioned in newspapers or appearing on television",
+                                "(n) a gradual development or change in a situation"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Advertising",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with words in the word bank.",
+                    "wordBank": [
+                        "advertising campaigns",
+                        "high-profile",
+                        "endorsed",
+                        "target market",
+                        "brands",
+                        "consumers",
+                        "marketing strategies",
+                        "trends"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Which recent TV advertising campaigns do you think have been most effective?"
+                                    ],
+                                    "blankedWords": [
+                                        "advertising campaigns"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Do you think high-profile celebrities should be involved in advertising?"
+                                    ],
+                                    "blankedWords": [
+                                        "high-profile"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Are you more likely to buy a product if it’s endorsed by a celebrity?"
+                                    ],
+                                    "blankedWords": [
+                                        "endorsed"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Who do you think is the target market for the following products – energy drinks, electric cars, video game consoles, high-end sports equipment"
+                                    ],
+                                    "blankedWords": [
+                                        "target market"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Which brands do you associate with luxury and quality?"
+                                    ],
+                                    "blankedWords": [
+                                        "brands"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "How can consumers influence the way products or services are advertised?"
+                                    ],
+                                    "blankedWords": [
+                                        "consumers"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "Which marketing strategies would discourage you from buying a product or service?"
+                                    ],
+                                    "blankedWords": [
+                                        "marketing strategies"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "Do you follow the latest fashion trends?"
+                                    ],
+                                    "blankedWords": [
+                                        "trends"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Advertising",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Ask and answer the questions in Exercise B.",
+                    "exercises": []
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

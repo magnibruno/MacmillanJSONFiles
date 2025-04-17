@@ -1,0 +1,206 @@
+{
+    "sectionNumber": 5.1,
+    "sectionTitle": "Changing environment",
+    "sectionObjective": "Summarize a sequence of past events / Evaluate a range of proposals",
+    "GKU": "Language_Hub_B2_Unit5_Lesson5_1",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "the passive voice; causative have and get"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "green vocabulary"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "glottal stops"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "identifying cause and effect"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Green vocabulary",
+            "sets": [
+                {
+                    "setMarker": "",
+                    "setHeading": "",
+                    "setImage": "LH_TAT5_AW_U5.1_003",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the verbs (1–6) to the nouns (a–f) to make phrases.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "solar panels",
+                                "wind turbine",
+                                "thermostat",
+                                "energy-efficient lightbulb",
+                                "insulation",
+                                "underfloor heating",
+                                "rain barrel",
+                                "double glazing",
+                                "smart meter",
+                                "compost heap"
+                            ],
+                            "columnB": [
+                                "1",
+                                "2",
+                                "3",
+                                "4",
+                                "5",
+                                "6",
+                                "7",
+                                "8",
+                                "9",
+                                "10"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Green vocabulary",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": null,
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with words from Exercise A.",
+                    "exercises": [
+                        {
+                            "exerciseSentences":[
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Turning down your thermostat by just one degree can save you money and energy."
+                                    ],
+                                    "blankedWords": [
+                                        "thermostat"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Using solar panels to produce energy from the sun can save you money."
+                                    ],
+                                    "blankedWords": [
+                                        "solar panels"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Underfloor heating can be used to extract heat stored in the ground through the floor of the house."
+                                    ],
+                                    "blankedWords": [
+                                        "Underfloor heating"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Energy-efficient lightbulbs last much longer and use less energy than traditional ones."
+                                    ],
+                                    "blankedWords": [
+                                        "Energy-efficient",
+                                        "lightbulbs"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Use a rain barrel to capture rain which can then be used in the garden and the toilet system."
+                                    ],
+                                    "blankedWords": [
+                                        "rain barrel"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Families frequently throw away a lot of food that could instead have been put in a compost heap."
+                                    ],
+                                    "blankedWords": [
+                                        "compost heap"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "Using a wind turbine can produce clean energy on windy days."
+                                    ],
+                                    "blankedWords": [
+                                        "wind turbine"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 8,
+                                    "sentences": [
+                                        "Installing a smart meter helps keep track of energy use and may even save money."
+                                    ],
+                                    "blankedWords": [
+                                        "smart meter"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 9,
+                                    "sentences": [
+                                        "Since warm air rises, it is important that you have insulation to keep the heat in."
+                                    ],
+                                    "blankedWords": [
+                                        "insulation"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 10,
+                                    "sentences": [
+                                        "Double glazing is much better at keeping heat in than traditional windows are."
+                                    ],
+                                    "blankedWords": [
+                                        "Double glazing"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Green vocabulary",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": null,
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": null,
+                    "exerciseInstruction": "Work in pairs. Which of these do you have in your home? Which would you like to install if you had the money?",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

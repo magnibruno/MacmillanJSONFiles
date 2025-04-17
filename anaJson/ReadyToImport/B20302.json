@@ -1,0 +1,274 @@
+{
+    "sectionNumber": 3.2,
+    "sectionTitle": "Fear and Danger",
+    "sectionObjective": "Discuss priorities in a survival situation / Talk about fears and offer advice",
+    "GKU": "Language_Hub_B2_Unit3_Lesson3_2",
+    "sectionSkills": [
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "alternatives to if in conditionals"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intonation in conditional sentences"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "listening for definitions, examples and explanations"
+        },
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "phrasal verbs to describe problems; dependent prepositions: adjectives"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrasal verbs to describe problems",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Match the phrasal verbs (1–7) to their definitions (a–g).",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "go through",
+                                "sort out",
+                                "put up with",
+                                "talk over",
+                                "deal with",
+                                "work out",
+                                "weigh out"
+                            ],
+                            "columnB": [
+                                "experience something difficult or unpleasant",
+                                "do what is necessary to solve a problem",
+                                "accept someone or something unpleasant in a patient way",
+                                "discuss a problem or a plan",
+                                "accept and control a difficult emotional situation so that you can start to live a normal life again despite it",
+                                "solve a problem by considering the facts",
+                                "consider the good and bad aspects of something in order to reach a decision about it"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrasal verbs to describe problems",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct verbs to complete the questions.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Do you think you are good at ____ how to solve problems?"
+                                    ],
+                                    "exerciseAnswers": "working out",
+                                    "exerciseOptions": [
+                                        "working out",
+                                        "dealing with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Do you talk ____ your plans with the people around you?"
+                                    ],
+                                    "exerciseAnswers": "talk over",
+                                    "exerciseOptions": [
+                                        "talk over",
+                                        "deal with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "What could you ____ more easily – a room full of spiders or snakes?"
+                                    ],
+                                    "exerciseAnswers": "put up with",
+                                    "exerciseOptions": [
+                                        "put up with",
+                                        "sort out"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "When was the last time you ____ the risks and benefits before making a decision?"
+                                    ],
+                                    "exerciseAnswers": "weighed out",
+                                    "exerciseOptions": [
+                                        "weighed out",
+                                        "put up with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "What scary situation have you recently had to ____? What happened?"
+                                    ],
+                                    "exerciseAnswers": "go through",
+                                    "exerciseOptions": [
+                                        "go through",
+                                        "weigh out"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "How would you ____ a situation where everyone was panicking?"
+                                    ],
+                                    "exerciseAnswers": "sort out",
+                                    "exerciseOptions": [
+                                        "sort out",
+                                        "weigh out"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "In general, how well do you ____ risky situations?"
+                                    ],
+                                    "exerciseAnswers": "deal with",
+                                    "exerciseOptions": [
+                                        "deal with",
+                                        "go through"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrasal verbs to describe problems",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "",
+                    "exerciseInstruction": "Work in pairs. Discuss the questions in Exercise B.",
+                    "exercises": null
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrasal verbs to describe problems",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - multiple choice",
+                    "exerciseInstruction": "Choose the correct verbs to complete the questions.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I'm really anxious ____ speaking in public."
+                                    ],
+                                    "exerciseAnswers": "about",
+                                    "exerciseOptions": [
+                                        "about",
+                                        "to"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "I feel a little ashamed ____ my fear of flying. I know it's no rational."
+                                    ],
+                                    "exerciseAnswers": "of",
+                                    "exerciseOptions": [
+                                        "of",
+                                        "for"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "I'm sick ____ feeling this way - I really need to get some help."
+                                    ],
+                                    "exerciseAnswers": "of",
+                                    "exerciseOptions": [
+                                        "about",
+                                        "of"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I'm envious ____ people who can stay calm in dangerous situations."
+                                    ],
+                                    "exerciseAnswers": "of",
+                                    "exerciseOptions": [
+                                        "for",
+                                        "of"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "They became suddenly aware ____ the danger around them."
+                                    ],
+                                    "exerciseAnswers": "of",
+                                    "exerciseOptions": [
+                                        "of",
+                                        "from"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "I'm not really scared of anything, but I try to be sensitive ____ people with a lot of phobias."
+                                    ],
+                                    "exerciseAnswers": "toward",
+                                    "exerciseOptions": [
+                                        "toward",
+                                        "for"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

@@ -1,0 +1,401 @@
+{
+    "sectionNumber": 6.2,
+    "sectionTitle": "Traditions of youth",
+    "sectionObjective": "Discuss age milestones in your country / Debate the best time to start college",
+    "GKU": "Language_Hub_B2_Unit6_Lesson_6_2",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "compound adjectives; phrases with make and do"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "intrusive /j/ sounds"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "articles"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Reading",
+            "skillTitle": "decoding: idioms"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Compound adjectives",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": "",
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the sentences with the compound adjectives in the box.",
+                    "wordBank": [
+                        "coming-of-age",
+                        "last-minute",
+                        "old-fashioned",
+                        "seven-bedroom",
+                        "up-to-date",
+                        "well-known"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "For the most up-to-date information on flights, please visit our website."
+                                    ],
+                                    "blankedWords": [
+                                        "up-to-date"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "My parents have some pretty old-fashioned ideas about raising children."
+                                    ],
+                                    "blankedWords": [
+                                        "old-fashioned"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Apparently, he just bought a huge seven-bedroom house outside Houston."
+                                    ],
+                                    "blankedWords": [
+                                        "eat"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "It’s a coming-of-age movie about three young friends growing up together."
+                                    ],
+                                    "blankedWords": [
+                                        "coming-of-age"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "I’m going to be late because there was a last-minute change to the schedule."
+                                    ],
+                                    "blankedWords": [
+                                        "last-minute"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "We’ve booked a well-known author to speak at next month’s event."
+                                    ],
+                                    "blankedWords": [
+                                        "well-known"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrases with make and do",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": 6.9,
+                    "audioNumberOrdinal": "004",
+                    "setAudio": "ALH_TAT4_AUD_U6.2_004",
+                    "setIgnore": false,
+                    "exerciseType": "TSS dictate",
+                    "TSStype": "TS_GROUP",
+                    "exerciseInstruction": "Listen and write the numbers that you hear.",
+                    "exercises": [
+                        {
+                            "exerciseSentences": [
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "I used to do her a favor and take care of the grandchildren a couple of mornings a week."
+                                    ],
+                                    "blankedWords": [
+                                        "do",
+                                        "her",
+                                        "a",
+                                        "favor"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "They weren't doing any harm, they were just full of energy."
+                                    ],
+                                    "blankedWords": [
+                                        "doing",
+                                        "any",
+                                        "harm"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Well, you know… it’s hard but I’m making a go of it."
+                                    ],
+                                    "blankedWords": [
+                                        "making",
+                                        "a",
+                                        "go",
+                                        "of"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "I think schools should do away with age restrictions for taking exams."
+                                    ],
+                                    "blankedWords": [
+                                        "do",
+                                        "away",
+                                        "with"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "People are generally nice, and I think they’ll make allowances for my age."
+                                    ],
+                                    "blankedWords": [
+                                        "make",
+                                        "allowances"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "I hope I make a good impression, but I am a little worried."
+                                    ],
+                                    "blankedWords": [
+                                        "make",
+                                        "a",
+                                        "good",
+                                        "impression"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "She was trying to make the best of the situation by doing without the exciting honeymoon…"
+                                    ],
+                                    "blankedWords": [
+                                        "make",
+                                        "the",
+                                        "best",
+                                        "of"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrases with make and do",
+            "sets": [
+                {
+                    "partTitle": "VOCABULARY",
+                    "partImage": "",
+                    "partSubTitle": "Phrases with make and do",
+                    "sets": [
+                        {
+                            "setMarker": "B",
+                            "setHeading": "",
+                            "setImage": "",
+                            "setAudioNumber": null,
+                            "setIgnore": false,
+                            "exerciseType": "one page sequence - match",
+                            "exerciseInstruction": "Match the phrases in Exercise A (1–7) to their definitions (a–h).",
+                            "exercises": [
+                                {
+                                    "columnA": [
+                                        "do someone a favor",
+                                        "do any harm",
+                                        "make a go of",
+                                        "do away with",
+                                        "make allowances",
+                                        "make a good impression",
+                                        "make the best of",
+                                        "do without"
+                                    ],
+                                    "columnB": [
+                                        "something that you do for someone in order to help them",
+                                        "causing no serious damage or injury",
+                                        "try to make something work",
+                                        "to get rid of something",
+                                        "to consider the reasons for somebody’s behavior and not judge them too severely",
+                                        "to make other people notice you in a positive way",
+                                        "to be positive about a situation you don’t like but can’t change",
+                                        "to succeed in living or working without someone or something"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Phrases with make and do",
+            "sets": [
+                {
+                    "partTitle": "VOCABULARY",
+                    "partImage": "",
+                    "partSubTitle": "Phrases with make and do",
+                    "sets": [
+                        {
+                            "setMarker": "C",
+                            "setHeading": "",
+                            "setImage": "",
+                            "setAudioNumber": null,
+                            "setIgnore": false,
+                            "exerciseType": "one page sequence - multiple choice",
+                            "exerciseInstruction": "Complete the questions with the correct form of the phrases in Exercise A.",
+                            "exercises": [
+                                {
+                                    "exerciseSentences": [
+                                        {
+                                            "sentenceOrdinal": 1,
+                                            "sentences": [
+                                                "Do you ignore people’s age, or do you think you ____ for people because of their age?"
+                                            ],
+                                            "exerciseAnswers": "make allowances",
+                                            "exerciseOptions": [
+                                                "do a favor",
+                                                "make allowances",
+                                                "do any harm",
+                                                "make the best of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 2,
+                                            "sentences": [
+                                                "When you ____ for someone, do you expect them to do something in return?"
+                                            ],
+                                            "exerciseAnswers": "do a favor",
+                                            "exerciseOptions": [
+                                                "do a favor",
+                                                "make allowances",
+                                                "do any harm",
+                                                "make the best of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 3,
+                                            "sentences": [
+                                                "Does eating junk food occasionally ____?"
+                                            ],
+                                            "exerciseAnswers": "do any harm",
+                                            "exerciseOptions": [
+                                                "do a favor",
+                                                "make allowances",
+                                                "do any harm",
+                                                "make the best of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 4,
+                                            "sentences": [
+                                                "Is there a time in your life when you had to ____ a difficult situation?"
+                                            ],
+                                            "exerciseAnswers": "make the best of",
+                                            "exerciseOptions": [
+                                                "do a favor",
+                                                "make allowances",
+                                                "do any harm",
+                                                "make the best of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 5,
+                                            "sentences": [
+                                                "Since my business is failing in its first year, should I keep ____ to make it work or close it?"
+                                            ],
+                                            "exerciseAnswers": "make a go of",
+                                            "exerciseOptions": [
+                                                "make a good impression",
+                                                "do without",
+                                                "do away with",
+                                                "make a go of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 6,
+                                            "sentences": [
+                                                "Should governments ____ unemployment pay and benefits?"
+                                            ],
+                                            "exerciseAnswers": "do away with",
+                                            "exerciseOptions": [
+                                                "make a good impression",
+                                                "do without",
+                                                "do away with",
+                                                "make a go of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 7,
+                                            "sentences": [
+                                                "What’s the best way to ____ on others?"
+                                            ],
+                                            "exerciseAnswers": "make a good impression",
+                                            "exerciseOptions": [
+                                                "make a good impression",
+                                                "do without",
+                                                "do away with",
+                                                "make a go of"
+                                            ]
+                                        },
+                                        {
+                                            "sentenceOrdinal": 8,
+                                            "sentences": [
+                                                "What would be the hardest thing to ____ for a year?"
+                                            ],
+                                            "exerciseAnswers": "do without",
+                                            "exerciseOptions": [
+                                                "make a good impression",
+                                                "do without",
+                                                "do away with",
+                                                "make a go of"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }     
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}

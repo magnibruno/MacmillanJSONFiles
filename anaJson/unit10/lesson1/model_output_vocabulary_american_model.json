@@ -1,0 +1,183 @@
+{
+    "sectionNumber": 10.1,
+    "sectionTitle": "Reporting the news",
+    "sectionObjective": "Give opinions on recent news stories / Intervene appropriately in a discussion",
+    "GKU": "Language_Hub_B2_Unit10_Lesson_10_1",
+    "sectionSkills": [
+        {
+            "skillType": "V",
+            "skillName": "Vocabulary",
+            "skillTitle": "traditional media"
+        },
+        {
+            "skillType": "G",
+            "skillName": "Grammar",
+            "skillTitle": "reported speech"
+        },
+        {
+            "skillType": "P",
+            "skillName": "Pronunciation",
+            "skillTitle": "avoiding interruption"
+        },
+        {
+            "skillType": "S",
+            "skillName": "Listening",
+            "skillTitle": "listening for repair and elaboration"
+        }
+    ],
+    "sectionPart": [
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Traditional media",
+            "sets": [
+                {
+                    "setMarker": "A",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "one page sequence - match",
+                    "exerciseInstruction": "Complete the definitions with the words in bold.",
+                    "exercises": [
+                        {
+                            "columnA": [
+                                "editor",
+                                "headline",
+                                "tabloid",
+                                "coverage",
+                                "biased",
+                                "source",
+                                "subjective",
+                                "broadsheet"
+                            ],
+                            "columnB": [
+                                "(n) a person who is in charge of a newspaper or magazine",
+                                "(n) the title of a newspaper story that is printed in large letters",
+                                "(n) a small newspaper with a lot of pictures and short articles, frequently about famous people",
+                                "(n) the way news is reported on television or radio or in the newspapers",
+                                "(adj) preferring one person, thing, or idea to another in a way that is unfair",
+                                "(n) where information comes from",
+                                "(adj) based on your own feelings and beliefs, not facts",
+                                "(n) a large newspaper generally considered to be more serious than smaller newspapers"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Traditional media",
+            "sets": [
+                {
+                    "setMarker": "B",
+                    "setHeading": "",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": false,
+                    "exerciseType": "grammar SB without explanation",
+                    "exerciseInstruction": "Complete the questions with the correct form of the words in the word bank.",
+                    "wordBank": [
+                        "subjective",
+                        "tabloid",
+                        "editor",
+                        "headlines",
+                        "coverage",
+                        "source",
+                        "biased"
+                    ],
+                    "exercises": [
+                        {
+                            "exerciseSentences":[
+                                {
+                                    "sentenceOrdinal": 1,
+                                    "sentences": [
+                                        "Is it OK for journalists to write articles that are subjective or should they be objective?"
+                                    ],
+                                    "blankedWords": [
+                                        "subjective"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 2,
+                                    "sentences": [
+                                        "Do you prefer to read serious broadsheet newspapers or less serious tabloid papers?"
+                                    ],
+                                    "blankedWords": [
+                                        "tabloid"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 3,
+                                    "sentences": [
+                                        "Should an editor take responsibility for all stories in their paper?"
+                                    ],
+                                    "blankedWords": [
+                                        "editor"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 4,
+                                    "sentences": [
+                                        "Sensationalist headlines are written to encourage people to buy papers and click on articles online. Should they be banned?"
+                                    ],
+                                    "blankedWords": [
+                                        "headlines"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 5,
+                                    "sentences": [
+                                        "Should press coverage of people's lives be controlled to allow more privacy?"
+                                    ],
+                                    "blankedWords": [
+                                        "coverage"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 6,
+                                    "sentences": [
+                                        "Why should we pay attention to the source of a newspaper article?"
+                                    ],
+                                    "blankedWords": [
+                                        "source"
+                                    ]
+                                },
+                                {
+                                    "sentenceOrdinal": 7,
+                                    "sentences": [
+                                        "Newspapers are frequently biased toward certain political parties. Should this be banned?"
+                                    ],
+                                    "blankedWords": [
+                                        "biased"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "partTitle": "VOCABULARY",
+            "partImage": "",
+            "partSubTitle": "Traditional media",
+            "sets": [
+                {
+                    "setMarker": "C",
+                    "setHeading": "SPEAK",
+                    "setImage": "",
+                    "setAudioNumber": null,
+                    "setIgnore": true,
+                    "exerciseType": "word bank",
+                    "exerciseInstruction": "Work in pairs. Discuss the questions in Exercise B. Explain your reasoning.",
+                    "exercises": null
+                }
+            ]
+        }
+    ],
+    "dialect": "American",
+    "CEFRLevel": "B2"
+}
