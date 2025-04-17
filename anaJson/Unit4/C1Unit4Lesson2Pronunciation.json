@@ -1,0 +1,161 @@
+{
+	"sectionNumber": 4.2,
+	"sectionTitle": "Thinking and thought",
+	"sectionObjective": "Talk about regrets; Discuss intelligence",
+	"GKU": "Language_Hub_C1_Unit4_Lesson4_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "science and research; thinking"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "identifying different writing styles"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "adding information or changing the topic"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "wishes and regrets"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Adding information or changing the topic",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 4.5,
+					"audioNumberOrdinal": "002",
+					"setAudio": "ALH_TAT5_AUD_U4.2_002",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Listen to the beginning of the debate. Choose whether the intonation rises or falls.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"Right, it’s easy to see why so many people believe being intelligent makes your life better.",
+										"After the word 'right' does the intonation rise or fall?"
+									],
+									"exerciseAnswer": "fall",
+									"exerciseOptions": [
+										"rise",
+										"fall",
+										"fall-rise"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"After all, we see intelligent people thriving at school.",
+										"After the words 'after all' does the intonation rise or fall?"
+									],
+									"exerciseAnswer": "fall-rise",
+									"exerciseOptions": [
+										"rise",
+										"fall",
+										"fall-rise"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"And on top of that, we see the importance the world gives to certifications.",
+										"After the words 'on top of that' does the intonation rise or fall?"
+									],
+									"exerciseAnswer": "fall-rise",
+									"exerciseOptions": [
+										"rise",
+										"fall",
+										"fall-rise"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"However, that is exactly what I’ll do.",
+										"After the word 'however' does the intonation rise or fall?"
+									],
+									"exerciseAnswer": "fall",
+									"exerciseOptions": [
+										"rise",
+										"fall",
+										"fall-rise"
+									]
+								},
+								{
+									"sentenceOrdinal": 5,
+									"exerciseQuestion": [
+										"n fact, there are several clear disadvantages in having a superior intellect.",
+										"After the words 'in fact' does the intonation rise or fall?"
+									],
+									"exerciseAnswer": "fall-rise",
+									"exerciseOptions": [
+										"rise",
+										"fall",
+										"fall-rise"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"audioNumberOrdinal": "",
+					"setAudio": "",
+					"setIgnore": false,
+					"exerciseType": "Speak",
+					"exerciseInstruction": "Listen and repeat the sentences with the correct intonation.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"sentences": [
+										"On top of that, they find it really hard to make friends."
+									],
+									"blankedWords": ""
+								},
+								{
+									"sentenceOrdinal": 2,
+									"sentences": [
+										"Yes,I’m planning to. By the way, do you want to go to a debate?"
+									],
+									"blankedWords": [
+										""
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"sentences": [
+										"Really? Incidentally, how did you do on your exam?"
+									],
+									"blankedWords": [
+										""
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

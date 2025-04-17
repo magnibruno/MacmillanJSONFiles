@@ -1,0 +1,155 @@
+{
+	"sectionNumber": 6.1,
+	"sectionTitle": "Challenging journeys",
+	"sectionObjective": "Speculate and make deductions about the past / Plan an amazing journey.",
+	"GKU": "Language_Hub_C1_Unit6_Lesson6_1",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "journeys and adventures; three-part phrasal verbs"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "past modals of speculation and deduction"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "showing your attitude"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "prediction strategies for reading"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Showing your attitude",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 6.2,
+					"audioNumberOrdinal": "002",
+					"setAudio": "ALH_TAT5_AUD_U6.1_002",
+					"setIgnore": false,
+					"exerciseType": "LC - match",
+					"exerciseInstruction": "Listen to these extracts from the radio program. Match each extract (1–4) with the speaker’s attitudes to what they say (a–d).",
+					"exercises": [
+						{
+							"columnA": [
+								"certain that what they say is true",
+								"believes what they say is a generalization or approximation",
+								"believes that what they say is an important point",
+								"unsure that something is true"
+							],
+							"columnB": [
+								"extract 1",
+								"extract 2",
+								"extract 3",
+								"extract 4"
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Showing your attitude",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 6.3,
+					"audioNumberOrdinal": "003",
+					"setAudio": "ALH_TAT5_AUD_U6.1_003",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Work in pairs. Draw arrows to predict whether the intonation rises, falls or fall-rises on the underlined attitude words. Then listen to check.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"(Allegedly), you need to be very careful backpacking in some areas of that country."
+									],
+									"exerciseAnswer": "fall-rises",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"fall-rises"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"(On the whole), I think it’s better to travel alone than with a group of friends."
+									],
+									"exerciseAnswer": "fall-rises",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"fall-rises"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"(The question is), do you have the luxury of taking time out from work."
+									],
+									"exerciseAnswer": "fall-rises",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"fall-rises"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"(Surely), it can’t be that much fun visiting a lot of countries in a short span of time."
+									],
+									"exerciseAnswer": "falls",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"fall-rises"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"partTitle": "PRONUNCIATION",
+					"partImage": "",
+					"partSubTitle": "Introducing new information",
+					"sets": [
+						{
+							"setMarker": "B",
+							"setHeading": "SPEAK",
+							"setImage": null,
+							"setAudioNumber": null,
+							"audioNumberOrdinal": "",
+							"setAudio": "",
+							"setIgnore": true,
+							"exerciseType": "",
+							"exerciseInstruction": "Work in pairs. Discuss the questions using words, phrases and intonation to show your attitude.",
+							"exercises": null
+						}
+					]
+				}
+			]
+		}
+	]
+}

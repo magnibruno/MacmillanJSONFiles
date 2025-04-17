@@ -1,0 +1,133 @@
+{
+	"sectionNumber": 10.2,
+	"sectionTitle": "How to change the world",
+	"sectionObjective": "Talk about political activism / Discuss how to make a difference",
+	"GKU": "Language_Hub_C1_Unit10_Lesson10_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "word building"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "ellipsis and substitution"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "managing conversations"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "recognizing shifts in register"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Managing conversations",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 10.6,
+					"audioNumberOrdinal": "003",
+					"setAudio": "ALH_TAT5_AUD_U10.2_003",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Listen to extracts from the conversation. For each extract, decide if the intonation on the second speaker’s words rises, falls or rises then falls.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"1"
+									],
+									"exerciseAnswer": "rises then falls",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"rises then falls"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"2"
+									],
+									"exerciseAnswer": "falls",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"rises then falls"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"3"
+									],
+									"exerciseAnswer": "rises",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"rises then falls"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"4"
+									],
+									"exerciseAnswer": "rises",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"rises then falls"
+									]
+								},
+								{
+									"sentenceOrdinal": 5,
+									"exerciseQuestion": [
+										"5"
+									],
+									"exerciseAnswer": "falls",
+									"exerciseOptions": [
+										"rises",
+										"falls",
+										"rises then falls"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"partTitle": "PRONUNCIATION",
+					"partImage": "",
+					"partSubTitle": "Managing conversations",
+					"sets": [
+						{
+							"setMarker": "B",
+							"setHeading": "SPEAK",
+							"setImage": null,
+							"setAudioNumber": null,
+							"audioNumberOrdinal": "",
+							"setAudio": "",
+							"setIgnore": true,
+							"exerciseType": "",
+							"exerciseInstruction": "Work in pairs. Think of an anecdote for one of these topics. Listen to your partner and use appropriate reactions to keep the conversation going.",
+							"exercises": null
+						}
+					]
+				}
+			]
+		}
+	]
+}

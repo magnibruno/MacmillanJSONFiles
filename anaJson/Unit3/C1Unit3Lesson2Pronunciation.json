@@ -1,0 +1,343 @@
+{
+	"sectionNumber": 3.2,
+	"sectionTitle": "Better... or worse?",
+	"sectionObjective": "Discuss progress and society / Evaluate costs and benefits",
+	"GKU": "Language_Hub_C1_Unit3_Lesson3_2",
+	"sectionSkills": [
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "stress-shift words"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "negative inversion"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "verb-noun collocations"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "reading to determine costs and benefits"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Stress-shift words",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 3.5,
+					"audioNumberOrdinal": "003",
+					"setAudio": "ALH_TAT5_AUD_U3.2_003",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Which syllable of the word 'progress' is stressed?",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"Despite amazing progress in technology and sharp increases in living standards, many of us believe our quality of life has actually decreased!"
+									],
+									"exerciseAnswer": "pro",
+									"exerciseOptions": [
+										"po",
+										"gress"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"Despite amazing progress in technology and sharp increases in living standards, many of us believe our quality of life has actually decreased!"
+									],
+									"exerciseAnswer": "in",
+									"exerciseOptions": [
+										"in",
+										"crease"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"Despite amazing progress in technology and sharp increases in living standards, many of us believe our quality of life has actually decreased!"
+									],
+									"exerciseAnswer": "creased",
+									"exerciseOptions": [
+										"de",
+										"creased"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"Let's hear a few extracts from those interviews."
+									],
+									"exerciseAnswer": "ex",
+									"exerciseOptions": [
+										"ex",
+										"tracts"
+									]
+								},
+								{
+									"sentenceOrdinal": 5,
+									"exerciseQuestion": [
+										"You feel like a reject from society"
+									],
+									"exerciseAnswer": "re",
+									"exerciseOptions": [
+										"re",
+										"ject"
+									]
+								},
+								{
+									"sentenceOrdinal": 6,
+									"exerciseQuestion": [
+										"It’s almost as if we rewrite the events in our memories."
+									],
+									"exerciseAnswer": "write",
+									"exerciseOptions": [
+										"re",
+										"write"
+									]
+								},
+								{
+									"sentenceOrdinal": 7,
+									"exerciseQuestion": [
+										"You’ve simply erased their negative attributes and bad conduct from your memory."
+									],
+									"exerciseAnswer": "at",
+									"exerciseOptions": [
+										"att",
+										"tri",
+										"butes"
+									]
+								},
+								{
+									"sentenceOrdinal": 8,
+									"exerciseQuestion": [
+										"You’ve simply erased their negative attributes and bad conduct from your memory."
+									],
+									"exerciseAnswer": "con",
+									"exerciseOptions": [
+										"con",
+										"duct"
+									]
+								},
+								{
+									"sentenceOrdinal": 9,
+									"exerciseQuestion": [
+										"We tend to attribute other people’s success to luck."
+									],
+									"exerciseAnswer": "tri",
+									"exerciseOptions": [
+										"at",
+										"tri",
+										"bute"
+									]
+								},
+								{
+									"sentenceOrdinal": 10,
+									"exerciseQuestion": [
+										"That’s a major source of inter-generational conflict: young adults always suspect that earlier generations had it much easier!"
+									],
+									"exerciseAnswer": "con",
+									"exerciseOptions": [
+										"con",
+										"flict"
+									]
+								},
+								{
+									"sentenceOrdinal": 11,
+									"exerciseQuestion": [
+										"That’s a major source of inter-generational conflict: young adults always suspect that earlier generations had it much easier!"
+									],
+									"exerciseAnswer": "pect",
+									"exerciseOptions": [
+										"sus",
+										"pect"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 3.6,
+					"audioNumberOrdinal": "004",
+					"setAudio": "ALH_TAT5_AUD_U3.2_004",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Which syllable of the word 'rebel' is stressed?",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"Why are you always such a rebel?"
+									],
+									"exerciseAnswer": "re",
+									"exerciseOptions": [
+										"re",
+										"bel"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"Why do you always rebel against everything?"
+									],
+									"exerciseAnswer": "bel",
+									"exerciseOptions": [
+										"re",
+										"bel"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"I didn't think I'd like Thai food, but now I'm a convert."
+									],
+									"exerciseAnswer": "con",
+									"exerciseOptions": [
+										"con",
+										"vert"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"Your cooking has converted me."
+									],
+									"exerciseAnswer": "vert",
+									"exerciseOptions": [
+										"con",
+										"vert",
+										"ed"
+									]
+								},
+								{
+									"sentenceOrdinal": 5,
+									"exerciseQuestion": [
+										"You need to install an upgrade for your computer."
+									],
+									"exerciseAnswer": "up",
+									"exerciseOptions": [
+										"up",
+										"grade"
+									]
+								},
+								{
+									"sentenceOrdinal": 6,
+									"exerciseQuestion": [
+										"When did you last upgrade it?"
+									],
+									"exerciseAnswer": "grade",
+									"exerciseOptions": [
+										"up",
+										"grade"
+									]
+								},
+								{
+									"sentenceOrdinal": 7,
+									"exerciseQuestion": [
+										"I deal with imports and exports in my job."
+									],
+									"exerciseAnswer": "im",
+									"exerciseOptions": [
+										"im",
+										"ports"
+									]
+								},
+								{
+									"sentenceOrdinal": 8,
+									"exerciseQuestion": [
+										"I import raw materials and export finished products to customers."
+									],
+									"exerciseAnswer": "port",
+									"exerciseOptions": [
+										"im",
+										"port"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"audioNumberOrdinal": "",
+					"setAudio": "",
+					"setIgnore": false,
+					"exerciseType": "Speak",
+					"exerciseInstruction": "Listen and repeat the sentences.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"sentences": [
+										"Why are you always such a rebel? Why do you always rebel against everything I say?"
+									],
+									"blankedWords": ""
+								},
+								{
+									"sentenceOrdinal": 2,
+									"sentences": [
+										"I didn’t think I’d like Thai food, but now I’m a convert. Your cooking has converted me!"
+									],
+									"blankedWords": [
+										""
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"sentences": [
+										"You need to install an upgrade for your computer. When did you last upgrade it?"
+									],
+									"blankedWords": [
+										""
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"sentences": [
+										"I deal with imports and exports in my job: I import raw materials and export finished products to customers."
+									],
+									"blankedWords": [
+										""
+									]
+								},
+								{
+									"sentenceOrdinal": 5,
+									"sentences": [
+										"I frequent this café during the summer, but I’m not really a frequent visitor during the rest of the year."
+									],
+									"blankedWords": [
+										""
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

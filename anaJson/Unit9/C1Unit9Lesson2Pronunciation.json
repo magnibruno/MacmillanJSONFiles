@@ -1,0 +1,150 @@
+{
+	"sectionNumber": 9.2,
+	"sectionTitle": "Animal behavior",
+	"sectionObjective": "Discuss animal behavior / Talk about behavioral experiments",
+	"GKU": "Language_Hub_C1_Unit9_Lesson9_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "verb + object + base form; gestures and body language"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "intrusive stops"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "participle clauses and verbless clauses"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "identifying outcomes of scientific research"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Intrusive stops",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 9.7,
+					"audioNumberOrdinal": "002",
+					"setAudio": "ALH_TAT5_AUD_U9.2_002",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Listen carefully to some extracts from the radio show. Which sound (/p/, /t/ or /k/) can you hear in each of the underlined words?",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"A kind of bizarre pigeon (dance)."
+									],
+									"exerciseAnswer": "/t/",
+									"exerciseOptions": [
+										"/p/",
+										"/t/",
+										"/k/"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"Such actions can (influence) something beyond our control."
+									],
+									"exerciseAnswer": "/t/",
+									"exerciseOptions": [
+										"/p/",
+										"/t/",
+										"/k/"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"After completely random (lengths) of time."
+									],
+									"exerciseAnswer": "/k/",
+									"exerciseOptions": [
+										"/p/",
+										"/t/",
+										"/k/"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"I was young, and my aunt gave me a lucky (hamster) toy."
+									],
+									"exerciseAnswer": "/p/",
+									"exerciseOptions": [
+										"/p/",
+										"/t/",
+										"/k/"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"partTitle": "PRONUNCIATION",
+					"partImage": "",
+					"partSubTitle": "Introducing new information",
+					"sets": [
+						{
+							"setMarker": "B",
+							"setHeading": null,
+							"setImage": null,
+							"setAudioNumber": null,
+							"audioNumberOrdinal": "",
+							"setAudio": "",
+							"setIgnore": false,
+							"exerciseType": "Speak",
+							"exerciseInstruction": "Practice saying the sentences.",
+							"exercises": [
+								{
+									"sentenceOrdinal": 1,
+									"sentences": [
+										"A kind of bizarre pigeon dance."
+									],
+									"blankedWords": []
+								},
+								{
+									"sentenceOrdinal": 2,
+									"sentences": [
+										"Such actions can influence something beyond our control."
+									],
+									"blankedWords": []
+								},
+								{
+									"sentenceOrdinal": 3,
+									"sentences": [
+										"After completely random lengths of time."
+									],
+									"blankedWords": []
+								},
+								{
+									"sentenceOrdinal": 4,
+									"sentences": [
+										"I was young, and my aunt gave me a lucky hamster toy."
+									],
+									"blankedWords": []
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

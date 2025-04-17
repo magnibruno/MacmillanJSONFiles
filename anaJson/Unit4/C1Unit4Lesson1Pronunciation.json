@@ -1,0 +1,148 @@
+{
+	"sectionNumber": 4.1,
+	"sectionTitle": "Brain training",
+	"sectionObjective": "Discuss improving the brain / Talk about future technology",
+	"GKU": "Language_Hub_C1_Unit4_Lesson4_1",
+	"sectionSkills": [
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "conditionals without if"
+		},
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "conceptual metaphors"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Reading",
+			"skillTitle": "adding information"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "identifying logical fallacies"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Adding information",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"audioNumberOrdinal": "",
+					"setAudio": "",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "What is the purpose of saying 'a leading nueroscientist?'What is the purpose of saying 'a life coach and the author of 'How to be Smarter?'What is the purpose of saying 'the math puzzle where you write the numbers in boxes?'What is the purpose of saying 'foods that you should eat to boost your brain power?'",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"To answer the question, I’m joined today by two experts, Dr. Ramona Carter, a leading neuroscientist, and Amanda Saraha, a life coach and the author of 'How to be Smarter.'"
+									],
+									"exerciseAnswers": "To add information about Dr. Ramona Carter",
+									"exerciseOptions": [
+										"To add information about Dr. Ramona Carter",
+										"To add information about Amanda Saraha",
+										"To answer the question"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"So for example, if you do a lot of Sudoku, the math puzzle where you write the numbers in boxes, it’s most likely that you will just become better at playing that game."
+									],
+									"exerciseAnswers": "To add information about Sudoku",
+									"exerciseOptions": [
+										"To tell you how to become better at the game",
+										"To add information about Sudoku",
+										"To give an exmaple"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"Recently, we’ve seen a lot of media stories about super foods, food that you should eat to boost your brain power."
+									],
+									"exerciseAnswers": "To add information about super foods",
+									"exerciseOptions": [
+										"To add information about super foods",
+										"To add information about media stories",
+										"To boost your brain power"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"setMarker": "B",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": null,
+					"audioNumberOrdinal": "",
+					"setAudio": "",
+					"setIgnore": false,
+					"exerciseType": "Speak",
+					"exerciseInstruction": "Listen and repeat the sentences with the correct intonation.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"sentences": [
+										"To answer the question, I’m joined today by two experts, Dr. Ramona Carter, a leading neuroscientist, and Amanda Saraha, a life coach and the author of How to be smarter."
+									],
+									"blankedWords": ""
+								},
+								{
+									"sentenceOrdinal": 2,
+									"sentences": [
+										"So for example, if you do a lot of Sudoku, the math puzzle where you write the numbers in boxes, it’s most likely that you will just become better at playing that game."
+									],
+									"blankedWords": [
+										""
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"sentences": [
+										"Recently, we’ve seen a lot of media stories about super foods, food that you should eat to boost your brain power."
+									],
+									"blankedWords": [
+										""
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"setMarker": "C",
+					"setHeading": "SPEAK",
+					"setImage": "",
+					"setAudioNumber": "",
+					"audioNumberOrdinal": "",
+					"setAudio": "",
+					"setIgnore": true,
+					"exerciseType": "",
+					"exerciseInstruction": "Work in pairs. Give additional information about the underlined words.",
+					"exercises": [
+						"I like to do some exercise before i start work in the mornings. (give more detail)",
+						"My friend is definitely one of the smartest people I know. (give more detail)",
+						"I try to do some meditation because it helps me relax. (define the word)"
+					]
+				}
+			]
+		}
+	]
+}

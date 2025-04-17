@@ -1,0 +1,147 @@
+{
+	"sectionNumber": 8.2,
+	"sectionTitle": "Sports and wellness",
+	"sectionObjective": "Talk about sports psychology / Discuss nutrition and fitness",
+	"GKU": "Language_Hub_C1_Unit8_Lesson8_2",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "idioms; describing taste"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "pronunciation of idioms"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Listening",
+			"skillTitle": "understanding speech with background noise"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "pronouns and determiners"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Pronunciation of idioms",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 8.5,
+					"audioNumberOrdinal": "003",
+					"setAudio": "ALH_TAT5_AUD_U8.2_002",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Listen to the sentences. Circle the prominent words in the underlined idioms.",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"I had a gut feeling."
+									],
+									"exerciseAnswer": "gut/feeling",
+									"exerciseOptions": [
+										"I/had",
+										"gut/feeling"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"It’s time to throw in the towel."
+									],
+									"exerciseAnswer": "throw/towel",
+									"exerciseOptions": [
+										"I'ts/time",
+										"throw/towel"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"He was really making a meal of it."
+									],
+									"exerciseAnswer": "making/meal",
+									"exerciseOptions": [
+										"was/really",
+										"making/meal"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"Keep an eye out for the others"
+									],
+									"exerciseAnswer": "keep/eye",
+									"exerciseOptions": [
+										"keep/eye",
+										"for/others"
+									]
+								},
+								{
+									"sentenceOrdinal": 5,
+									"exerciseQuestion": [
+										"You have to take what she says with a grain of salt."
+									],
+									"exerciseAnswer": "take/says/pinch/salt",
+									"exerciseOptions": [
+										"take/says/pinch/salt",
+										"have/what/with/of"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"partTitle": "PRONUNCIATION",
+					"partImage": "",
+					"partSubTitle": "Pronunciation of idioms",
+					"sets": [
+						{
+							"setMarker": "B",
+							"setHeading": null,
+							"setImage": null,
+							"setAudioNumber": null,
+							"audioNumberOrdinal": "",
+							"setAudio": "",
+							"setIgnore": true,
+							"exerciseType": "",
+							"exerciseInstruction": "Complete the advice for sports players with your own ideas.",
+							"exercises": null
+						}
+					]
+				},
+				{
+					"partTitle": "PRONUNCIATION",
+					"partImage": "",
+					"partSubTitle": "Pronunciation of idioms",
+					"sets": [
+						{
+							"setMarker": "C",
+							"setHeading": null,
+							"setImage": null,
+							"setAudioNumber": null,
+							"audioNumberOrdinal": "",
+							"setAudio": "",
+							"setIgnore": true,
+							"exerciseType": "",
+							"exerciseInstruction": "Work in pairs. Read the sentences you wrote in Exercise B to your partner. Do you agree with your partner’s advice?",
+							"exercises": null
+						}
+					]
+				}
+			]
+		}
+	]
+}

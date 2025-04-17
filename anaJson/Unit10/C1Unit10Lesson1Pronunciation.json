@@ -1,0 +1,139 @@
+{
+	"sectionNumber": 10.1,
+	"sectionTitle": "Urban problems",
+	"sectionObjective": "Discuss issues related to tourism / Present solutions to urban problems",
+	"GKU": "Language_Hub_C1_Unit10_Lesson10_1",
+	"sectionSkills": [
+		{
+			"skillType": "V",
+			"skillName": "Vocabulary",
+			"skillTitle": "culture and heritage; nouns with to"
+		},
+		{
+			"skillType": "P",
+			"skillName": "Pronunciation",
+			"skillTitle": "introducing new information"
+		},
+		{
+			"skillType": "G",
+			"skillName": "Grammar",
+			"skillTitle": "discourse markers"
+		},
+		{
+			"skillType": "S",
+			"skillName": "Reading",
+			"skillTitle": "integrating information from different texts"
+		}
+	],
+	"sectionPart": [
+		{
+			"partTitle": "PRONUNCIATION",
+			"partImage": "",
+			"partSubTitle": "Introducing new information",
+			"sets": [
+				{
+					"setMarker": "A",
+					"setHeading": "",
+					"setImage": "",
+					"setAudioNumber": 10.3,
+					"audioNumberOrdinal": "003",
+					"setAudio": "ALH_TAT5_AUD_U10.1_003",
+					"setIgnore": false,
+					"exerciseType": "LC - multiple choice",
+					"exerciseInstruction": "Listen to the extracts from the radio program. Does the pitch of the speaker’s voice go up or down on the words in parenthesis?",
+					"exercises": [
+						{
+							"exerciseSentences": [
+								{
+									"sentenceOrdinal": 1,
+									"exerciseQuestion": [
+										"As the city evolves, its population has swelled to over 21 million, making Beijing one of the most populated cities in the world. (And) the more people there are, the more challenging it becomes to provide comfortable environments for people to live and work in."
+									],
+									"exerciseAnswer": "up",
+									"exerciseOptions": [
+										"up",
+										"down"
+									]
+								},
+								{
+									"sentenceOrdinal": 2,
+									"exerciseQuestion": [
+										"They found that people strongly preferred daylight to electric light – and, (as a matter of fact), other research has shown that people have a tendency to be less productive if their desk is more than 7.5 meters away from a window."
+									],
+									"exerciseAnswer": "up",
+									"exerciseOptions": [
+										"up",
+										"down"
+									]
+								},
+								{
+									"sentenceOrdinal": 3,
+									"exerciseQuestion": [
+										"Apparently, people feel more comfortable in places with round shapes and curved lines. (On the other hand), straight lines and sharp edges have been shown to create feelings of fear."
+									],
+									"exerciseAnswer": "down",
+									"exerciseOptions": [
+										"up",
+										"down"
+									]
+								},
+								{
+									"sentenceOrdinal": 4,
+									"exerciseQuestion": [
+										"One interesting study showed that people are more relaxed when they see lively and interesting store facades, (whereas) plain, monotonous facades make people anxious and give them the urge to hurry past."
+									],
+									"exerciseAnswer": "down",
+									"exerciseOptions": [
+										"up",
+										"down"
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"partTitle": "PRONUNCIATION",
+					"partImage": "",
+					"partSubTitle": "Introducing new information",
+					"sets": [
+						{
+							"setMarker": "B",
+							"setHeading": null,
+							"setImage": null,
+							"setAudioNumber": null,
+							"audioNumberOrdinal": "",
+							"setAudio": "",
+							"setIgnore": false,
+							"exerciseType": "Speak",
+							"exerciseInstruction": "Practice saying the sentences.",
+							"exercises": [
+								{
+									"sentenceOrdinal": 1,
+									"sentences": [
+										"Although most people think that living in a city is exciting, it’s actually fairly boring for many people."
+									],
+									"blankedWords": []
+								},
+								{
+									"sentenceOrdinal": 2,
+									"sentences": [
+										"Rather than developing urban areas, we should be developing rural areas."
+									],
+									"blankedWords": []
+								},
+								{
+									"sentenceOrdinal": 3,
+									"sentences": [
+										"Companies are now embracing ideas from environmental psychology rather than ignoring them."
+									],
+									"blankedWords": []
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
